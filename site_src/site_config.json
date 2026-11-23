@@ -1,0 +1,908 @@
+{
+    "site":  {
+                 "name":  "Booze Base",
+                 "name_en":  "BOOZE BASE",
+                 "url":  "https://boozebase.netlify.app",
+                 "tagline":  "내 취향에 맞는 한 병, 2분이면 찾아드려요",
+                 "description":  "위스키·와인·사케·스피릿 2,000종의 판매처 확인 가격, 맛 특징, 어울리는 안주를 한곳에서. 2분 취향 테스트로 나에게 맞는 술을 찾아보세요.",
+                 "reviews_endpoint":  "https://script.google.com/macros/s/AKfycbwwhOk1-90F4qBCmyrBqFBKFsWhNuPpPvYjAkI3vh_ii0Zt3Dpa5KUWMr2W2g8sTFEn/exec",
+                 "naver_verification":  "33a1cd7f05b0745cff0c332f1f365fa3abb41a01",
+                 "google_verification":  "o0wLy0vl3lVW660mIVvPqYmRBxxpVPCfqjMkg5j7dqE",
+                 "contact_email":  "anymangs979@gmail.com",
+                 "operator_name":  "Booze Base 편집팀"
+             },
+    "strings":  {
+                    "title_home":  "Booze Base — 내 취향에 맞는 술 찾기 | 위스키·와인·사케 가격과 안주 추천",
+                    "title_category":  "{label} 추천·가격 비교 {count}종 | Booze Base",
+                    "desc_category":  "{label} {count}종의 온라인 확인 가격, 맛 특징, 어울리는 안주를 한눈에 비교하세요. {desc}",
+                    "title_pick":  "{title} {count}선 | Booze Base",
+                    "desc_pick":  "{desc} 가격·맛 특징·어울리는 안주까지 {count}개 보틀을 비교해 보세요.",
+                    "title_bottle":  "{name} 가격·맛·어울리는 안주 | Booze Base",
+                    "desc_bottle":  "{name}({vol}ml) 온라인 확인가 {price}. {tags} 특징의 {cat}로, {pairing}와(과) 잘 어울립니다. 추천 전용잔과 페어링 노트까지 확인하세요.",
+                    "title_test":  "2분 술 취향 테스트 — 나에게 맞는 위스키·와인·사케 찾기 | Booze Base",
+                    "desc_test":  "6가지 질문으로 2,000종 보틀 중 내 취향·예산·마시는 방법에 맞는 술과 어울리는 안주를 추천해 드립니다. 무료, 회원가입 없음.",
+                    "title_404":  "페이지를 찾을 수 없어요 | Booze Base",
+                    "crumb_picks":  "추천 컬렉션",
+                    "source_prefix":  "출처",
+                    "source_none":  "출처 미기록",
+                    "tasting_label":  "한 줄 노트",
+                    "price_note_default":  "판매처 공개 표시 가격이며 실시간 최저가·재고가 아닙니다. 구매 전 판매처에서 다시 확인하세요.",
+                    "won":  "원",
+                    "price_band_1":  "3만 원 이하",
+                    "price_band_2":  "3~7만 원대",
+                    "price_band_3":  "7~15만 원대",
+                    "price_band_4":  "15~30만 원대",
+                    "price_band_5":  "30만 원 이상",
+                    "all_flavors":  "전체",
+                    "unit_kinds":  "종",
+                    "anon":  "익명 애호가",
+                    "nf_h1":  "페이지를 찾을 수 없어요",
+                    "nf_p":  "주소가 바뀌었거나 삭제된 페이지입니다. 검색하거나 취향 테스트로 다시 찾아보세요.",
+                    "nf_home":  "홈으로",
+                    "nf_test":  "취향 테스트",
+                    "price_note_regex":  "(표시가|표시 가격|판매가|가격|원\\)|할인|매장|쿠폰|확인)",
+                    "title_guides":  "주류 가이드 — 위스키·와인·사케·전통주 입문부터 페어링까지 | Booze Base",
+                    "desc_guides":  "위스키 입문, 와인 라벨 읽는 법, 사케 등급, 증류식 소주, 음식 페어링과 전용잔까지. Booze Base 편집팀이 직접 정리한 주류 가이드 모음입니다.",
+                    "guides_h1":  "주류 가이드",
+                    "guides_intro":  "처음 한 병을 고르는 법부터 숙성·품종·등급의 원리, 음식과의 페어링까지. 2,000종 보틀 데이터를 정리하며 쌓은 주류 지식을 읽기 쉬운 글로 풀었습니다.",
+                    "guide_toc":  "이 글의 목차",
+                    "guide_read_more":  "읽어보기 →",
+                    "bg_title":  "{name}, 이렇게 즐겨 보세요",
+                    "bg_flavor":  "맛 특징 해설",
+                    "bg_serve":  "추천 음용법 \u0026 서빙 가이드",
+                    "bg_temp":  "권장 온도",
+                    "bg_glass":  "추천 잔",
+                    "bg_pair":  "음식 페어링 원리",
+                    "bg_price":  "1잔당 원가 \u0026 가격대 위치",
+                    "bg_pour":  "{vol}ml 한 병은 표준 1잔({pour}ml) 기준 약 {n}잔 분량으로, 확인가 기준 1잔당 약 {per} 수준입니다.",
+                    "bg_rank":  "Booze Base에 기록된 {cat} {count}종 가운데 가격이 낮은 쪽부터 {rank}번째이며, {band} 구간에 속합니다.",
+                    "bg_tagpeers":  "같은 \u0027{tag}\u0027 계열로 분류된 {cat}는 총 {count}종입니다. 취향이 비슷하다면 아래 \u0027비슷한 맛의 보틀\u0027에서 가격대별로 비교해 보세요.",
+                    "bottle_guides_h2":  "이 술을 더 잘 즐기기 위한 가이드",
+                    "bottle_guides_p":  "주종·맛·페어링과 직접 이어지는 에디토리얼 가이드를 함께 읽어보세요.",
+                    "guide_related_bottles":  "이 글에 나온 보틀"
+                },
+    "categories":  [
+                       {
+                           "key":  "whisky",
+                           "slug":  "whisky",
+                           "label":  "위스키",
+                           "emoji":  "🥃",
+                           "desc":  "싱글몰트·버번·블렌디드·재패니즈까지, 가격과 맛 특징으로 비교하세요."
+                       },
+                       {
+                           "key":  "red_wine",
+                           "slug":  "red-wine",
+                           "label":  "레드 와인",
+                           "emoji":  "🍷",
+                           "desc":  "데일리 와인부터 나파밸리·보르도 명작까지, 고기 요리와 어울리는 레드 와인."
+                       },
+                       {
+                           "key":  "white_wine",
+                           "slug":  "white-wine",
+                           "label":  "화이트·스파클링",
+                           "emoji":  "🥂",
+                           "desc":  "소비뇽 블랑·샤르도네·모스카토·샴페인, 해산물과 디저트의 단짝."
+                       },
+                       {
+                           "key":  "sake",
+                           "slug":  "sake",
+                           "label":  "사케",
+                           "emoji":  "🍶",
+                           "desc":  "준마이다이긴죠부터 데일리 혼죠조까지, 회·초밥과 어울리는 사케."
+                       },
+                       {
+                           "key":  "other",
+                           "slug":  "spirits",
+                           "label":  "스피릿·전통주",
+                           "emoji":  "🍸",
+                           "desc":  "증류식 소주·백주·꼬냑·진·데킬라·리큐르까지 한눈에."
+                       }
+                   ],
+    "picks":  [
+                  {
+                      "slug":  "under-50k",
+                      "emoji":  "💸",
+                      "title":  "5만 원 이하 가성비 보틀",
+                      "short":  "5만 원 이하 가성비",
+                      "desc":  "부담 없는 가격에 만족도는 높은, 5만 원 이하로 살 수 있는 보틀만 모았습니다.",
+                      "rule":  "price_max",
+                      "max":  50000,
+                      "legacy":  "under_50k"
+                  },
+                  {
+                      "slug":  "gift-100k",
+                      "emoji":  "🎁",
+                      "title":  "10만 원대 선물용 보틀",
+                      "short":  "10만 원대 선물",
+                      "desc":  "집들이·명절·승진 선물로 실패 없는 8만~20만 원대 보틀입니다.",
+                      "rule":  "price_range",
+                      "min":  80000,
+                      "max":  199999,
+                      "legacy":  "gift_100k"
+                  },
+                  {
+                      "slug":  "luxury-200k",
+                      "emoji":  "👑",
+                      "title":  "20만 원 이상 하이엔드",
+                      "short":  "20만 원+ 하이엔드",
+                      "desc":  "특별한 날을 위한 20만 원 이상의 하이엔드 보틀입니다.",
+                      "rule":  "price_min",
+                      "min":  200000,
+                      "legacy":  "luxury_200k"
+                  },
+                  {
+                      "slug":  "highball",
+                      "emoji":  "🍋",
+                      "title":  "하이볼로 맛있는 술",
+                      "short":  "하이볼 추천",
+                      "desc":  "탄산수와 섞어도 향이 살아있는, 하이볼·칵테일용으로 좋은 보틀입니다.",
+                      "rule":  "tag",
+                      "tag":  "highball",
+                      "legacy":  "highball"
+                  },
+                  {
+                      "slug":  "meat",
+                      "emoji":  "🥩",
+                      "title":  "고기 요리와 어울리는 술",
+                      "short":  "고기 요리 단짝",
+                      "desc":  "스테이크·양갈비·바비큐의 풍미를 살려주는 보틀입니다.",
+                      "rule":  "group",
+                      "group":  "meat",
+                      "legacy":  "meat_pairing"
+                  },
+                  {
+                      "slug":  "seafood",
+                      "emoji":  "🍣",
+                      "title":  "회·해산물과 어울리는 술",
+                      "short":  "회·해산물 반주",
+                      "desc":  "생선회·굴·새우 요리와 함께하면 좋은 보틀입니다.",
+                      "rule":  "group",
+                      "group":  "seafood",
+                      "legacy":  "seafood_pairing"
+                  }
+              ],
+    "featured_ids":  [
+                         "macallan-12-sherry-oak",
+                         "balvenie-12-doublewood",
+                         "buffalo-trace",
+                         "suntory-kakubin",
+                         "dassai-23",
+                         "1865-selected-vineyards-cabernet-sauvignon",
+                         "cloudy-bay-sauvignon-blanc",
+                         "hwayo-41"
+                     ],
+    "flavor_tags":  [
+                        {
+                            "key":  "smoky",
+                            "label":  "스모키·피트",
+                            "cats":  [
+                                         "whisky"
+                                     ],
+                            "id_regex":  "(laphroaig|ardbeg|lagavulin|talisker|caol-ila|bowmore|port-charlotte|kilchoman|ledaig|yoichi|springbank|highland-park|johnnie-walker-green|benromach|peat)",
+                            "keywords":  [
+                                             "피트",
+                                             "피티드",
+                                             "스모키",
+                                             "훈연",
+                                             "아일라",
+                                             "해풍"
+                                         ]
+                        },
+                        {
+                            "key":  "sherry",
+                            "label":  "셰리·건과일",
+                            "cats":  [
+                                         "whisky",
+                                         "other"
+                                     ],
+                            "id_regex":  "(sherry|oloroso|glenallachie|glendronach|aberlour|abunadh|macallan|glenfarclas|dalmore|port-cask|port-wood|quinta-ruban|lasanta|naked-malt|ode-to-the-dark)",
+                            "keywords":  [
+                                             "셰리",
+                                             "올로로소",
+                                             "포트 캐스크",
+                                             "건포도",
+                                             "건과일"
+                                         ]
+                        },
+                        {
+                            "key":  "sweet",
+                            "label":  "달콤·바닐라",
+                            "cats":  [
+                                         "whisky",
+                                         "white_wine",
+                                         "other"
+                                     ],
+                            "id_regex":  "(bourbon|buffalo-trace|makers-mark|wild-turkey|woodford|knob-creek|elijah-craig|bulleit|jack-daniels|jim-beam|four-roses|evan-williams|eagle-rare|blantons|michters|russells|1792|angels-envy|moscato|baileys|kahlua|malibu|disaronno|honey|apple|liqueur|cointreau|redbreast|jameson|balvenie|monkey-shoulder|zacapa|diplomatico|chivas|ballantines)",
+                            "keywords":  [
+                                             "바닐라",
+                                             "꿀",
+                                             "달콤",
+                                             "캐러멜",
+                                             "모스카토",
+                                             "리큐르",
+                                             "허니",
+                                             "토피",
+                                             "버번"
+                                         ]
+                        },
+                        {
+                            "key":  "fruity",
+                            "label":  "과일·꽃향",
+                            "cats":  [
+
+                                     ],
+                            "id_regex":  "(glenfiddich|glenlivet|glen-grant|glengrant|singleton|hakushu|miyagikyo|hibiki|yamazaki|chita|sauvignon-blanc|riesling|pinot-noir|ginjo|dassai|kubota|hakkaisan|kavalan-classic|arran|benriach|deanston|cardhu|dalwhinnie|glenmorangie|moscato)",
+                            "keywords":  [
+                                             "과일",
+                                             "꽃",
+                                             "사과",
+                                             "서양배",
+                                             "멜론",
+                                             "시트러스",
+                                             "열대",
+                                             "복숭아",
+                                             "패션프루트",
+                                             "긴죠",
+                                             "플로럴",
+                                             "베리",
+                                             "오렌지"
+                                         ]
+                        },
+                        {
+                            "key":  "rich",
+                            "label":  "진하고 묵직한",
+                            "cats":  [
+                                         "whisky",
+                                         "red_wine",
+                                         "other"
+                                     ],
+                            "id_regex":  "(cabernet|shiraz|malbec|barolo|brunello|primitivo|tignanello|opus-one|insignia|almaviva|cask-strength|batch-strength|barrel-strength|-cs|101|-xo|merlot|mortlach|don-melchor|prisoner|carmenere)",
+                            "keywords":  [
+                                             "풀바디",
+                                             "묵직",
+                                             "진한",
+                                             "캐스크 스트렝스",
+                                             "탄닌",
+                                             "스파이스",
+                                             "오크 숙성"
+                                         ]
+                        },
+                        {
+                            "key":  "clean",
+                            "label":  "깔끔·드라이",
+                            "cats":  [
+                                         "sake",
+                                         "white_wine",
+                                         "other"
+                                     ],
+                            "id_regex":  "(junmai|honjozo|karakuchi|gin|vodka|soju|hwayo|ilpum|chablis|pinot-grigio|tequila|blanco|sauvignon-blanc|chardonnay|goryangju|kaoliang)",
+                            "keywords":  [
+                                             "깔끔",
+                                             "드라이",
+                                             "미네랄",
+                                             "산미",
+                                             "카라구치",
+                                             "증류식 소주"
+                                         ]
+                        },
+                        {
+                            "key":  "sparkling",
+                            "label":  "톡 쏘는 탄산",
+                            "cats":  [
+                                         "white_wine",
+                                         "other"
+                                     ],
+                            "id_regex":  "(champagne|brut|cava|moet|veuve|dom-perignon|ruinart|krug|taittinger|bollinger|piper|laurent-perrier|sparkling|prosecco|moscato|mojito)",
+                            "keywords":  [
+                                             "샴페인",
+                                             "스파클링",
+                                             "까바",
+                                             "탄산",
+                                             "버블"
+                                         ]
+                        },
+                        {
+                            "key":  "highball",
+                            "label":  "하이볼 추천",
+                            "cats":  [
+                                         "whisky",
+                                         "other"
+                                     ],
+                            "id_regex":  "(kakubin|jim-beam|jameson-standard|makers-mark|chita|monkey-shoulder|bushmills-original|famous-grouse|cutty-sark|nikka-black|nikka-frontier|four-roses|evan-williams|johnnie-walker-black|^jack-daniels$|hwayo-25|ilpum|-gin|gin-|vodka|white-oak|bacardi|smirnoff|absolut|buffalo-trace|jameson-black)",
+                            "keywords":  [
+                                             "하이볼"
+                                         ]
+                        }
+                    ],
+    "default_flavors":  {
+                            "whisky":  [
+                                           "sweet"
+                                       ],
+                            "red_wine":  [
+                                             "rich"
+                                         ],
+                            "white_wine":  [
+                                               "fruity",
+                                               "clean"
+                                           ],
+                            "sake":  [
+                                         "clean",
+                                         "fruity"
+                                     ],
+                            "other":  [
+                                          "clean"
+                                      ]
+                        },
+    "pairing_groups":  [
+                           {
+                               "key":  "meat",
+                               "label":  "고기 요리",
+                               "keywords":  [
+                                                "스테이크",
+                                                "한우",
+                                                "소고기",
+                                                "양갈비",
+                                                "양고기",
+                                                "오리",
+                                                "바비큐",
+                                                "폭립",
+                                                "삼겹살",
+                                                "차돌",
+                                                "갈비",
+                                                "동파육",
+                                                "유린기",
+                                                "육포",
+                                                "육회",
+                                                "닭꼬치",
+                                                "야키토리",
+                                                "가라아게",
+                                                "프렌치랙",
+                                                "부채살",
+                                                "채끝",
+                                                "타다키"
+                                            ]
+                           },
+                           {
+                               "key":  "seafood",
+                               "label":  "회·해산물",
+                               "keywords":  [
+                                                "회",
+                                                "사시미",
+                                                "굴",
+                                                "석화",
+                                                "연어",
+                                                "새우",
+                                                "감바스",
+                                                "관자",
+                                                "가리비",
+                                                "생선",
+                                                "광어",
+                                                "참치",
+                                                "도미",
+                                                "해산물",
+                                                "장어",
+                                                "세비체",
+                                                "고등어",
+                                                "오뎅",
+                                                "전복",
+                                                "바지락"
+                                            ]
+                           },
+                           {
+                               "key":  "dessert",
+                               "label":  "치즈·디저트",
+                               "keywords":  [
+                                                "초콜릿",
+                                                "타르트",
+                                                "마카롱",
+                                                "디저트",
+                                                "브라우니",
+                                                "견과",
+                                                "아몬드",
+                                                "피칸",
+                                                "호두",
+                                                "마카다미아",
+                                                "헤이즐넛",
+                                                "믹스넛",
+                                                "치즈",
+                                                "크래커",
+                                                "무화과",
+                                                "과일"
+                                            ]
+                           }
+                       ],
+    "affiliate":  {
+                      "fallback_search":  "https://www.coupang.com/np/search?q=",
+                      "direct":  {
+                                     "yoichi-single-malt":  "https://link.coupang.com/a/hTUTVKfYB2",
+                                     "dewars-double-double-20":  "https://link.coupang.com/a/hUE4OWm1oO",
+                                     "andre-goichot-bourgogne-pinot-noir":  "https://link.coupang.com/a/hTVhqm8JIz",
+                                     "glenlivet-founders-reserve":  "https://link.coupang.com/a/hUFgrOAffM",
+                                     "redbreast-12":  "https://link.coupang.com/a/hUFAMBL2n6",
+                                     "glenfiddich-15-solera":  "https://link.coupang.com/a/hUFuvgA8Bw",
+                                     "macallan-12-sherry-oak":  "https://link.coupang.com/a/hUFEKbU8CO",
+                                     "hakushu-distillers-reserve":  "https://link.coupang.com/a/hUFNpIoJj2",
+                                     "glenallachie-12":  "https://link.coupang.com/a/hUFIxrHbpY",
+                                     "junmai-ginjo-omachi":  "https://link.coupang.com/a/hUFS3dZ8SW",
+                                     "dassai-23":  "https://link.coupang.com/a/hTVuCpW2tG",
+                                     "kubota-manju":  "https://link.coupang.com/a/hUF3KgwtEa",
+                                     "hakkaisan-junmai-daiginjo":  "https://link.coupang.com/a/hUF80Vp0lo",
+                                     "louis-jadot-bourgogne-pinot-noir":  "https://link.coupang.com/a/hUGdOYKy5s",
+                                     "montes-alpha-carmenere":  "https://link.coupang.com/a/hUGi2vPhcG"
+                                 },
+                      "pairing_keywords":  {
+                                               "훈제 치즈":  "https://link.coupang.com/a/hTUTVKfYB2",
+                                               "훈제치즈":  "https://link.coupang.com/a/hTUTVKfYB2",
+                                               "스모크 치즈":  "https://link.coupang.com/a/hTUTVKfYB2",
+                                               "고르곤졸라":  "https://link.coupang.com/a/hUFuvgA8Bw",
+                                               "파르미지아노":  "https://link.coupang.com/a/hUFuvgA8Bw",
+                                               "고다 치즈":  "https://link.coupang.com/a/hUFuvgA8Bw",
+                                               "체다":  "https://link.coupang.com/a/hUFuvgA8Bw",
+                                               "브리":  "https://link.coupang.com/a/hUFuvgA8Bw",
+                                               "치즈":  "https://link.coupang.com/a/hUFuvgA8Bw",
+                                               "크래커":  "https://link.coupang.com/a/hUFuvgA8Bw",
+                                               "카나페":  "https://link.coupang.com/a/hUFuvgA8Bw",
+                                               "올리브":  "https://link.coupang.com/a/hUFuvgA8Bw",
+                                               "다크 초콜릿":  "https://link.coupang.com/a/hUFEKbU8CO",
+                                               "생초콜릿":  "https://link.coupang.com/a/hUFIxrHbpY",
+                                               "초콜릿":  "https://link.coupang.com/a/hUFAMBL2n6",
+                                               "카카오":  "https://link.coupang.com/a/hUE4OWm1oO",
+                                               "브라우니":  "https://link.coupang.com/a/hUFIxrHbpY",
+                                               "타르트":  "https://link.coupang.com/a/hUFgrOAffM",
+                                               "마카롱":  "https://link.coupang.com/a/hUFAMBL2n6",
+                                               "디저트":  "https://link.coupang.com/a/hUFAMBL2n6",
+                                               "아몬드":  "https://link.coupang.com/a/hUFgrOAffM",
+                                               "피칸":  "https://link.coupang.com/a/hUFgrOAffM",
+                                               "호두":  "https://link.coupang.com/a/hUFgrOAffM",
+                                               "마카다미아":  "https://link.coupang.com/a/hUFgrOAffM",
+                                               "헤이즐넛":  "https://link.coupang.com/a/hUFgrOAffM",
+                                               "믹스넛":  "https://link.coupang.com/a/hUFgrOAffM",
+                                               "살구":  "https://link.coupang.com/a/hUFgrOAffM",
+                                               "무화과":  "https://link.coupang.com/a/hUFgrOAffM",
+                                               "견과":  "https://link.coupang.com/a/hUFgrOAffM",
+                                               "오리 가슴살":  "https://link.coupang.com/a/hTVhqm8JIz",
+                                               "오리 스테이크":  "https://link.coupang.com/a/hUGdOYKy5s",
+                                               "북경오리":  "https://link.coupang.com/a/hUGdOYKy5s",
+                                               "오리":  "https://link.coupang.com/a/hTVhqm8JIz",
+                                               "훈제 연어":  "https://link.coupang.com/a/hTVhqm8JIz",
+                                               "연어":  "https://link.coupang.com/a/hTVhqm8JIz",
+                                               "양고기":  "https://link.coupang.com/a/hUGi2vPhcG",
+                                               "양갈비":  "https://link.coupang.com/a/hUGi2vPhcG",
+                                               "프렌치랙":  "https://link.coupang.com/a/hUGi2vPhcG",
+                                               "스테이크":  "https://link.coupang.com/a/hUGdOYKy5s",
+                                               "한우":  "https://link.coupang.com/a/hUGdOYKy5s",
+                                               "소고기":  "https://link.coupang.com/a/hUGdOYKy5s",
+                                               "차돌박이":  "https://link.coupang.com/a/hUGdOYKy5s",
+                                               "바비큐":  "https://link.coupang.com/a/hUGi2vPhcG",
+                                               "폭립":  "https://link.coupang.com/a/hUGi2vPhcG",
+                                               "동파육":  "https://link.coupang.com/a/hUGi2vPhcG",
+                                               "하몽":  "https://link.coupang.com/a/hUGdOYKy5s",
+                                               "프로슈토":  "https://link.coupang.com/a/hUGdOYKy5s",
+                                               "살라미":  "https://link.coupang.com/a/hUGdOYKy5s",
+                                               "잠봉":  "https://link.coupang.com/a/hUGdOYKy5s",
+                                               "육포":  "https://link.coupang.com/a/hUGdOYKy5s",
+                                               "소금으로 간한 닭꼬치":  "https://link.coupang.com/a/hUFNpIoJj2",
+                                               "간장 양념 닭꼬치":  "https://link.coupang.com/a/hUFS3dZ8SW",
+                                               "닭꼬치":  "https://link.coupang.com/a/hUFNpIoJj2",
+                                               "꼬치":  "https://link.coupang.com/a/hUFNpIoJj2",
+                                               "야키토리":  "https://link.coupang.com/a/hUFS3dZ8SW",
+                                               "가라아게":  "https://link.coupang.com/a/hUFNpIoJj2",
+                                               "광어회":  "https://link.coupang.com/a/hTVuCpW2tG",
+                                               "광어":  "https://link.coupang.com/a/hTVuCpW2tG",
+                                               "참치":  "https://link.coupang.com/a/hUF3KgwtEa",
+                                               "사시미":  "https://link.coupang.com/a/hUF3KgwtEa",
+                                               "생선회":  "https://link.coupang.com/a/hTVuCpW2tG",
+                                               "회":  "https://link.coupang.com/a/hTVuCpW2tG",
+                                               "생굴":  "https://link.coupang.com/a/hUF3KgwtEa",
+                                               "석화":  "https://link.coupang.com/a/hUF3KgwtEa",
+                                               "굴":  "https://link.coupang.com/a/hUF3KgwtEa",
+                                               "감바스":  "https://link.coupang.com/a/hUF80Vp0lo",
+                                               "새우":  "https://link.coupang.com/a/hUF80Vp0lo",
+                                               "가리비":  "https://link.coupang.com/a/hUF3KgwtEa",
+                                               "관자":  "https://link.coupang.com/a/hUF3KgwtEa",
+                                               "해산물":  "https://link.coupang.com/a/hUF3KgwtEa",
+                                               "장어":  "https://link.coupang.com/a/hUF80Vp0lo",
+                                               "생선구이":  "https://link.coupang.com/a/hUF80Vp0lo",
+                                               "생선":  "https://link.coupang.com/a/hUF80Vp0lo"
+                                           },
+                      "barware":  [
+                                      {
+                                          "key":  "highball_kit",
+                                          "label":  "하이볼 전용 조끼잔 세트",
+                                          "reason":  "차갑게 칠링한 두꺼운 잔이 탄산과 향을 오래 지켜줍니다.",
+                                          "url":  "https://link.coupang.com/a/imWFRYYazc",
+                                          "cats":  [
+                                                       "whisky"
+                                                   ],
+                                          "id_regex":  "(jim-beam|kakubin|makers-mark|jameson-standard|chita|monkey-shoulder|bushmills-original|bulleit|famous-grouse|cutty-sark|nikka-black|nikka-frontier)",
+                                          "keywords":  [
+                                                           "하이볼"
+                                                       ]
+                                      },
+                                      {
+                                          "key":  "ontherocks_ice",
+                                          "label":  "온더락 잔 \u0026 투명 빅볼 아이스 메이커",
+                                          "reason":  "천천히 녹는 큰 얼음이 마지막 한 모금까지 풍미를 지킵니다.",
+                                          "url":  "https://link.coupang.com/a/imWDhEKlFY",
+                                          "cats":  [
+                                                       "whisky"
+                                                   ],
+                                          "id_regex":  "(wild-turkey|buffalo-trace|woodford|knob-creek|elijah-craig|jack-daniels|four-roses|evan-williams|eagle-rare|blantons|michters|russells|1792|angels-envy|blue-label|royal-salute)",
+                                          "keywords":  [
+                                                           "버번"
+                                                       ]
+                                      },
+                                      {
+                                          "key":  "nosing_glass",
+                                          "label":  "글렌케런 크리스탈 노징 글라스",
+                                          "reason":  "튤립형 입구가 알코올 자극은 줄이고 향을 코끝으로 모아줍니다.",
+                                          "url":  "https://link.coupang.com/a/imWxSqsElU",
+                                          "cats":  [
+                                                       "whisky"
+                                                   ],
+                                          "id_regex":  "",
+                                          "keywords":  [
+
+                                                       ]
+                                      },
+                                      {
+                                          "key":  "burgundy_glass",
+                                          "label":  "부르고뉴 크리스탈 와인잔",
+                                          "reason":  "넓은 보울이 피노 누아의 섬세한 베리 향을 바로 열어줍니다.",
+                                          "url":  "https://link.coupang.com/a/imWH6Q5Qce",
+                                          "cats":  [
+                                                       "red_wine"
+                                                   ],
+                                          "id_regex":  "(pinot-noir|bourgogne|barolo|brunello)",
+                                          "keywords":  [
+                                                           "피노 누아",
+                                                           "부르고뉴"
+                                                       ]
+                                      },
+                                      {
+                                          "key":  "bordeaux_glass",
+                                          "label":  "보르도 크리스탈 와인잔 \u0026 디캔터",
+                                          "reason":  "풀바디 레드의 탄닌을 부드럽게 풀고 오크 향을 깨웁니다.",
+                                          "url":  "https://link.coupang.com/a/imWJda1Og0",
+                                          "cats":  [
+                                                       "red_wine"
+                                                   ],
+                                          "id_regex":  "",
+                                          "keywords":  [
+
+                                                       ]
+                                      },
+                                      {
+                                          "key":  "champagne_flute",
+                                          "label":  "샴페인 플루트 잔 \u0026 아이스 버킷",
+                                          "reason":  "좁고 긴 보울이 기포와 시원한 온도를 오래 유지합니다.",
+                                          "url":  "https://link.coupang.com/a/imWLr7M77Q",
+                                          "cats":  [
+                                                       "white_wine"
+                                                   ],
+                                          "id_regex":  "(moet|veuve|dom-perignon|ruinart|krug|taittinger|bollinger|piper|laurent-perrier|cava|moscato|brut|sparkling)",
+                                          "keywords":  [
+                                                           "샴페인",
+                                                           "모스카토",
+                                                           "까바",
+                                                           "스파클링"
+                                                       ]
+                                      },
+                                      {
+                                          "key":  "white_wine_glass",
+                                          "label":  "화이트 와인잔 \u0026 칠링백 세트",
+                                          "reason":  "산미와 미네랄리티를 가장 좋은 온도(8~10도)로 지켜줍니다.",
+                                          "url":  "https://link.coupang.com/a/imWMEcazBY",
+                                          "cats":  [
+                                                       "white_wine"
+                                                   ],
+                                          "id_regex":  "",
+                                          "keywords":  [
+
+                                                       ]
+                                      },
+                                      {
+                                          "key":  "sake_tokkuri",
+                                          "label":  "냉사케 도쿠리 \u0026 사케잔 세트",
+                                          "reason":  "얼음에 희석되지 않고 마지막 잔까지 차가운 향을 유지합니다.",
+                                          "url":  "https://link.coupang.com/a/imWOiN95VY",
+                                          "cats":  [
+                                                       "sake"
+                                                   ],
+                                          "id_regex":  "",
+                                          "keywords":  [
+
+                                                       ]
+                                      },
+                                      {
+                                          "key":  "baijiu_glass",
+                                          "label":  "백주·고량주 전용 미니어처 잔",
+                                          "reason":  "고도주의 화사한 향을 작은 잔에 응집시켜 줍니다.",
+                                          "url":  "https://link.coupang.com/a/imWPr4kxwa",
+                                          "cats":  [
+                                                       "other"
+                                                   ],
+                                          "id_regex":  "(goryangju|shuijingfang|kaoliang|moutai|luzhoulaojiao|wuliangye|fenjiu|seoul-kaoliang)",
+                                          "keywords":  [
+                                                           "고량주",
+                                                           "백주",
+                                                           "마오타이",
+                                                           "수정방",
+                                                           "노주노교",
+                                                           "우량예",
+                                                           "분주"
+                                                       ]
+                                      },
+                                      {
+                                          "key":  "cognac_snifter",
+                                          "label":  "꼬냑 스니프터 테이스팅 잔",
+                                          "reason":  "손의 온기로 숙성 향을 천천히 피워 올리는 전용 잔입니다.",
+                                          "url":  "https://link.coupang.com/a/imWBPy5J6q",
+                                          "cats":  [
+                                                       "other"
+                                                   ],
+                                          "id_regex":  "(hennessy|remy-martin|camus|calvados|martell)",
+                                          "keywords":  [
+                                                           "꼬냑",
+                                                           "깔바도스"
+                                                       ]
+                                      },
+                                      {
+                                          "key":  "soju_ontherocks",
+                                          "label":  "증류주 온더락 잔 \u0026 원형 얼음틀",
+                                          "reason":  "쌀 증류주의 깔끔한 감칠맛과 목넘김을 살려줍니다.",
+                                          "url":  "https://link.coupang.com/a/imWEIEFYqW",
+                                          "cats":  [
+                                                       "other"
+                                                   ],
+                                          "id_regex":  "(hwayo|ilpum|won-soju|chusa)",
+                                          "keywords":  [
+                                                           "화요",
+                                                           "일품진로",
+                                                           "원소주",
+                                                           "소주"
+                                                       ]
+                                      },
+                                      {
+                                          "key":  "cocktail_shaker",
+                                          "label":  "홈바 칵테일 쉐이커 키트",
+                                          "reason":  "집에서도 바텐더 비율 그대로 칵테일을 완성합니다.",
+                                          "url":  "https://link.coupang.com/a/imWGU2exLU",
+                                          "cats":  [
+                                                       "other"
+                                                   ],
+                                          "id_regex":  "",
+                                          "keywords":  [
+
+                                                       ]
+                                      }
+                                  ]
+                  },
+    "seed_reviews":  [
+                         {
+                             "submitted_at":  "2026-10-24",
+                             "product_id":  "yoichi-single-malt",
+                             "nickname":  "피트향수집가",
+                             "rating":  5,
+                             "pairing_snack":  "훈제 치즈",
+                             "comment":  "요이치 특유의 묵직한 피트·바다 내음에 스모크 치즈 한 조각 올리니 풍미가 두 배로 살아납니다."
+                         },
+                         {
+                             "submitted_at":  "2026-10-25",
+                             "product_id":  "andre-goichot-bourgogne-pinot-noir",
+                             "nickname":  "부르고뉴산책",
+                             "rating":  5,
+                             "pairing_snack":  "오리 가슴살",
+                             "comment":  "화사한 붉은 베리 산미가 에어프라이어에 구운 오리 가슴살 기름기를 깔끔하게 잡아줘요."
+                         },
+                         {
+                             "submitted_at":  "2026-10-26",
+                             "product_id":  "dassai-23",
+                             "nickname":  "니혼슈노트",
+                             "rating":  5,
+                             "pairing_snack":  "광어회",
+                             "comment":  "멜론처럼 화려한 긴죠향이라 양념 강한 요리보다 숙성 광어회나 흰살생선 사시미가 최고였습니다."
+                         },
+                         {
+                             "submitted_at":  "2026-10-27",
+                             "product_id":  "macallan-12-sherry-oak",
+                             "nickname":  "셰리캐스크",
+                             "rating":  5,
+                             "pairing_snack":  "다크 초콜릿",
+                             "comment":  "건포도와 오크 스파이스 피니시에는 카카오 85% 이상 다크 초콜릿 한 조각이 정석입니다."
+                         },
+                         {
+                             "submitted_at":  "2026-10-28",
+                             "product_id":  "hakkaisan-junmai-daiginjo",
+                             "nickname":  "키레맛",
+                             "rating":  4,
+                             "pairing_snack":  "흰살생선 소금구이",
+                             "comment":  "깔끔하게 떨어지는 끝맛 덕분에 짭조름한 도미나 반건조 생선구이와 반주로 마시기 좋았어요."
+                         },
+                         {
+                             "submitted_at":  "2026-10-28",
+                             "product_id":  "montes-alpha-carmenere",
+                             "nickname":  "주말홈바",
+                             "rating":  5,
+                             "pairing_snack":  "양갈비 스테이크",
+                             "comment":  "블랙페퍼와 자두 풍미가 진해서 허브 솔트 뿌린 양갈비 프렌치랙과 집에서 레스토랑 분위기 냈습니다."
+                         }
+                     ],
+    "adsense":  {
+                    "client":  "ca-pub-3997802290772624",
+                    "auto_ads":  true,
+                    "slots":  {
+                                  "home_mid":  "",
+                                  "home_bottom":  "",
+                                  "list_top":  "",
+                                  "list_bottom":  "",
+                                  "bottle_mid":  "",
+                                  "bottle_bottom":  "",
+                                  "test_result":  ""
+                              },
+                    "native_banners":  {
+                                           "home_mid":  {
+                                                            "badge":  "SPONSORED · HOME BAR CURATION",
+                                                            "emoji":  "🥃",
+                                                            "title":  "집에서도 바(Bar)처럼 향을 여는 글렌케런 크리스탈 노징 글라스",
+                                                            "desc":  "위스키 본연의 바닐라·셰리·피트 아로마를 코끝으로 모아주는 테이스팅 전용 잔 베스트셀러",
+                                                            "cta":  "전용잔 최저가 확인 ↗",
+                                                            "url":  "https://link.coupang.com/a/imWxSqsElU"
+                                                        },
+                                           "home_bottom":  {
+                                                               "badge":  "SPONSORED · PAIRING TABLE",
+                                                               "emoji":  "🧀",
+                                                               "title":  "와인·위스키 한 잔이 특별해지는 하몽 \u0026 브리 치즈 플래터 세트",
+                                                               "desc":  "별도 조리 없이 바로 플레이팅하는 홈바 안주 스테디셀러 모음",
+                                                               "cta":  "인기 안주 보러가기 ↗",
+                                                               "url":  "https://link.coupang.com/a/hUFuvgA8Bw"
+                                                           },
+                                           "list_top":  {
+                                                            "badge":  "SPONSORED · GLASSWARE GUIDE",
+                                                            "emoji":  "🧊",
+                                                            "title":  "마지막 한 모금까지 밍밍해지지 않는 투명 빅볼 아이스 메이커 \u0026 온더락 잔",
+                                                            "desc":  "천천히 녹는 6cm 구형 얼음으로 온더락과 하이볼의 온도를 오래 지켜줍니다",
+                                                            "cta":  "홈바 얼음틀·잔 보기 ↗",
+                                                            "url":  "https://link.coupang.com/a/imWDhEKlFY"
+                                                        },
+                                           "list_bottom":  {
+                                                               "badge":  "SPONSORED · GOURMET PAIRING",
+                                                               "emoji":  "🥩",
+                                                               "title":  "풀바디 레드 와인·버번과 찰떡궁합! 프렌치랙 양갈비 \u0026 부채살 스테이크",
+                                                               "desc":  "에어프라이어·팬 하나로 10분 만에 완성하는 프리미엄 홈다이닝 페어링",
+                                                               "cta":  "스테이크 기획전 보기 ↗",
+                                                               "url":  "https://link.coupang.com/a/hUGdOYKy5s"
+                                                           }
+                                       },
+                    "review_mode":  true
+                },
+    "legal_pages":  [
+                        {
+                            "slug":  "about",
+                            "title":  "서비스 소개 및 편집 원칙 | Booze Base",
+                            "h1":  "Booze Base 소개",
+                            "lead":  "내 취향에 맞는 한 병과 어울리는 한 접시를 가장 쉽고 투명하게 찾는 주류 정보 아카이브입니다.",
+                            "sections":  [
+                                             {
+                                                 "h2":  "1. Booze Base가 하는 일",
+                                                 "p":  "Booze Base는 위스키, 레드 와인, 화이트·스파클링 와인, 사케, 전통주·스피릿 등 2,000종의 주류 데이터를 체계적으로 정리한 비판매 정보 플랫폼입니다. 어려운 전문 용어 대신 직관적인 맛 태그(스모키·피트, 셰리·건과일, 달콤·바닐라, 과일·꽃향 등)와 2분 취향 테스트를 통해 입문자부터 애호가까지 자신의 예산과 입맛에 맞는 보틀을 찾을 수 있도록 돕습니다."
+                                             },
+                                             {
+                                                 "h2":  "2. 가격 및 재고 데이터 수집·갱신 원칙",
+                                                 "p":  "수록된 모든 보틀의 가격과 품절 여부는 데일리샷, 키햐 등 국내 주요 주류 스마트오더 및 소매점의 공개 표시 가격을 기준으로 매주 정기 확인하여 갱신합니다. 각 보틀 상세 페이지에는 마지막 확인일(YYYY-MM-DD)과 출처 링크를 투명하게 명시하며, 매장별·시점별 실판매가와 차이가 있을 수 있으므로 구매 전 판매처 확인을 권장합니다."
+                                             },
+                                             {
+                                                 "h2":  "3. 주류 비판매 원칙 및 수익 모델 안내",
+                                                 "p":  "Booze Base는 주류 통신판매나 구매 대행, 알선을 일체 수행하지 않습니다. 사이트 운영 및 지속적인 데이터 갱신을 위해 Google AdSense 디스플레이 광고와 쿠팡 파트너스 제휴 링크(치즈·스테이크 등 페어링 식품 및 크리스탈 전용잔·홈바 용품 등 비주류 상품 한정)를 게재하며, 이에 따른 수수료를 제공받을 수 있습니다."
+                                             }
+                                         ]
+                        },
+                        {
+                            "slug":  "privacy",
+                            "title":  "개인정보처리방침 및 쿠키 정책 | Booze Base",
+                            "h1":  "개인정보처리방침 및 쿠키 정책",
+                            "lead":  "Booze Base는 이용자의 개인정보를 소중하게 보호하며 관련 법령 및 Google 광고 정책을 준수합니다.",
+                            "sections":  [
+                                             {
+                                                 "h2":  "1. 수집하는 개인정보 항목 및 이용 목적",
+                                                 "p":  "Booze Base는 회원가입 없이 무료로 이용할 수 있습니다. 다만 이용자가 자발적으로 \u0027페어링 노트(한줄평)\u0027를 작성할 때 입력한 닉네임(선택), 별점, 안주명, 한줄평 텍스트가 커뮤니티 후기 표시 목적으로 저장됩니다. 또한 서비스 이용 과정에서 브라우저 종류, 익명화된 접속 통계 및 쿠키 정보가 자동 생성되어 수집될 수 있습니다."
+                                             },
+                                             {
+                                                 "h2":  "2. Google AdSense 및 제3자 광고 쿠키(Cookie) 안내",
+                                                 "p":  "본 웹사이트는 Google AdSense 등 제3자 광고 서비스를 사용하여 광고를 게재합니다. Google을 포함한 제3자 광고 사업자는 쿠키(예: Google 광고 쿠키 및 DoubleClick DART 쿠키)를 사용하여 이용자가 본 사이트 및 다른 웹사이트를 방문한 기록을 바탕으로 맞춤형 광고를 제공할 수 있습니다. 이용자는 언제든지 Google 광고 설정(https://adssettings.google.com) 또는 www.aboutads.info 에 접속하여 맞춤형 광고를 위한 쿠키 사용을 해제(Opt-out)할 수 있습니다."
+                                             },
+                                             {
+                                                 "h2":  "3. 제휴 마케팅(쿠팡 파트너스) 링크 안내",
+                                                 "p":  "본 사이트의 안주 및 전용잔 추천 링크는 쿠팡 파트너스 등 제휴 마케팅 링크를 포함할 수 있습니다. 이용자가 해당 외부 링크를 클릭하여 이동할 경우 해당 쇼핑몰의 개인정보처리방침 및 쿠키 정책이 적용됩니다."
+                                             },
+                                             {
+                                                 "h2":  "4. 쿠키 저장 거부 방법 및 문의",
+                                                 "p":  "이용자는 웹 브라우저의 옵션 설정을 통해 모든 쿠키를 허용하거나, 쿠키가 저장될 때마다 확인을 거치거나, 모든 쿠키의 저장을 거부할 수 있습니다. 개인정보 및 서비스 관련 문의, 페어링 노트 삭제 요청은 문의하기 페이지(/contact/) 또는 운영자 이메일(anymangs979@gmail.com)로 접수해 주시면 확인 후 신속히 처리하겠습니다."
+                                             }
+                                         ]
+                        },
+                        {
+                            "slug":  "terms",
+                            "title":  "이용약관 및 면책 고지 | Booze Base",
+                            "h1":  "이용약관 및 면책 고지",
+                            "lead":  "Booze Base 서비스를 이용해 주셔서 감사합니다. 안전한 서비스 이용을 위한 약관 및 고지 사항입니다.",
+                            "sections":  [
+                                             {
+                                                 "h2":  "1. 서비스의 목적 및 주류 비판매 고지",
+                                                 "p":  "본 웹사이트는 주류의 맛 특징, 공개 판매처 확인 가격, 어울리는 안주 및 전용잔 정보를 제공하는 정보성 아카이브입니다. 어떠한 경우에도 온라인을 통한 주류 판매, 결제, 배송, 중개를 하지 않으며 모든 주류 관련 콘텐츠는 만 19세 이상 성인을 대상으로 작성되었습니다."
+                                             },
+                                             {
+                                                 "h2":  "2. 가격 및 재고 정보에 대한 면책",
+                                                 "p":  "표시된 가격은 확인일 기준 공개 판매처의 참고 가격이며 실시간 최저가나 매장 재고를 보증하지 않습니다. 빈티지, 패키지 리뉴얼, 판매처 프로모션에 따라 실제 판매 가격과 재고 상태가 달라질 수 있으므로 최종 구매 전 반드시 해당 판매처에서 직접 확인하시기 바랍니다."
+                                             },
+                                             {
+                                                 "h2":  "3. 커뮤니티 페어링 노트 게시물 관리",
+                                                 "p":  "이용자가 등록한 페어링 노트는 다른 애호가들에게 공개됩니다. 타인을 비방하거나 불법 주류 거래 유도, 스팸성 광고, 음란·욕설 등 부적절한 내용이 포함된 게시물은 사전 통보 없이 삭제될 수 있습니다."
+                                             }
+                                         ]
+                        },
+                        {
+                            "slug":  "contact",
+                            "title":  "문의하기 — 데이터 수정 제보 및 운영 문의 | Booze Base",
+                            "h1":  "문의하기 (Contact)",
+                            "lead":  "Booze Base의 보틀 정보 오류 제보, 페어링 노트 삭제 요청, 저작권 및 서비스 관련 문의 창구입니다.",
+                            "sections":  [
+                                             {
+                                                 "h2":  "1. 운영자 이메일 안내",
+                                                 "p":  "Booze Base는 Booze Base 편집팀이 운영하는 비판매 주류 정보 아카이브입니다. 모든 문의는 공식 운영 이메일 anymangs979@gmail.com 으로 보내주시면 영업일 기준 2~3일 이내에 확인 후 회신드립니다."
+                                             },
+                                             {
+                                                 "h2":  "2. 접수 가능한 문의 유형",
+                                                 "p":  "① 보틀 스펙·가격 출처 오류 제보: 제품명, 용량, 확인가, 출처 링크에 오기나 변동이 있는 경우 보틀 URL과 함께 알려주시면 검수 후 반영합니다. ② 페어링 노트(후기) 삭제 및 수정 요청: 본인이 작성한 후기의 삭제나 부적절한 게시물 신고 시 보틀명과 닉네임을 함께 기재해 주세요. ③ 저작권 및 이미지 권리 문의: 권리자 본인의 삭제·수정 요청이 접수되면 지체 없이 조치합니다."
+                                             },
+                                             {
+                                                 "h2":  "3. 유의 사항 (주류 판매·구매 대행 불가)",
+                                                 "p":  "Booze Base는 주류 통신판매, 구매 대행, 매장 재고 예약 및 알선을 일체 수행하지 않습니다. 특정 제품의 실시간 재고 및 구매 가능 여부는 각 보틀 페이지에 기재된 판매처에 직접 문의해 주시기 바랍니다."
+                                             }
+                                         ]
+                        }
+                    ],
+    "flavor_explain":  {
+                           "smoky":  "스모키·피트 — 맥아를 건조할 때 피트(이탄)를 태운 연기가 스며들어 생기는 향입니다. 모닥불, 훈제, 바다 내음으로 표현되며 상온의 물을 몇 방울 더하면 숨어 있던 단맛과 과일 향이 열리는 경우가 많습니다.",
+                           "sherry":  "셰리·건과일 — 셰리 와인을 담았던 오크통에서 숙성해 건포도, 무화과, 다크 초콜릿, 견과류 같은 진하고 깊은 향이 더해집니다. 질감이 묵직해 천천히 음미하기 좋습니다.",
+                           "sweet":  "달콤·바닐라 — 새 오크통이나 버번 캐스크에서 우러나는 바닐라, 캐러멜, 꿀, 토피 같은 부드러운 단 향이 중심입니다. 알코올 자극이 상대적으로 부드러워 입문자도 편하게 즐길 수 있습니다.",
+                           "fruity":  "과일·꽃향 — 사과, 서양배, 복숭아, 멜론, 시트러스, 흰 꽃 같은 화사한 아로마가 돋보입니다. 너무 차갑게 마시면 향이 닫히므로 적정 온도에서 잔을 가볍게 돌려 즐겨 보세요.",
+                           "rich":  "진하고 묵직한 — 입안을 꽉 채우는 바디감과 긴 여운이 특징입니다. 와인이라면 탄닌과 농익은 검은 과실, 증류주라면 높은 도수나 깊은 오크 숙성의 밀도감이 느껴집니다.",
+                           "clean":  "깔끔·드라이 — 잔당감이 적고 끝맛이 군더더기 없이 떨어지는 스타일입니다. 음식의 본연의 맛을 해치지 않아 식사 반주로 곁들이기 좋고, 시원하게 마실수록 산뜻함이 살아납니다.",
+                           "sparkling":  "톡 쏘는 탄산 — 병 내 2차 발효나 탱크 발효로 생긴 기포가 산미와 함께 입안을 상쾌하게 정리합니다. 6~8°C로 충분히 칠링해 잔을 기울여 따르면 기포가 오래 유지됩니다.",
+                           "highball":  "하이볼 추천 — 탄산수와 섞어도 원액의 향이 흐려지지 않는 스타일입니다. 얼음을 가득 채운 차가운 잔에 술 1, 탄산수 3~4 비율로 붓고 한 번만 가볍게 저어 탄산을 지켜 주세요."
+                       },
+    "category_serving":  {
+                             "whisky":  {
+                                            "temp":  "상온(18~22°C) 니트 또는 큰 얼음 온더락",
+                                            "glass":  "튤립형 노징 글라스 · 온더락 잔",
+                                            "how":  "처음에는 30ml 정도를 니트로 따라 2~3분 둔 뒤 향을 맡아 보세요. 이어 상온의 물을 몇 방울 떨어뜨리면 닫혀 있던 향이 열리는 변화를 경험할 수 있습니다. 도수가 부담스럽다면 큰 얼음 하나로 천천히 희석하는 온더락이나 하이볼도 좋습니다."
+                                        },
+                             "red_wine":  {
+                                              "temp":  "14~18°C (가벼운 레드는 12~14°C)",
+                                              "glass":  "보울이 넓은 보르도·부르고뉴 잔",
+                                              "how":  "마시기 20~30분 전 병을 열어 두거나 잔을 천천히 돌려 공기와 만나게 하면 떫은 탄닌이 부드러워지고 과실 향이 살아납니다. 실내가 따뜻하다면 마시기 전 냉장고에 15~20분 넣어 온도를 살짝 낮춰 주세요."
+                                          },
+                             "white_wine":  {
+                                                "temp":  "8~12°C (스파클링은 6~8°C)",
+                                                "glass":  "화이트 와인 잔 · 스파클링은 플루트",
+                                                "how":  "냉장고에서 충분히 차갑게 준비하되, 잔에 따른 뒤 온도가 서서히 오르며 달라지는 향의 변화를 즐겨 보세요. 남은 와인은 마개를 잘 막아 냉장 보관하고 가급적 2~3일 내에 마시는 것을 권합니다."
+                                            },
+                             "sake":  {
+                                          "temp":  "5~15°C 차갑게 (준마이 계열은 40~45°C 데움 가능)",
+                                          "glass":  "오초코(사케잔) 또는 화이트 와인 잔",
+                                          "how":  "과일·꽃향이 화사한 긴죠·다이긴죠 계열은 차갑게 와인 잔에 따르면 향이 극대화되고, 쌀의 감칠맛이 진한 준마이 계열은 미지근하게 데워 마셔도 매력이 다릅니다. 개봉 후에는 냉장 보관하세요."
+                                      },
+                             "other":  {
+                                           "temp":  "상온 니트, 온더락 또는 차갑게",
+                                           "glass":  "스트레이트 잔 · 온더락 잔",
+                                           "how":  "증류식 소주·꼬냑·백주처럼 도수가 높은 술은 작은 잔에 조금씩 따라 향을 먼저 확인해 보세요. 큰 얼음을 넣거나 탄산수·토닉워터와 섞어 마시면 식사 반주로도 부담 없이 어우러집니다."
+                                       }
+                         },
+    "pairing_explain":  {
+                            "meat":  "고기 요리의 지방과 육즙은 술의 탄닌, 산미, 알코올 도수와 만나면 입안의 기름기가 정리되고 감칠맛이 더 또렷해집니다. \u0027{pairing}\u0027처럼 구운 풍미가 있는 요리는 오크·스파이스 노트와도 자연스럽게 이어집니다.",
+                            "seafood":  "회·해산물은 비린 맛을 잡아 줄 깔끔한 산미와 미네랄감, 또는 쌀의 부드러운 감칠맛이 있는 술과 궁합이 좋습니다. \u0027{pairing}\u0027와 함께할 때는 술을 충분히 차갑게 준비해 첫맛의 청량함을 살려 보세요.",
+                            "dessert":  "치즈·다크 초콜릿·견과류처럼 지방과 단맛이 있는 안주는 술의 달콤한 오크·숙성 향을 한층 끌어올립니다. \u0027{pairing}\u0027를 먼저 한 입 맛본 뒤 술을 한 모금 머금으면 여운이 길게 이어집니다.",
+                            "default":  "\u0027{pairing}\u0027는 이 보틀의 아로마와 질감 균형을 고려해 선정한 추천 조합입니다. 안주 한 입과 술 한 모금을 번갈아 맛보며 어느 쪽의 향이 더 선명해지는지 비교해 보세요."
+                        }
+}

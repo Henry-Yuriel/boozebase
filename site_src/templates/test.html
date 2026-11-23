@@ -1,0 +1,23 @@
+<div class="wrap">
+  <div class="quiz" id="quiz" data-total="{{TOTAL}}">
+    <div class="quiz-intro" data-quiz-intro>
+      <p class="eyebrow">무료 · 회원가입 없음 · 약 2분</p>
+      <h1>나에게 맞는 술 찾기</h1>
+      <p class="quiz-hint" style="max-width:520px;margin:10px auto 0">6가지 질문에 답하면 {{TOTAL}}종 보틀 중 취향·예산·마시는 방법에 가장 잘 맞는 술과 어울리는 안주를 추천해 드려요.</p>
+      <div class="hero-cta"><button type="button" class="btn btn-primary" data-quiz-start>테스트 시작하기 →</button></div>
+    </div>
+    <div data-quiz-body hidden>
+      <div class="quiz-progress" aria-hidden="true"><i data-quiz-bar></i></div>
+      <p class="quiz-step-label" data-quiz-label></p>
+      <h2 data-quiz-q></h2>
+      <p class="quiz-hint" data-quiz-hint></p>
+      <div class="opts" data-quiz-opts role="group"></div>
+      <div class="quiz-nav">
+        <button type="button" class="btn btn-ghost" data-quiz-prev>← 이전</button>
+        <button type="button" class="btn btn-dark" data-quiz-next disabled>다음 →</button>
+      </div>
+    </div>
+    <div data-quiz-result hidden></div>
+    <noscript><p class="empty">취향 테스트는 자바스크립트가 필요합니다. <a href="/category/whisky/">카테고리에서 둘러보기</a></p></noscript>
+  </div>
+</div>

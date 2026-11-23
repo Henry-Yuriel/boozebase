@@ -1,0 +1,78 @@
+<section class="bottle">
+  <div class="wrap">
+    <nav class="crumb" aria-label="위치"><a href="/">홈</a><span aria-hidden="true">›</span><a href="{{CAT_URL}}">{{CAT_LABEL}}</a><span aria-hidden="true">›</span><span>{{NAME}}</span></nav>
+    <div class="bottle-grid">
+      <div class="bottle-img"><img src="{{IMG}}" alt="{{NAME}} {{VOL}}ml 병 이미지" width="600" height="600" fetchpriority="high"></div>
+      <div class="bottle-info">
+        <span class="chip chip-accent">{{CAT_EMOJI}} {{CAT_LABEL}}</span>
+        <h1>{{NAME}}</h1>
+        <div class="bottle-tags">{{TAG_CHIPS}}</div>
+
+        <div class="price-box">
+          <p class="label">온라인 확인가</p>
+          <p class="price">{{PRICE}}</p>
+          <p class="meta">{{CHECKED}} 확인 · {{SOURCE_HTML}}</p>
+          <dl class="spec">
+            <div><dt>용량</dt><dd>{{VOL}}ml</dd></div>
+            <div><dt>종류</dt><dd>{{CAT_LABEL}}</dd></div>
+            <div><dt>가격대</dt><dd>{{PRICE_BAND}}</dd></div>
+          </dl>
+          <p class="notice">{{PRICE_NOTE}}</p>
+        </div>
+
+        {{TASTING_NOTE}}
+
+        <div class="pair-cards">
+          <div class="pair">
+            <span class="pair-ico" aria-hidden="true">🍴</span>
+            <div class="pair-txt"><small>어울리는 안주</small><b>{{PAIRING}}</b><p>이 술의 풍미를 살려주는 추천 조합이에요.</p></div>
+            <a class="btn btn-primary btn-sm" href="{{SNACK_URL}}" target="_blank" rel="{{SNACK_REL}}">안주 보러가기 ↗</a>
+          </div>
+          <div class="pair">
+            <span class="pair-ico" aria-hidden="true">🥃</span>
+            <div class="pair-txt"><small>추천 전용잔</small><b>{{BARWARE_LABEL}}</b><p>{{BARWARE_REASON}}</p></div>
+            <a class="btn btn-ghost btn-sm" href="{{BARWARE_URL}}" target="_blank" rel="sponsored nofollow noopener">잔 보러가기 ↗</a>
+          </div>
+        </div>
+        <p class="disclosure">이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. (주류가 아닌 안주·잔 상품 링크입니다.)</p>
+        <div style="display:flex;gap:8px;flex-wrap:wrap;margin-top:18px">
+          <button type="button" class="btn btn-ghost btn-sm" data-share>🔗 링크 복사</button>
+          <a class="btn btn-ghost btn-sm" href="/test/">✨ 나에게 맞는 술 찾기</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="wrap">{{AD_BOTTLE_MID}}</div>
+
+{{BOTTLE_GUIDE}}
+
+<section class="section-sm">
+  <div class="wrap">
+    <div class="sec-head"><div><h2>비슷한 맛의 보틀</h2><p>같은 종류에서 맛 특징과 가격대가 비슷한 보틀이에요.</p></div><a class="more" href="{{CAT_URL}}">{{CAT_LABEL}} 전체 →</a></div>
+    <div class="grid">{{SIMILAR_CARDS}}</div>
+  </div>
+</section>
+
+{{BOTTLE_GUIDES}}
+
+<div class="wrap">{{AD_BOTTLE_BOTTOM}}</div>
+
+<section class="section-sm" id="reviews">
+  <div class="wrap">
+    <div class="sec-head"><div><h2>페어링 노트</h2><p>이 술을 어떤 안주와 마셨는지 남겨주세요.</p></div></div>
+    <div class="reviews" data-reviews data-product="{{ID}}" data-product-name="{{NAME}}" data-category="{{CAT_KEY}}"><p class="empty" style="grid-column:1/-1;padding:24px">아직 등록된 페어링 노트가 없어요. 첫 번째 조합을 남겨보세요!</p></div>
+    <form class="review-form" data-review-form>
+      <b>내 페어링 조합 남기기</b>
+      <div class="row">
+        <label class="field"><span>닉네임</span><input name="nickname" maxlength="20" placeholder="익명 애호가"></label>
+        <label class="field"><span>함께 먹은 안주 *</span><input name="pairing_snack" maxlength="40" required placeholder="예: 다크 초콜릿"></label>
+        <label class="field"><span>별점</span><select name="rating"><option value="5">★★★★★</option><option value="4">★★★★</option><option value="3">★★★</option><option value="2">★★</option><option value="1">★</option></select></label>
+      </div>
+      <label class="field"><span>한줄평 *</span><textarea name="comment" rows="2" maxlength="200" required placeholder="어떤 점이 잘 어울렸나요?"></textarea></label>
+      <button type="submit" class="btn btn-dark">노트 등록하기</button>
+    </form>
+  </div>
+</section>
+<script type="application/json" id="seed-reviews">{{SEED_JSON}}</script>

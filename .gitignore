@@ -1,0 +1,30 @@
+# Build outputs & deploy archives (rebuilt automatically by GitHub Actions / build_site.ps1)
+/dist/
+*.zip
+
+# Generated root mirror directories & files
+/bottle/
+/category/
+/picks/
+/guide/
+/about/
+/contact/
+/privacy/
+/terms/
+/test/
+/index.html
+/404.html
+/sitemap.xml
+/robots.txt
+/ads.txt
+/_redirects
+/_headers
+/assets/css/
+/assets/js/
+/assets/data/
+
+# OS & editor artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

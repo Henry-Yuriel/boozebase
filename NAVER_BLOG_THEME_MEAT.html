@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang='ko'>
+<head>
+  <meta charset='UTF-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <title>"집에서 구운 소고기·삼겹살이 청담동 스테이크하우스가 됩니다" — 고기 기름기 싹 잡아주는 인생 반주 5선</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Malgun Gothic', sans-serif; line-height: 1.65; max-width: 980px; margin: 28px auto; padding: 0 20px; color: #1e293b; background: #f8fafc; }
+    .action-box { background: #f0fdf4; border: 2px solid #03c75a; border-radius: 10px; padding: 20px 24px; margin-bottom: 24px; box-shadow: 0 4px 14px rgba(3,199,90,0.12); }
+    .action-box h2 { margin: 0 0 8px; font-size: 19px; color: #029a45; }
+    .action-box p { margin: 0 0 14px; font-size: 13.5px; color: #334155; }
+    .alt-titles-box { background: #ffffff; border: 1px solid #bbf7d0; border-radius: 8px; padding: 12px 14px; margin-bottom: 14px; }
+    .alt-titles-box h3 { margin: 0 0 8px; font-size: 13px; color: #0f172a; }
+    .alt-title-btn { display: flex; align-items: center; gap: 8px; width: 100%; text-align: left; background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 6px; padding: 8px 12px; margin-bottom: 6px; font-size: 13px; color: #1e293b; cursor: pointer; transition: all 0.15s; }
+    .alt-title-btn:hover { background: #eff6ff; border-color: #3b82f6; color: #1d4ed8; }
+    .alt-badge { background: #0f172a; color: #fff; font-size: 11px; font-weight: bold; padding: 2px 7px; border-radius: 4px; flex-shrink: 0; }
+    .btn-group { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+    .btn { display: inline-flex; align-items: center; gap: 6px; background: #03c75a; color: white; border: none; padding: 11px 16px; font-size: 13.5px; font-weight: bold; border-radius: 6px; cursor: pointer; transition: background 0.2s, transform 0.1s; }
+    .btn:hover { background: #029a45; transform: translateY(-1px); }
+    .btn-dark { background: #0f172a; }
+    .btn-dark:hover { background: #1e293b; }
+    .btn-amber { background: #d97706; }
+    .btn-amber:hover { background: #b45309; }
+    .btn-blue { background: #2563eb; }
+    .btn-blue:hover { background: #1d4ed8; }
+    .toast { display: none; margin-top: 12px; padding: 9px 14px; background: #dcfce7; border: 1px solid #86efac; border-radius: 6px; font-size: 13.5px; font-weight: bold; color: #166534; }
+    .content-preview { background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 28px; box-shadow: 0 2px 6px rgba(0,0,0,0.04); }
+    .tags-box { background: #f8fafc; border: 1px solid #cbd5e1; border-radius: 8px; padding: 18px 20px; margin-top: 24px; }
+    .tags-box h3 { margin: 0 0 8px; font-size: 15px; color: #1e293b; display: flex; align-items: center; justify-content: space-between; }
+    .tags-input { width: 100%; box-sizing: border-box; padding: 9px 12px; background: #fff; border: 1px solid #cbd5e1; border-radius: 4px; font-size: 13px; color: #334155; margin-top: 8px; font-family: monospace; }
+  </style>
+</head>
+<body>
+  <div class='action-box'>
+    <h2>✨ 네이버 블로그 고전환(High-CTR) 매거진 원고 복사 도구</h2>
+    <p>단순 표 나열 대신 독자의 체류시간과 클릭률을 극대화하는 [공감 도입부 + TOP 5 집중 해부 카드 + 🔒 블라인드 히든 픽 비교표] 포맷입니다. 아래 버튼만 누르고 네이버 블로그에 Ctrl + V 하세요!</p>
+    <div class='alt-titles-box'>
+      <h3>🎯 클릭을 부르는 추천 제목 3선 (마음에 드는 제목을 클릭해 복사하세요)</h3>
+      <button type='button' class='alt-title-btn' data-title="&quot;집에서 구운 소고기가 청담동 스테이크하우스가 됩니다&quot; — 고기 맛 2배 살리는 와인·위스키 5선" onclick='copyTitleBtn(this)'><span class='alt-badge'>Title 1</span> <span>"집에서 구운 소고기가 청담동 스테이크하우스가 됩니다" — 고기 맛 2배 살리는 와인·위스키 5선</span></button>
+      <button type='button' class='alt-title-btn' data-title="한우 등심·양갈비·바비큐 구울 때 소주 마시면 손해인 이유 — 고기 단짝 주류 & 보르도 잔 공식" onclick='copyTitleBtn(this)'><span class='alt-badge'>Title 2</span> <span>한우 등심·양갈비·바비큐 구울 때 소주 마시면 손해인 이유 — 고기 단짝 주류 & 보르도 잔 공식</span></button>
+      <button type='button' class='alt-title-btn' data-title="&quot;스테이크 값보다 아까운 건 잘못 고른 술입니다&quot; — 육즙 터지는 고기 페어링 끝판왕 5대장" onclick='copyTitleBtn(this)'><span class='alt-badge'>Title 3</span> <span>"스테이크 값보다 아까운 건 잘못 고른 술입니다" — 육즙 터지는 고기 페어링 끝판왕 5대장</span></button>
+    </div>
+    <div class='btn-group'>
+      <button type='button' class='btn' onclick='copyFullPost()'>📝 [매거진 원고 전체] 원클릭 복사하기 (가장 추천)</button>
+      <button type='button' class='btn btn-dark' onclick='copyCards()'>🏆 [TOP 5 스토리 카드만] 복사하기</button>
+      <button type='button' class='btn btn-amber' onclick='copyTable()'>📊 [요약 비교표 + 히든 픽만] 복사하기</button>
+      <button type='button' class='btn btn-blue' onclick='copyTags()'>🏷️ [해시태그 10개] 복사하기</button>
+    </div>
+    <div id='toast' class='toast'></div>
+  </div>
+
+  <div id='full-post-area' class='content-preview'>
+    <h1 id='post-title' style='font-size:22px; color:#0f172a; margin-top:0; line-height:1.4;'>"집에서 구운 소고기·삼겹살이 청담동 스테이크하우스가 됩니다" — 고기 기름기 싹 잡아주는 인생 반주 5선</h1>
+    <p style='color:#475569; font-size:14px; margin-bottom:14px;'>한우 스테이크·양갈비·바비큐의 기름기는 씻어내고 감칠맛은 폭발시키는 고기 단짝 보틀 5선</p>
+    <div style='background:#f8fafc; padding:16px 18px; border-left:4px solid #03c75a; border-radius:4px; font-size:15px; line-height:1.75; color:#1e293b; margin-bottom:22px;'>
+      주말 저녁, 큰맘 먹고 좋은 한우 등심이나 양갈비를 구웠는데 마실 술이 마땅치 않아 습관처럼 소주나 맥주를 꺼내신 적 없으신가요?<br><br>육즙이 풍부한 고기 요리는 <strong>묵직한 탄닌을 가진 레드 와인</strong>이나 <strong>스모키한 오크 스파이스가 살아있는 버번·셰리 위스키</strong>와 만났을 때 입안의 기름기가 마법처럼 정리되면서 고기의 단맛이 2배로 살아납니다. 집 식탁을 단숨에 파인다이닝 레스토랑으로 바꿔줄 <strong>고기 단짝 인생 주류 5선</strong>을 소개합니다.
+    </div>
+    <hr style='border:0; border-top:1px solid #e2e8f0; margin:24px 0;'>
+
+    <div id='cards-container'>
+      <h2 style='font-size:18px; color:#0f172a; margin:0 0 14px;'>🏆 에디터 엄선 TOP 5 집중 해부 & 홈바 본전 계산기</h2>
+      <table border='1' style='border-collapse:collapse; width:100%; border:1px solid #cbd5e1; margin-bottom:22px; background:#ffffff;'>
+        <tr style='background:#0f172a; color:#ffffff;'>
+          <td colspan='2' style='padding:12px 16px; border:1px solid #0f172a; font-size:16px; font-weight:bold; color:#ffffff;'>
+            <span style='background:#03c75a; color:#ffffff; padding:3px 8px; border-radius:4px; font-size:12px; margin-right:8px;'>PICK 01</span>
+            <span>[레드 와인] 1865 셀렉티드 빈야드 카베르네 소비뇽 (750ml)</span>
+          </td>
+        </tr>
+        <tr>
+          <td style='width:26%; padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>✨ 핵심 풍미 & 선정 이유</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'><strong>한국인이 가장 사랑하는 칠레 마이포 밸리 풀바디 레드 와인.</strong></td>
+        </tr>
+        <tr>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>💰 홈바 본전 계산기</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'>
+            보틀 확인가 <strong>34,900원</strong> &#10140; 1잔당 홈바 원가 <strong style='color:#029a45; font-size:15px;'>5,800원</strong> <span style='color:#64748b; font-size:12.5px;'>(125ml &middot; 총 6잔 분량)</span>
+            <span style='display:inline-block; background:#fef3c7; color:#b45309; font-weight:bold; font-size:12px; padding:2px 8px; border-radius:4px; margin-left:6px;'>바·외식 대비 약 6만 원 절약!</span>
+          </td>
+        </tr>
+        <tr>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>🍴 실패 없는 안주 궁합</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'>
+            <strong>한우 등심 스테이크 & 그릴 버섯</strong> &nbsp;|&nbsp; <a href='https://link.coupang.com/a/hUGdOYKy5s' target='_blank' style='color:#e11d48; font-weight:bold; text-decoration:underline;'>쿠팡 최저가 보기 ↗</a>
+          </td>
+        </tr>
+        <tr>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>🥃 아로마 2배 전용잔</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'>
+            <strong>쇼트즈위젤 보르도 크리스탈 와인잔 & 디캔터</strong> &nbsp;|&nbsp; <a href='https://link.coupang.com/a/imWJda1Og0' target='_blank' style='color:#2563eb; font-weight:bold; text-decoration:underline;'>전용잔 특가 보기 ↗</a>
+            <div style='color:#475569; font-size:12.5px; margin-top:4px;'>풀바디 레드 와인의 떫은 탄닌을 부드럽게 풀고 깊은 오크 향을 깨웁니다.</div>
+          </td>
+        </tr>
+        <tr style='background:#f0fdf4;'>
+          <td colspan='2' style='padding:10px 14px; border:1px solid #bbf7d0; text-align:center;'>
+            <a href='https://pourindex.netlify.app/bottle/1865-selected-vineyards-cabernet-sauvignon/' target='_blank' style='color:#029a45; font-weight:bold; font-size:14px; text-decoration:none;'>👉 [잔의 기준]에서 이 술의 실시간 확인가·판매처 출처 보기 ↗</a>
+          </td>
+        </tr>
+      </table>
+      <table border='1' style='border-collapse:collapse; width:100%; border:1px solid #cbd5e1; margin-bottom:22px; background:#ffffff;'>
+        <tr style='background:#0f172a; color:#ffffff;'>
+          <td colspan='2' style='padding:12px 16px; border:1px solid #0f172a; font-size:16px; font-weight:bold; color:#ffffff;'>
+            <span style='background:#03c75a; color:#ffffff; padding:3px 8px; border-radius:4px; font-size:12px; margin-right:8px;'>PICK 02</span>
+            <span>[레드 와인] 몬테스 알파 까르미네르 (750ml)</span>
+          </td>
+        </tr>
+        <tr>
+          <td style='width:26%; padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>✨ 핵심 풍미 & 선정 이유</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'><strong>나라셀라 리저브의 데일리샷 표시가. 조사일 페이지에 2개 남음으로 표시됐습니다.</strong></td>
+        </tr>
+        <tr>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>💰 홈바 본전 계산기</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'>
+            보틀 확인가 <strong>32,000원</strong> &#10140; 1잔당 홈바 원가 <strong style='color:#029a45; font-size:15px;'>5,300원</strong> <span style='color:#64748b; font-size:12.5px;'>(125ml &middot; 총 6잔 분량)</span>
+            <span style='display:inline-block; background:#fef3c7; color:#b45309; font-weight:bold; font-size:12px; padding:2px 8px; border-radius:4px; margin-left:6px;'>바·외식 대비 약 5만 원 절약!</span>
+          </td>
+        </tr>
+        <tr>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>🍴 실패 없는 안주 궁합</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'>
+            <strong>허브를 곁들인 구운 양고기</strong> &nbsp;|&nbsp; <a href='https://link.coupang.com/a/hUGi2vPhcG' target='_blank' style='color:#e11d48; font-weight:bold; text-decoration:underline;'>쿠팡 최저가 보기 ↗</a>
+          </td>
+        </tr>
+        <tr>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>🥃 아로마 2배 전용잔</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'>
+            <strong>쇼트즈위젤 보르도 크리스탈 와인잔 & 디캔터</strong> &nbsp;|&nbsp; <a href='https://link.coupang.com/a/imWJda1Og0' target='_blank' style='color:#2563eb; font-weight:bold; text-decoration:underline;'>전용잔 특가 보기 ↗</a>
+            <div style='color:#475569; font-size:12.5px; margin-top:4px;'>풀바디 레드 와인의 떫은 탄닌을 부드럽게 풀고 깊은 오크 향을 깨웁니다.</div>
+          </td>
+        </tr>
+        <tr style='background:#f0fdf4;'>
+          <td colspan='2' style='padding:10px 14px; border:1px solid #bbf7d0; text-align:center;'>
+            <a href='https://pourindex.netlify.app/bottle/montes-alpha-carmenere/' target='_blank' style='color:#029a45; font-weight:bold; font-size:14px; text-decoration:none;'>👉 [잔의 기준]에서 이 술의 실시간 확인가·판매처 출처 보기 ↗</a>
+          </td>
+        </tr>
+      </table>
+      <table border='1' style='border-collapse:collapse; width:100%; border:1px solid #cbd5e1; margin-bottom:22px; background:#ffffff;'>
+        <tr style='background:#0f172a; color:#ffffff;'>
+          <td colspan='2' style='padding:12px 16px; border:1px solid #0f172a; font-size:16px; font-weight:bold; color:#ffffff;'>
+            <span style='background:#03c75a; color:#ffffff; padding:3px 8px; border-radius:4px; font-size:12px; margin-right:8px;'>PICK 03</span>
+            <span>[위스키] 와일드터키 101 8년 버번 (700ml)</span>
+          </td>
+        </tr>
+        <tr>
+          <td style='width:26%; padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>✨ 핵심 풍미 & 선정 이유</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'><strong>50.5도 고도수가 주는 진한 바닐라·카라멜·오크 스파이스.</strong></td>
+        </tr>
+        <tr>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>💰 홈바 본전 계산기</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'>
+            보틀 확인가 <strong>68,000원</strong> &#10140; 1잔당 홈바 원가 <strong style='color:#029a45; font-size:15px;'>3,000원</strong> <span style='color:#64748b; font-size:12.5px;'>(30ml &middot; 총 23잔 분량)</span>
+            <span style='display:inline-block; background:#fef3c7; color:#b45309; font-weight:bold; font-size:12px; padding:2px 8px; border-radius:4px; margin-left:6px;'>바·외식 대비 약 18만 원 절약!</span>
+          </td>
+        </tr>
+        <tr>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>🍴 실패 없는 안주 궁합</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'>
+            <strong>훈제 바비큐 폭립 & 체다 치즈 크래커</strong> &nbsp;|&nbsp; <a href='https://link.coupang.com/a/hUFuvgA8Bw' target='_blank' style='color:#e11d48; font-weight:bold; text-decoration:underline;'>쿠팡 최저가 보기 ↗</a>
+          </td>
+        </tr>
+        <tr>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>🥃 아로마 2배 전용잔</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'>
+            <strong>글렌케런 크리스탈 노징 글라스 세트</strong> &nbsp;|&nbsp; <a href='https://link.coupang.com/a/imWxSqsElU' target='_blank' style='color:#2563eb; font-weight:bold; text-decoration:underline;'>전용잔 특가 보기 ↗</a>
+            <div style='color:#475569; font-size:12.5px; margin-top:4px;'>튤립형 입구가 알코올 날림은 잡고 아로마를 코끝으로 2배 이상 모아줍니다.</div>
+          </td>
+        </tr>
+        <tr style='background:#f0fdf4;'>
+          <td colspan='2' style='padding:10px 14px; border:1px solid #bbf7d0; text-align:center;'>
+            <a href='https://pourindex.netlify.app/bottle/wild-turkey-101-8/' target='_blank' style='color:#029a45; font-weight:bold; font-size:14px; text-decoration:none;'>👉 [잔의 기준]에서 이 술의 실시간 확인가·판매처 출처 보기 ↗</a>
+          </td>
+        </tr>
+      </table>
+      <table border='1' style='border-collapse:collapse; width:100%; border:1px solid #cbd5e1; margin-bottom:22px; background:#ffffff;'>
+        <tr style='background:#0f172a; color:#ffffff;'>
+          <td colspan='2' style='padding:12px 16px; border:1px solid #0f172a; font-size:16px; font-weight:bold; color:#ffffff;'>
+            <span style='background:#03c75a; color:#ffffff; padding:3px 8px; border-radius:4px; font-size:12px; margin-right:8px;'>PICK 04</span>
+            <span>[레드 와인] 앙드레 고이쇼 부르고뉴 피노 누아 (750ml)</span>
+          </td>
+        </tr>
+        <tr>
+          <td style='width:26%; padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>✨ 핵심 풍미 & 선정 이유</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'><strong>보틀라운지의 데일리샷 공개가. 페이지에 빈티지 미지정 안내가 있습니다.</strong></td>
+        </tr>
+        <tr>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>💰 홈바 본전 계산기</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'>
+            보틀 확인가 <strong>42,000원</strong> &#10140; 1잔당 홈바 원가 <strong style='color:#029a45; font-size:15px;'>7,000원</strong> <span style='color:#64748b; font-size:12.5px;'>(125ml &middot; 총 6잔 분량)</span>
+            <span style='display:inline-block; background:#fef3c7; color:#b45309; font-weight:bold; font-size:12px; padding:2px 8px; border-radius:4px; margin-left:6px;'>바·외식 대비 약 7만 원 절약!</span>
+          </td>
+        </tr>
+        <tr>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>🍴 실패 없는 안주 궁합</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'>
+            <strong>버섯을 곁들인 구운 오리 가슴살</strong> &nbsp;|&nbsp; <a href='https://link.coupang.com/a/hTVhqm8JIz' target='_blank' style='color:#e11d48; font-weight:bold; text-decoration:underline;'>쿠팡 최저가 보기 ↗</a>
+          </td>
+        </tr>
+        <tr>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>🥃 아로마 2배 전용잔</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'>
+            <strong>부르고뉴 크리스탈 와인잔 & 전동 오프너</strong> &nbsp;|&nbsp; <a href='https://link.coupang.com/a/imWH6Q5Qce' target='_blank' style='color:#2563eb; font-weight:bold; text-decoration:underline;'>전용잔 특가 보기 ↗</a>
+            <div style='color:#475569; font-size:12.5px; margin-top:4px;'>넓은 보울이 피노 누아의 섬세한 베리 아로마를 즉시 열어줍니다.</div>
+          </td>
+        </tr>
+        <tr style='background:#f0fdf4;'>
+          <td colspan='2' style='padding:10px 14px; border:1px solid #bbf7d0; text-align:center;'>
+            <a href='https://pourindex.netlify.app/bottle/andre-goichot-bourgogne-pinot-noir/' target='_blank' style='color:#029a45; font-weight:bold; font-size:14px; text-decoration:none;'>👉 [잔의 기준]에서 이 술의 실시간 확인가·판매처 출처 보기 ↗</a>
+          </td>
+        </tr>
+      </table>
+      <table border='1' style='border-collapse:collapse; width:100%; border:1px solid #cbd5e1; margin-bottom:22px; background:#ffffff;'>
+        <tr style='background:#0f172a; color:#ffffff;'>
+          <td colspan='2' style='padding:12px 16px; border:1px solid #0f172a; font-size:16px; font-weight:bold; color:#ffffff;'>
+            <span style='background:#03c75a; color:#ffffff; padding:3px 8px; border-radius:4px; font-size:12px; margin-right:8px;'>PICK 05</span>
+            <span>[위스키] 맥캘란 12년 셰리 오크 (700ml)</span>
+          </td>
+        </tr>
+        <tr>
+          <td style='width:26%; padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>✨ 핵심 풍미 & 선정 이유</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'><strong>보틀하우스 픽업 판매가. 조사일 페이지에 6개 남음으로 표시됐습니다.</strong></td>
+        </tr>
+        <tr>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>💰 홈바 본전 계산기</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'>
+            보틀 확인가 <strong>129,900원</strong> &#10140; 1잔당 홈바 원가 <strong style='color:#029a45; font-size:15px;'>5,600원</strong> <span style='color:#64748b; font-size:12.5px;'>(30ml &middot; 총 23잔 분량)</span>
+            <span style='display:inline-block; background:#fef3c7; color:#b45309; font-weight:bold; font-size:12px; padding:2px 8px; border-radius:4px; margin-left:6px;'>바·외식 대비 약 34만 원 절약!</span>
+          </td>
+        </tr>
+        <tr>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>🍴 실패 없는 안주 궁합</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'>
+            <strong>카카오 함량이 높은 다크 초콜릿</strong> &nbsp;|&nbsp; <a href='https://link.coupang.com/a/hUFEKbU8CO' target='_blank' style='color:#e11d48; font-weight:bold; text-decoration:underline;'>쿠팡 최저가 보기 ↗</a>
+          </td>
+        </tr>
+        <tr>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; background:#f8fafc; font-weight:bold; color:#334155;'>🥃 아로마 2배 전용잔</td>
+          <td style='padding:10px 14px; border:1px solid #e2e8f0; color:#1e293b;'>
+            <strong>글렌케런 크리스탈 노징 글라스 세트</strong> &nbsp;|&nbsp; <a href='https://link.coupang.com/a/imWxSqsElU' target='_blank' style='color:#2563eb; font-weight:bold; text-decoration:underline;'>전용잔 특가 보기 ↗</a>
+            <div style='color:#475569; font-size:12.5px; margin-top:4px;'>튤립형 입구가 알코올 날림은 잡고 아로마를 코끝으로 2배 이상 모아줍니다.</div>
+          </td>
+        </tr>
+        <tr style='background:#f0fdf4;'>
+          <td colspan='2' style='padding:10px 14px; border:1px solid #bbf7d0; text-align:center;'>
+            <a href='https://pourindex.netlify.app/bottle/macallan-12-sherry-oak/' target='_blank' style='color:#029a45; font-weight:bold; font-size:14px; text-decoration:none;'>👉 [잔의 기준]에서 이 술의 실시간 확인가·판매처 출처 보기 ↗</a>
+          </td>
+        </tr>
+      </table>
+    </div>
+
+    <hr style='border:0; border-top:1px solid #e2e8f0; margin:26px 0;'>
+
+    <div id='table-container'>
+      <h2 style='font-size:18px; color:#0f172a; margin:0 0 8px;'>📊 한눈에 보는 TOP 5 요약 & 🔒 클릭해야 열리는 블라인드 히든 픽 3선</h2>
+      <p style='font-size:13px; color:#b45309; background:#fffbeb; padding:8px 12px; border-radius:4px; margin:0 0 12px; font-weight:bold;'>※ 표 하단의 🔒 [히든 픽] 3종은 [정체 확인하기 ↗]를 클릭하면 [잔의 기준] 아카이브에서 실제 보틀명과 최저가 출처가 즉시 공개됩니다.</p>
+      <table id='blog-table' border='1' style='border-collapse:collapse; width:100%; border:1px solid #cbd5e1; font-size:13px; background:#ffffff;'>
+        <thead>
+          <tr style='background:#f1f5f9; color:#0f172a;'>
+            <th style='padding:10px 8px; border:1px solid #cbd5e1; text-align:center;'>구분</th>
+            <th style='padding:10px 8px; border:1px solid #cbd5e1; text-align:center;'>주종</th>
+            <th style='padding:10px 10px; border:1px solid #cbd5e1; text-align:center;'>보틀명 (용량)</th>
+            <th style='padding:10px 8px; border:1px solid #cbd5e1; text-align:center;'>확인 가격</th>
+            <th style='padding:10px 8px; border:1px solid #cbd5e1; text-align:center;'>1잔당 홈바 원가 (절약 효과)</th>
+            <th style='padding:10px 10px; border:1px solid #cbd5e1; text-align:center;'>찰떡 안주 & 전용잔</th>
+            <th style='padding:10px 8px; border:1px solid #cbd5e1; text-align:center;'>상세 스펙·출처</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style='text-align:center; padding:9px 8px; border:1px solid #cbd5e1; font-weight:bold; color:#029a45;'>TOP 1</td>
+            <td style='text-align:center; padding:9px 8px; border:1px solid #cbd5e1;'>레드 와인</td>
+            <td style='text-align:left; padding:9px 10px; border:1px solid #cbd5e1;'><strong>1865 셀렉티드 빈야드 카베르네 소비뇽</strong> (750ml)<div style='font-size:12px; color:#64748b;'>한국인이 가장 사랑하는 칠레 마이포 밸리 풀바디 레드 와인.</div></td>
+            <td style='text-align:right; padding:9px 8px; border:1px solid #cbd5e1; font-weight:bold;'>34,900원</td>
+            <td style='text-align:right; padding:9px 8px; border:1px solid #cbd5e1;'><strong style='color:#029a45;'>5,800원</strong><div style='font-size:11.5px; color:#b45309;'>바·외식 대비 약 6만 원 절약!</div></td>
+            <td style='text-align:left; padding:9px 10px; border:1px solid #cbd5e1;'><a href='https://link.coupang.com/a/hUGdOYKy5s' target='_blank' style='color:#1e293b; text-decoration:underline;'>한우 등심 스테이크 & 그릴 버섯</a><div style='font-size:11.5px; margin-top:2px;'><a href='https://link.coupang.com/a/imWJda1Og0' target='_blank' style='color:#2563eb; text-decoration:none;'>+ 쇼트즈위젤 보르도 크리스탈 와인잔 & 디캔터</a></div></td>
+            <td style='text-align:center; padding:9px 8px; border:1px solid #cbd5e1;'><a href='https://pourindex.netlify.app/bottle/1865-selected-vineyards-cabernet-sauvignon/' target='_blank' style='color:#03c75a; font-weight:bold; text-decoration:none;'>보틀 보기 ↗</a></td>
+          </tr>
+          <tr>
+            <td style='text-align:center; padding:9px 8px; border:1px solid #cbd5e1; font-weight:bold; color:#029a45;'>TOP 2</td>
+            <td style='text-align:center; padding:9px 8px; border:1px solid #cbd5e1;'>레드 와인</td>
+            <td style='text-align:left; padding:9px 10px; border:1px solid #cbd5e1;'><strong>몬테스 알파 까르미네르</strong> (750ml)<div style='font-size:12px; color:#64748b;'>나라셀라 리저브의 데일리샷 표시가. 조사일 페이지에 2개 남음으로 표시됐습니다.</div></td>
+            <td style='text-align:right; padding:9px 8px; border:1px solid #cbd5e1; font-weight:bold;'>32,000원</td>
+            <td style='text-align:right; padding:9px 8px; border:1px solid #cbd5e1;'><strong style='color:#029a45;'>5,300원</strong><div style='font-size:11.5px; color:#b45309;'>바·외식 대비 약 5만 원 절약!</div></td>
+            <td style='text-align:left; padding:9px 10px; border:1px solid #cbd5e1;'><a href='https://link.coupang.com/a/hUGi2vPhcG' target='_blank' style='color:#1e293b; text-decoration:underline;'>허브를 곁들인 구운 양고기</a><div style='font-size:11.5px; margin-top:2px;'><a href='https://link.coupang.com/a/imWJda1Og0' target='_blank' style='color:#2563eb; text-decoration:none;'>+ 쇼트즈위젤 보르도 크리스탈 와인잔 & 디캔터</a></div></td>
+            <td style='text-align:center; padding:9px 8px; border:1px solid #cbd5e1;'><a href='https://pourindex.netlify.app/bottle/montes-alpha-carmenere/' target='_blank' style='color:#03c75a; font-weight:bold; text-decoration:none;'>보틀 보기 ↗</a></td>
+          </tr>
+          <tr>
+            <td style='text-align:center; padding:9px 8px; border:1px solid #cbd5e1; font-weight:bold; color:#029a45;'>TOP 3</td>
+            <td style='text-align:center; padding:9px 8px; border:1px solid #cbd5e1;'>위스키</td>
+            <td style='text-align:left; padding:9px 10px; border:1px solid #cbd5e1;'><strong>와일드터키 101 8년 버번</strong> (700ml)<div style='font-size:12px; color:#64748b;'>50.5도 고도수가 주는 진한 바닐라·카라멜·오크 스파이스.</div></td>
+            <td style='text-align:right; padding:9px 8px; border:1px solid #cbd5e1; font-weight:bold;'>68,000원</td>
+            <td style='text-align:right; padding:9px 8px; border:1px solid #cbd5e1;'><strong style='color:#029a45;'>3,000원</strong><div style='font-size:11.5px; color:#b45309;'>바·외식 대비 약 18만 원 절약!</div></td>
+            <td style='text-align:left; padding:9px 10px; border:1px solid #cbd5e1;'><a href='https://link.coupang.com/a/hUFuvgA8Bw' target='_blank' style='color:#1e293b; text-decoration:underline;'>훈제 바비큐 폭립 & 체다 치즈 크래커</a><div style='font-size:11.5px; margin-top:2px;'><a href='https://link.coupang.com/a/imWxSqsElU' target='_blank' style='color:#2563eb; text-decoration:none;'>+ 글렌케런 크리스탈 노징 글라스 세트</a></div></td>
+            <td style='text-align:center; padding:9px 8px; border:1px solid #cbd5e1;'><a href='https://pourindex.netlify.app/bottle/wild-turkey-101-8/' target='_blank' style='color:#03c75a; font-weight:bold; text-decoration:none;'>보틀 보기 ↗</a></td>
+          </tr>
+          <tr>
+            <td style='text-align:center; padding:9px 8px; border:1px solid #cbd5e1; font-weight:bold; color:#029a45;'>TOP 4</td>
+            <td style='text-align:center; padding:9px 8px; border:1px solid #cbd5e1;'>레드 와인</td>
+            <td style='text-align:left; padding:9px 10px; border:1px solid #cbd5e1;'><strong>앙드레 고이쇼 부르고뉴 피노 누아</strong> (750ml)<div style='font-size:12px; color:#64748b;'>보틀라운지의 데일리샷 공개가. 페이지에 빈티지 미지정 안내가 있습니다.</div></td>
+            <td style='text-align:right; padding:9px 8px; border:1px solid #cbd5e1; font-weight:bold;'>42,000원</td>
+            <td style='text-align:right; padding:9px 8px; border:1px solid #cbd5e1;'><strong style='color:#029a45;'>7,000원</strong><div style='font-size:11.5px; color:#b45309;'>바·외식 대비 약 7만 원 절약!</div></td>
+            <td style='text-align:left; padding:9px 10px; border:1px solid #cbd5e1;'><a href='https://link.coupang.com/a/hTVhqm8JIz' target='_blank' style='color:#1e293b; text-decoration:underline;'>버섯을 곁들인 구운 오리 가슴살</a><div style='font-size:11.5px; margin-top:2px;'><a href='https://link.coupang.com/a/imWH6Q5Qce' target='_blank' style='color:#2563eb; text-decoration:none;'>+ 부르고뉴 크리스탈 와인잔 & 전동 오프너</a></div></td>
+            <td style='text-align:center; padding:9px 8px; border:1px solid #cbd5e1;'><a href='https://pourindex.netlify.app/bottle/andre-goichot-bourgogne-pinot-noir/' target='_blank' style='color:#03c75a; font-weight:bold; text-decoration:none;'>보틀 보기 ↗</a></td>
+          </tr>
+          <tr>
+            <td style='text-align:center; padding:9px 8px; border:1px solid #cbd5e1; font-weight:bold; color:#029a45;'>TOP 5</td>
+            <td style='text-align:center; padding:9px 8px; border:1px solid #cbd5e1;'>위스키</td>
+            <td style='text-align:left; padding:9px 10px; border:1px solid #cbd5e1;'><strong>맥캘란 12년 셰리 오크</strong> (700ml)<div style='font-size:12px; color:#64748b;'>보틀하우스 픽업 판매가. 조사일 페이지에 6개 남음으로 표시됐습니다.</div></td>
+            <td style='text-align:right; padding:9px 8px; border:1px solid #cbd5e1; font-weight:bold;'>129,900원</td>
+            <td style='text-align:right; padding:9px 8px; border:1px solid #cbd5e1;'><strong style='color:#029a45;'>5,600원</strong><div style='font-size:11.5px; color:#b45309;'>바·외식 대비 약 34만 원 절약!</div></td>
+            <td style='text-align:left; padding:9px 10px; border:1px solid #cbd5e1;'><a href='https://link.coupang.com/a/hUFEKbU8CO' target='_blank' style='color:#1e293b; text-decoration:underline;'>카카오 함량이 높은 다크 초콜릿</a><div style='font-size:11.5px; margin-top:2px;'><a href='https://link.coupang.com/a/imWxSqsElU' target='_blank' style='color:#2563eb; text-decoration:none;'>+ 글렌케런 크리스탈 노징 글라스 세트</a></div></td>
+            <td style='text-align:center; padding:9px 8px; border:1px solid #cbd5e1;'><a href='https://pourindex.netlify.app/bottle/macallan-12-sherry-oak/' target='_blank' style='color:#03c75a; font-weight:bold; text-decoration:none;'>보틀 보기 ↗</a></td>
+          </tr>
+          <tr style='background:#fffbeb;'>
+            <td style='text-align:center; padding:10px 8px; border:1px solid #cbd5e1; font-weight:bold; color:#d97706;'>HIDDEN 1</td>
+            <td style='text-align:center; padding:10px 8px; border:1px solid #cbd5e1; font-weight:bold;'>레드 와인</td>
+            <td style='text-align:left; padding:10px 10px; border:1px solid #cbd5e1;'><strong style='color:#b45309;'>🔒 [히든 픽 #1] 오리 가슴살·부채살 구이와 만났을 때 붉은 베리 향이 터지는 부르고뉴 와인</strong><div style='font-size:12px; color:#78350f; margin-top:2px;'>Hint: 와인 입문자도 반하는 실키한 목넘김</div></td>
+            <td style='text-align:right; padding:10px 8px; border:1px solid #cbd5e1; font-weight:bold;'>44,900원</td>
+            <td style='text-align:right; padding:10px 8px; border:1px solid #cbd5e1;'><strong style='color:#d97706;'>7,500원</strong><div style='font-size:11.5px; color:#b45309;'>바·외식 대비 약 7만 원 절약!</div></td>
+            <td style='text-align:left; padding:10px 10px; border:1px solid #cbd5e1;'><a href='https://link.coupang.com/a/hTVhqm8JIz' target='_blank' style='color:#1e293b; text-decoration:underline;'>오리 스테이크</a><div style='font-size:11.5px; margin-top:2px;'><a href='https://link.coupang.com/a/imWH6Q5Qce' target='_blank' style='color:#2563eb; text-decoration:none;'>+ 부르고뉴 크리스탈 와인잔 & 전동 오프너</a></div></td>
+            <td style='text-align:center; padding:10px 8px; border:1px solid #cbd5e1;'><a href='https://pourindex.netlify.app/bottle/louis-jadot-bourgogne-pinot-noir/' target='_blank' style='display:inline-block; background:#d97706; color:#ffffff; padding:5px 10px; border-radius:4px; font-weight:bold; font-size:12px; text-decoration:none;'>정체 확인하기 ↗</a></td>
+          </tr>
+          <tr style='background:#fffbeb;'>
+            <td style='text-align:center; padding:10px 8px; border:1px solid #cbd5e1; font-weight:bold; color:#d97706;'>HIDDEN 2</td>
+            <td style='text-align:center; padding:10px 8px; border:1px solid #cbd5e1; font-weight:bold;'>위스키</td>
+            <td style='text-align:left; padding:10px 10px; border:1px solid #cbd5e1;'><strong style='color:#b45309;'>🔒 [히든 픽 #2] 훈연 바비큐 폭립과 함께 마시면 바닐라 스모크 향이 배가 되는 4만 원대 버번</strong><div style='font-size:12px; color:#78350f; margin-top:2px;'>Hint: 캠핑·바비큐 파티 필수 위스키</div></td>
+            <td style='text-align:right; padding:10px 8px; border:1px solid #cbd5e1; font-weight:bold;'>49,900원</td>
+            <td style='text-align:right; padding:10px 8px; border:1px solid #cbd5e1;'><strong style='color:#d97706;'>2,000원</strong><div style='font-size:11.5px; color:#b45309;'>바·외식 대비 약 13만 원 절약!</div></td>
+            <td style='text-align:left; padding:10px 10px; border:1px solid #cbd5e1;'><a href='https://link.coupang.com/a/hUFEKbU8CO' target='_blank' style='color:#1e293b; text-decoration:underline;'>다크 초콜릿 브라우니 & 구운 호두 견과</a><div style='font-size:11.5px; margin-top:2px;'><a href='https://link.coupang.com/a/imWDhEKlFY' target='_blank' style='color:#2563eb; text-decoration:none;'>+ 투명 빅볼 아이스 메이커 & 헤비 온더락 잔</a></div></td>
+            <td style='text-align:center; padding:10px 8px; border:1px solid #cbd5e1;'><a href='https://pourindex.netlify.app/bottle/buffalo-trace/' target='_blank' style='display:inline-block; background:#d97706; color:#ffffff; padding:5px 10px; border-radius:4px; font-weight:bold; font-size:12px; text-decoration:none;'>정체 확인하기 ↗</a></td>
+          </tr>
+          <tr style='background:#fffbeb;'>
+            <td style='text-align:center; padding:10px 8px; border:1px solid #cbd5e1; font-weight:bold; color:#d97706;'>HIDDEN 3</td>
+            <td style='text-align:center; padding:10px 8px; border:1px solid #cbd5e1; font-weight:bold;'>전통주·명주</td>
+            <td style='text-align:left; padding:10px 10px; border:1px solid #cbd5e1;'><strong style='color:#b45309;'>🔒 [히든 픽 #3] 한우 차돌박이·삼겹살 구이에 위스키처럼 즐기는 1만 원대 오크 숙성 증류주</strong><div style='font-size:12px; color:#78350f; margin-top:2px;'>Hint: 가성비 한식 고기 반주 끝판왕</div></td>
+            <td style='text-align:right; padding:10px 8px; border:1px solid #cbd5e1; font-weight:bold;'>18,500원</td>
+            <td style='text-align:right; padding:10px 8px; border:1px solid #cbd5e1;'><strong style='color:#d97706;'>2,300원</strong><div style='font-size:11.5px; color:#b45309;'>바·외식 대비 약 3만 원 절약!</div></td>
+            <td style='text-align:left; padding:10px 10px; border:1px solid #cbd5e1;'><a href='https://link.coupang.com/a/hUFgrOAffM' target='_blank' style='color:#1e293b; text-decoration:underline;'>훈제 오리 스테이크 & 구운 아몬드 믹스넛</a><div style='font-size:11.5px; margin-top:2px;'><a href='https://link.coupang.com/a/imWEIEFYqW' target='_blank' style='color:#2563eb; text-decoration:none;'>+ 증류주 온더락 크리스탈 잔 & 원형 얼음틀</a></div></td>
+            <td style='text-align:center; padding:10px 8px; border:1px solid #cbd5e1;'><a href='https://pourindex.netlify.app/bottle/ilpum-jinro-oak-43/' target='_blank' style='display:inline-block; background:#d97706; color:#ffffff; padding:5px 10px; border-radius:4px; font-weight:bold; font-size:12px; text-decoration:none;'>정체 확인하기 ↗</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div style='background:#f0fdf4; border:2px solid #03c75a; border-radius:8px; padding:18px 20px; margin-top:26px; text-align:center;'>
+      <p style='font-size:14.5px; color:#1e293b; margin:0 0 12px; line-height:1.6;'>오늘 저녁 고기 메뉴에 딱 맞는 <strong>스테이크·고기 단짝 주류 전체 리스트와 쿠팡 로켓프레시 스테이크·치즈 페어링</strong>은 아래 [잔의 기준]에서 바로 확인하실 수 있습니다!</p>
+      <a href='https://pourindex.netlify.app/?preset=meat_pairing#collection' target='_blank' style='display:inline-block; background:#03c75a; color:#ffffff; padding:11px 20px; border-radius:6px; font-weight:bold; font-size:14.5px; text-decoration:none;'>🚀 [잔의 기준] 공식 아카이브에서 전체 리스트 & 최저가 출처 확인하기 ↗</a>
+    </div>
+
+    <p style='font-size:12px; color:#64748b; margin-top:18px; padding-top:12px; border-top:1px dashed #cbd5e1;'>※ 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다. (주류 본품은 온라인 판매 대상이 아니며, 함께 즐기기 좋은 페어링 식품 및 홈바 전용 글라스 제휴 링크가 포함되어 있습니다.)</p>
+  </div>
+
+  <div class='tags-box'>
+    <h3><span>🏷️ 네이버 블로그 추천 해시태그 (10개)</span> <button type='button' class='btn btn-blue' style='padding:5px 10px; font-size:12px;' onclick='copyTags()'>🏷️ [해시태그 10개] 복사하기</button></h3>
+    <div style='margin-bottom:8px;'><span style='display:inline-block; background:#e0f2fe; color:#0369a1; padding:4px 10px; border-radius:99px; font-size:12.5px; font-weight:600; margin:3px 4px 3px 0;'>#스테이크와인추천</span><span style='display:inline-block; background:#e0f2fe; color:#0369a1; padding:4px 10px; border-radius:99px; font-size:12.5px; font-weight:600; margin:3px 4px 3px 0;'>#소고기와인</span><span style='display:inline-block; background:#e0f2fe; color:#0369a1; padding:4px 10px; border-radius:99px; font-size:12.5px; font-weight:600; margin:3px 4px 3px 0;'>#양갈비위스키</span><span style='display:inline-block; background:#e0f2fe; color:#0369a1; padding:4px 10px; border-radius:99px; font-size:12.5px; font-weight:600; margin:3px 4px 3px 0;'>#홈파티와인</span><span style='display:inline-block; background:#e0f2fe; color:#0369a1; padding:4px 10px; border-radius:99px; font-size:12.5px; font-weight:600; margin:3px 4px 3px 0;'>#레드와인추천</span><span style='display:inline-block; background:#e0f2fe; color:#0369a1; padding:4px 10px; border-radius:99px; font-size:12.5px; font-weight:600; margin:3px 4px 3px 0;'>#버번위스키</span><span style='display:inline-block; background:#e0f2fe; color:#0369a1; padding:4px 10px; border-radius:99px; font-size:12.5px; font-weight:600; margin:3px 4px 3px 0;'>#보르도와인잔</span><span style='display:inline-block; background:#e0f2fe; color:#0369a1; padding:4px 10px; border-radius:99px; font-size:12.5px; font-weight:600; margin:3px 4px 3px 0;'>#술안주페어링</span><span style='display:inline-block; background:#e0f2fe; color:#0369a1; padding:4px 10px; border-radius:99px; font-size:12.5px; font-weight:600; margin:3px 4px 3px 0;'>#잔의기준</span><span style='display:inline-block; background:#e0f2fe; color:#0369a1; padding:4px 10px; border-radius:99px; font-size:12.5px; font-weight:600; margin:3px 4px 3px 0;'>#홈바추천</span></div>
+    <p style='margin:6px 0 0; font-size:12px; color:#64748b;'>네이버 블로그 글 발행 시 [태그 편집] 창에 그대로 붙여넣기(Ctrl+V) 하세요.</p>
+    <input type='text' id='tags-input' class='tags-input' readonly value='스테이크와인추천, 소고기와인, 양갈비위스키, 홈파티와인, 레드와인추천, 버번위스키, 보르도와인잔, 술안주페어링, 잔의기준, 홈바추천' onclick='this.select();'>
+    <input type='text' id='temp-title-input' style='position:absolute; left:-9999px;' readonly value=''>
+  </div>
+
+  <script>
+    function showToast(msg) {
+      var t = document.getElementById('toast');
+      t.textContent = msg;
+      t.style.display = 'block';
+      setTimeout(function() { t.style.display = 'none'; }, 4000);
+    }
+    function copyElementHtml(element, successMsg) {
+      try {
+        var range = document.createRange();
+        range.selectNode(element);
+        var selection = window.getSelection();
+        selection.removeAllRanges();
+        selection.addRange(range);
+        document.execCommand('copy');
+        selection.removeAllRanges();
+        showToast(successMsg);
+      } catch (err) {
+        alert('복사 중 오류가 발생했습니다. 브라우저에서 마우스로 드래그하여 Ctrl+C 해주세요.');
+      }
+    }
+    function copyFullPost() {
+      var target = document.getElementById('full-post-area');
+      copyElementHtml(target, '✅ [매거진 원고 전체]가 복사되었습니다! 네이버 블로그 본문에 Ctrl + V 하세요.');
+    }
+    function copyCards() {
+      var target = document.getElementById('cards-container');
+      copyElementHtml(target, '✅ [TOP 5 스토리 카드]가 복사되었습니다! 네이버 블로그에 Ctrl + V 하세요.');
+    }
+    function copyTable() {
+      var target = document.getElementById('table-container');
+      copyElementHtml(target, '✅ [요약 비교표 + 히든 픽]이 복사되었습니다! 네이버 블로그에 Ctrl + V 하세요.');
+    }
+    function copyTags() {
+      var input = document.getElementById('tags-input');
+      input.select();
+      document.execCommand('copy');
+      showToast('✅ [해시태그 10개]가 복사되었습니다! 네이버 블로그 태그창에 Ctrl + V 하세요.');
+    }
+    function copyTitleBtn(btn) {
+      var text = btn.getAttribute('data-title');
+      var input = document.getElementById('temp-title-input');
+      input.value = text;
+      input.select();
+      document.execCommand('copy');
+      showToast('✅ 선택한 제목이 복사되었습니다! 네이버 블로그 제목란에 Ctrl + V 하세요.');
+    }
+  </script>
+</body>
+</html>

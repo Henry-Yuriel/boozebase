@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESC}}">
+<link rel="canonical" href="{{CANONICAL}}">
+<meta name="theme-color" content="#faf8f4">
+<meta name="robots" content="{{ROBOTS}}">
+<meta name="naver-site-verification" content="{{NAVER_VERIFY}}">
+<meta name="google-site-verification" content="{{GOOGLE_VERIFY}}">
+<meta property="og:type" content="{{OG_TYPE}}">
+<meta property="og:site_name" content="Booze Base">
+<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{DESC}}">
+<meta property="og:url" content="{{CANONICAL}}">
+<meta property="og:image" content="{{OG_IMAGE}}">
+<meta property="og:locale" content="ko_KR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{OG_IMAGE}}">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%231f1a14'/%3E%3Ctext x='32' y='43' font-size='32' text-anchor='middle' fill='%23fff'%3E%F0%9F%A5%83%3C/text%3E%3C/svg%3E">
+<link rel="stylesheet" href="/assets/css/site.css?v={{BUILD}}">
+{{ADSENSE_HEAD}}
+{{JSONLD}}
+</head>
+<body data-page="{{PAGE}}" data-endpoint="{{ENDPOINT}}" data-ad-client="{{ADSENSE_CLIENT}}" data-ad-test-slot="{{ADSENSE_TEST_SLOT}}">
+<a class="skip" href="#main">본문으로 건너뛰기</a>
+<header class="hdr">
+  <div class="wrap hdr-row">
+    <a class="logo" href="/" aria-label="Booze Base 홈"><span class="logo-mark" aria-hidden="true">B</span><span>Booze Base <small>LIQUOR ARCHIVE</small></span></a>
+    <nav class="nav" aria-label="주 메뉴">
+      <a href="/category/whisky/" data-ico="🥃" class="{{NAV_whisky}}">위스키</a>
+      <a href="/category/red-wine/" data-ico="🍷" class="{{NAV_red-wine}}">와인</a>
+      <a href="/category/white-wine/" data-ico="🥂" class="nav-hide-m {{NAV_white-wine}}">화이트</a>
+      <a href="/category/sake/" data-ico="🍶" class="{{NAV_sake}}">사케</a>
+      <a href="/category/spirits/" data-ico="🍸" class="nav-hide-m {{NAV_spirits}}">스피릿</a>
+      <a href="/guide/" data-ico="📖" class="{{NAV_guide}}">가이드</a>
+      <a href="/test/" data-ico="✨" class="nav-cta {{NAV_test}}">취향 테스트</a>
+    </nav>
+    <button type="button" class="search-btn" data-search-open aria-label="술 검색">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    </button>
+  </div>
+</header>
+<main id="main">
+{{BODY}}
+</main>
+<footer class="ftr">
+  <div class="wrap">
+    <div class="ftr-grid">
+      <div>
+        <a class="logo" href="/"><span class="logo-mark" aria-hidden="true">B</span><span>Booze Base</span></a>
+        <p style="margin-top:12px;max-width:380px">위스키·와인·사케·스피릿 {{TOTAL}}종의 판매처 확인 가격과 맛 특징, 어울리는 안주를 기록하는 주류 정보 아카이브입니다. 주류를 직접 판매하지 않습니다.</p>
+      </div>
+      <div>
+        <h3>카테고리</h3>
+        <ul>{{FOOTER_CATS}}</ul>
+      </div>
+      <div>
+        <h3>추천 컬렉션</h3>
+        <ul>{{FOOTER_PICKS}}<li><a href="/guide/">주류 가이드</a></li><li><a href="/test/">2분 취향 테스트</a></li></ul>
+      </div>
+      <div>
+        <h3>안내 및 정책</h3>
+        <ul>
+          <li><a href="/about/">서비스 소개·편집 원칙</a></li>
+          <li><a href="/contact/">문의하기</a></li>
+          <li><a href="/privacy/">개인정보처리방침</a></li>
+          <li><a href="/terms/">이용약관·면책 고지</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="ftr-legal">
+      <p><strong>광고·제휴 안내</strong> 이 사이트에는 Google AdSense 광고 및 쿠팡 파트너스 제휴 링크(안주·잔 등 주류 외 상품)가 포함되어 있으며, 이를 통해 운영자가 일정액의 광고 수익 및 수수료를 제공받습니다.</p>
+      <p><strong>가격 안내</strong> 표시 가격은 확인일 기준 판매처 공개 가격으로 실시간 최저가·재고가 아닙니다. 구매 전 판매처에서 다시 확인하세요.</p>
+      <p><strong>19세 미만 청소년 음주 금지</strong> 지나친 음주는 뇌졸중, 기억력 손상이나 치매를 유발합니다. 임신 중 음주는 기형아 출생 위험을 높입니다.</p>
+      <p>© <span data-year>2026</span> Booze Base</p>
+    </div>
+  </div>
+</footer>
+<div class="search-ov" id="search-ov" hidden role="dialog" aria-modal="true" aria-label="술 검색">
+  <div class="search-panel">
+    <div class="search-input">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="search-q" type="search" placeholder="술 이름, 안주, 맛으로 검색 (예: 셰리, 하이볼, 광어회)" autocomplete="off" aria-label="검색어">
+      <button type="button" data-search-close>닫기</button>
+    </div>
+    <div class="search-results" id="search-results" aria-live="polite"><p class="search-empty">검색어를 입력하세요.</p></div>
+  </div>
+</div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script src="/assets/js/site.js?v={{BUILD}}" defer></script>
+{{SCRIPTS}}
+</body>
+</html>

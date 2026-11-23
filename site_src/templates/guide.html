@@ -1,0 +1,30 @@
+<article class="guide-wrap">
+  <div class="wrap">
+    <div class="guide-article">
+      <nav class="crumb" aria-label="위치"><a href="/">홈</a><span aria-hidden="true">›</span><a href="/guide/">주류 가이드</a><span aria-hidden="true">›</span><span>{{CAT}}</span></nav>
+      <header class="guide-head">
+        <span class="chip chip-accent">{{EMOJI}} {{CAT}}</span>
+        <h1>{{H1}}</h1>
+        <p class="guide-meta"><span>{{OPERATOR}}</span><span aria-hidden="true">·</span><time datetime="{{UPDATED}}">{{UPDATED}} 업데이트</time><span aria-hidden="true">·</span><span>약 {{READ_MIN}}분 읽기</span></p>
+      </header>
+      {{TOC}}
+      <div class="guide-body">
+        {{CONTENT}}
+      </div>
+      <div class="guide-actions">
+        <button type="button" class="btn btn-ghost btn-sm" data-share>🔗 이 가이드 공유</button>
+        <a class="btn btn-ghost btn-sm" href="/guide/">📖 가이드 목록으로</a>
+        <a class="btn btn-primary btn-sm" href="/test/">✨ 2분 취향 테스트</a>
+      </div>
+    </div>
+  </div>
+</article>
+
+{{RELATED_BOTTLES_SECTION}}
+
+<section class="section-sm">
+  <div class="wrap">
+    <div class="sec-head"><div><h2>함께 읽으면 좋은 가이드</h2><p>주제와 이어지는 다른 아티클도 확인해 보세요.</p></div><a class="more" href="/guide/">가이드 전체 보기 →</a></div>
+    <div class="guide-grid">{{RELATED_GUIDES}}</div>
+  </div>
+</section>
