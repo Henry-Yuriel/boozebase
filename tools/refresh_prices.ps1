@@ -2,7 +2,7 @@
 # Pure ASCII script for Windows PowerShell 5.1 compatibility.
 # Usage: powershell -NoProfile -ExecutionPolicy Bypass -File .\tools\refresh_prices.ps1
 param(
-    [int]$TargetCount = 2000,
+    [int]$TargetCount = 4000,
     [switch]$SkipBuild
 )
 

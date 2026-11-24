@@ -51,7 +51,13 @@ foreach ($n in @("layout", "card", "home", "list", "bottle", "test", "guides", "
 $catByKey = @{}
 foreach ($c in $cfg.categories) { $catByKey[$c.key] = $c }
 $flavorLabel = @{}
-foreach ($f in $cfg.flavor_tags) { $flavorLabel[$f.key] = $f.label }
+$flavorBit = @{}
+$bitIdx = 0
+foreach ($f in $cfg.flavor_tags) {
+    $flavorLabel[$f.key] = $f.label
+    $flavorBit[$f.key] = (1 -shl $bitIdx)
+    $bitIdx++
+}
 $flavorOrder = @($cfg.flavor_tags | ForEach-Object { $_.key })
 $featured = @($cfg.featured_ids)
 $noteRegex = [string]$S.price_note_regex
@@ -107,6 +113,9 @@ foreach ($it in $items) {
             if ($pairing.Contains($k)) { $snackUrl = [string]$cfg.affiliate.pairing_keywords.$k; $snackPartner = $true; break }
         }
     }
+    if (-not $snackUrl -and ([string]$it.affiliate_link) -match '^https://link\.coupang\.com/') {
+        $snackUrl = [string]$it.affiliate_link; $snackPartner = $true
+    }
     if (-not $snackUrl) { $snackUrl = [string]$cfg.affiliate.fallback_search + [Uri]::EscapeDataString($pairing) }
 
     # barware
@@ -122,11 +131,14 @@ foreach ($it in $items) {
 
     $isPriceNote = $note -and ($note -match $noteRegex)
     $tagLabels = ($tags | ForEach-Object { $flavorLabel[$_] }) -join " "
+    $tMask = 0
+    foreach ($tk in $tags) { if ($flavorBit.ContainsKey($tk)) { $tMask = $tMask -bor $flavorBit[$tk] } }
+    $logP = [Math]::Log([double]([Math]::Max(1, $price)))
     $catObj = $catByKey[$cat]
 
     $obj = [pscustomobject]@{
         id = $id; name = $name; cat = $cat; price = $price; vol = $vol; img = $img; order = $order
-        note = $note; isPriceNote = $isPriceNote; pairing = $pairing; tags = $tags; groups = $groups
+        note = $note; isPriceNote = $isPriceNote; pairing = $pairing; tags = $tags; tagMask = $tMask; logPrice = $logP; groups = $groups
         snackUrl = $snackUrl; snackPartner = $snackPartner; bw = $bw
         checked = [string]$it.price_checked_on; sourceUrl = [string]$it.market_source_url
         sourceTitle = $(if ($it.source_title) { [string]$it.source_title } else { [string]$it.attributes.listing_label })
@@ -153,13 +165,15 @@ function TagChips($b, [int]$max) {
     }
     return $out
 }
-function Card($b) {
-    return Fill $T.card @{
+$cardCache = @{}
+foreach ($b in $bottles) {
+    $cardCache[$b.id] = (Fill $T.card @{
         SEARCH = (H $b.search); PRICE_RAW = $b.price; TAGS_RAW = ($b.tags -join " "); ORDER = $b.order
         IMG = (H $b.img); NAME = (H $b.name); CAT_LABEL = (H $b.catLabel); VOL = $b.vol; URL = $b.url
         TAG_CHIPS = (TagChips $b 2); PRICE = (Won $b.price)
-    }
+    })
 }
+function Card($b) { return $cardCache[$b.id] }
 function PriceBand([int]$p) {
     if ($p -le 30000) { return $S.price_band_1 }
     if ($p -le 70000) { return $S.price_band_2 }
@@ -490,15 +504,36 @@ function BottleGuidesLinks($b) {
     return '<section class="section-sm"><div class="wrap"><div class="sec-head"><div><h2>' + (H $S.bottle_guides_h2) + '</h2><p>' + (H $S.bottle_guides_p) + '</p></div><a class="more" href="/guide/">' + (H $S.guides_h1) + ' &rarr;</a></div><div class="guide-grid">' + $chosen + '</div></div></section>'
 }
 
+$popTable = New-Object int[] 256
+for ($pi = 0; $pi -lt 256; $pi++) {
+    $v = $pi; $cnt = 0
+    while ($v -gt 0) { $cnt += ($v -band 1); $v = $v -shr 1 }
+    $popTable[$pi] = $cnt
+}
+
 foreach ($b in $bottles) {
-    # similar
-    $cands = foreach ($o in $byCat[$b.cat]) {
-        if ($o.id -eq $b.id) { continue }
-        $shared = @($o.tags | Where-Object { $b.tags -contains $_ }).Count
-        $ratio = [Math]::Abs([Math]::Log(([double]([Math]::Max(1, $o.price))) / ([double]([Math]::Max(1, $b.price)))))
-        [pscustomobject]@{ o = $o; s = ($shared * 10 - $ratio * 12) }
+    # fast top-4 similar in category
+    $s1 = -1e9; $s2 = -1e9; $s3 = -1e9; $s4 = -1e9
+    $o1 = $null; $o2 = $null; $o3 = $null; $o4 = $null
+    $bm = $b.tagMask; $blp = $b.logPrice
+    foreach ($o in $byCat[$b.cat]) {
+        if ($o.order -eq $b.order) { continue }
+        $shared = $popTable[($bm -band $o.tagMask) -band 255]
+        $diff = $o.logPrice - $blp
+        if ($diff -lt 0) { $diff = -$diff }
+        $sc = $shared * 10.0 - $diff * 12.0
+        if ($sc -gt $s4) {
+            if ($sc -gt $s1) { $s4 = $s3; $o4 = $o3; $s3 = $s2; $o3 = $o2; $s2 = $s1; $o2 = $o1; $s1 = $sc; $o1 = $o }
+            elseif ($sc -gt $s2) { $s4 = $s3; $o4 = $o3; $s3 = $s2; $o3 = $o2; $s2 = $sc; $o2 = $o }
+            elseif ($sc -gt $s3) { $s4 = $s3; $o4 = $o3; $s3 = $sc; $o3 = $o }
+            else { $s4 = $sc; $o4 = $o }
+        }
     }
-    $sim = @($cands | Sort-Object s -Descending | Select-Object -First 4 | ForEach-Object { Card $_.o }) -join ""
+    $sim = ""
+    if ($o1) { $sim += $cardCache[$o1.id] }
+    if ($o2) { $sim += $cardCache[$o2.id] }
+    if ($o3) { $sim += $cardCache[$o3.id] }
+    if ($o4) { $sim += $cardCache[$o4.id] }
 
     $sourceHtml = $(if ($b.sourceUrl -match "^https?://") { '<a href="' + (H $b.sourceUrl) + '" target="_blank" rel="nofollow noopener">' + (H $S.source_prefix) + ': ' + (H $b.listing) + '</a>' } else { (H $S.source_none) })
     $priceNote = $(if ($b.isPriceNote) { (H $b.note) + ' ' + (H $S.price_note_default) } else { (H $S.price_note_default) })

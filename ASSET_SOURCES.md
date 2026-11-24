@@ -2148,3 +2148,2008 @@
 | `villa-sparina-gavi` | 빌라 스파리나, 가비 2024 | ./assets/images/villa-sparina-gavi.webp | [Dailyshot - 빌라 스파리나, 가비 2024](https://dailyshot.co/m/item/29392) | 2026-11-21 |
 | `castello-del-trebbio-castello-trebbio-chianti` | 카스텔로 델 트레비오 끼안티 수페리오레 | ./assets/images/castello-del-trebbio-castello-trebbio-chianti.webp | [Dailyshot - 카스텔로 델 트레비오 끼안티 수페리오레](https://dailyshot.co/m/item/26308) | 2026-11-21 |
 | `saint-clair-pioneer-block-riesling` | 생 클레어, 파이오니어 블락 리슬링 | ./assets/images/saint-clair-pioneer-block-riesling.webp | [Dailyshot - 생 클레어, 파이오니어 블락 리슬링](https://dailyshot.co/m/item/26006) | 2026-11-21 |
+
+## Verified Catalog Expansion Thumbnails (2026-11-24, +2000 items)
+
+| product_id | Name | Local Path | Source Page | Checked |
+|---|---|---|---|---|
+| `yellow-rose-premium-american-whiskey` | 옐로우 로즈 프리미엄 아메리칸 위스키 | ./assets/images/yellow-rose-premium-american-whiskey.webp | [Dailyshot - 옐로우 로즈 프리미엄 아메리칸 위스키](https://dailyshot.co/m/item/3500) | 2026-11-24 |
+| `nambu-bijin-tokubetsu-junmai` | 남부비진 토쿠베츠 준마이 | ./assets/images/nambu-bijin-tokubetsu-junmai.webp | [Dailyshot - 남부비진 토쿠베츠 준마이](https://dailyshot.co/m/item/22206) | 2026-11-24 |
+| `okane-gold-sake` | 오카네(금사케) | ./assets/images/okane-gold-sake.webp | [Dailyshot - 오카네(금사케)](https://dailyshot.co/m/item/4286) | 2026-11-24 |
+| `kaikyo-junmai-daiginjo` | 카이쿄 준마이 다이긴죠 | ./assets/images/kaikyo-junmai-daiginjo.webp | [Dailyshot - 카이쿄 준마이 다이긴죠](https://dailyshot.co/m/item/30843) | 2026-11-24 |
+| `hakutake-kaoru` | 하쿠타케 카오루 900ml | ./assets/images/hakutake-kaoru.webp | [Dailyshot - 하쿠타케 카오루 900ml](https://dailyshot.co/m/item/29220) | 2026-11-24 |
+| `highland-queen-sherry-cask-finish` | 하이랜드 퀸 셰리 캐스크 피니시 | ./assets/images/highland-queen-sherry-cask-finish.webp | [Dailyshot - 하이랜드 퀸 셰리 캐스크 피니시](https://dailyshot.co/m/item/16108) | 2026-11-24 |
+| `taylors-select-reserve-port` | 테일러 셀렉트 리저브 포트 와인 | ./assets/images/taylors-select-reserve-port.webp | [Dailyshot - 테일러 셀렉트 리저브 포트 와인](https://dailyshot.co/m/item/5623) | 2026-11-24 |
+| `lodali-moscato-dasti` | 로달리 모스카토 다스티 | ./assets/images/lodali-moscato-dasti.webp | [Dailyshot - 로달리 모스카토 다스티](https://dailyshot.co/m/item/13621) | 2026-11-24 |
+| `chusa50-batch-2-port-cask-finish` | 추사50 배치 2 포트 캐스크 피니시 | ./assets/images/chusa50-batch-2-port-cask-finish.webp | [Dailyshot - 추사50 배치 2 포트 캐스크 피니시](https://dailyshot.co/m/item/25847) | 2026-11-24 |
+| `heartland-shiraz` | 하트랜드 쉬라즈 | ./assets/images/heartland-shiraz.webp | [Dailyshot - 하트랜드 쉬라즈](https://dailyshot.co/m/item/10648) | 2026-11-24 |
+| `borrasca-cava-brut` | 보라스카 까바 브뤼 | ./assets/images/borrasca-cava-brut.webp | [Dailyshot - 보라스카 까바 브뤼](https://dailyshot.co/m/item/15746) | 2026-11-24 |
+| `wild-turkey-jimmy-russell-70th-release` | 와일드 터키 지미 러셀 70주년 릴리즈 | ./assets/images/wild-turkey-jimmy-russell-70th-release.webp | [Dailyshot - 와일드 터키 지미 러셀 70주년 릴리즈](https://dailyshot.co/m/item/24840) | 2026-11-24 |
+| `kaikyo-shimonoseki-spirit-of-445-junmai` | 카이쿄 시모노세키 SPIRIT OF 445 준마이 다이긴죠 | ./assets/images/kaikyo-shimonoseki-spirit-of-445-junmai.webp | [Dailyshot - 카이쿄 시모노세키 SPIRIT OF 445 준마이 다이긴죠](https://dailyshot.co/m/item/30844) | 2026-11-24 |
+| `ardbeg-traigh-bhan-19-batch-7` | 아드벡 트라이 반 19년 배치 7 | ./assets/images/ardbeg-traigh-bhan-19-batch-7.webp | [Dailyshot - 아드벡 트라이 반 19년 배치 7](https://dailyshot.co/m/item/28274) | 2026-11-24 |
+| `chusa-blue-port` | 추사 블루 포트 | ./assets/images/chusa-blue-port.webp | [Dailyshot - 추사 블루 포트](https://dailyshot.co/m/item/32690) | 2026-11-24 |
+| `chimay-grand-reserve-blue` | 시메이 그랑 리저브 블루 750ml | ./assets/images/chimay-grand-reserve-blue.webp | [Dailyshot - 시메이 그랑 리저브 블루 750ml](https://dailyshot.co/m/item/14942) | 2026-11-24 |
+| `cossetti-gelsomora-moscato-dasti` | 코세티 젤소모라 모스카토 다스티 | ./assets/images/cossetti-gelsomora-moscato-dasti.webp | [Dailyshot - 코세티 젤소모라 모스카토 다스티](https://dailyshot.co/m/item/13673) | 2026-11-24 |
+| `balvenie-12-golden-cask` | 발베니 12년 골든 캐스크 | ./assets/images/balvenie-12-golden-cask.webp | [Dailyshot - 발베니 12년 골든 캐스크](https://dailyshot.co/m/item/25647) | 2026-11-24 |
+| `balvenie-double-wood-17` | 발베니 더블우드 17년 | ./assets/images/balvenie-double-wood-17.webp | [Dailyshot - 발베니 더블우드 17년](https://dailyshot.co/m/item/3191) | 2026-11-24 |
+| `kamikawa-taisetsu-tokachi-junmai` | 카미카와 다이세츠 토카치 준마이 | ./assets/images/kamikawa-taisetsu-tokachi-junmai.webp | [Dailyshot - 카미카와 다이세츠 토카치 준마이](https://dailyshot.co/m/item/28272) | 2026-11-24 |
+| `the-macallan-18-double-cask` | 맥캘란 18년 더블 캐스크 2024 | ./assets/images/the-macallan-18-double-cask.webp | [Dailyshot - 맥캘란 18년 더블 캐스크 2024](https://dailyshot.co/m/item/23716) | 2026-11-24 |
+| `hunter-laing-scarbus-batch-strength` | 헌터랭 스카라버스 배치 스트렝스 | ./assets/images/hunter-laing-scarbus-batch-strength.webp | [Dailyshot - 헌터랭 스카라버스 배치 스트렝스](https://dailyshot.co/m/item/19039) | 2026-11-24 |
+| `clydebuilt-12-sherry-cask-100-proof` | 클라이드빌트 12년 셰리 캐스크 100 프루프 | ./assets/images/clydebuilt-12-sherry-cask-100-proof.webp | [Dailyshot - 클라이드빌트 12년 셰리 캐스크 100 프루프](https://dailyshot.co/m/item/38546) | 2026-11-24 |
+| `dalmore-vintage` | 달모어 2008 빈티지 | ./assets/images/dalmore-vintage.webp | [Dailyshot - 달모어 2008 빈티지](https://dailyshot.co/m/item/17701) | 2026-11-24 |
+| `aberlour-abunadh-batch-77` | 아벨라워 아부나흐 배치 77 | ./assets/images/aberlour-abunadh-batch-77.webp | [Dailyshot - 아벨라워 아부나흐 배치 77](https://dailyshot.co/m/item/20053) | 2026-11-24 |
+| `gran-passione` | 그랑 파씨오네 | ./assets/images/gran-passione.webp | [Dailyshot - 그랑 파씨오네](https://dailyshot.co/m/item/4012) | 2026-11-24 |
+| `signatory-edradour-10` | 시그나토리 2014 에드라두어 10년 | ./assets/images/signatory-edradour-10.webp | [Dailyshot - 시그나토리 2014 에드라두어 10년](https://dailyshot.co/m/item/23452) | 2026-11-24 |
+| `kankiku-ocean99-oumi-summer-sea-junmai` | 칸키쿠 Ocean99 오우미 Summer Sea 준마이 긴죠 | ./assets/images/kankiku-ocean99-oumi-summer-sea-junmai.webp | [Dailyshot - 칸키쿠 Ocean99 오우미 Summer Sea 준마이 긴죠](https://dailyshot.co/m/item/35880) | 2026-11-24 |
+| `glenmorangie-calvados-cask-finish-12` | 글렌모렌지 깔바도스 캐스크 피니시 12년 | ./assets/images/glenmorangie-calvados-cask-finish-12.webp | [Dailyshot - 글렌모렌지 깔바도스 캐스크 피니시 12년](https://dailyshot.co/m/item/20146) | 2026-11-24 |
+| `cane-and-grain-port-dundas-18` | 케인 앤 그레인 포트 던다스 18년 | ./assets/images/cane-and-grain-port-dundas-18.webp | [Dailyshot - 케인 앤 그레인 포트 던다스 18년](https://dailyshot.co/m/item/27325) | 2026-11-24 |
+| `starriver-tree-wine-rosso` | 스타리버 트리 와인 로쏘 | ./assets/images/starriver-tree-wine-rosso.webp | [Dailyshot - 스타리버 트리 와인 로쏘](https://dailyshot.co/m/item/18494) | 2026-11-24 |
+| `raasay-single-malt-whisky-batch-1` | 라세이 싱글몰트 위스키 배치 1(R-01) | ./assets/images/raasay-single-malt-whisky-batch-1.webp | [Dailyshot - 라세이 싱글몰트 위스키 배치 1(R-01)](https://dailyshot.co/m/item/4376) | 2026-11-24 |
+| `mcconnells-sherry-cask-finish` | 맥코넬스 셰리 캐스크 피니시 | ./assets/images/mcconnells-sherry-cask-finish.webp | [Dailyshot - 맥코넬스 셰리 캐스크 피니시](https://dailyshot.co/m/item/35979) | 2026-11-24 |
+| `grahams-natura-reserve` | 그라함 나뚜라 리저브 | ./assets/images/grahams-natura-reserve.webp | [Dailyshot - 그라함 나뚜라 리저브](https://dailyshot.co/m/item/18598) | 2026-11-24 |
+| `roche-mazet-chardonnay` | 로쉐 마제, 샤르도네 | ./assets/images/roche-mazet-chardonnay.webp | [Dailyshot - 로쉐 마제, 샤르도네](https://dailyshot.co/m/item/3149) | 2026-11-24 |
+| `kimsuhanmu-kaoliangju` | 김수한무 고량주 | ./assets/images/kimsuhanmu-kaoliangju.webp | [Dailyshot - 김수한무 고량주](https://dailyshot.co/m/item/16265) | 2026-11-24 |
+| `bodegas-valdelana-blanco-semidulce` | 파밀리아 발델라나 블랑코 세미 스위트 | ./assets/images/bodegas-valdelana-blanco-semidulce.webp | [Dailyshot - 파밀리아 발델라나 블랑코 세미 스위트](https://dailyshot.co/m/item/23961) | 2026-11-24 |
+| `glengoyne-cask-strength-batch-10` | 글렌고인 CS 배치 10 | ./assets/images/glengoyne-cask-strength-batch-10.webp | [Dailyshot - 글렌고인 CS 배치 10](https://dailyshot.co/m/item/17231) | 2026-11-24 |
+| `mr-blacks-little-book-shiraz` | 미스터 블랙스 리틀 북 쉬라즈 | ./assets/images/mr-blacks-little-book-shiraz.webp | [Dailyshot - 미스터 블랙스 리틀 북 쉬라즈](https://dailyshot.co/m/item/8187) | 2026-11-24 |
+| `hakurakusei-junmai-ginjo-omachi` | 하쿠라쿠세이 준마이 긴죠 오마치 | ./assets/images/hakurakusei-junmai-ginjo-omachi.webp | [Dailyshot - 하쿠라쿠세이 준마이 긴죠 오마치](https://dailyshot.co/m/item/30842) | 2026-11-24 |
+| `jeonju-leegangju` | 전주 이강주 | ./assets/images/jeonju-leegangju.webp | [Dailyshot - 전주 이강주](https://dailyshot.co/m/item/5001) | 2026-11-24 |
+| `taiwan-kaoliang-liquor-53` | 대도 금문도 53% 천고 | ./assets/images/taiwan-kaoliang-liquor-53.webp | [Dailyshot - 대도 금문도 53% 천고](https://dailyshot.co/m/item/10211) | 2026-11-24 |
+| `sierra-tequila-reposado` | 씨에라 데킬라 레포사도 | ./assets/images/sierra-tequila-reposado.webp | [Dailyshot - 씨에라 데킬라 레포사도](https://dailyshot.co/m/item/3234) | 2026-11-24 |
+| `veritas-rum` | 베리타스 럼 | ./assets/images/veritas-rum.webp | [Dailyshot - 베리타스 럼](https://dailyshot.co/m/item/3852) | 2026-11-24 |
+| `tenbi-yukiten-junmai-ginjo-nigori` | 텐비 유키텐 준마이 긴죠 니고리 | ./assets/images/tenbi-yukiten-junmai-ginjo-nigori.webp | [Dailyshot - 텐비 유키텐 준마이 긴죠 니고리](https://dailyshot.co/m/item/30876) | 2026-11-24 |
+| `dalmore-18` | 달모어 18년 | ./assets/images/dalmore-18.webp | [Dailyshot - 달모어 18년](https://dailyshot.co/m/item/14457) | 2026-11-24 |
+| `patron-reposado` | 페트론 레포사도 750ml | ./assets/images/patron-reposado.webp | [Dailyshot - 페트론 레포사도 750ml](https://dailyshot.co/m/item/4930) | 2026-11-24 |
+| `taiwan-kaoliang-liquor-38` | 대도 금문도 38% | ./assets/images/taiwan-kaoliang-liquor-38.webp | [Dailyshot - 대도 금문도 38%](https://dailyshot.co/m/item/10207) | 2026-11-24 |
+| `1800-anejo-38` | 1800 아네호 38% | ./assets/images/1800-anejo-38.webp | [Dailyshot - 1800 아네호 38%](https://dailyshot.co/m/item/23079) | 2026-11-24 |
+| `la-baronniere-rose-danjou` | 라 바로니에르 로제 당주 | ./assets/images/la-baronniere-rose-danjou.webp | [Dailyshot - 라 바로니에르 로제 당주](https://dailyshot.co/m/item/27889) | 2026-11-24 |
+| `minsokju-andong-soju` | 민속주 안동소주 400ml | ./assets/images/minsokju-andong-soju.webp | [Dailyshot - 민속주 안동소주 400ml](https://dailyshot.co/m/item/15721) | 2026-11-24 |
+| `kankoubai-junmai-ginjo-yamadanishiki-50` | 칸코우바이 준마이 긴죠 야마다니시키 50 | ./assets/images/kankoubai-junmai-ginjo-yamadanishiki-50.webp | [Dailyshot - 칸코우바이 준마이 긴죠 야마다니시키 50](https://dailyshot.co/m/item/31601) | 2026-11-24 |
+| `the-glendronach-cask-bottling-30` | 더 글렌드로낙 캐스크 바틀링 1993 30년 | ./assets/images/the-glendronach-cask-bottling-30.webp | [Dailyshot - 더 글렌드로낙 캐스크 바틀링 1993 30년](https://dailyshot.co/m/item/23433) | 2026-11-24 |
+| `wild-turkey-masters-keep-triumph` | 와일드 터키 마스터스 킵 트라이엄프 | ./assets/images/wild-turkey-masters-keep-triumph.webp | [Dailyshot - 와일드 터키 마스터스 킵 트라이엄프](https://dailyshot.co/m/item/25132) | 2026-11-24 |
+| `suntory-kanade-white-peach` | 산토리 카나데 하쿠토(백도) | ./assets/images/suntory-kanade-white-peach.webp | [Dailyshot - 산토리 카나데 하쿠토(백도)](https://dailyshot.co/m/item/33179) | 2026-11-24 |
+| `suntory-prusia-liqueur` | 산토리 프루시아 리큐르 | ./assets/images/suntory-prusia-liqueur.webp | [Dailyshot - 산토리 프루시아 리큐르](https://dailyshot.co/m/item/35737) | 2026-11-24 |
+| `balbi-soprani-asti` | 발비 소프라니 아스티 | ./assets/images/balbi-soprani-asti.webp | [Dailyshot - 발비 소프라니 아스티](https://dailyshot.co/m/item/4059) | 2026-11-24 |
+| `laphroaig-elements-l2-0` | 라프로익 엘리먼츠 L2.0 | ./assets/images/laphroaig-elements-l2-0.webp | [Dailyshot - 라프로익 엘리먼츠 L2.0](https://dailyshot.co/m/item/22757) | 2026-11-24 |
+| `juan-gil-yellow-label` | 후안길 옐로우 라벨 | ./assets/images/juan-gil-yellow-label.webp | [Dailyshot - 후안길 옐로우 라벨](https://dailyshot.co/m/item/4211) | 2026-11-24 |
+| `tiki-single-vineyard-chardonnay` | 티키 싱글 빈야드 샤르도네 | ./assets/images/tiki-single-vineyard-chardonnay.webp | [Dailyshot - 티키 싱글 빈야드 샤르도네](https://dailyshot.co/m/item/31014) | 2026-11-24 |
+| `oshaberi-kujira-maroyaka-fruity` | 오샤베리 쿠지라 라이트 앤 프루티 | ./assets/images/oshaberi-kujira-maroyaka-fruity.webp | [Dailyshot - 오샤베리 쿠지라 라이트 앤 프루티](https://dailyshot.co/m/item/11141) | 2026-11-24 |
+| `bols-peppermint-green` | 볼스 페퍼민트 그린 | ./assets/images/bols-peppermint-green.webp | [Dailyshot - 볼스 페퍼민트 그린](https://dailyshot.co/m/item/6437) | 2026-11-24 |
+| `ballantines-masters` | 발렌타인 마스터즈 500ml | ./assets/images/ballantines-masters.webp | [Dailyshot - 발렌타인 마스터즈 500ml](https://dailyshot.co/m/item/3221) | 2026-11-24 |
+| `warawooichinichi-shochu` | 와라우이치니치 '웃는 하루' 소주 | ./assets/images/warawooichinichi-shochu.webp | [Dailyshot - 와라우이치니치 '웃는 하루' 소주](https://dailyshot.co/m/item/35948) | 2026-11-24 |
+| `balvenie-single-barrel-21` | 발베니 싱글배럴 21년 | ./assets/images/balvenie-single-barrel-21.webp | [Dailyshot - 발베니 싱글배럴 21년](https://dailyshot.co/m/item/6118) | 2026-11-24 |
+| `neungi-ju` | 능이주 750ml | ./assets/images/neungi-ju.webp | [Dailyshot - 능이주 750ml](https://dailyshot.co/m/item/15694) | 2026-11-24 |
+| `signatory-bunnahabhain-9-cs` | 시그나토리 2012 부나하벤 9년 CS | ./assets/images/signatory-bunnahabhain-9-cs.webp | [Dailyshot - 시그나토리 2012 부나하벤 9년 CS](https://dailyshot.co/m/item/6762) | 2026-11-24 |
+| `highland-park-15` | 하이랜드 파크 15년 | ./assets/images/highland-park-15.webp | [Dailyshot - 하이랜드 파크 15년](https://dailyshot.co/m/item/29785) | 2026-11-24 |
+| `hi-nikka-mild` | 하이 닛카 마일드 | ./assets/images/hi-nikka-mild.webp | [Dailyshot - 하이 닛카 마일드](https://dailyshot.co/m/item/36415) | 2026-11-24 |
+| `penfolds-bin-8-cabernet-shiraz` | 펜폴즈 빈 8 까베르네 쉬라즈 | ./assets/images/penfolds-bin-8-cabernet-shiraz.webp | [Dailyshot - 펜폴즈 빈 8 까베르네 쉬라즈](https://dailyshot.co/m/item/7075) | 2026-11-24 |
+| `benromach-12-sherry` | 벤로막 12년 셰리 | ./assets/images/benromach-12-sherry.webp | [Dailyshot - 벤로막 12년 셰리](https://dailyshot.co/m/item/40404) | 2026-11-24 |
+| `caledonia-edradour-12` | 칼레도니아 에드라두어 12년 | ./assets/images/caledonia-edradour-12.webp | [Dailyshot - 칼레도니아 에드라두어 12년](https://dailyshot.co/m/item/6768) | 2026-11-24 |
+| `glenmorangie-x` | 글렌모렌지 엑스 | ./assets/images/glenmorangie-x.webp | [Dailyshot - 글렌모렌지 엑스](https://dailyshot.co/m/item/4578) | 2026-11-24 |
+| `hakkaisan-junmai-daiginjo-yukinonakanosake` | 핫카이산 준마이 다이긴죠 유키노나카노사케 | ./assets/images/hakkaisan-junmai-daiginjo-yukinonakanosake.webp | [Dailyshot - 핫카이산 준마이 다이긴죠 유키노나카노사케](https://dailyshot.co/m/item/34634) | 2026-11-24 |
+| `toppling-goliath-king-sue` | 토플링 골리앗 킹 수 | ./assets/images/toppling-goliath-king-sue.webp | [Dailyshot - 토플링 골리앗 킹 수](https://dailyshot.co/m/item/6189) | 2026-11-24 |
+| `captain-morgan-spiced-gold-rum` | 캡틴 모건 스파이스드 골드럼 | ./assets/images/captain-morgan-spiced-gold-rum.webp | [Dailyshot - 캡틴 모건 스파이스드 골드럼](https://dailyshot.co/m/item/8554) | 2026-11-24 |
+| `nabeshima-junmai-daiginjo-classic-yokawayamadanishiki` | 나베시마 준마이 다이긴죠 클래식 요카와야마다니시키 | ./assets/images/nabeshima-junmai-daiginjo-classic-yokawayamadanishiki.webp | [Dailyshot - 나베시마 준마이 다이긴죠 클래식 요카와야마다니시키](https://dailyshot.co/m/item/35236) | 2026-11-24 |
+| `sakamai-kikusui-junmai-daiginjo` | 사카마이 키쿠스이 준마이 다이긴죠 | ./assets/images/sakamai-kikusui-junmai-daiginjo.webp | [Dailyshot - 사카마이 키쿠스이 준마이 다이긴죠](https://dailyshot.co/m/item/13233) | 2026-11-24 |
+| `mairingen-fresh-craft-gin` | 마이린겐 프레쉬 크래프트 진 | ./assets/images/mairingen-fresh-craft-gin.webp | [Dailyshot - 마이린겐 프레쉬 크래프트 진](https://dailyshot.co/m/item/30068) | 2026-11-24 |
+| `houou-biden-ichigo-strawberry` | 호오비덴 이치고(딸기) | ./assets/images/houou-biden-ichigo-strawberry.webp | [Dailyshot - 호오비덴 이치고(딸기)](https://dailyshot.co/m/item/25133) | 2026-11-24 |
+| `pseudo-sue` | 수도 수 | ./assets/images/pseudo-sue.webp | [Dailyshot - 수도 수](https://dailyshot.co/m/item/11848) | 2026-11-24 |
+| `henri-giraud-nouvel-esprit-nature-g` | 앙리 지로 누벨 에스쁘리 나뚜르 G 브뤼 | ./assets/images/henri-giraud-nouvel-esprit-nature-g.webp | [Dailyshot - 앙리 지로 누벨 에스쁘리 나뚜르 G 브뤼](https://dailyshot.co/m/item/23418) | 2026-11-24 |
+| `weller-full-proof` | 웰러 풀 프루프 | ./assets/images/weller-full-proof.webp | [Dailyshot - 웰러 풀 프루프](https://dailyshot.co/m/item/15355) | 2026-11-24 |
+| `templeton-midnight-rye-bleneded-with-dark` | 템플턴 미드나잇 라이 | ./assets/images/templeton-midnight-rye-bleneded-with-dark.webp | [Dailyshot - 템플턴 미드나잇 라이](https://dailyshot.co/m/item/23943) | 2026-11-24 |
+| `signatory-bunnahabhain-8-100-proof` | 시그나토리 2016 부나하벤 8년 100 프루프 | ./assets/images/signatory-bunnahabhain-8-100-proof.webp | [Dailyshot - 시그나토리 2016 부나하벤 8년 100 프루프](https://dailyshot.co/m/item/25775) | 2026-11-24 |
+| `takashimizu-junmai-daiginjo` | 다카시미즈 준마이 다이긴죠 | ./assets/images/takashimizu-junmai-daiginjo.webp | [Dailyshot - 다카시미즈 준마이 다이긴죠](https://dailyshot.co/m/item/4987) | 2026-11-24 |
+| `aultmore-12-olroroso-sherry-finish` | 올트모어 12년 올로로쏘 셰리 피니시 500ml | ./assets/images/aultmore-12-olroroso-sherry-finish.webp | [Dailyshot - 올트모어 12년 올로로쏘 셰리 피니시 500ml](https://dailyshot.co/m/item/25650) | 2026-11-24 |
+| `yellowstone-select` | 옐로우스톤 셀렉트 | ./assets/images/yellowstone-select.webp | [Dailyshot - 옐로우스톤 셀렉트](https://dailyshot.co/m/item/3603) | 2026-11-24 |
+| `firkin-49-dailuaine` | 펄킨 49 달유인 | ./assets/images/firkin-49-dailuaine.webp | [Dailyshot - 펄킨 49 달유인](https://dailyshot.co/m/item/22947) | 2026-11-24 |
+| `domaine-roger-sabon-chateauneuf-du-pape` | 도멘 로저 사봉 CDP 올리베 | ./assets/images/domaine-roger-sabon-chateauneuf-du-pape.webp | [Dailyshot - 도멘 로저 사봉 CDP 올리베](https://dailyshot.co/m/item/7729) | 2026-11-24 |
+| `nagahama-single-malt-the-second-batch` | 나가하마 싱글몰트 세컨드 배치 | ./assets/images/nagahama-single-malt-the-second-batch.webp | [Dailyshot - 나가하마 싱글몰트 세컨드 배치](https://dailyshot.co/m/item/17919) | 2026-11-24 |
+| `gergenti-il-vero-siciliano` | 게르겐티 일 베로 시칠리아노 | ./assets/images/gergenti-il-vero-siciliano.webp | [Dailyshot - 게르겐티 일 베로 시칠리아노](https://dailyshot.co/m/item/25090) | 2026-11-24 |
+| `kazenomori-alpha-2-konouenakahana-nama` | 카제노모리 ALPHA 2 ~코노우에나키하나~ 나마 | ./assets/images/kazenomori-alpha-2-konouenakahana-nama.webp | [Dailyshot - 카제노모리 ALPHA 2 ~코노우에나키하나~ 나마](https://dailyshot.co/m/item/38216) | 2026-11-24 |
+| `laphroaig-elements-l1-0` | 라프로익 엘리먼츠 L1.0 | ./assets/images/laphroaig-elements-l1-0.webp | [Dailyshot - 라프로익 엘리먼츠 L1.0](https://dailyshot.co/m/item/23377) | 2026-11-24 |
+| `kaze-no-mori-alpha-type-5` | 카제노모리 알파 타입 5 | ./assets/images/kaze-no-mori-alpha-type-5.webp | [Dailyshot - 카제노모리 알파 타입 5](https://dailyshot.co/m/item/24933) | 2026-11-24 |
+| `kokuryu-kuzuryu-hiyashizake` | 코쿠류 쿠즈류 히야시자케 | ./assets/images/kokuryu-kuzuryu-hiyashizake.webp | [Dailyshot - 코쿠류 쿠즈류 히야시자케](https://dailyshot.co/m/item/27890) | 2026-11-24 |
+| `grey-goose-vodka-orange` | 그레이 구스 보드카 오렌지 | ./assets/images/grey-goose-vodka-orange.webp | [Dailyshot - 그레이 구스 보드카 오렌지](https://dailyshot.co/m/item/5553) | 2026-11-24 |
+| `bookers-02` | 부커스 2022-02 700ml | ./assets/images/bookers-02.webp | [Dailyshot - 부커스 2022-02 700ml](https://dailyshot.co/m/item/27756) | 2026-11-24 |
+| `glenfarclas-30` | 글렌파클라스 30년 | ./assets/images/glenfarclas-30.webp | [Dailyshot - 글렌파클라스 30년](https://dailyshot.co/m/item/5500) | 2026-11-24 |
+| `villa-cardea-limoncello-di-sorrento` | 빌라 까르데 리몬첼로 디 소렌토 | ./assets/images/villa-cardea-limoncello-di-sorrento.webp | [Dailyshot - 빌라 까르데 리몬첼로 디 소렌토](https://dailyshot.co/m/item/19036) | 2026-11-24 |
+| `el-tesoro-reposado` | 엘 테소로 레포사도 | ./assets/images/el-tesoro-reposado.webp | [Dailyshot - 엘 테소로 레포사도](https://dailyshot.co/m/item/20055) | 2026-11-24 |
+| `stolichnaya-gold` | 스톨리치나야 골드 | ./assets/images/stolichnaya-gold.webp | [Dailyshot - 스톨리치나야 골드](https://dailyshot.co/m/item/6057) | 2026-11-24 |
+| `senkin-classic-ichishiki` | 센킨 클래식 이치시키 | ./assets/images/senkin-classic-ichishiki.webp | [Dailyshot - 센킨 클래식 이치시키](https://dailyshot.co/m/item/26989) | 2026-11-24 |
+| `akabu-mountain` | 아카부 MOUNTAIN | ./assets/images/akabu-mountain.webp | [Dailyshot - 아카부 MOUNTAIN](https://dailyshot.co/m/item/28572) | 2026-11-24 |
+| `vaccari-sambuca` | 바카리 삼부카 | ./assets/images/vaccari-sambuca.webp | [Dailyshot - 바카리 삼부카](https://dailyshot.co/m/item/5557) | 2026-11-24 |
+| `nativo-overproof-108-rum` | 나티보 오버프루프 108 럼 | ./assets/images/nativo-overproof-108-rum.webp | [Dailyshot - 나티보 오버프루프 108 럼](https://dailyshot.co/m/item/15337) | 2026-11-24 |
+| `opus-one` | 오퍼스 원 2022 | ./assets/images/opus-one.webp | [Dailyshot - 오퍼스 원 2022](https://dailyshot.co/m/item/34312) | 2026-11-24 |
+| `starward-ginger-beer-cask-7-single` | 스타워드 진저 비어 캐스크 #7 싱글몰트 위스키 | ./assets/images/starward-ginger-beer-cask-7-single.webp | [Dailyshot - 스타워드 진저 비어 캐스크 #7 싱글몰트 위스키](https://dailyshot.co/m/item/7305) | 2026-11-24 |
+| `caol-ila-11-sr` | 쿨일라 11년 SR 2024 | ./assets/images/caol-ila-11-sr.webp | [Dailyshot - 쿨일라 11년 SR 2024](https://dailyshot.co/m/item/24498) | 2026-11-24 |
+| `brenne-10-french-single-malt-whisky` | 브렌 프렌치 싱글몰트 위스키 에스테이트 캐스크 | ./assets/images/brenne-10-french-single-malt-whisky.webp | [Dailyshot - 브렌 프렌치 싱글몰트 위스키 에스테이트 캐스크](https://dailyshot.co/m/item/16167) | 2026-11-24 |
+| `kamotsuru-daiginjo-gold` | 가모츠루 다이긴죠 골드 | ./assets/images/kamotsuru-daiginjo-gold.webp | [Dailyshot - 가모츠루 다이긴죠 골드](https://dailyshot.co/m/item/3287) | 2026-11-24 |
+| `starward-tawny-2-single-malt-whisky` | 스타워드 토니 #2 싱글몰트 위스키 | ./assets/images/starward-tawny-2-single-malt-whisky.webp | [Dailyshot - 스타워드 토니 #2 싱글몰트 위스키](https://dailyshot.co/m/item/7307) | 2026-11-24 |
+| `starward-octave-barrle-single-malt-whisky` | 스타워드 옥타브 배럴 싱글몰트 위스키 | ./assets/images/starward-octave-barrle-single-malt-whisky.webp | [Dailyshot - 스타워드 옥타브 배럴 싱글몰트 위스키](https://dailyshot.co/m/item/7308) | 2026-11-24 |
+| `la-vieille-ferme-sparkling-reserve-brut` | 라 비에이 페름 스파클링 리저브 브뤼 | ./assets/images/la-vieille-ferme-sparkling-reserve-brut.webp | [Dailyshot - 라 비에이 페름 스파클링 리저브 브뤼](https://dailyshot.co/m/item/38256) | 2026-11-24 |
+| `gekkeikan-jyosen-daru-sake` | 월계관 죠센 다루사케 | ./assets/images/gekkeikan-jyosen-daru-sake.webp | [Dailyshot - 월계관 죠센 다루사케](https://dailyshot.co/m/item/14582) | 2026-11-24 |
+| `lambay-single-malt` | 람베이 싱글몰트 | ./assets/images/lambay-single-malt.webp | [Dailyshot - 람베이 싱글몰트](https://dailyshot.co/m/item/3572) | 2026-11-24 |
+| `tenuta-garetto-moscato-dasti` | 테누타 가레토 모스카토 다스티 | ./assets/images/tenuta-garetto-moscato-dasti.webp | [Dailyshot - 테누타 가레토 모스카토 다스티](https://dailyshot.co/m/item/19383) | 2026-11-24 |
+| `born-tokishirazu-junmai-ginjo` | 본 토키시라즈 준마이 긴죠 | ./assets/images/born-tokishirazu-junmai-ginjo.webp | [Dailyshot - 본 토키시라즈 준마이 긴죠](https://dailyshot.co/m/item/33011) | 2026-11-24 |
+| `west-cork-single-malt-port-cask` | 웨스트콕 포트 캐스크 피니시 | ./assets/images/west-cork-single-malt-port-cask.webp | [Dailyshot - 웨스트콕 포트 캐스크 피니시](https://dailyshot.co/m/item/4173) | 2026-11-24 |
+| `turntable-bittersweet-symphony` | 턴테이블 비터스윗 심포니 | ./assets/images/turntable-bittersweet-symphony.webp | [Dailyshot - 턴테이블 비터스윗 심포니](https://dailyshot.co/m/item/24033) | 2026-11-24 |
+| `matsui-blended-whisky-the-san-in` | 마쓰이 산인 | ./assets/images/matsui-blended-whisky-the-san-in.webp | [Dailyshot - 마쓰이 산인](https://dailyshot.co/m/item/4907) | 2026-11-24 |
+| `signatory-caol-ila-9-100-proof` | 시그나토리 2015 쿨일라 9년 100 프루프 | ./assets/images/signatory-caol-ila-9-100-proof.webp | [Dailyshot - 시그나토리 2015 쿨일라 9년 100 프루프](https://dailyshot.co/m/item/24287) | 2026-11-24 |
+| `the-bitter-truth-violet-liqueur` | 더 비터 트루스 바이올렛 리큐르 | ./assets/images/the-bitter-truth-violet-liqueur.webp | [Dailyshot - 더 비터 트루스 바이올렛 리큐르](https://dailyshot.co/m/item/15824) | 2026-11-24 |
+| `imo-shochu-nanshudenraku` | 고구마 소주 난슈덴라쿠 | ./assets/images/imo-shochu-nanshudenraku.webp | [Dailyshot - 고구마 소주 난슈덴라쿠](https://dailyshot.co/m/item/13376) | 2026-11-24 |
+| `dalwhinnie-winters-gold` | 달위니 윈터스 골드 | ./assets/images/dalwhinnie-winters-gold.webp | [Dailyshot - 달위니 윈터스 골드](https://dailyshot.co/m/item/4549) | 2026-11-24 |
+| `tomatin-16-moscatel-wine-casks` | 토마틴 16년 모스카텔 와인 캐스크 | ./assets/images/tomatin-16-moscatel-wine-casks.webp | [Dailyshot - 토마틴 16년 모스카텔 와인 캐스크](https://dailyshot.co/m/item/7138) | 2026-11-24 |
+| `blackadder-raw-cask-glencadam-single-cask` | 블랙애더 로우 캐스크 디스틸러리 글렌카담 싱글 캐스크 2011년 by 'DaL DaL' | ./assets/images/blackadder-raw-cask-glencadam-single-cask.webp | [Dailyshot - 블랙애더 로우 캐스크 디스틸러리 글렌카담 싱글 캐스크 2011년 by 'DaL DaL'](https://dailyshot.co/m/item/6091) | 2026-11-24 |
+| `elijah-craig-barrel-proof-b522` | 일라이저 크레이그 배럴 프루프 B522 | ./assets/images/elijah-craig-barrel-proof-b522.webp | [Dailyshot - 일라이저 크레이그 배럴 프루프 B522](https://dailyshot.co/m/item/10343) | 2026-11-24 |
+| `kavalan-podium` | 카발란 포디움 | ./assets/images/kavalan-podium.webp | [Dailyshot - 카발란 포디움](https://dailyshot.co/m/item/25852) | 2026-11-24 |
+| `hunter-laing-hepburns-choice-glentauchers-10` | 헌터랭 햅번스 초이스 글렌토커스 10년 | ./assets/images/hunter-laing-hepburns-choice-glentauchers-10.webp | [Dailyshot - 헌터랭 햅번스 초이스 글렌토커스 10년](https://dailyshot.co/m/item/6809) | 2026-11-24 |
+| `himukano-kurouma-barley-shochu` | 쿠로우마 장기숙성 보리 소츄 | ./assets/images/himukano-kurouma-barley-shochu.webp | [Dailyshot - 쿠로우마 장기숙성 보리 소츄](https://dailyshot.co/m/item/9324) | 2026-11-24 |
+| `springbank-5-100-proof` | 스프링뱅크 5년 100프루프 | ./assets/images/springbank-5-100-proof.webp | [Dailyshot - 스프링뱅크 5년 100프루프](https://dailyshot.co/m/item/31823) | 2026-11-24 |
+| `dingle-single-pot-still-whiskey-batch` | 딩글 싱글 팟 스틸 위스키 배치 5 | ./assets/images/dingle-single-pot-still-whiskey-batch.webp | [Dailyshot - 딩글 싱글 팟 스틸 위스키 배치 5](https://dailyshot.co/m/item/6856) | 2026-11-24 |
+| `red-breast-12-cask-strength` | 레드 브레스트 12년 캐스크 스트렝스 | ./assets/images/red-breast-12-cask-strength.webp | [Dailyshot - 레드 브레스트 12년 캐스크 스트렝스](https://dailyshot.co/m/item/23429) | 2026-11-24 |
+| `glen-garioch-batch-12` | 글렌 기어리 1997 배치 12 | ./assets/images/glen-garioch-batch-12.webp | [Dailyshot - 글렌 기어리 1997 배치 12](https://dailyshot.co/m/item/30448) | 2026-11-24 |
+| `signatory-craigellachie-16-1st-fill-bourbon` | 시그나토리 2009 크라이겔라키 16년 퍼스트 필 버번 배럴 | ./assets/images/signatory-craigellachie-16-1st-fill-bourbon.webp | [Dailyshot - 시그나토리 2009 크라이겔라키 16년 퍼스트 필 버번 배럴](https://dailyshot.co/m/item/38830) | 2026-11-24 |
+| `e-h-taylor-straight-rye` | E.H. 테일러 스트레이트 라이 | ./assets/images/e-h-taylor-straight-rye.webp | [Dailyshot - E.H. 테일러 스트레이트 라이](https://dailyshot.co/m/item/5396) | 2026-11-24 |
+| `duncan-taylor-glenallachie-14` | 던컨 테일러 글렌알라키 2008 14년 | ./assets/images/duncan-taylor-glenallachie-14.webp | [Dailyshot - 던컨 테일러 글렌알라키 2008 14년](https://dailyshot.co/m/item/30381) | 2026-11-24 |
+| `sakurao-gin-original` | 사쿠라오 진 오리지널 | ./assets/images/sakurao-gin-original.webp | [Dailyshot - 사쿠라오 진 오리지널](https://dailyshot.co/m/item/36686) | 2026-11-24 |
+| `sakurao-gin-white` | 사쿠라오 진 화이트 | ./assets/images/sakurao-gin-white.webp | [Dailyshot - 사쿠라오 진 화이트](https://dailyshot.co/m/item/37084) | 2026-11-24 |
+| `dr-loosen-blue-slate-riesling-dry` | 닥터루젠 블루 슬레이트 리슬링 드라이 | ./assets/images/dr-loosen-blue-slate-riesling-dry.webp | [Dailyshot - 닥터루젠 블루 슬레이트 리슬링 드라이](https://dailyshot.co/m/item/21098) | 2026-11-24 |
+| `sakurao-single-malt-japanese-whiskey` | 사쿠라오 싱글몰트 재패니즈 위스키 | ./assets/images/sakurao-single-malt-japanese-whiskey.webp | [Dailyshot - 사쿠라오 싱글몰트 재패니즈 위스키](https://dailyshot.co/m/item/28231) | 2026-11-24 |
+| `royal-brackla-25` | 로얄 브라클라 25년 | ./assets/images/royal-brackla-25.webp | [Dailyshot - 로얄 브라클라 25년](https://dailyshot.co/m/item/32956) | 2026-11-24 |
+| `portie-fine-ruby` | 포티 파인 루비 | ./assets/images/portie-fine-ruby.webp | [Dailyshot - 포티 파인 루비](https://dailyshot.co/m/item/10489) | 2026-11-24 |
+| `casano-marsala-fine-antichi-vagli` | 카사노 마르살라 피네 안티키 베글리 1L | ./assets/images/casano-marsala-fine-antichi-vagli.webp | [Dailyshot - 카사노 마르살라 피네 안티키 베글리 1L](https://dailyshot.co/m/item/35807) | 2026-11-24 |
+| `schloss-johannisberg-goldlack-riesling-trocken` | 슐로스 요하니스베르그 골드락 리슬링 트로켄 | ./assets/images/schloss-johannisberg-goldlack-riesling-trocken.webp | [Dailyshot - 슐로스 요하니스베르그 골드락 리슬링 트로켄](https://dailyshot.co/m/item/23116) | 2026-11-24 |
+| `tamdhu-batch-strength-batch-no-008` | 탐두 배치 스트렝스 배치 넘버 008 | ./assets/images/tamdhu-batch-strength-batch-no-008.webp | [Dailyshot - 탐두 배치 스트렝스 배치 넘버 008](https://dailyshot.co/m/item/18043) | 2026-11-24 |
+| `buffalo-trace-single-barrel-select-by` | 버팔로 트레이스 싱글배럴 셀렉트 바이 비바라비다 (14-L-26-O-4-12-220) | ./assets/images/buffalo-trace-single-barrel-select-by.webp | [Dailyshot - 버팔로 트레이스 싱글배럴 셀렉트 바이 비바라비다 (14-L-26-O-4-12-220)](https://dailyshot.co/m/item/17014) | 2026-11-24 |
+| `f-lix-sol-s-mucho-m` | 무초 마스 블랙 라벨 | ./assets/images/f-lix-sol-s-mucho-m.webp | [Dailyshot - 무초 마스 블랙 라벨](https://dailyshot.co/m/item/10839) | 2026-11-24 |
+| `taketsuru-pure-malt-grande` | 타케츠루 퓨어 몰트 그란데 | ./assets/images/taketsuru-pure-malt-grande.webp | [Dailyshot - 타케츠루 퓨어 몰트 그란데](https://dailyshot.co/m/item/32909) | 2026-11-24 |
+| `clynelish-18-sr` | 크라이넬리쉬 18년 SR 2025 | ./assets/images/clynelish-18-sr.webp | [Dailyshot - 크라이넬리쉬 18년 SR 2025](https://dailyshot.co/m/item/34619) | 2026-11-24 |
+| `sekitoba-yuzu` | 세키토바 유즈 | ./assets/images/sekitoba-yuzu.webp | [Dailyshot - 세키토바 유즈](https://dailyshot.co/m/item/17905) | 2026-11-24 |
+| `muroka-gohei-imo-shochu` | 무로카 고헤이 고구마 소주 900ml | ./assets/images/muroka-gohei-imo-shochu.webp | [Dailyshot - 무로카 고헤이 고구마 소주 900ml](https://dailyshot.co/m/item/27799) | 2026-11-24 |
+| `kilkerran-16` | 킬커란 16년 | ./assets/images/kilkerran-16.webp | [Dailyshot - 킬커란 16년](https://dailyshot.co/m/item/7566) | 2026-11-24 |
+| `glen-scotia-9-campbeltown-malts-festival` | 글렌스코샤 9년 캠벨타운 몰트 페스티벌 2024 | ./assets/images/glen-scotia-9-campbeltown-malts-festival.webp | [Dailyshot - 글렌스코샤 9년 캠벨타운 몰트 페스티벌 2024](https://dailyshot.co/m/item/22811) | 2026-11-24 |
+| `clos-du-val-merlot` | 끌로 뒤 발, 메를로 | ./assets/images/clos-du-val-merlot.webp | [Dailyshot - 끌로 뒤 발, 메를로](https://dailyshot.co/m/item/5304) | 2026-11-24 |
+| `tarapaca-gran-reserva-cabernet-sauvignon` | 타라파카 그랑 리제르바 까베르네 소비뇽 | ./assets/images/tarapaca-gran-reserva-cabernet-sauvignon.webp | [Dailyshot - 타라파카 그랑 리제르바 까베르네 소비뇽](https://dailyshot.co/m/item/8127) | 2026-11-24 |
+| `bruichladdich-islay-barley` | 브룩라디 아일라 발리 2013 | ./assets/images/bruichladdich-islay-barley.webp | [Dailyshot - 브룩라디 아일라 발리 2013](https://dailyshot.co/m/item/7702) | 2026-11-24 |
+| `santa-rita-triple-c` | 산타리타 트리플 C | ./assets/images/santa-rita-triple-c.webp | [Dailyshot - 산타리타 트리플 C](https://dailyshot.co/m/item/7937) | 2026-11-24 |
+| `aberlour-abunadh-batch-84` | 아벨라워 아부나흐 배치 84 | ./assets/images/aberlour-abunadh-batch-84.webp | [Dailyshot - 아벨라워 아부나흐 배치 84](https://dailyshot.co/m/item/31966) | 2026-11-24 |
+| `kilkerran-heavily-peated-batch-12` | 킬커란 헤빌리 피티드 배치 12 | ./assets/images/kilkerran-heavily-peated-batch-12.webp | [Dailyshot - 킬커란 헤빌리 피티드 배치 12](https://dailyshot.co/m/item/30388) | 2026-11-24 |
+| `iter-pinot-noir` | 이터 피노 누아 | ./assets/images/iter-pinot-noir.webp | [Dailyshot - 이터 피노 누아](https://dailyshot.co/m/item/11454) | 2026-11-24 |
+| `dailuaine-21-sr` | 달유인 21년 SR 2025 | ./assets/images/dailuaine-21-sr.webp | [Dailyshot - 달유인 21년 SR 2025](https://dailyshot.co/m/item/31992) | 2026-11-24 |
+| `barrell-dovetail` | 바렐 도브테일 | ./assets/images/barrell-dovetail.webp | [Dailyshot - 바렐 도브테일](https://dailyshot.co/m/item/14956) | 2026-11-24 |
+| `clonakilty-port-cask-irish-whiskey` | 클로나킬티 포트 캐스크 아이리시 위스키 | ./assets/images/clonakilty-port-cask-irish-whiskey.webp | [Dailyshot - 클로나킬티 포트 캐스크 아이리시 위스키](https://dailyshot.co/m/item/28341) | 2026-11-24 |
+| `lapostolle-dalamel-reserva-cabernet-sauvignon` | 라포스톨, 달라멜 리제르바 까베르네 소비뇽 | ./assets/images/lapostolle-dalamel-reserva-cabernet-sauvignon.webp | [Dailyshot - 라포스톨, 달라멜 리제르바 까베르네 소비뇽](https://dailyshot.co/m/item/16725) | 2026-11-24 |
+| `santa-ema-select-terroir-reserva-merlot` | 산타 에마 셀렉트 떼루아 리제르바, 메를로 | ./assets/images/santa-ema-select-terroir-reserva-merlot.webp | [Dailyshot - 산타 에마 셀렉트 떼루아 리제르바, 메를로](https://dailyshot.co/m/item/3790) | 2026-11-24 |
+| `devaux-cuvee-d-brut` | 드보 뀌베 디 브뤼 | ./assets/images/devaux-cuvee-d-brut.webp | [Dailyshot - 드보 뀌베 디 브뤼](https://dailyshot.co/m/item/7941) | 2026-11-24 |
+| `mollydooker-carnival-of-love` | 몰리두커, 카니발 오브 러브 | ./assets/images/mollydooker-carnival-of-love.webp | [Dailyshot - 몰리두커, 카니발 오브 러브](https://dailyshot.co/m/item/10396) | 2026-11-24 |
+| `balvenie-17-week-of-peat` | 발베니 17년 위크 오브 피트 | ./assets/images/balvenie-17-week-of-peat.webp | [Dailyshot - 발베니 17년 위크 오브 피트](https://dailyshot.co/m/item/12591) | 2026-11-24 |
+| `miyakanbai-junmai-daiginjo-jeisen-40` | 미야칸바이 준마이 다이긴죠 제이센 40% | ./assets/images/miyakanbai-junmai-daiginjo-jeisen-40.webp | [Dailyshot - 미야칸바이 준마이 다이긴죠 제이센 40%](https://dailyshot.co/m/item/31521) | 2026-11-24 |
+| `pascal-cotat-sancerre-la-grande-cote` | 파스칼 코타, 상세르 라 그랑 꼬뜨 2024 | ./assets/images/pascal-cotat-sancerre-la-grande-cote.webp | [Dailyshot - 파스칼 코타, 상세르 라 그랑 꼬뜨 2024](https://dailyshot.co/m/item/31447) | 2026-11-24 |
+| `wolf-blass-eaglehawk-shiraz` | 울프 블라스 이글호크 쉬라즈 | ./assets/images/wolf-blass-eaglehawk-shiraz.webp | [Dailyshot - 울프 블라스 이글호크 쉬라즈](https://dailyshot.co/m/item/28879) | 2026-11-24 |
+| `springbank-10-sherry-wood-px-cask` | 스프링뱅크 10년 셰리 우드 PX 캐스크 | ./assets/images/springbank-10-sherry-wood-px-cask.webp | [Dailyshot - 스프링뱅크 10년 셰리 우드 PX 캐스크](https://dailyshot.co/m/item/11330) | 2026-11-24 |
+| `the-balvenie-12-year-old-a` | 발베니 12년 큐리어스 캐스크 | ./assets/images/the-balvenie-12-year-old-a.webp | [Dailyshot - 발베니 12년 큐리어스 캐스크](https://dailyshot.co/m/item/36798) | 2026-11-24 |
+| `redwood-empire-whiskey-bourbon-pipe-dream` | 레드우드 엠파이어 위스키 버번(파이프 드림) | ./assets/images/redwood-empire-whiskey-bourbon-pipe-dream.webp | [Dailyshot - 레드우드 엠파이어 위스키 버번(파이프 드림)](https://dailyshot.co/m/item/19253) | 2026-11-24 |
+| `mungyeong-baram-oak-cs-55` | 문경바람 오크 CS 55% | ./assets/images/mungyeong-baram-oak-cs-55.webp | [Dailyshot - 문경바람 오크 CS 55%](https://dailyshot.co/m/item/30707) | 2026-11-24 |
+| `signatory-speyside-m-13-100-proof` | 시그나토리 2011 스페이사이드(M) 13년 100 프루프 | ./assets/images/signatory-speyside-m-13-100-proof.webp | [Dailyshot - 시그나토리 2011 스페이사이드(M) 13년 100 프루프](https://dailyshot.co/m/item/27111) | 2026-11-24 |
+| `the-prisoner-unshackled-cabernet-sauvignon` | 더 프리즈너, 언쉐클드 까베르네 소비뇽 | ./assets/images/the-prisoner-unshackled-cabernet-sauvignon.webp | [Dailyshot - 더 프리즈너, 언쉐클드 까베르네 소비뇽](https://dailyshot.co/m/item/12209) | 2026-11-24 |
+| `croft-fine-ruby-port` | 크로프트 파인 루비 포트 | ./assets/images/croft-fine-ruby-port.webp | [Dailyshot - 크로프트 파인 루비 포트](https://dailyshot.co/m/item/8547) | 2026-11-24 |
+| `kopke-dry-white-porto` | 콥케 드라이 화이트 포트 | ./assets/images/kopke-dry-white-porto.webp | [Dailyshot - 콥케 드라이 화이트 포트](https://dailyshot.co/m/item/8135) | 2026-11-24 |
+| `biwaltz-boshe` | 비왈츠 보쉐 | ./assets/images/biwaltz-boshe.webp | [Dailyshot - 비왈츠 보쉐](https://dailyshot.co/m/item/32836) | 2026-11-24 |
+| `diablo-chardonnay` | 디아블로 샤르도네 | ./assets/images/diablo-chardonnay.webp | [Dailyshot - 디아블로 샤르도네](https://dailyshot.co/m/item/11040) | 2026-11-24 |
+| `saint-clair-pioneer-block-sauvignon-blanc` | 생 클레어, 파이오니어 블락 소비뇽 블랑 | ./assets/images/saint-clair-pioneer-block-sauvignon-blanc.webp | [Dailyshot - 생 클레어, 파이오니어 블락 소비뇽 블랑](https://dailyshot.co/m/item/9554) | 2026-11-24 |
+| `torres-mas-la-plana` | 토레스, 마스 라 플라나 | ./assets/images/torres-mas-la-plana.webp | [Dailyshot - 토레스, 마스 라 플라나](https://dailyshot.co/m/item/11831) | 2026-11-24 |
+| `ilpoom-jinro-heritage` | 일품진로 1924 헤리티지 | ./assets/images/ilpoom-jinro-heritage.webp | [Dailyshot - 일품진로 1924 헤리티지](https://dailyshot.co/m/item/39161) | 2026-11-24 |
+| `grgich-hills-napa-valley-chardonnay` | 그르기치 힐스 나파 밸리 샤르도네 | ./assets/images/grgich-hills-napa-valley-chardonnay.webp | [Dailyshot - 그르기치 힐스 나파 밸리 샤르도네](https://dailyshot.co/m/item/5281) | 2026-11-24 |
+| `calvados-pere-magloire-extra-heritage-20` | 깔바도스 페르 마그루아 엑스트라 헤리티지(20년) | ./assets/images/calvados-pere-magloire-extra-heritage-20.webp | [Dailyshot - 깔바도스 페르 마그루아 엑스트라 헤리티지(20년)](https://dailyshot.co/m/item/30276) | 2026-11-24 |
+| `fenjiu-yellow-label-53` | 분주 옐로우 라벨 53% | ./assets/images/fenjiu-yellow-label-53.webp | [Dailyshot - 분주 옐로우 라벨 53%](https://dailyshot.co/m/item/38419) | 2026-11-24 |
+| `seokyang-43` | 석양 43% 500ml | ./assets/images/seokyang-43.webp | [Dailyshot - 석양 43% 500ml](https://dailyshot.co/m/item/26467) | 2026-11-24 |
+| `glen-scotia-double-cask` | 글렌스코샤 더블 캐스크 | ./assets/images/glen-scotia-double-cask.webp | [Dailyshot - 글렌스코샤 더블 캐스크](https://dailyshot.co/m/item/13696) | 2026-11-24 |
+| `macallan-lumina` | 맥캘란 루미나 | ./assets/images/macallan-lumina.webp | [Dailyshot - 맥캘란 루미나](https://dailyshot.co/m/item/4871) | 2026-11-24 |
+| `napoleon-gold-xo` | 나폴레옹 골드 XO | ./assets/images/napoleon-gold-xo.webp | [Dailyshot - 나폴레옹 골드 XO](https://dailyshot.co/m/item/12168) | 2026-11-24 |
+| `ilpoom-jinro-10` | 일품진로 10년 숙성 | ./assets/images/ilpoom-jinro-10.webp | [Dailyshot - 일품진로 10년 숙성](https://dailyshot.co/m/item/18029) | 2026-11-24 |
+| `bonne-chance-moscato` | 본 샹스 모스카토 | ./assets/images/bonne-chance-moscato.webp | [Dailyshot - 본 샹스 모스카토](https://dailyshot.co/m/item/15068) | 2026-11-24 |
+| `la-rioja-alta-vi-a-alberdi` | 라 리오하 알타 비냐 알베르디 리제르바 | ./assets/images/la-rioja-alta-vi-a-alberdi.webp | [Dailyshot - 라 리오하 알타 비냐 알베르디 리제르바](https://dailyshot.co/m/item/7770) | 2026-11-24 |
+| `patron-silver` | 페트론 실버 1L | ./assets/images/patron-silver.webp | [Dailyshot - 페트론 실버 1L](https://dailyshot.co/m/item/13611) | 2026-11-24 |
+| `toyobijin-ichiban-matoi-junmai-daiginjo` | 동양미인(토요비진) 이치방 마토이 준마이 다이긴죠 | ./assets/images/toyobijin-ichiban-matoi-junmai-daiginjo.webp | [Dailyshot - 동양미인(토요비진) 이치방 마토이 준마이 다이긴죠](https://dailyshot.co/m/item/25947) | 2026-11-24 |
+| `ilpoom-jinro-20` | 일품진로 20년산 | ./assets/images/ilpoom-jinro-20.webp | [Dailyshot - 일품진로 20년산](https://dailyshot.co/m/item/4644) | 2026-11-24 |
+| `cut-overproof-rum` | 커트 오버 프루프 럼 69% | ./assets/images/cut-overproof-rum.webp | [Dailyshot - 커트 오버 프루프 럼 69%](https://dailyshot.co/m/item/16710) | 2026-11-24 |
+| `raasay-na-sia-series-2-chinkapin` | 라세이 나시아 시리즈 2 친커핀 오크 피티드 | ./assets/images/raasay-na-sia-series-2-chinkapin.webp | [Dailyshot - 라세이 나시아 시리즈 2 친커핀 오크 피티드](https://dailyshot.co/m/item/23198) | 2026-11-24 |
+| `justinos-madeira-reserve-fine-medium-dry` | 주스티노스 마데이라, 리저브 파인 미디엄 드라이 5년 | ./assets/images/justinos-madeira-reserve-fine-medium-dry.webp | [Dailyshot - 주스티노스 마데이라, 리저브 파인 미디엄 드라이 5년](https://dailyshot.co/m/item/11592) | 2026-11-24 |
+| `veuve-clicquot-champagne-yellow-label-magnum` | 뵈브 클리코 옐로우 라벨 매그넘 | ./assets/images/veuve-clicquot-champagne-yellow-label-magnum.webp | [Dailyshot - 뵈브 클리코 옐로우 라벨 매그넘](https://dailyshot.co/m/item/4314) | 2026-11-24 |
+| `sierra-tequila-silver` | 씨에라 데킬라 실버 | ./assets/images/sierra-tequila-silver.webp | [Dailyshot - 씨에라 데킬라 실버](https://dailyshot.co/m/item/10849) | 2026-11-24 |
+| `kilchoman-machir-bay-cs` | 킬호만 마키어 베이 CS | ./assets/images/kilchoman-machir-bay-cs.webp | [Dailyshot - 킬호만 마키어 베이 CS](https://dailyshot.co/m/item/32674) | 2026-11-24 |
+| `montes-alpha-black-label-cabernet-sauvignon` | 몬테스 알파 블랙 라벨 까베르네 소비뇽 | ./assets/images/montes-alpha-black-label-cabernet-sauvignon.webp | [Dailyshot - 몬테스 알파 블랙 라벨 까베르네 소비뇽](https://dailyshot.co/m/item/12546) | 2026-11-24 |
+| `edradour-10-sauternes-small-batch` | 에드라두어 2016 10년 소테른 스몰 배치 | ./assets/images/edradour-10-sauternes-small-batch.webp | [Dailyshot - 에드라두어 2016 10년 소테른 스몰 배치](https://dailyshot.co/m/item/37538) | 2026-11-24 |
+| `montes-alpha-malbec` | 몬테스 알파 말벡 | ./assets/images/montes-alpha-malbec.webp | [Dailyshot - 몬테스 알파 말벡](https://dailyshot.co/m/item/14218) | 2026-11-24 |
+| `kilchoman-madeira-cask` | 킬호만 마데이라 캐스크 2021 | ./assets/images/kilchoman-madeira-cask.webp | [Dailyshot - 킬호만 마데이라 캐스크 2021](https://dailyshot.co/m/item/10109) | 2026-11-24 |
+| `domaine-a-f-gors-vosne-romanee` | 도멘 A.F 그로 본 로마네 오 레아 | ./assets/images/domaine-a-f-gors-vosne-romanee.webp | [Dailyshot - 도멘 A.F 그로 본 로마네 오 레아](https://dailyshot.co/m/item/22215) | 2026-11-24 |
+| `jameson-18-yo-46` | 제임슨 18년 46% | ./assets/images/jameson-18-yo-46.webp | [Dailyshot - 제임슨 18년 46%](https://dailyshot.co/m/item/23371) | 2026-11-24 |
+| `beringer-bros-bourbon-barrel-aged-cabernet` | 베린저 브로스 버번 배럴 까베르네 소비뇽 | ./assets/images/beringer-bros-bourbon-barrel-aged-cabernet.webp | [Dailyshot - 베린저 브로스 버번 배럴 까베르네 소비뇽](https://dailyshot.co/m/item/12401) | 2026-11-24 |
+| `andong-soju-wolyoung-43` | 안동소주 월영 43% 600ml | ./assets/images/andong-soju-wolyoung-43.webp | [Dailyshot - 안동소주 월영 43% 600ml](https://dailyshot.co/m/item/29350) | 2026-11-24 |
+| `jagermeister-orange` | 예거마이스터 오렌지 | ./assets/images/jagermeister-orange.webp | [Dailyshot - 예거마이스터 오렌지](https://dailyshot.co/m/item/31695) | 2026-11-24 |
+| `tuk-tuk-vinho-verde-white` | 툭툭 비뉴 베르드 화이트 | ./assets/images/tuk-tuk-vinho-verde-white.webp | [Dailyshot - 툭툭 비뉴 베르드 화이트](https://dailyshot.co/m/item/8099) | 2026-11-24 |
+| `busnel-calvados-aoc` | 뷔스넬 깔바도스 | ./assets/images/busnel-calvados-aoc.webp | [Dailyshot - 뷔스넬 깔바도스](https://dailyshot.co/m/item/5574) | 2026-11-24 |
+| `the-better-half-marlborough-sauvignon-blanc` | 더 베터 하프 말보로 소비뇽 블랑 | ./assets/images/the-better-half-marlborough-sauvignon-blanc.webp | [Dailyshot - 더 베터 하프 말보로 소비뇽 블랑](https://dailyshot.co/m/item/29905) | 2026-11-24 |
+| `louis-perdrier-brut-magnum-1` | 루이 페드리에 브뤼 매그넘 1.5L | ./assets/images/louis-perdrier-brut-magnum-1.webp | [Dailyshot - 루이 페드리에 브뤼 매그넘 1.5L](https://dailyshot.co/m/item/24489) | 2026-11-24 |
+| `catena-zapata-catena-alta-malbec` | 까테나 자파타 까테나 알타 말벡 | ./assets/images/catena-zapata-catena-alta-malbec.webp | [Dailyshot - 까테나 자파타 까테나 알타 말벡](https://dailyshot.co/m/item/19921) | 2026-11-24 |
+| `ghost-tequila` | 고스트 데킬라 | ./assets/images/ghost-tequila.webp | [Dailyshot - 고스트 데킬라](https://dailyshot.co/m/item/7315) | 2026-11-24 |
+| `christian-drouin-poir` | 크리스찬 드루앵 쁘아레 | ./assets/images/christian-drouin-poir.webp | [Dailyshot - 크리스찬 드루앵 쁘아레](https://dailyshot.co/m/item/38113) | 2026-11-24 |
+| `ocho-plata` | 오초 플라타 | ./assets/images/ocho-plata.webp | [Dailyshot - 오초 플라타](https://dailyshot.co/m/item/27132) | 2026-11-24 |
+| `hyeonghyeong-40` | 형형 40 500ml | ./assets/images/hyeonghyeong-40.webp | [Dailyshot - 형형 40 500ml](https://dailyshot.co/m/item/17110) | 2026-11-24 |
+| `volcan-de-mi-tierra-a-ejo` | 볼칸 데 미 티에라 아네호 크리스탈리노 데킬라 | ./assets/images/volcan-de-mi-tierra-a-ejo.webp | [Dailyshot - 볼칸 데 미 티에라 아네호 크리스탈리노 데킬라](https://dailyshot.co/m/item/8555) | 2026-11-24 |
+| `old-forester-1870-original-batch` | 올드 포레스터 1870 오리지널 배치 | ./assets/images/old-forester-1870-original-batch.webp | [Dailyshot - 올드 포레스터 1870 오리지널 배치](https://dailyshot.co/m/item/17645) | 2026-11-24 |
+| `ohmine-3-grain-saito-no-shizuku` | 오미네 3츠부 사이토노 시즈쿠 | ./assets/images/ohmine-3-grain-saito-no-shizuku.webp | [Dailyshot - 오미네 3츠부 사이토노 시즈쿠](https://dailyshot.co/m/item/38843) | 2026-11-24 |
+| `crystal-head-onyx` | 크리스탈 헤드 오닉스 | ./assets/images/crystal-head-onyx.webp | [Dailyshot - 크리스탈 헤드 오닉스](https://dailyshot.co/m/item/11975) | 2026-11-24 |
+| `de-kuyper-cherry-heering` | 디카이퍼 체리 히어링 700ml | ./assets/images/de-kuyper-cherry-heering.webp | [Dailyshot - 디카이퍼 체리 히어링 700ml](https://dailyshot.co/m/item/13483) | 2026-11-24 |
+| `de-kuyper-melon-15` | 디카이퍼 멜론 15% | ./assets/images/de-kuyper-melon-15.webp | [Dailyshot - 디카이퍼 멜론 15%](https://dailyshot.co/m/item/24741) | 2026-11-24 |
+| `marques-de-requena-crianza` | 마르케스 데 레케나 크리안자 | ./assets/images/marques-de-requena-crianza.webp | [Dailyshot - 마르케스 데 레케나 크리안자](https://dailyshot.co/m/item/4044) | 2026-11-24 |
+| `1800-cristalino` | 1800 크리스탈리노 700ml | ./assets/images/1800-cristalino.webp | [Dailyshot - 1800 크리스탈리노 700ml](https://dailyshot.co/m/item/23804) | 2026-11-24 |
+| `angels-nectar-rioja` | 엔젤스 넥타 리오하 | ./assets/images/angels-nectar-rioja.webp | [Dailyshot - 엔젤스 넥타 리오하](https://dailyshot.co/m/item/5612) | 2026-11-24 |
+| `caparzo-moscadello-di-montalcino-doc-late` | 카파르조 모스카델로 디 몬탈치노 DOC 레이트 하베스트 2010 | ./assets/images/caparzo-moscadello-di-montalcino-doc-late.webp | [Dailyshot - 카파르조 모스카델로 디 몬탈치노 DOC 레이트 하베스트 2010](https://dailyshot.co/m/item/33143) | 2026-11-24 |
+| `oban-12-special-releases` | 오반 12년 2021 SR | ./assets/images/oban-12-special-releases.webp | [Dailyshot - 오반 12년 2021 SR](https://dailyshot.co/m/item/6746) | 2026-11-24 |
+| `pierre-girardin-eclat-de-calcaire-bourgogne` | 피에르 지라르댕 에끌라 드 칼케어  부르고뉴 샤르도네 | ./assets/images/pierre-girardin-eclat-de-calcaire-bourgogne.webp | [Dailyshot - 피에르 지라르댕 에끌라 드 칼케어  부르고뉴 샤르도네](https://dailyshot.co/m/item/24111) | 2026-11-24 |
+| `kahlua-mint-mocha` | 깔루아 민트 모카 | ./assets/images/kahlua-mint-mocha.webp | [Dailyshot - 깔루아 민트 모카](https://dailyshot.co/m/item/6877) | 2026-11-24 |
+| `bols-butterscotch` | 볼스 버터스카치 | ./assets/images/bols-butterscotch.webp | [Dailyshot - 볼스 버터스카치](https://dailyshot.co/m/item/32097) | 2026-11-24 |
+| `hendricks-gin-41-4` | 헨드릭스 진 41.4% | ./assets/images/hendricks-gin-41-4.webp | [Dailyshot - 헨드릭스 진 41.4%](https://dailyshot.co/m/item/12180) | 2026-11-24 |
+| `oban-little-bay` | 오반 리틀 베이 | ./assets/images/oban-little-bay.webp | [Dailyshot - 오반 리틀 베이](https://dailyshot.co/m/item/4553) | 2026-11-24 |
+| `ilpoom-jinro-26` | 일품진로 26년산 | ./assets/images/ilpoom-jinro-26.webp | [Dailyshot - 일품진로 26년산](https://dailyshot.co/m/item/38028) | 2026-11-24 |
+| `woodford-reserve-double-xo-blend` | 우드포드 리저브 더블 XO 블렌드 | ./assets/images/woodford-reserve-double-xo-blend.webp | [Dailyshot - 우드포드 리저브 더블 XO 블렌드](https://dailyshot.co/m/item/23007) | 2026-11-24 |
+| `omirose-gyeol` | 오미로제 결 | ./assets/images/omirose-gyeol.webp | [Dailyshot - 오미로제 결](https://dailyshot.co/m/item/14470) | 2026-11-24 |
+| `singleton-dufftown-18-yo` | 싱글톤 더프타운 18년 | ./assets/images/singleton-dufftown-18-yo.webp | [Dailyshot - 싱글톤 더프타운 18년](https://dailyshot.co/m/item/4823) | 2026-11-24 |
+| `lustau-amontillado-los-arcos` | 루스토, 아몬티야도 로스 아르코스 | ./assets/images/lustau-amontillado-los-arcos.webp | [Dailyshot - 루스토, 아몬티야도 로스 아르코스](https://dailyshot.co/m/item/8217) | 2026-11-24 |
+| `ballechin-edradour-sftc-11` | 발레친 에드라두어 SFTC 11년 | ./assets/images/ballechin-edradour-sftc-11.webp | [Dailyshot - 발레친 에드라두어 SFTC 11년](https://dailyshot.co/m/item/23694) | 2026-11-24 |
+| `port-charlotte-pmc-01` | 포트샬롯 PMC : 01 | ./assets/images/port-charlotte-pmc-01.webp | [Dailyshot - 포트샬롯 PMC : 01](https://dailyshot.co/m/item/22366) | 2026-11-24 |
+| `four-roses-platinum-super-premium` | 포 로지스 플래티넘 슈퍼 프리미엄 | ./assets/images/four-roses-platinum-super-premium.webp | [Dailyshot - 포 로지스 플래티넘 슈퍼 프리미엄](https://dailyshot.co/m/item/29402) | 2026-11-24 |
+| `medici-ermete-quercioli-lambrusco-seco` | 메디치 에르메테 퀘르치올리 람브루스코 세코 | ./assets/images/medici-ermete-quercioli-lambrusco-seco.webp | [Dailyshot - 메디치 에르메테 퀘르치올리 람브루스코 세코](https://dailyshot.co/m/item/31114) | 2026-11-24 |
+| `redwood-empire-whiskey-blend-lost-monarch` | 레드우드 엠파이어 위스키 블렌드(로스트 모나크) | ./assets/images/redwood-empire-whiskey-blend-lost-monarch.webp | [Dailyshot - 레드우드 엠파이어 위스키 블렌드(로스트 모나크)](https://dailyshot.co/m/item/19254) | 2026-11-24 |
+| `ch-teau-des-palmiers-sainte-croix` | 샤또 데 팔미에 생트 크루아 뒤 몽 | ./assets/images/ch-teau-des-palmiers-sainte-croix.webp | [Dailyshot - 샤또 데 팔미에 생트 크루아 뒤 몽](https://dailyshot.co/m/item/30408) | 2026-11-24 |
+| `firkin-islay` | 펄킨 아일라 | ./assets/images/firkin-islay.webp | [Dailyshot - 펄킨 아일라](https://dailyshot.co/m/item/9884) | 2026-11-24 |
+| `burmester-ruby-port` | 버메스터, 루비 포트 | ./assets/images/burmester-ruby-port.webp | [Dailyshot - 버메스터, 루비 포트](https://dailyshot.co/m/item/5858) | 2026-11-24 |
+| `e-guigal-condrieu-la-doriane` | 이기갈 꽁드리유 라 도리안 | ./assets/images/e-guigal-condrieu-la-doriane.webp | [Dailyshot - 이기갈 꽁드리유 라 도리안](https://dailyshot.co/m/item/26018) | 2026-11-24 |
+| `lagg-batch-1` | 라그 배치 1 | ./assets/images/lagg-batch-1.webp | [Dailyshot - 라그 배치 1](https://dailyshot.co/m/item/12161) | 2026-11-24 |
+| `the-glenlivet-triple-cask-matured-distillers` | 더 글렌리벳 트리플 캐스크 머추어드 디스틸러스 리저브 1L | ./assets/images/the-glenlivet-triple-cask-matured-distillers.webp | [Dailyshot - 더 글렌리벳 트리플 캐스크 머추어드 디스틸러스 리저브 1L](https://dailyshot.co/m/item/22999) | 2026-11-24 |
+| `the-glenlivet-25` | 더 글렌리벳 25년 | ./assets/images/the-glenlivet-25.webp | [Dailyshot - 더 글렌리벳 25년](https://dailyshot.co/m/item/3157) | 2026-11-24 |
+| `omoro-15` | 오모로 15년 | ./assets/images/omoro-15.webp | [Dailyshot - 오모로 15년](https://dailyshot.co/m/item/17672) | 2026-11-24 |
+| `prieure-roch-nuits-saint-georges-1er` | 프리에르 로크 뉘 쌩 조르쥐 1er 비에이 비뉴 2023 | ./assets/images/prieure-roch-nuits-saint-georges-1er.webp | [Dailyshot - 프리에르 로크 뉘 쌩 조르쥐 1er 비에이 비뉴 2023](https://dailyshot.co/m/item/38959) | 2026-11-24 |
+| `gaja-promis` | 가야 프로미스 | ./assets/images/gaja-promis.webp | [Dailyshot - 가야 프로미스](https://dailyshot.co/m/item/4082) | 2026-11-24 |
+| `joseph-drouhin-chablis` | 조셉 드루앙 샤블리 | ./assets/images/joseph-drouhin-chablis.webp | [Dailyshot - 조셉 드루앙 샤블리](https://dailyshot.co/m/item/17186) | 2026-11-24 |
+| `tarapaca-gran-reserva-chardonnay` | 타라파카 그랑 리제르바 샤르도네 | ./assets/images/tarapaca-gran-reserva-chardonnay.webp | [Dailyshot - 타라파카 그랑 리제르바 샤르도네](https://dailyshot.co/m/item/9970) | 2026-11-24 |
+| `carpineto-chianti-classico` | 까르피네토, 끼안티 클라시코 | ./assets/images/carpineto-chianti-classico.webp | [Dailyshot - 까르피네토, 끼안티 클라시코](https://dailyshot.co/m/item/4409) | 2026-11-24 |
+| `quercioli-lambrusco-reggiano-dry` | 퀘르치올리 람브루스코 레지아노 드라이 | ./assets/images/quercioli-lambrusco-reggiano-dry.webp | [Dailyshot - 퀘르치올리 람브루스코 레지아노 드라이](https://dailyshot.co/m/item/4061) | 2026-11-24 |
+| `kishu-homare-junmai-1` | 키슈호마레 준마이 1.8L | ./assets/images/kishu-homare-junmai-1.webp | [Dailyshot - 키슈호마레 준마이 1.8L](https://dailyshot.co/m/item/24276) | 2026-11-24 |
+| `elements-of-islay-bourbon-cask` | 엘리먼츠 오브 아일라 버번 캐스크 | ./assets/images/elements-of-islay-bourbon-cask.webp | [Dailyshot - 엘리먼츠 오브 아일라 버번 캐스크](https://dailyshot.co/m/item/18118) | 2026-11-24 |
+| `leonard-kreusch-sapphire-selection-kabinett` | 레오나르드 커리쉬 사파이어 셀렉션 카비넷 | ./assets/images/leonard-kreusch-sapphire-selection-kabinett.webp | [Dailyshot - 레오나르드 커리쉬 사파이어 셀렉션 카비넷](https://dailyshot.co/m/item/15210) | 2026-11-24 |
+| `hudson-chardonnay` | 허드슨 샤르도네 | ./assets/images/hudson-chardonnay.webp | [Dailyshot - 허드슨 샤르도네](https://dailyshot.co/m/item/13908) | 2026-11-24 |
+| `love-me-do-montepulciano-dabruzzo` | 러브 미 두 몬테풀치아노 다브루쪼 | ./assets/images/love-me-do-montepulciano-dabruzzo.webp | [Dailyshot - 러브 미 두 몬테풀치아노 다브루쪼](https://dailyshot.co/m/item/8690) | 2026-11-24 |
+| `borgo-maragliano-monticelli-piemonte-doc-brachetto` | 보르고 마라글리아노 몬티첼리 피에몬테 DOC 브라케토 | ./assets/images/borgo-maragliano-monticelli-piemonte-doc-brachetto.webp | [Dailyshot - 보르고 마라글리아노 몬티첼리 피에몬테 DOC 브라케토](https://dailyshot.co/m/item/7816) | 2026-11-24 |
+| `royal-salute-26-amarone-cask-finish` | 로얄살루트 26년 아마로네 캐스크 피니시 | ./assets/images/royal-salute-26-amarone-cask-finish.webp | [Dailyshot - 로얄살루트 26년 아마로네 캐스크 피니시](https://dailyshot.co/m/item/23606) | 2026-11-24 |
+| `e-guigal-cotes-du-rhone-rouge` | 이기갈, 꼬뜨 뒤 론 루즈 | ./assets/images/e-guigal-cotes-du-rhone-rouge.webp | [Dailyshot - 이기갈, 꼬뜨 뒤 론 루즈](https://dailyshot.co/m/item/11977) | 2026-11-24 |
+| `sandhi-santa-rita-hills-chardonnay` | 산디 산타 리타 힐즈 샤르도네 | ./assets/images/sandhi-santa-rita-hills-chardonnay.webp | [Dailyshot - 산디 산타 리타 힐즈 샤르도네](https://dailyshot.co/m/item/8162) | 2026-11-24 |
+| `ackerman-bulle-royale-cremant-de-loire` | 아케르만 뷸 로얄 크레망 드 루아르 브뤼 | ./assets/images/ackerman-bulle-royale-cremant-de-loire.webp | [Dailyshot - 아케르만 뷸 로얄 크레망 드 루아르 브뤼](https://dailyshot.co/m/item/24819) | 2026-11-24 |
+| `appassionante-bianco-veneto` | 1908 아파시오난테 비앙코 베네토 | ./assets/images/appassionante-bianco-veneto.webp | [Dailyshot - 1908 아파시오난테 비앙코 베네토](https://dailyshot.co/m/item/38364) | 2026-11-24 |
+| `signatory-royal-brackla-10-small-batch` | 시그나토리 2014 로얄 브라클라 10년 스몰 배치 #17 | ./assets/images/signatory-royal-brackla-10-small-batch.webp | [Dailyshot - 시그나토리 2014 로얄 브라클라 10년 스몰 배치 #17](https://dailyshot.co/m/item/27750) | 2026-11-24 |
+| `clynelish-10-sr` | 크라이넬리쉬 10년 SR 2023 | ./assets/images/clynelish-10-sr.webp | [Dailyshot - 크라이넬리쉬 10년 SR 2023](https://dailyshot.co/m/item/17853) | 2026-11-24 |
+| `la-rioja-alta-vina-arana-gran` | 라 리오하 알타 비냐 아라나 그랑 리제르바 | ./assets/images/la-rioja-alta-vina-arana-gran.webp | [Dailyshot - 라 리오하 알타 비냐 아라나 그랑 리제르바](https://dailyshot.co/m/item/12813) | 2026-11-24 |
+| `ch-teau-coutet-sauternes-barsac` | 샤또 꾸떼 소테른 바르삭 2017 | ./assets/images/ch-teau-coutet-sauternes-barsac.webp | [Dailyshot - 샤또 꾸떼 소테른 바르삭 2017](https://dailyshot.co/m/item/31126) | 2026-11-24 |
+| `w-yamadanishiki-45-junmai-muroka-nama` | 더블유 야마다니시키 45 준마이 무로카나마겐슈 | ./assets/images/w-yamadanishiki-45-junmai-muroka-nama.webp | [Dailyshot - 더블유 야마다니시키 45 준마이 무로카나마겐슈](https://dailyshot.co/m/item/33204) | 2026-11-24 |
+| `chateau-fontaine-sauternes` | 샤또 퐁텐 소테른 | ./assets/images/chateau-fontaine-sauternes.webp | [Dailyshot - 샤또 퐁텐 소테른](https://dailyshot.co/m/item/7817) | 2026-11-24 |
+| `justinos-madeira-fine-medium-rich-3` | 주스티노스 마데이라, 파인 미디엄 리치 3년 | ./assets/images/justinos-madeira-fine-medium-rich-3.webp | [Dailyshot - 주스티노스 마데이라, 파인 미디엄 리치 3년](https://dailyshot.co/m/item/6248) | 2026-11-24 |
+| `old-nick-dark-rum` | 올드 닉 다크 럼 | ./assets/images/old-nick-dark-rum.webp | [Dailyshot - 올드 닉 다크 럼](https://dailyshot.co/m/item/22231) | 2026-11-24 |
+| `blandys-madeira-reserva-5` | 블랜디스 마데이라 리제르바 5년 | ./assets/images/blandys-madeira-reserva-5.webp | [Dailyshot - 블랜디스 마데이라 리제르바 5년](https://dailyshot.co/m/item/15106) | 2026-11-24 |
+| `justinos-madeira-sercial-10` | 주스티노스 마데이라, 세르시알 10년 | ./assets/images/justinos-madeira-sercial-10.webp | [Dailyshot - 주스티노스 마데이라, 세르시알 10년](https://dailyshot.co/m/item/17368) | 2026-11-24 |
+| `abe-silver-origarami-namagenshu-tank-no` | 아베 실버 오리가리미 나마겐슈 1호 탱크 | ./assets/images/abe-silver-origarami-namagenshu-tank-no.webp | [Dailyshot - 아베 실버 오리가리미 나마겐슈 1호 탱크](https://dailyshot.co/m/item/32470) | 2026-11-24 |
+| `ch-teau-caillou-les-tourelles-de` | 샤또 까이유, 레 뚜헬르 드 까이유 소떼른 2022 | ./assets/images/ch-teau-caillou-les-tourelles-de.webp | [Dailyshot - 샤또 까이유, 레 뚜헬르 드 까이유 소떼른 2022](https://dailyshot.co/m/item/30807) | 2026-11-24 |
+| `teaninich-8-sr` | 티니닉 8년 SR 2025 | ./assets/images/teaninich-8-sr.webp | [Dailyshot - 티니닉 8년 SR 2025](https://dailyshot.co/m/item/31895) | 2026-11-24 |
+| `signatory-teaninich-10-un-chillfiltered-collection` | 시그나토리 티니닉 2016 10년 UCF | ./assets/images/signatory-teaninich-10-un-chillfiltered-collection.webp | [Dailyshot - 시그나토리 티니닉 2016 10년 UCF](https://dailyshot.co/m/item/39750) | 2026-11-24 |
+| `joseph-drouhin-laforet-bourgogne-pinot-noir` | 조셉 드루앙 라포레 부르고뉴 피노 누아 | ./assets/images/joseph-drouhin-laforet-bourgogne-pinot-noir.webp | [Dailyshot - 조셉 드루앙 라포레 부르고뉴 피노 누아](https://dailyshot.co/m/item/12689) | 2026-11-24 |
+| `domaine-gauby-jasse` | 도멘 고비 자쓰 2024 | ./assets/images/domaine-gauby-jasse.webp | [Dailyshot - 도멘 고비 자쓰 2024](https://dailyshot.co/m/item/35875) | 2026-11-24 |
+| `chateau-lafaurie-peyraguey-sauternes` | 샤또 라페리 페리라게이 소테른 2011 | ./assets/images/chateau-lafaurie-peyraguey-sauternes.webp | [Dailyshot - 샤또 라페리 페리라게이 소테른 2011](https://dailyshot.co/m/item/30750) | 2026-11-24 |
+| `shikishima-tokubetsu-junmai-muroka-namagenshu-yamadanishiki` | 시키시마 토쿠베츠 준마이 무로카나마겐슈 야마다니시키 | ./assets/images/shikishima-tokubetsu-junmai-muroka-namagenshu-yamadanishiki.webp | [Dailyshot - 시키시마 토쿠베츠 준마이 무로카나마겐슈 야마다니시키](https://dailyshot.co/m/item/28417) | 2026-11-24 |
+| `game-of-thrones-dalwhinnie-winters-frost` | 왕좌의 게임 달위니 윈터스 프로스트 | ./assets/images/game-of-thrones-dalwhinnie-winters-frost.webp | [Dailyshot - 왕좌의 게임 달위니 윈터스 프로스트](https://dailyshot.co/m/item/18145) | 2026-11-24 |
+| `dominio-de-pingus-psi` | 도미니오 드 핑구스, PSI | ./assets/images/dominio-de-pingus-psi.webp | [Dailyshot - 도미니오 드 핑구스, PSI](https://dailyshot.co/m/item/4105) | 2026-11-24 |
+| `tomatin-12-sherry-cask` | 토마틴 12년 셰리 캐스크 | ./assets/images/tomatin-12-sherry-cask.webp | [Dailyshot - 토마틴 12년 셰리 캐스크](https://dailyshot.co/m/item/23404) | 2026-11-24 |
+| `high-west-bourbon` | 하이 웨스트 버번 | ./assets/images/high-west-bourbon.webp | [Dailyshot - 하이 웨스트 버번](https://dailyshot.co/m/item/16625) | 2026-11-24 |
+| `fugue-de-nenin-pomerol` | 퓌그 드 네넹 뽀므롤 | ./assets/images/fugue-de-nenin-pomerol.webp | [Dailyshot - 퓌그 드 네넹 뽀므롤](https://dailyshot.co/m/item/26331) | 2026-11-24 |
+| `take-it-to-the-grave-shiraz` | 테이크 잇 투 더 그레이브 쉬라즈 | ./assets/images/take-it-to-the-grave-shiraz.webp | [Dailyshot - 테이크 잇 투 더 그레이브 쉬라즈](https://dailyshot.co/m/item/8682) | 2026-11-24 |
+| `cadenheads-ardmore-11` | 카덴헤드 아드모어 11년 | ./assets/images/cadenheads-ardmore-11.webp | [Dailyshot - 카덴헤드 아드모어 11년](https://dailyshot.co/m/item/5453) | 2026-11-24 |
+| `wolf-blass-bilyara-shiraz` | 울프 블라스, 빌야라 쉬라즈 | ./assets/images/wolf-blass-bilyara-shiraz.webp | [Dailyshot - 울프 블라스, 빌야라 쉬라즈](https://dailyshot.co/m/item/14118) | 2026-11-24 |
+| `amrut-triparva` | 암룻 트리팔바 | ./assets/images/amrut-triparva.webp | [Dailyshot - 암룻 트리팔바](https://dailyshot.co/m/item/21042) | 2026-11-24 |
+| `jean-chartron-bourgogne-pinot-noir-vieilles` | 장 샤르트롱 부르고뉴 피노 누아 비에이 비뉴 2022 | ./assets/images/jean-chartron-bourgogne-pinot-noir-vieilles.webp | [Dailyshot - 장 샤르트롱 부르고뉴 피노 누아 비에이 비뉴 2022](https://dailyshot.co/m/item/34459) | 2026-11-24 |
+| `domaine-jean-foillard-morgon-classique` | 도멘 장 포이야드 모르공 클라식 | ./assets/images/domaine-jean-foillard-morgon-classique.webp | [Dailyshot - 도멘 장 포이야드 모르공 클라식](https://dailyshot.co/m/item/17716) | 2026-11-24 |
+| `tohu-marlborough-sauvignon-blanc` | 토후 말보로 소비뇽 블랑 | ./assets/images/tohu-marlborough-sauvignon-blanc.webp | [Dailyshot - 토후 말보로 소비뇽 블랑](https://dailyshot.co/m/item/14232) | 2026-11-24 |
+| `zieher-bourgogne-balanced` | 지허 부르고뉴(Balanced) | ./assets/images/zieher-bourgogne-balanced.webp | [Dailyshot - 지허 부르고뉴(Balanced)](https://dailyshot.co/m/item/23533) | 2026-11-24 |
+| `macallan-12-fine-oak` | 맥캘란 12년 파인 오크 | ./assets/images/macallan-12-fine-oak.webp | [Dailyshot - 맥캘란 12년 파인 오크](https://dailyshot.co/m/item/5579) | 2026-11-24 |
+| `henschke-henrys-seven` | 헨쉬키, 헨리스 세븐 | ./assets/images/henschke-henrys-seven.webp | [Dailyshot - 헨쉬키, 헨리스 세븐](https://dailyshot.co/m/item/17359) | 2026-11-24 |
+| `tomintoul-single-cask-12-4328` | 토민타울 2013 싱글 캐스크 12년 #4328 | ./assets/images/tomintoul-single-cask-12-4328.webp | [Dailyshot - 토민타울 2013 싱글 캐스크 12년 #4328](https://dailyshot.co/m/item/36949) | 2026-11-24 |
+| `kentucky-owl-confiscated` | 켄터키 아울 콘피스케이티드 | ./assets/images/kentucky-owl-confiscated.webp | [Dailyshot - 켄터키 아울 콘피스케이티드](https://dailyshot.co/m/item/3541) | 2026-11-24 |
+| `murray-mcdavid-benchmark-craigellachie-14` | 머레이 맥데이비드 벤치마크 크라이겔라키 14년 | ./assets/images/murray-mcdavid-benchmark-craigellachie-14.webp | [Dailyshot - 머레이 맥데이비드 벤치마크 크라이겔라키 14년](https://dailyshot.co/m/item/26196) | 2026-11-24 |
+| `glenfiddich-21-40` | 글렌피딕 21년 40% | ./assets/images/glenfiddich-21-40.webp | [Dailyshot - 글렌피딕 21년 40%](https://dailyshot.co/m/item/28392) | 2026-11-24 |
+| `signatory-craigellachie-10-100-proof` | 시그나토리 2014 크라이겔라키 10년 100 프루프 | ./assets/images/signatory-craigellachie-10-100-proof.webp | [Dailyshot - 시그나토리 2014 크라이겔라키 10년 100 프루프](https://dailyshot.co/m/item/25875) | 2026-11-24 |
+| `mar-de-frades-albarino` | 마르 데 프라데스, 알바리뇨 2024 | ./assets/images/mar-de-frades-albarino.webp | [Dailyshot - 마르 데 프라데스, 알바리뇨 2024](https://dailyshot.co/m/item/36377) | 2026-11-24 |
+| `jean-marc-boillot-bourgogne-blanc` | 쟝 마크 부아요 부르고뉴 블랑 2024 | ./assets/images/jean-marc-boillot-bourgogne-blanc.webp | [Dailyshot - 쟝 마크 부아요 부르고뉴 블랑 2024](https://dailyshot.co/m/item/35879) | 2026-11-24 |
+| `speyburn-18` | 스페이번 18년 | ./assets/images/speyburn-18.webp | [Dailyshot - 스페이번 18년](https://dailyshot.co/m/item/16420) | 2026-11-24 |
+| `yukinobousya-hiden-yamahai-junmai-ginjo` | 유키노보우샤 히덴 야마하이 준마이 긴죠 | ./assets/images/yukinobousya-hiden-yamahai-junmai-ginjo.webp | [Dailyshot - 유키노보우샤 히덴 야마하이 준마이 긴죠](https://dailyshot.co/m/item/32277) | 2026-11-24 |
+| `ancnoc-24` | 아녹 24년 | ./assets/images/ancnoc-24.webp | [Dailyshot - 아녹 24년](https://dailyshot.co/m/item/3513) | 2026-11-24 |
+| `champagne-delamotte-brut` | 샹파뉴 델라모뜨, 브뤼 | ./assets/images/champagne-delamotte-brut.webp | [Dailyshot - 샹파뉴 델라모뜨, 브뤼](https://dailyshot.co/m/item/8327) | 2026-11-24 |
+| `hongsam-myeong-ju` | 홍삼명주 500ml | ./assets/images/hongsam-myeong-ju.webp | [Dailyshot - 홍삼명주 500ml](https://dailyshot.co/m/item/13843) | 2026-11-24 |
+| `champagne-ernest-rapeneau-millesime` | 샴페인 어니스트 라페뉴, 밀레짐 | ./assets/images/champagne-ernest-rapeneau-millesime.webp | [Dailyshot - 샴페인 어니스트 라페뉴, 밀레짐](https://dailyshot.co/m/item/8371) | 2026-11-24 |
+| `rm-champagne-domaine-nowack-sans-annee` | RM 샴페인 도멘 노박 상 안느 | ./assets/images/rm-champagne-domaine-nowack-sans-annee.webp | [Dailyshot - RM 샴페인 도멘 노박 상 안느](https://dailyshot.co/m/item/34863) | 2026-11-24 |
+| `chateau-ducru-beaucaillou-madame-de-beaucaillou` | 샤또 뒤끄리 보까이유 마담 드 보까이유 2022 | ./assets/images/chateau-ducru-beaucaillou-madame-de-beaucaillou.webp | [Dailyshot - 샤또 뒤끄리 보까이유 마담 드 보까이유 2022](https://dailyshot.co/m/item/39071) | 2026-11-24 |
+| `uno-mas-brut` | 우노 마스 브뤼 | ./assets/images/uno-mas-brut.webp | [Dailyshot - 우노 마스 브뤼](https://dailyshot.co/m/item/2974) | 2026-11-24 |
+| `robert-mondavi-napa-valley-chardonnay` | 로버트 몬다비 나파 밸리 샤르도네 | ./assets/images/robert-mondavi-napa-valley-chardonnay.webp | [Dailyshot - 로버트 몬다비 나파 밸리 샤르도네](https://dailyshot.co/m/item/25682) | 2026-11-24 |
+| `unico-sangiovese-riserva` | 우니꼬 산지오베제 리제르바 | ./assets/images/unico-sangiovese-riserva.webp | [Dailyshot - 우니꼬 산지오베제 리제르바](https://dailyshot.co/m/item/7873) | 2026-11-24 |
+| `tread-softly-grenache` | 트레드 소프틀리 그르나슈 | ./assets/images/tread-softly-grenache.webp | [Dailyshot - 트레드 소프틀리 그르나슈](https://dailyshot.co/m/item/11455) | 2026-11-24 |
+| `antigall-one-malbec-single-vineyard` | 안티갈 원 말벡 싱글 빈야드 | ./assets/images/antigall-one-malbec-single-vineyard.webp | [Dailyshot - 안티갈 원 말벡 싱글 빈야드](https://dailyshot.co/m/item/31192) | 2026-11-24 |
+| `47ad-prosecco-rose-doc-spumante-bio` | 47AD 프로세코 로제 | ./assets/images/47ad-prosecco-rose-doc-spumante-bio.webp | [Dailyshot - 47AD 프로세코 로제](https://dailyshot.co/m/item/8057) | 2026-11-24 |
+| `taittinger-pr-lude-grands-crus` | 떼땅져 프렐뤼드 그랑 크뤼 | ./assets/images/taittinger-pr-lude-grands-crus.webp | [Dailyshot - 떼땅져 프렐뤼드 그랑 크뤼](https://dailyshot.co/m/item/8281) | 2026-11-24 |
+| `bowmore-30` | 보모어 30년 | ./assets/images/bowmore-30.webp | [Dailyshot - 보모어 30년](https://dailyshot.co/m/item/16549) | 2026-11-24 |
+| `chateau-talbot` | 샤또 딸보 2017 | ./assets/images/chateau-talbot.webp | [Dailyshot - 샤또 딸보 2017](https://dailyshot.co/m/item/6398) | 2026-11-24 |
+| `ozv-zinfandel` | OZV 진판델 | ./assets/images/ozv-zinfandel.webp | [Dailyshot - OZV 진판델](https://dailyshot.co/m/item/15913) | 2026-11-24 |
+| `babich-marlborough-family-estates-single-vineyard` | 배비치 패밀리 에스테이트 싱글 빈야드 소비뇽 블랑 | ./assets/images/babich-marlborough-family-estates-single-vineyard.webp | [Dailyshot - 배비치 패밀리 에스테이트 싱글 빈야드 소비뇽 블랑](https://dailyshot.co/m/item/27443) | 2026-11-24 |
+| `kanosuke-hioki-pot-still` | 카노스케 히오키 팟 스틸 | ./assets/images/kanosuke-hioki-pot-still.webp | [Dailyshot - 카노스케 히오키 팟 스틸](https://dailyshot.co/m/item/30390) | 2026-11-24 |
+| `chateau-talbot-caillou-blanc` | 샤또 딸보 까이유 블랑 | ./assets/images/chateau-talbot-caillou-blanc.webp | [Dailyshot - 샤또 딸보 까이유 블랑](https://dailyshot.co/m/item/8044) | 2026-11-24 |
+| `villebois-chenin-blanc` | 빌부아 슈냉블랑 | ./assets/images/villebois-chenin-blanc.webp | [Dailyshot - 빌부아 슈냉블랑](https://dailyshot.co/m/item/8447) | 2026-11-24 |
+| `faiveley-bourgogne-pinot-noir-f-de` | 페블레 부르고뉴 피노누아, 에프 드 페블레 | ./assets/images/faiveley-bourgogne-pinot-noir-f-de.webp | [Dailyshot - 페블레 부르고뉴 피노누아, 에프 드 페블레](https://dailyshot.co/m/item/13276) | 2026-11-24 |
+| `bowmore-15-darkest` | 보모어 15년 다키스트 | ./assets/images/bowmore-15-darkest.webp | [Dailyshot - 보모어 15년 다키스트](https://dailyshot.co/m/item/9382) | 2026-11-24 |
+| `armorik-double-maturation` | 아모릭 더블 매튜레이션 | ./assets/images/armorik-double-maturation.webp | [Dailyshot - 아모릭 더블 매튜레이션](https://dailyshot.co/m/item/12761) | 2026-11-24 |
+| `brancott-estate-marlborough-pinot-noir` | 브란콧 에스테이트, 말보로 피노 누아 | ./assets/images/brancott-estate-marlborough-pinot-noir.webp | [Dailyshot - 브란콧 에스테이트, 말보로 피노 누아](https://dailyshot.co/m/item/16051) | 2026-11-24 |
+| `starward-peated-finish-single-malt-whisky` | 스타워드 피티드 피니시 싱글몰트 위스키 | ./assets/images/starward-peated-finish-single-malt-whisky.webp | [Dailyshot - 스타워드 피티드 피니시 싱글몰트 위스키](https://dailyshot.co/m/item/7306) | 2026-11-24 |
+| `puglia-pop-luminaria-primitivo-di-manduria` | 풀리아 팝 루미나리아 프리미티보 디 만두리아 | ./assets/images/puglia-pop-luminaria-primitivo-di-manduria.webp | [Dailyshot - 풀리아 팝 루미나리아 프리미티보 디 만두리아](https://dailyshot.co/m/item/12427) | 2026-11-24 |
+| `compass-box-spice-tree` | 컴파스 박스 스파이스 트리 | ./assets/images/compass-box-spice-tree.webp | [Dailyshot - 컴파스 박스 스파이스 트리](https://dailyshot.co/m/item/4673) | 2026-11-24 |
+| `wente-morning-fog-chardonnay` | 웬티, 모닝 포그 샤르도네 | ./assets/images/wente-morning-fog-chardonnay.webp | [Dailyshot - 웬티, 모닝 포그 샤르도네](https://dailyshot.co/m/item/11649) | 2026-11-24 |
+| `glengoyne-white-oak` | 글렌고인 화이트 오크 | ./assets/images/glengoyne-white-oak.webp | [Dailyshot - 글렌고인 화이트 오크](https://dailyshot.co/m/item/31514) | 2026-11-24 |
+| `compass-box-the-story-of-the` | 컴파스 박스 스파니아드 | ./assets/images/compass-box-the-story-of-the.webp | [Dailyshot - 컴파스 박스 스파니아드](https://dailyshot.co/m/item/4902) | 2026-11-24 |
+| `duckhorn-napa-valley-chardonnay` | 덕혼 나파 밸리 샤르도네 | ./assets/images/duckhorn-napa-valley-chardonnay.webp | [Dailyshot - 덕혼 나파 밸리 샤르도네](https://dailyshot.co/m/item/15579) | 2026-11-24 |
+| `tussock-jumper-deer-riesling` | 투썩 점퍼, '사슴' 리슬링 | ./assets/images/tussock-jumper-deer-riesling.webp | [Dailyshot - 투썩 점퍼, '사슴' 리슬링](https://dailyshot.co/m/item/4038) | 2026-11-24 |
+| `greywacke-wild-sauvignon` | 그레이왁 와일드 소비뇽 | ./assets/images/greywacke-wild-sauvignon.webp | [Dailyshot - 그레이왁 와일드 소비뇽](https://dailyshot.co/m/item/16748) | 2026-11-24 |
+| `lustau-oloroso-don-nuno-solera-reserva` | 루스토, 올로로쏘 돈 누뇨 솔레라 리제르바 | ./assets/images/lustau-oloroso-don-nuno-solera-reserva.webp | [Dailyshot - 루스토, 올로로쏘 돈 누뇨 솔레라 리제르바](https://dailyshot.co/m/item/5743) | 2026-11-24 |
+| `saint-clair-origin-sauvignon-blanc` | 생 클레어 오리진 소비뇽 블랑 | ./assets/images/saint-clair-origin-sauvignon-blanc.webp | [Dailyshot - 생 클레어 오리진 소비뇽 블랑](https://dailyshot.co/m/item/27069) | 2026-11-24 |
+| `rombauer-carneros-chardonnay` | 롬바우어 카네로스 샤르도네 | ./assets/images/rombauer-carneros-chardonnay.webp | [Dailyshot - 롬바우어 카네로스 샤르도네](https://dailyshot.co/m/item/26403) | 2026-11-24 |
+| `s-m-w-mosel-christmas-riesling` | 에셈베 모젤 크리스마스 리슬링 일본 한정판 | ./assets/images/s-m-w-mosel-christmas-riesling.webp | [Dailyshot - 에셈베 모젤 크리스마스 리슬링 일본 한정판](https://dailyshot.co/m/item/31301) | 2026-11-24 |
+| `compass-box-peat-monster-cs` | 컴파스 박스 피트 몬스터 CS | ./assets/images/compass-box-peat-monster-cs.webp | [Dailyshot - 컴파스 박스 피트 몬스터 CS](https://dailyshot.co/m/item/15551) | 2026-11-24 |
+| `pieropan-soave-classico` | 삐에로판, 소아베 클라시코 | ./assets/images/pieropan-soave-classico.webp | [Dailyshot - 삐에로판, 소아베 클라시코](https://dailyshot.co/m/item/12746) | 2026-11-24 |
+| `laurent-perrier-cuvee-rose-brut` | 로랑 페리에 뀌베 브뤼 로제 | ./assets/images/laurent-perrier-cuvee-rose-brut.webp | [Dailyshot - 로랑 페리에 뀌베 브뤼 로제](https://dailyshot.co/m/item/23020) | 2026-11-24 |
+| `luis-canas-crianza` | 루이스 까냐스 크리안자 | ./assets/images/luis-canas-crianza.webp | [Dailyshot - 루이스 까냐스 크리안자](https://dailyshot.co/m/item/13865) | 2026-11-24 |
+| `bodegas-staphyle-581-malbec` | 보데가스 스타필레, 581 말벡 | ./assets/images/bodegas-staphyle-581-malbec.webp | [Dailyshot - 보데가스 스타필레, 581 말벡](https://dailyshot.co/m/item/9048) | 2026-11-24 |
+| `bodegas-volcanes-parinacota` | 보데가 볼카네스 파리나코타 | ./assets/images/bodegas-volcanes-parinacota.webp | [Dailyshot - 보데가 볼카네스 파리나코타](https://dailyshot.co/m/item/23669) | 2026-11-24 |
+| `bollinger-la-grande-annee-brut` | 볼랭저, 라 그랑 아네 브뤼 2015 | ./assets/images/bollinger-la-grande-annee-brut.webp | [Dailyshot - 볼랭저, 라 그랑 아네 브뤼 2015](https://dailyshot.co/m/item/31917) | 2026-11-24 |
+| `pasqua-zin-primitivo-puglia` | 파스쿠아, 진 프리미티보 풀리아 | ./assets/images/pasqua-zin-primitivo-puglia.webp | [Dailyshot - 파스쿠아, 진 프리미티보 풀리아](https://dailyshot.co/m/item/8620) | 2026-11-24 |
+| `cantina-zaccagnini-dal-tralcetto-pinot-grigio` | 칸티나 자카니니, 달 트랄체토 피노 그리지오 | ./assets/images/cantina-zaccagnini-dal-tralcetto-pinot-grigio.webp | [Dailyshot - 칸티나 자카니니, 달 트랄체토 피노 그리지오](https://dailyshot.co/m/item/5540) | 2026-11-24 |
+| `lanson-le-black-reserve` | 랑송, 르 블랙 리저브 | ./assets/images/lanson-le-black-reserve.webp | [Dailyshot - 랑송, 르 블랙 리저브](https://dailyshot.co/m/item/15020) | 2026-11-24 |
+| `laphroaig-lore` | 라프로익 로어 | ./assets/images/laphroaig-lore.webp | [Dailyshot - 라프로익 로어](https://dailyshot.co/m/item/27406) | 2026-11-24 |
+| `rockbare-clarevalley-riesling` | 락베어 클레어 밸리 리슬링 | ./assets/images/rockbare-clarevalley-riesling.webp | [Dailyshot - 락베어 클레어 밸리 리슬링](https://dailyshot.co/m/item/5275) | 2026-11-24 |
+| `deutz-brut-classic` | 도츠, 브뤼 클래식 | ./assets/images/deutz-brut-classic.webp | [Dailyshot - 도츠, 브뤼 클래식](https://dailyshot.co/m/item/8663) | 2026-11-24 |
+| `philipponnat-royale-reserve-brut` | 필립포나, 로얄 리저브 브뤼 | ./assets/images/philipponnat-royale-reserve-brut.webp | [Dailyshot - 필립포나, 로얄 리저브 브뤼](https://dailyshot.co/m/item/12669) | 2026-11-24 |
+| `barrell-vantage` | 바렐 밴티지 | ./assets/images/barrell-vantage.webp | [Dailyshot - 바렐 밴티지](https://dailyshot.co/m/item/14953) | 2026-11-24 |
+| `two-hands-tenacity-old-vine-shiraz` | 투핸즈 테너시티 올드 바인 쉬라즈 | ./assets/images/two-hands-tenacity-old-vine-shiraz.webp | [Dailyshot - 투핸즈 테너시티 올드 바인 쉬라즈](https://dailyshot.co/m/item/27745) | 2026-11-24 |
+| `finca-bacara-time-waits-for-no` | 핀카 바카라 타임 웨이츠 포 노 원(해골) | ./assets/images/finca-bacara-time-waits-for-no.webp | [Dailyshot - 핀카 바카라 타임 웨이츠 포 노 원(해골)](https://dailyshot.co/m/item/9577) | 2026-11-24 |
+| `henkell-trocken` | 헨켈 트로켄 | ./assets/images/henkell-trocken.webp | [Dailyshot - 헨켈 트로켄](https://dailyshot.co/m/item/7214) | 2026-11-24 |
+| `loch-lomond-12-inchmurrin` | 로크로몬드 12년 인치무린 700ml | ./assets/images/loch-lomond-12-inchmurrin.webp | [Dailyshot - 로크로몬드 12년 인치무린 700ml](https://dailyshot.co/m/item/21283) | 2026-11-24 |
+| `loch-lomond-store-pick-by-glenmortheas` | 로크로몬드 싱글 캐스크 스토어 픽 by 글렌모데아 | ./assets/images/loch-lomond-store-pick-by-glenmortheas.webp | [Dailyshot - 로크로몬드 싱글 캐스크 스토어 픽 by 글렌모데아](https://dailyshot.co/m/item/18342) | 2026-11-24 |
+| `iwai` | 이와이 | ./assets/images/iwai.webp | [Dailyshot - 이와이](https://dailyshot.co/m/item/4689) | 2026-11-24 |
+| `deschutes-fresh-squeezed-old-fashioned` | 데슈츠 프레시 스퀴즈드 올드 패션드 | ./assets/images/deschutes-fresh-squeezed-old-fashioned.webp | [Dailyshot - 데슈츠 프레시 스퀴즈드 올드 패션드](https://dailyshot.co/m/item/30212) | 2026-11-24 |
+| `feno-meno-monastrell` | 페노 메노 모나스트렐 | ./assets/images/feno-meno-monastrell.webp | [Dailyshot - 페노 메노 모나스트렐](https://dailyshot.co/m/item/15277) | 2026-11-24 |
+| `thorn-clarke-terra-barossa-shiraz` | 쏜 클락 떼라 바로사 쉬라즈 | ./assets/images/thorn-clarke-terra-barossa-shiraz.webp | [Dailyshot - 쏜 클락 떼라 바로사 쉬라즈](https://dailyshot.co/m/item/26519) | 2026-11-24 |
+| `1865-sauvignon-blanc` | 1865 소비뇽 블랑 | ./assets/images/1865-sauvignon-blanc.webp | [Dailyshot - 1865 소비뇽 블랑](https://dailyshot.co/m/item/19459) | 2026-11-24 |
+| `1865-selected-vineyard-carmenere` | 1865 셀렉티드 빈야드 까르미네르 | ./assets/images/1865-selected-vineyard-carmenere.webp | [Dailyshot - 1865 셀렉티드 빈야드 까르미네르](https://dailyshot.co/m/item/14592) | 2026-11-24 |
+| `anselmi-san-vincenzo-veneto-igt` | 안셀미 산 빈센죠 | ./assets/images/anselmi-san-vincenzo-veneto-igt.webp | [Dailyshot - 안셀미 산 빈센죠](https://dailyshot.co/m/item/6969) | 2026-11-24 |
+| `henri-leblanc-blanc-de-blancs` | 앙리 르블랑 블랑 드 블랑 | ./assets/images/henri-leblanc-blanc-de-blancs.webp | [Dailyshot - 앙리 르블랑 블랑 드 블랑](https://dailyshot.co/m/item/9527) | 2026-11-24 |
+| `la-felicidad-garnacha-dolce` | 라 펠리시다드 가르나차 돌체 | ./assets/images/la-felicidad-garnacha-dolce.webp | [Dailyshot - 라 펠리시다드 가르나차 돌체](https://dailyshot.co/m/item/6130) | 2026-11-24 |
+| `old-perth-12-sherry-cask` | 올드 퍼스 12년 셰리 캐스크 | ./assets/images/old-perth-12-sherry-cask.webp | [Dailyshot - 올드 퍼스 12년 셰리 캐스크](https://dailyshot.co/m/item/12369) | 2026-11-24 |
+| `simonnet-febvre-cremant-de-bourgogne-brut` | 시모네 페브르 크레망 드 부르고뉴 브뤼 | ./assets/images/simonnet-febvre-cremant-de-bourgogne-brut.webp | [Dailyshot - 시모네 페브르 크레망 드 부르고뉴 브뤼](https://dailyshot.co/m/item/5236) | 2026-11-24 |
+| `josh-cellars-reserve-bourbon-barrel-aged` | 조쉬 셀러스 리저브 버번 배럴 에이지드 진판델 | ./assets/images/josh-cellars-reserve-bourbon-barrel-aged.webp | [Dailyshot - 조쉬 셀러스 리저브 버번 배럴 에이지드 진판델](https://dailyshot.co/m/item/31109) | 2026-11-24 |
+| `domaine-robert-denogent-pouilly-fuisse-la` | 도멘 로베르 드노정 푸이 퓌세 라 크루아 | ./assets/images/domaine-robert-denogent-pouilly-fuisse-la.webp | [Dailyshot - 도멘 로베르 드노정 푸이 퓌세 라 크루아](https://dailyshot.co/m/item/17189) | 2026-11-24 |
+| `famille-perrin-chateauneuf-du-pape-les` | 파미유 페랑, 샤또네프 뒤 파프 레 시나르 2022 | ./assets/images/famille-perrin-chateauneuf-du-pape-les.webp | [Dailyshot - 파미유 페랑, 샤또네프 뒤 파프 레 시나르 2022](https://dailyshot.co/m/item/26501) | 2026-11-24 |
+| `graces-harvest-toro-carnation` | 그레이스 하비스트 토로 카네이션 | ./assets/images/graces-harvest-toro-carnation.webp | [Dailyshot - 그레이스 하비스트 토로 카네이션](https://dailyshot.co/m/item/6239) | 2026-11-24 |
+| `shindo-the-blended` | 신도 더 블렌디드 2026 | ./assets/images/shindo-the-blended.webp | [Dailyshot - 신도 더 블렌디드 2026](https://dailyshot.co/m/item/39635) | 2026-11-24 |
+| `cuvee-dissenay-pinot-noir` | 뀌베 디즈네, 피노 누아 | ./assets/images/cuvee-dissenay-pinot-noir.webp | [Dailyshot - 뀌베 디즈네, 피노 누아](https://dailyshot.co/m/item/14830) | 2026-11-24 |
+| `errazuriz-max-reserva-cabernet-sauvignon` | 에라주리즈, 맥스 리제르바 까베르네 소비뇽 | ./assets/images/errazuriz-max-reserva-cabernet-sauvignon.webp | [Dailyshot - 에라주리즈, 맥스 리제르바 까베르네 소비뇽](https://dailyshot.co/m/item/11062) | 2026-11-24 |
+| `giodo-brunello-di-montalcino-bdm` | 지오도, 브루넬로 디 몬탈치노 2018 | ./assets/images/giodo-brunello-di-montalcino-bdm.webp | [Dailyshot - 지오도, 브루넬로 디 몬탈치노 2018](https://dailyshot.co/m/item/16619) | 2026-11-24 |
+| `textbook-napa-reserve-cabernet-sauvignon` | 텍스트북, 나파 리저브 까베르네 소비뇽 | ./assets/images/textbook-napa-reserve-cabernet-sauvignon.webp | [Dailyshot - 텍스트북, 나파 리저브 까베르네 소비뇽](https://dailyshot.co/m/item/16676) | 2026-11-24 |
+| `jacobs-creek-classic-chardonnay` | 제이콥스 크릭 클래식 샤르도네 | ./assets/images/jacobs-creek-classic-chardonnay.webp | [Dailyshot - 제이콥스 크릭 클래식 샤르도네](https://dailyshot.co/m/item/7246) | 2026-11-24 |
+| `clonakilty-galley-head-irish-whiskey` | 클로나킬티 갤리 헤드 아이리시 위스키 | ./assets/images/clonakilty-galley-head-irish-whiskey.webp | [Dailyshot - 클로나킬티 갤리 헤드 아이리시 위스키](https://dailyshot.co/m/item/28342) | 2026-11-24 |
+| `talisker-the-wild-blue` | 탈리스커 더 와일드 블루 | ./assets/images/talisker-the-wild-blue.webp | [Dailyshot - 탈리스커 더 와일드 블루](https://dailyshot.co/m/item/30543) | 2026-11-24 |
+| `olivier-leflaive-bourgogne-meursault-vireuils` | 올리비에 르플레브 뫼르소 비르이 | ./assets/images/olivier-leflaive-bourgogne-meursault-vireuils.webp | [Dailyshot - 올리비에 르플레브 뫼르소 비르이](https://dailyshot.co/m/item/24829) | 2026-11-24 |
+| `willett-kentucky-straigth-bourbon-whiskey-8y` | 윌렛 켄터키 스트레이트 버번 위스키 8년 | ./assets/images/willett-kentucky-straigth-bourbon-whiskey-8y.webp | [Dailyshot - 윌렛 켄터키 스트레이트 버번 위스키 8년](https://dailyshot.co/m/item/25881) | 2026-11-24 |
+| `grande-alberone-zinfandel` | 그란데 알베로네, 진판델 | ./assets/images/grande-alberone-zinfandel.webp | [Dailyshot - 그란데 알베로네, 진판델](https://dailyshot.co/m/item/14405) | 2026-11-24 |
+| `chivas-regal-25` | 시바스 리갈 25년 | ./assets/images/chivas-regal-25.webp | [Dailyshot - 시바스 리갈 25년](https://dailyshot.co/m/item/5990) | 2026-11-24 |
+| `babich-forbidden-vine-marlborough-sauvignon-blanc` | 배비치, 포비든 바인 말보로 소비뇽 블랑 | ./assets/images/babich-forbidden-vine-marlborough-sauvignon-blanc.webp | [Dailyshot - 배비치, 포비든 바인 말보로 소비뇽 블랑](https://dailyshot.co/m/item/6204) | 2026-11-24 |
+| `chateau-beychevelle` | 샤또 베이슈벨 | ./assets/images/chateau-beychevelle.webp | [Dailyshot - 샤또 베이슈벨](https://dailyshot.co/m/item/9285) | 2026-11-24 |
+| `two-hands-samanthas-garden-shiraz` | 투핸즈, 사만다스 가든 쉬라즈 | ./assets/images/two-hands-samanthas-garden-shiraz.webp | [Dailyshot - 투핸즈, 사만다스 가든 쉬라즈](https://dailyshot.co/m/item/13149) | 2026-11-24 |
+| `big-peat-12-yo` | 빅 피트 12년 | ./assets/images/big-peat-12-yo.webp | [Dailyshot - 빅 피트 12년](https://dailyshot.co/m/item/4878) | 2026-11-24 |
+| `takashimizu-daiginjo` | 다카시미즈 다이긴죠 | ./assets/images/takashimizu-daiginjo.webp | [Dailyshot - 다카시미즈 다이긴죠](https://dailyshot.co/m/item/5046) | 2026-11-24 |
+| `arran-14` | 아란 14년 | ./assets/images/arran-14.webp | [Dailyshot - 아란 14년](https://dailyshot.co/m/item/37533) | 2026-11-24 |
+| `arran-18` | 아란 18년 | ./assets/images/arran-18.webp | [Dailyshot - 아란 18년](https://dailyshot.co/m/item/11220) | 2026-11-24 |
+| `catena-zapata-alamos-cabernet-sauvignon` | 까테나 자파타 알라모스 까베르네 소비뇽 | ./assets/images/catena-zapata-alamos-cabernet-sauvignon.webp | [Dailyshot - 까테나 자파타 알라모스 까베르네 소비뇽](https://dailyshot.co/m/item/26356) | 2026-11-24 |
+| `glenturret-eclosion` | 글렌터렛 에클로션 | ./assets/images/glenturret-eclosion.webp | [Dailyshot - 글렌터렛 에클로션](https://dailyshot.co/m/item/40144) | 2026-11-24 |
+| `rebel-kentucky-straight-bourbon-cabernet-sauvignon` | 레벨 켄터키 스트레이트 버번 까베르네 소비뇽 배럴 피니시 100프루프 | ./assets/images/rebel-kentucky-straight-bourbon-cabernet-sauvignon.webp | [Dailyshot - 레벨 켄터키 스트레이트 버번 까베르네 소비뇽 배럴 피니시 100프루프](https://dailyshot.co/m/item/38662) | 2026-11-24 |
+| `tread-softly-prosecco` | 트레드 소프틀리 프로세코 | ./assets/images/tread-softly-prosecco.webp | [Dailyshot - 트레드 소프틀리 프로세코](https://dailyshot.co/m/item/12695) | 2026-11-24 |
+| `takashimizu-junmai-gentei` | 다카시미즈 준마이 겐테이 | ./assets/images/takashimizu-junmai-gentei.webp | [Dailyshot - 다카시미즈 준마이 겐테이](https://dailyshot.co/m/item/13890) | 2026-11-24 |
+| `vincent-girardin-meursault-vieilles-vignes` | 뱅상 지라르댕, 뫼르소 비에이 비뉴 | ./assets/images/vincent-girardin-meursault-vieilles-vignes.webp | [Dailyshot - 뱅상 지라르댕, 뫼르소 비에이 비뉴](https://dailyshot.co/m/item/12456) | 2026-11-24 |
+| `takashimizu-sake-no-kuni-junmai` | 다카시미즈 사케노쿠니 준마이 | ./assets/images/takashimizu-sake-no-kuni-junmai.webp | [Dailyshot - 다카시미즈 사케노쿠니 준마이](https://dailyshot.co/m/item/6686) | 2026-11-24 |
+| `mvsa-cava-brut` | 무사 까바 브뤼 | ./assets/images/mvsa-cava-brut.webp | [Dailyshot - 무사 까바 브뤼](https://dailyshot.co/m/item/12670) | 2026-11-24 |
+| `mac-talla-pedro-ximenez` | 막탈라 페드로 히메네즈 | ./assets/images/mac-talla-pedro-ximenez.webp | [Dailyshot - 막탈라 페드로 히메네즈](https://dailyshot.co/m/item/21133) | 2026-11-24 |
+| `arran-25` | 아란 25년 | ./assets/images/arran-25.webp | [Dailyshot - 아란 25년](https://dailyshot.co/m/item/4583) | 2026-11-24 |
+| `master-brewer-cao-daming-sauce-aroma` | 조대명 량주대사 장향어장 | ./assets/images/master-brewer-cao-daming-sauce-aroma.webp | [Dailyshot - 조대명 량주대사 장향어장](https://dailyshot.co/m/item/28281) | 2026-11-24 |
+| `volcan-de-mi-tierra-blanco` | 볼칸 데 미 띠에라 블랑코 | ./assets/images/volcan-de-mi-tierra-blanco.webp | [Dailyshot - 볼칸 데 미 띠에라 블랑코](https://dailyshot.co/m/item/7914) | 2026-11-24 |
+| `auchentoshan-american-oak` | 오켄토션 아메리칸 오크 | ./assets/images/auchentoshan-american-oak.webp | [Dailyshot - 오켄토션 아메리칸 오크](https://dailyshot.co/m/item/34548) | 2026-11-24 |
+| `madre-mezcal-espadin` | 마드레 메즈칼 에스파딘 | ./assets/images/madre-mezcal-espadin.webp | [Dailyshot - 마드레 메즈칼 에스파딘](https://dailyshot.co/m/item/10487) | 2026-11-24 |
+| `la-fayette-vs` | 라 파예뜨 VS | ./assets/images/la-fayette-vs.webp | [Dailyshot - 라 파예뜨 VS](https://dailyshot.co/m/item/8994) | 2026-11-24 |
+| `davidoff-vs` | 다비도프 VS | ./assets/images/davidoff-vs.webp | [Dailyshot - 다비도프 VS](https://dailyshot.co/m/item/13681) | 2026-11-24 |
+| `chabot-xo-superior` | 샤보 XO 슈페리어 | ./assets/images/chabot-xo-superior.webp | [Dailyshot - 샤보 XO 슈페리어](https://dailyshot.co/m/item/23009) | 2026-11-24 |
+| `gran-patron-piedra` | 그랑 페트론 피에드라 | ./assets/images/gran-patron-piedra.webp | [Dailyshot - 그랑 페트론 피에드라](https://dailyshot.co/m/item/22977) | 2026-11-24 |
+| `josen-pack-sake` | 죠센팩 2L | ./assets/images/josen-pack-sake.webp | [Dailyshot - 죠센팩 2L](https://dailyshot.co/m/item/25181) | 2026-11-24 |
+| `courvoisier-xo` | 꾸브와제 XO | ./assets/images/courvoisier-xo.webp | [Dailyshot - 꾸브와제 XO](https://dailyshot.co/m/item/24762) | 2026-11-24 |
+| `clase-azul-mezcal-durango` | 클라세 아줄 메즈칼 듀랑고 | ./assets/images/clase-azul-mezcal-durango.webp | [Dailyshot - 클라세 아줄 메즈칼 듀랑고](https://dailyshot.co/m/item/23456) | 2026-11-24 |
+| `clase-azul-mezcal-san-luis` | 클라세 아줄 메즈칼 산 루이스 | ./assets/images/clase-azul-mezcal-san-luis.webp | [Dailyshot - 클라세 아줄 메즈칼 산 루이스](https://dailyshot.co/m/item/32011) | 2026-11-24 |
+| `mancino-vermouth-bianco-ambrato` | 만치노 버무스 비앙코 암브라토 | ./assets/images/mancino-vermouth-bianco-ambrato.webp | [Dailyshot - 만치노 버무스 비앙코 암브라토](https://dailyshot.co/m/item/3730) | 2026-11-24 |
+| `zaku-junmai-ginjo-z` | 자쿠 준마이 긴죠 Z | ./assets/images/zaku-junmai-ginjo-z.webp | [Dailyshot - 자쿠 준마이 긴죠 Z](https://dailyshot.co/m/item/34853) | 2026-11-24 |
+| `signatory-aberfeldy-11-cs-first-fill` | 시그나토리 2014 아버펠디 11년 CS 퍼스트 필 올로로쏘 셰리 벗 #2 | ./assets/images/signatory-aberfeldy-11-cs-first-fill.webp | [Dailyshot - 시그나토리 2014 아버펠디 11년 CS 퍼스트 필 올로로쏘 셰리 벗 #2](https://dailyshot.co/m/item/37526) | 2026-11-24 |
+| `the-glenlivet-15-sherry-cask-strength` | 더 글렌리벳 15년 셰리 캐스크 CS 2024 대만 익스클루시브 | ./assets/images/the-glenlivet-15-sherry-cask-strength.webp | [Dailyshot - 더 글렌리벳 15년 셰리 캐스크 CS 2024 대만 익스클루시브](https://dailyshot.co/m/item/27980) | 2026-11-24 |
+| `valdespino-vermouth-origen` | 발데스피노 베르무트 오리헨 | ./assets/images/valdespino-vermouth-origen.webp | [Dailyshot - 발데스피노 베르무트 오리헨](https://dailyshot.co/m/item/39156) | 2026-11-24 |
+| `the-glenlivet-15-sherry-cask-taiwan` | 더 글렌리벳 15년 셰리 캐스크 대만 익스클루시브 | ./assets/images/the-glenlivet-15-sherry-cask-taiwan.webp | [Dailyshot - 더 글렌리벳 15년 셰리 캐스크 대만 익스클루시브](https://dailyshot.co/m/item/9483) | 2026-11-24 |
+| `dassai-blue-type-23` | 닷사이 블루 타입 23 | ./assets/images/dassai-blue-type-23.webp | [Dailyshot - 닷사이 블루 타입 23](https://dailyshot.co/m/item/22203) | 2026-11-24 |
+| `dassai-blue-type-50` | 닷사이 블루 타입 50 | ./assets/images/dassai-blue-type-50.webp | [Dailyshot - 닷사이 블루 타입 50](https://dailyshot.co/m/item/22204) | 2026-11-24 |
+| `xinghua-village-fenjiu-53` | 행화촌 분주 53% 500ml | ./assets/images/xinghua-village-fenjiu-53.webp | [Dailyshot - 행화촌 분주 53% 500ml](https://dailyshot.co/m/item/30495) | 2026-11-24 |
+| `bunnahabhain-aonadh-10-cask-strength` | 부나하벤 아오나흐 10년 CS | ./assets/images/bunnahabhain-aonadh-10-cask-strength.webp | [Dailyshot - 부나하벤 아오나흐 10년 CS](https://dailyshot.co/m/item/5694) | 2026-11-24 |
+| `carpano-dry` | 카르파노 드라이 750ml | ./assets/images/carpano-dry.webp | [Dailyshot - 카르파노 드라이 750ml](https://dailyshot.co/m/item/35022) | 2026-11-24 |
+| `hayman-s-sloe-gin` | 헤이먼스 슬로진 | ./assets/images/hayman-s-sloe-gin.webp | [Dailyshot - 헤이먼스 슬로진](https://dailyshot.co/m/item/5561) | 2026-11-24 |
+| `onzi-gwahaju` | 온지과하주 | ./assets/images/onzi-gwahaju.webp | [Dailyshot - 온지과하주](https://dailyshot.co/m/item/28216) | 2026-11-24 |
+| `zaku-junmai-ginjo-hiyaoroshi` | 자쿠 준마이 긴죠 히야오로시 | ./assets/images/zaku-junmai-ginjo-hiyaoroshi.webp | [Dailyshot - 자쿠 준마이 긴죠 히야오로시](https://dailyshot.co/m/item/30196) | 2026-11-24 |
+| `kankiku-junmai-daiginjo-identity-fusanomai-50` | 칸키쿠 준마이 다이긴죠 아이덴티티 후사노마이 50 우스니고리 무로카나마겐슈 | ./assets/images/kankiku-junmai-daiginjo-identity-fusanomai-50.webp | [Dailyshot - 칸키쿠 준마이 다이긴죠 아이덴티티 후사노마이 50 우스니고리 무로카나마겐슈](https://dailyshot.co/m/item/37079) | 2026-11-24 |
+| `cheonbihyang-yakju` | 천비향 약주 500ml | ./assets/images/cheonbihyang-yakju.webp | [Dailyshot - 천비향 약주 500ml](https://dailyshot.co/m/item/15716) | 2026-11-24 |
+| `disaronno-velvet` | 디사론노 벨벳 700ml | ./assets/images/disaronno-velvet.webp | [Dailyshot - 디사론노 벨벳 700ml](https://dailyshot.co/m/item/36339) | 2026-11-24 |
+| `jiranjigyo-yakju` | 지란지교 약주 500ml | ./assets/images/jiranjigyo-yakju.webp | [Dailyshot - 지란지교 약주 500ml](https://dailyshot.co/m/item/8840) | 2026-11-24 |
+| `pussers-rum-15` | 푸써스 럼 15년 | ./assets/images/pussers-rum-15.webp | [Dailyshot - 푸써스 럼 15년](https://dailyshot.co/m/item/33098) | 2026-11-24 |
+| `beefeater-24` | 비피터 24 | ./assets/images/beefeater-24.webp | [Dailyshot - 비피터 24](https://dailyshot.co/m/item/6830) | 2026-11-24 |
+| `waterford-single-farm-origin-lake-field` | 워터포드 싱글 팜 오리진 레이크 필드 | ./assets/images/waterford-single-farm-origin-lake-field.webp | [Dailyshot - 워터포드 싱글 팜 오리진 레이크 필드](https://dailyshot.co/m/item/5121) | 2026-11-24 |
+| `bruichladdich-18` | 브룩라디 18년 | ./assets/images/bruichladdich-18.webp | [Dailyshot - 브룩라디 18년](https://dailyshot.co/m/item/21366) | 2026-11-24 |
+| `bruichladdich-21` | 브룩라디 21년 | ./assets/images/bruichladdich-21.webp | [Dailyshot - 브룩라디 21년](https://dailyshot.co/m/item/24122) | 2026-11-24 |
+| `waterford-the-cuvee` | 워터포드 더 뀌베 | ./assets/images/waterford-the-cuvee.webp | [Dailyshot - 워터포드 더 뀌베](https://dailyshot.co/m/item/5122) | 2026-11-24 |
+| `jose-cuervo-tradicional-reposado` | 호세 쿠엘보 트레디셔널 레포사도 | ./assets/images/jose-cuervo-tradicional-reposado.webp | [Dailyshot - 호세 쿠엘보 트레디셔널 레포사도](https://dailyshot.co/m/item/5416) | 2026-11-24 |
+| `makkaejoo-glutinous-rice-yakju` | 마깨주 찹쌀 약주 700ml | ./assets/images/makkaejoo-glutinous-rice-yakju.webp | [Dailyshot - 마깨주 찹쌀 약주 700ml](https://dailyshot.co/m/item/39753) | 2026-11-24 |
+| `kankiku-junmai-daiginjo-ocean99-hakuginkai-snowsea` | 칸키쿠 준마이 다이긴죠 OCEAN99 하쿠긴카이 SNOWSEA 니고리 | ./assets/images/kankiku-junmai-daiginjo-ocean99-hakuginkai-snowsea.webp | [Dailyshot - 칸키쿠 준마이 다이긴죠 OCEAN99 하쿠긴카이 SNOWSEA 니고리](https://dailyshot.co/m/item/30873) | 2026-11-24 |
+| `murray-mcdavid-dailuaine-7` | 머레이 맥데이비드 달유인 7년 | ./assets/images/murray-mcdavid-dailuaine-7.webp | [Dailyshot - 머레이 맥데이비드 달유인 7년](https://dailyshot.co/m/item/32119) | 2026-11-24 |
+| `senkin-yukidaruma-shiboritate-nigori` | 센킨 유키다루마 시보리타테 니고리 | ./assets/images/senkin-yukidaruma-shiboritate-nigori.webp | [Dailyshot - 센킨 유키다루마 시보리타테 니고리](https://dailyshot.co/m/item/30956) | 2026-11-24 |
+| `kankiku-junmai-new-sensation-koshihikari-90` | 칸키쿠 준마이 뉴 센세이션 코시히카리 90 우스니고리 무로카나마겐슈 | ./assets/images/kankiku-junmai-new-sensation-koshihikari-90.webp | [Dailyshot - 칸키쿠 준마이 뉴 센세이션 코시히카리 90 우스니고리 무로카나마겐슈](https://dailyshot.co/m/item/37081) | 2026-11-24 |
+| `hendricks-lunar-gin` | 헨드릭스 루나 진 | ./assets/images/hendricks-lunar-gin.webp | [Dailyshot - 헨드릭스 루나 진](https://dailyshot.co/m/item/17107) | 2026-11-24 |
+| `chartreuse-yellow` | 샤르트뢰즈 옐로우 | ./assets/images/chartreuse-yellow.webp | [Dailyshot - 샤르트뢰즈 옐로우](https://dailyshot.co/m/item/5438) | 2026-11-24 |
+| `sansibar-finest-bruichladdich-18-sherry-cask` | 산시바 파이니스트 브룩라디 18년 셰리 캐스크 | ./assets/images/sansibar-finest-bruichladdich-18-sherry-cask.webp | [Dailyshot - 산시바 파이니스트 브룩라디 18년 셰리 캐스크](https://dailyshot.co/m/item/12260) | 2026-11-24 |
+| `glow-ep09-ray-of-hope` | 글로우 EP09 Ray of Hope | ./assets/images/glow-ep09-ray-of-hope.webp | [Dailyshot - 글로우 EP09 Ray of Hope](https://dailyshot.co/m/item/33553) | 2026-11-24 |
+| `tanduay-dark-rum` | 탄두아이 다크 럼 | ./assets/images/tanduay-dark-rum.webp | [Dailyshot - 탄두아이 다크 럼](https://dailyshot.co/m/item/24520) | 2026-11-24 |
+| `kankiku-junmai-daiginjo-adapt-fusakogane-50` | 칸키쿠 준마이 다이긴죠 어댑트 후사코가네 50 우스니고리 무로카나마겐슈 | ./assets/images/kankiku-junmai-daiginjo-adapt-fusakogane-50.webp | [Dailyshot - 칸키쿠 준마이 다이긴죠 어댑트 후사코가네 50 우스니고리 무로카나마겐슈](https://dailyshot.co/m/item/37113) | 2026-11-24 |
+| `senkin-kabutomushi` | 센킨 카부토무시 | ./assets/images/senkin-kabutomushi.webp | [Dailyshot - 센킨 카부토무시](https://dailyshot.co/m/item/28314) | 2026-11-24 |
+| `tokki-soju-garnet` | 토끼소주 가넷 750ml | ./assets/images/tokki-soju-garnet.webp | [Dailyshot - 토끼소주 가넷 750ml](https://dailyshot.co/m/item/13299) | 2026-11-24 |
+| `colec-o-privada-moscatel-de-set` | 콜레캉 프리바다 모스카텔 드 세투발 아르마냑 | ./assets/images/colec-o-privada-moscatel-de-set.webp | [Dailyshot - 콜레캉 프리바다 모스카텔 드 세투발 아르마냑](https://dailyshot.co/m/item/18872) | 2026-11-24 |
+| `roger-coulon-brut-heri-hodie-1er` | 호지 꿀롱, 브뤼 에리 오지 프르미에 크뤼 | ./assets/images/roger-coulon-brut-heri-hodie-1er.webp | [Dailyshot - 호지 꿀롱, 브뤼 에리 오지 프르미에 크뤼](https://dailyshot.co/m/item/11714) | 2026-11-24 |
+| `senkin-senko-hanabi` | 센킨 센코하나비 | ./assets/images/senkin-senko-hanabi.webp | [Dailyshot - 센킨 센코하나비](https://dailyshot.co/m/item/30922) | 2026-11-24 |
+| `lunazul-reposado` | 루나즐 레포사도 | ./assets/images/lunazul-reposado.webp | [Dailyshot - 루나즐 레포사도](https://dailyshot.co/m/item/35303) | 2026-11-24 |
+| `mutsu-hassen-nouveau-tokubetsu-junmai-nama` | 무츠핫센 누보 토쿠베츠 준마이 나마 오리가라미 | ./assets/images/mutsu-hassen-nouveau-tokubetsu-junmai-nama.webp | [Dailyshot - 무츠핫센 누보 토쿠베츠 준마이 나마 오리가라미](https://dailyshot.co/m/item/31058) | 2026-11-24 |
+| `louis-roederer-cristal` | 루이 로드레 크리스탈 | ./assets/images/louis-roederer-cristal.webp | [Dailyshot - 루이 로드레 크리스탈](https://dailyshot.co/m/item/8807) | 2026-11-24 |
+| `louis-roederer-collection-246` | 루이 로드레 컬렉션 246 | ./assets/images/louis-roederer-collection-246.webp | [Dailyshot - 루이 로드레 컬렉션 246](https://dailyshot.co/m/item/31443) | 2026-11-24 |
+| `mizhou-gaoliang-33-8` | 밀주고량 490ml 33.8% | ./assets/images/mizhou-gaoliang-33-8.webp | [Dailyshot - 밀주고량 490ml 33.8%](https://dailyshot.co/m/item/25142) | 2026-11-24 |
+| `louis-roederer-collection-245` | 루이 로드레 컬렉션 245 | ./assets/images/louis-roederer-collection-245.webp | [Dailyshot - 루이 로드레 컬렉션 245](https://dailyshot.co/m/item/28784) | 2026-11-24 |
+| `dupont-calvados-fine` | 듀퐁 깔바도스 파인 | ./assets/images/dupont-calvados-fine.webp | [Dailyshot - 듀퐁 깔바도스 파인](https://dailyshot.co/m/item/13110) | 2026-11-24 |
+| `mortlach-sr` | 몰트락 SR 2024 | ./assets/images/mortlach-sr.webp | [Dailyshot - 몰트락 SR 2024](https://dailyshot.co/m/item/24497) | 2026-11-24 |
+| `ilpoom-jinro-19` | 일품진로 19년산 | ./assets/images/ilpoom-jinro-19.webp | [Dailyshot - 일품진로 19년산](https://dailyshot.co/m/item/4695) | 2026-11-24 |
+| `glenmorangie-13-yo-cognac-cask-finish` | 글렌모렌지 13년 꼬냑 캐스크 피니시 | ./assets/images/glenmorangie-13-yo-cognac-cask-finish.webp | [Dailyshot - 글렌모렌지 13년 꼬냑 캐스크 피니시](https://dailyshot.co/m/item/4901) | 2026-11-24 |
+| `1800-cristalino-40` | 1800 크리스탈리노 40% 750ml | ./assets/images/1800-cristalino-40.webp | [Dailyshot - 1800 크리스탈리노 40% 750ml](https://dailyshot.co/m/item/24621) | 2026-11-24 |
+| `finlandia-vodka` | 핀란디아 보드카 | ./assets/images/finlandia-vodka.webp | [Dailyshot - 핀란디아 보드카](https://dailyshot.co/m/item/3053) | 2026-11-24 |
+| `cava-de-oro-black-bottle-tequila` | 카바 데 오로, 블랙 보틀 데킬라 엑스트라 아네호 | ./assets/images/cava-de-oro-black-bottle-tequila.webp | [Dailyshot - 카바 데 오로, 블랙 보틀 데킬라 엑스트라 아네호](https://dailyshot.co/m/item/32801) | 2026-11-24 |
+| `senkin-muku-junmai-daiginjo-1` | 센킨 무쿠 준마이 다이긴죠 1.8L | ./assets/images/senkin-muku-junmai-daiginjo-1.webp | [Dailyshot - 센킨 무쿠 준마이 다이긴죠 1.8L](https://dailyshot.co/m/item/25979) | 2026-11-24 |
+| `senkin-organic-nature` | 센킨 누보 | ./assets/images/senkin-organic-nature.webp | [Dailyshot - 센킨 누보](https://dailyshot.co/m/item/16250) | 2026-11-24 |
+| `stolichnaya-elit-vodka` | 스톨리치나야 엘리트 보드카 750ml | ./assets/images/stolichnaya-elit-vodka.webp | [Dailyshot - 스톨리치나야 엘리트 보드카 750ml](https://dailyshot.co/m/item/6058) | 2026-11-24 |
+| `skyy-infusions-cherry` | 스카이 인퓨전 체리 750ml | ./assets/images/skyy-infusions-cherry.webp | [Dailyshot - 스카이 인퓨전 체리 750ml](https://dailyshot.co/m/item/14557) | 2026-11-24 |
+| `giffard-parfait-amour` | 지파드 파르페아모르 | ./assets/images/giffard-parfait-amour.webp | [Dailyshot - 지파드 파르페아모르](https://dailyshot.co/m/item/20807) | 2026-11-24 |
+| `calvados-pere-magloire-xo-200-ans` | 깔바도스 페르 마그루아 XO 200주년(10년) | ./assets/images/calvados-pere-magloire-xo-200-ans.webp | [Dailyshot - 깔바도스 페르 마그루아 XO 200주년(10년)](https://dailyshot.co/m/item/30274) | 2026-11-24 |
+| `caol-ila-moch` | 쿨일라 모흐 | ./assets/images/caol-ila-moch.webp | [Dailyshot - 쿨일라 모흐](https://dailyshot.co/m/item/4657) | 2026-11-24 |
+| `atagonomatsu-sparkling` | 아타고노마츠 스파클링 | ./assets/images/atagonomatsu-sparkling.webp | [Dailyshot - 아타고노마츠 스파클링](https://dailyshot.co/m/item/38035) | 2026-11-24 |
+| `christian-drouin-tres-pomme` | 크리스찬 드루앵 트레폼 | ./assets/images/christian-drouin-tres-pomme.webp | [Dailyshot - 크리스찬 드루앵 트레폼](https://dailyshot.co/m/item/7728) | 2026-11-24 |
+| `otokoyama-tokubetsu-junmai` | 오토코야마 토쿠베츠 준마이 | ./assets/images/otokoyama-tokubetsu-junmai.webp | [Dailyshot - 오토코야마 토쿠베츠 준마이](https://dailyshot.co/m/item/12899) | 2026-11-24 |
+| `de-kuyper-creme-de-caf` | 디카이퍼 카페 | ./assets/images/de-kuyper-creme-de-caf.webp | [Dailyshot - 디카이퍼 카페](https://dailyshot.co/m/item/3959) | 2026-11-24 |
+| `the-guvnor-extra-dry-sparkling` | 거브너 엑스트라 드라이 스파클링 | ./assets/images/the-guvnor-extra-dry-sparkling.webp | [Dailyshot - 거브너 엑스트라 드라이 스파클링](https://dailyshot.co/m/item/31854) | 2026-11-24 |
+| `oyster-bay-cuvee-brut` | 오이스터 베이 뀌베 브뤼 | ./assets/images/oyster-bay-cuvee-brut.webp | [Dailyshot - 오이스터 베이 뀌베 브뤼](https://dailyshot.co/m/item/11242) | 2026-11-24 |
+| `mistral-bay-sauvignon-blanc` | 미스트랄 베이 소비뇽 블랑 | ./assets/images/mistral-bay-sauvignon-blanc.webp | [Dailyshot - 미스트랄 베이 소비뇽 블랑](https://dailyshot.co/m/item/37881) | 2026-11-24 |
+| `nabeshima-ginjo-summer-moon` | 나베시마 긴죠 Summer Moon | ./assets/images/nabeshima-ginjo-summer-moon.webp | [Dailyshot - 나베시마 긴죠 Summer Moon](https://dailyshot.co/m/item/38259) | 2026-11-24 |
+| `pikes-traditionale-riesling` | 파이크, 트레디셔날 리슬링 | ./assets/images/pikes-traditionale-riesling.webp | [Dailyshot - 파이크, 트레디셔날 리슬링](https://dailyshot.co/m/item/13550) | 2026-11-24 |
+| `luna-gaia-mandricardo-catarratto` | 루나 가이아, 만드리카르도 카타라토 | ./assets/images/luna-gaia-mandricardo-catarratto.webp | [Dailyshot - 루나 가이아, 만드리카르도 카타라토](https://dailyshot.co/m/item/10710) | 2026-11-24 |
+| `nabeshima-daiginjo-yamadanishiki-35` | 나베시마 다이긴죠 야마다니시키 35 | ./assets/images/nabeshima-daiginjo-yamadanishiki-35.webp | [Dailyshot - 나베시마 다이긴죠 야마다니시키 35](https://dailyshot.co/m/item/37085) | 2026-11-24 |
+| `speri-amarone-della-valpolicella-classico-vigneto` | 스페리 아마로네 델라 발폴리첼라 클라시코 '산뚜르바노' | ./assets/images/speri-amarone-della-valpolicella-classico-vigneto.webp | [Dailyshot - 스페리 아마로네 델라 발폴리첼라 클라시코 '산뚜르바노'](https://dailyshot.co/m/item/6262) | 2026-11-24 |
+| `hennessy-xxo` | 헤네시 XXO 1L | ./assets/images/hennessy-xxo.webp | [Dailyshot - 헤네시 XXO 1L](https://dailyshot.co/m/item/24036) | 2026-11-24 |
+| `kanosuke-single-malt-sherry` | 카노스케 싱글몰트 셰리 | ./assets/images/kanosuke-single-malt-sherry.webp | [Dailyshot - 카노스케 싱글몰트 셰리](https://dailyshot.co/m/item/38620) | 2026-11-24 |
+| `won-soju-original` | 원소주 오리지널 | ./assets/images/won-soju-original.webp | [Dailyshot - 원소주 오리지널](https://dailyshot.co/m/item/15848) | 2026-11-24 |
+| `hardys-stamp-cabernet-merlot` | 하디스, 스탬프 까베르네 메를로 | ./assets/images/hardys-stamp-cabernet-merlot.webp | [Dailyshot - 하디스, 스탬프 까베르네 메를로](https://dailyshot.co/m/item/14112) | 2026-11-24 |
+| `kokuryu-daiginjo-fukubottle` | 코쿠류 다이긴죠 후쿠보틀 | ./assets/images/kokuryu-daiginjo-fukubottle.webp | [Dailyshot - 코쿠류 다이긴죠 후쿠보틀](https://dailyshot.co/m/item/38208) | 2026-11-24 |
+| `martell-xo` | 마르텔 XO | ./assets/images/martell-xo.webp | [Dailyshot - 마르텔 XO](https://dailyshot.co/m/item/5683) | 2026-11-24 |
+| `dijon-cassis` | 디종 카시스 | ./assets/images/dijon-cassis.webp | [Dailyshot - 디종 카시스](https://dailyshot.co/m/item/10527) | 2026-11-24 |
+| `lejay-creme-de-framboise-liqueur` | 르제 크렘 드 프랑부아즈 리큐르 | ./assets/images/lejay-creme-de-framboise-liqueur.webp | [Dailyshot - 르제 크렘 드 프랑부아즈 리큐르](https://dailyshot.co/m/item/36839) | 2026-11-24 |
+| `hennessy-paradis` | 헤네시 파라디 | ./assets/images/hennessy-paradis.webp | [Dailyshot - 헤네시 파라디](https://dailyshot.co/m/item/4414) | 2026-11-24 |
+| `hans-baeksoohwandongju-15` | 한영석 백수환동주 15 | ./assets/images/hans-baeksoohwandongju-15.webp | [Dailyshot - 한영석 백수환동주 15](https://dailyshot.co/m/item/23931) | 2026-11-24 |
+| `san-marzano-il-pumo-primitivo-salento` | 산 마르짜노 일 푸모 프리미티보 살렌토 IGP | ./assets/images/san-marzano-il-pumo-primitivo-salento.webp | [Dailyshot - 산 마르짜노 일 푸모 프리미티보 살렌토 IGP](https://dailyshot.co/m/item/26353) | 2026-11-24 |
+| `bruichladdich-black-art-sapero` | 브룩라디 블랙 아트 사페로 | ./assets/images/bruichladdich-black-art-sapero.webp | [Dailyshot - 브룩라디 블랙 아트 사페로](https://dailyshot.co/m/item/33677) | 2026-11-24 |
+| `siega-yuzu` | 시에가 유자향 | ./assets/images/siega-yuzu.webp | [Dailyshot - 시에가 유자향](https://dailyshot.co/m/item/34365) | 2026-11-24 |
+| `kavalan-solist-amontillado-sherry-single-cask` | 카발란 솔리스트 아몬티야도 셰리 캐스크 CS | ./assets/images/kavalan-solist-amontillado-sherry-single-cask.webp | [Dailyshot - 카발란 솔리스트 아몬티야도 셰리 캐스크 CS](https://dailyshot.co/m/item/27906) | 2026-11-24 |
+| `pauleczki-vin-tokaji-aszu-6-puttonyos` | 폴레츠키 빈 토카이 아수 6 푸토뇨스 | ./assets/images/pauleczki-vin-tokaji-aszu-6-puttonyos.webp | [Dailyshot - 폴레츠키 빈 토카이 아수 6 푸토뇨스](https://dailyshot.co/m/item/31092) | 2026-11-24 |
+| `signatory-glen-elgin-12` | 시그나토리 2009 글렌 엘긴 12년 | ./assets/images/signatory-glen-elgin-12.webp | [Dailyshot - 시그나토리 2009 글렌 엘긴 12년](https://dailyshot.co/m/item/7853) | 2026-11-24 |
+| `smirnoff-red` | 스미노프 레드 750ml | ./assets/images/smirnoff-red.webp | [Dailyshot - 스미노프 레드 750ml](https://dailyshot.co/m/item/16491) | 2026-11-24 |
+| `gyeongju-beopju` | 경주 법주 | ./assets/images/gyeongju-beopju.webp | [Dailyshot - 경주 법주](https://dailyshot.co/m/item/10382) | 2026-11-24 |
+| `jeju-omegisul-ju` | 제주 오메기 맑은 술 | ./assets/images/jeju-omegisul-ju.webp | [Dailyshot - 제주 오메기 맑은 술](https://dailyshot.co/m/item/10389) | 2026-11-24 |
+| `louis-roederer-collection-243` | 루이 로드레 컬렉션 243 | ./assets/images/louis-roederer-collection-243.webp | [Dailyshot - 루이 로드레 컬렉션 243](https://dailyshot.co/m/item/10593) | 2026-11-24 |
+| `mars-komagatake-single-cask-korean-landscape` | 마르스 고마가타케 싱글 캐스크 한국 풍경 시리즈 #01 | ./assets/images/mars-komagatake-single-cask-korean-landscape.webp | [Dailyshot - 마르스 고마가타케 싱글 캐스크 한국 풍경 시리즈 #01](https://dailyshot.co/m/item/38135) | 2026-11-24 |
+| `patricius-tokaji-furmint` | 패트리셔스, 토카이 푸르민트 | ./assets/images/patricius-tokaji-furmint.webp | [Dailyshot - 패트리셔스, 토카이 푸르민트](https://dailyshot.co/m/item/13396) | 2026-11-24 |
+| `sakura-junmai` | 사쿠라 준마이 | ./assets/images/sakura-junmai.webp | [Dailyshot - 사쿠라 준마이](https://dailyshot.co/m/item/6174) | 2026-11-24 |
+| `1792-bottled-in-bond` | 1792 바틀 인 본드 | ./assets/images/1792-bottled-in-bond.webp | [Dailyshot - 1792 바틀 인 본드](https://dailyshot.co/m/item/4525) | 2026-11-24 |
+| `kunizakari-rose-umeshu` | 쿠니자카리 로즈 우메슈 | ./assets/images/kunizakari-rose-umeshu.webp | [Dailyshot - 쿠니자카리 로즈 우메슈](https://dailyshot.co/m/item/27073) | 2026-11-24 |
+| `dows-20-tawny-port` | 다우 20년 숙성 토니 포트 | ./assets/images/dows-20-tawny-port.webp | [Dailyshot - 다우 20년 숙성 토니 포트](https://dailyshot.co/m/item/27147) | 2026-11-24 |
+| `glen-garioch-founders-reserve-1797` | 글렌 기어리 파운더스 리저브 1797 1L | ./assets/images/glen-garioch-founders-reserve-1797.webp | [Dailyshot - 글렌 기어리 파운더스 리저브 1797 1L](https://dailyshot.co/m/item/31831) | 2026-11-24 |
+| `miyagikyo-single-malt-grande` | 미야기쿄 싱글 몰트 그란데 | ./assets/images/miyagikyo-single-malt-grande.webp | [Dailyshot - 미야기쿄 싱글 몰트 그란데](https://dailyshot.co/m/item/32859) | 2026-11-24 |
+| `fonseca-ruby-port` | 폰세카 루비 포트 | ./assets/images/fonseca-ruby-port.webp | [Dailyshot - 폰세카 루비 포트](https://dailyshot.co/m/item/12495) | 2026-11-24 |
+| `kavalan-solist-oloroso-sherry-cask-strength` | 카발란 솔리스트 올로로쏘 셰리 캐스크 CS 1L | ./assets/images/kavalan-solist-oloroso-sherry-cask-strength.webp | [Dailyshot - 카발란 솔리스트 올로로쏘 셰리 캐스크 CS 1L](https://dailyshot.co/m/item/25152) | 2026-11-24 |
+| `nikka-single-malt-yoichi-10-year` | 닛카 싱글몰트 요이치 10년 | ./assets/images/nikka-single-malt-yoichi-10-year.webp | [Dailyshot - 닛카 싱글몰트 요이치 10년](https://dailyshot.co/m/item/34325) | 2026-11-24 |
+| `absolut-raspberry` | 앱솔루트 라즈베리 700ml | ./assets/images/absolut-raspberry.webp | [Dailyshot - 앱솔루트 라즈베리 700ml](https://dailyshot.co/m/item/14419) | 2026-11-24 |
+| `signatory-glen-garioch-12-small-batch` | 시그나토리 2011 글렌 기어리 12년 스몰 배치 | ./assets/images/signatory-glen-garioch-12-small-batch.webp | [Dailyshot - 시그나토리 2011 글렌 기어리 12년 스몰 배치](https://dailyshot.co/m/item/23772) | 2026-11-24 |
+| `signatory-100-proof-linkwood-10` | 시그나토리 100 프루프 링크우드 2013 10년 | ./assets/images/signatory-100-proof-linkwood-10.webp | [Dailyshot - 시그나토리 100 프루프 링크우드 2013 10년](https://dailyshot.co/m/item/23219) | 2026-11-24 |
+| `absolut-passionfruit` | 앱솔루트 패션프루트 | ./assets/images/absolut-passionfruit.webp | [Dailyshot - 앱솔루트 패션프루트](https://dailyshot.co/m/item/16789) | 2026-11-24 |
+| `hampden-overproof` | 햄든 오버프루프 | ./assets/images/hampden-overproof.webp | [Dailyshot - 햄든 오버프루프](https://dailyshot.co/m/item/3856) | 2026-11-24 |
+| `hampden-8` | 햄든 8년 | ./assets/images/hampden-8.webp | [Dailyshot - 햄든 8년](https://dailyshot.co/m/item/3855) | 2026-11-24 |
+| `springbank-10y-palo-cortado` | 스프링뱅크 10년 팔로 코르타도 | ./assets/images/springbank-10y-palo-cortado.webp | [Dailyshot - 스프링뱅크 10년 팔로 코르타도](https://dailyshot.co/m/item/20588) | 2026-11-24 |
+| `glen-garioch-12` | 글렌 기어리 12년 1L | ./assets/images/glen-garioch-12.webp | [Dailyshot - 글렌 기어리 12년 1L](https://dailyshot.co/m/item/25820) | 2026-11-24 |
+| `donnhoff-riesling-trocken` | 된호프, 리슬링 트로켄 | ./assets/images/donnhoff-riesling-trocken.webp | [Dailyshot - 된호프, 리슬링 트로켄](https://dailyshot.co/m/item/7461) | 2026-11-24 |
+| `suntory-kanade-yuzu` | 산토리 카나데 유즈 | ./assets/images/suntory-kanade-yuzu.webp | [Dailyshot - 산토리 카나데 유즈](https://dailyshot.co/m/item/33176) | 2026-11-24 |
+| `lorient-sakura-rose-wine` | 로리앙 시라유리 사쿠라 로제 와인 | ./assets/images/lorient-sakura-rose-wine.webp | [Dailyshot - 로리앙 시라유리 사쿠라 로제 와인](https://dailyshot.co/m/item/12963) | 2026-11-24 |
+| `signatory-miltonduff-8-100-proof` | 시그나토리 2015 밀튼더프 8년 100 프루프 | ./assets/images/signatory-miltonduff-8-100-proof.webp | [Dailyshot - 시그나토리 2015 밀튼더프 8년 100 프루프](https://dailyshot.co/m/item/24288) | 2026-11-24 |
+| `dows-10-year-old-tawny-port` | 다우 10년 숙성 토니 포트 | ./assets/images/dows-10-year-old-tawny-port.webp | [Dailyshot - 다우 10년 숙성 토니 포트](https://dailyshot.co/m/item/18362) | 2026-11-24 |
+| `old-pulteney-25` | 올드 풀트니 25년 | ./assets/images/old-pulteney-25.webp | [Dailyshot - 올드 풀트니 25년](https://dailyshot.co/m/item/15734) | 2026-11-24 |
+| `vidigal-winery-porta-6-branco` | 비디갈 와이너리, 포르타 6 브랑코 | ./assets/images/vidigal-winery-porta-6-branco.webp | [Dailyshot - 비디갈 와이너리, 포르타 6 브랑코](https://dailyshot.co/m/item/7256) | 2026-11-24 |
+| `hunter-laing-old-malt-cask-old` | 헌터랭 올드 몰트 캐스크 올드 풀트니 19년 | ./assets/images/hunter-laing-old-malt-cask-old.webp | [Dailyshot - 헌터랭 올드 몰트 캐스크 올드 풀트니 19년](https://dailyshot.co/m/item/8990) | 2026-11-24 |
+| `pauleczki-vin-christmas-tokaji-dry` | 폴레츠키 빈 크리스마스 토카이 드라이 | ./assets/images/pauleczki-vin-christmas-tokaji-dry.webp | [Dailyshot - 폴레츠키 빈 크리스마스 토카이 드라이](https://dailyshot.co/m/item/30627) | 2026-11-24 |
+| `glencadam-reserva-de-porto-branco-white` | 글렌카담 리제르바 드 포르투 브랑코 화이트 포트 캐스크 피니시 | ./assets/images/glencadam-reserva-de-porto-branco-white.webp | [Dailyshot - 글렌카담 리제르바 드 포르투 브랑코 화이트 포트 캐스크 피니시](https://dailyshot.co/m/item/35924) | 2026-11-24 |
+| `olo-mannochmore-13-oloroso-sherry-finish` | OLO 마녹모어 13년 올로로쏘 셰리 피니시 | ./assets/images/olo-mannochmore-13-oloroso-sherry-finish.webp | [Dailyshot - OLO 마녹모어 13년 올로로쏘 셰리 피니시](https://dailyshot.co/m/item/26368) | 2026-11-24 |
+| `signatory-glentauchers-16-100-proof-exceptional` | 시그나토리 2009 글렌토커스 16년 100 프루프 익셉셔널 캐스크 #11 | ./assets/images/signatory-glentauchers-16-100-proof-exceptional.webp | [Dailyshot - 시그나토리 2009 글렌토커스 16년 100 프루프 익셉셔널 캐스크 #11](https://dailyshot.co/m/item/29776) | 2026-11-24 |
+| `macallan-the-harmony-collection-amber-meadow` | 맥캘란 하모니 컬렉션 엠버 메도우 | ./assets/images/macallan-the-harmony-collection-amber-meadow.webp | [Dailyshot - 맥캘란 하모니 컬렉션 엠버 메도우](https://dailyshot.co/m/item/23100) | 2026-11-24 |
+| `glen-elgin-12` | 글렌 엘긴 12년 | ./assets/images/glen-elgin-12.webp | [Dailyshot - 글렌 엘긴 12년](https://dailyshot.co/m/item/24628) | 2026-11-24 |
+| `camus-xo-prestige` | 까뮤 XO 프레스티지 | ./assets/images/camus-xo-prestige.webp | [Dailyshot - 까뮤 XO 프레스티지](https://dailyshot.co/m/item/23734) | 2026-11-24 |
+| `frescobaldi-pomino-benefizio` | 프레스코발디 포미노 베네피치오 | ./assets/images/frescobaldi-pomino-benefizio.webp | [Dailyshot - 프레스코발디 포미노 베네피치오](https://dailyshot.co/m/item/30374) | 2026-11-24 |
+| `dalmore-17` | 달모어 17년 | ./assets/images/dalmore-17.webp | [Dailyshot - 달모어 17년](https://dailyshot.co/m/item/36498) | 2026-11-24 |
+| `aged-8-years-kinmen-kaoliang-liquor` | 프리미엄 진년 8년 금문고량주 | ./assets/images/aged-8-years-kinmen-kaoliang-liquor.webp | [Dailyshot - 프리미엄 진년 8년 금문고량주](https://dailyshot.co/m/item/11697) | 2026-11-24 |
+| `trapiche-single-vineyard-malbec-pinca-coletto` | 트라피체, 싱글 빈야드 말벡 '핀카 콜레토' | ./assets/images/trapiche-single-vineyard-malbec-pinca-coletto.webp | [Dailyshot - 트라피체, 싱글 빈야드 말벡 '핀카 콜레토'](https://dailyshot.co/m/item/10841) | 2026-11-24 |
+| `joseph-drouhin-pouilly-vinzelles` | 조셉드루앙 뿌이방젤 | ./assets/images/joseph-drouhin-pouilly-vinzelles.webp | [Dailyshot - 조셉드루앙 뿌이방젤](https://dailyshot.co/m/item/35808) | 2026-11-24 |
+| `catena-zapata-catena-alta-chardonnay` | 까테나 자파타 까테나 알타 샤르도네 | ./assets/images/catena-zapata-catena-alta-chardonnay.webp | [Dailyshot - 까테나 자파타 까테나 알타 샤르도네](https://dailyshot.co/m/item/26770) | 2026-11-24 |
+| `remy-martin-club` | 레미 마틴 클럽 1L | ./assets/images/remy-martin-club.webp | [Dailyshot - 레미 마틴 클럽 1L](https://dailyshot.co/m/item/23006) | 2026-11-24 |
+| `villa-antinori-rosso-igt` | 빌라 안티노리 로쏘 IGT | ./assets/images/villa-antinori-rosso-igt.webp | [Dailyshot - 빌라 안티노리 로쏘 IGT](https://dailyshot.co/m/item/3703) | 2026-11-24 |
+| `catena-zapata-nicasia-vineyard-malbec` | 까테나 자파타 니카시아 빈야드 말벡 | ./assets/images/catena-zapata-nicasia-vineyard-malbec.webp | [Dailyshot - 까테나 자파타 니카시아 빈야드 말벡](https://dailyshot.co/m/item/26222) | 2026-11-24 |
+| `camus-extra` | 까뮤 엑스트라 | ./assets/images/camus-extra.webp | [Dailyshot - 까뮤 엑스트라](https://dailyshot.co/m/item/6504) | 2026-11-24 |
+| `catena-zapata-angelica-zapata-cabernet-sauvignon` | 까테나 자파타 안젤리카 자파타 까베르네 소비뇽 | ./assets/images/catena-zapata-angelica-zapata-cabernet-sauvignon.webp | [Dailyshot - 까테나 자파타 안젤리카 자파타 까베르네 소비뇽](https://dailyshot.co/m/item/29306) | 2026-11-24 |
+| `catena-zapata-argentino-malbec` | 까테나 자파타 아르헨티노 말벡 | ./assets/images/catena-zapata-argentino-malbec.webp | [Dailyshot - 까테나 자파타 아르헨티노 말벡](https://dailyshot.co/m/item/12056) | 2026-11-24 |
+| `camus-extra-long-neck` | 까뮤 엑스트라 롱넥 | ./assets/images/camus-extra-long-neck.webp | [Dailyshot - 까뮤 엑스트라 롱넥](https://dailyshot.co/m/item/11513) | 2026-11-24 |
+| `antinori-guado-al-tasso-bianco-vermentino` | 안티노리 구아도 알 타소 비앙코 베르멘티노 | ./assets/images/antinori-guado-al-tasso-bianco-vermentino.webp | [Dailyshot - 안티노리 구아도 알 타소 비앙코 베르멘티노](https://dailyshot.co/m/item/8378) | 2026-11-24 |
+| `pascal-cotat-sancerre-les-monts-damnes` | 파스칼 코타,상세르 레 몽 담네 2024 | ./assets/images/pascal-cotat-sancerre-les-monts-damnes.webp | [Dailyshot - 파스칼 코타,상세르 레 몽 담네 2024](https://dailyshot.co/m/item/33996) | 2026-11-24 |
+| `domaine-roblot-marchand-chambolle-musigny` | 도멘 로블로 마르샹 샹볼뮈지니 2021 | ./assets/images/domaine-roblot-marchand-chambolle-musigny.webp | [Dailyshot - 도멘 로블로 마르샹 샹볼뮈지니 2021](https://dailyshot.co/m/item/27278) | 2026-11-24 |
+| `kilchoman-port-cask-matured` | 킬호만 포트 캐스크 머추어드 2024 | ./assets/images/kilchoman-port-cask-matured.webp | [Dailyshot - 킬호만 포트 캐스크 머추어드 2024](https://dailyshot.co/m/item/28518) | 2026-11-24 |
+| `errazuriz-estate-cabernet-sauvignon` | 에라주리즈 에스테이트 까베르네 소비뇽 | ./assets/images/errazuriz-estate-cabernet-sauvignon.webp | [Dailyshot - 에라주리즈 에스테이트 까베르네 소비뇽](https://dailyshot.co/m/item/11066) | 2026-11-24 |
+| `kong-fu-jia-jiu-jinyeonbunju-8` | 공부가주 진연분주 8년 | ./assets/images/kong-fu-jia-jiu-jinyeonbunju-8.webp | [Dailyshot - 공부가주 진연분주 8년](https://dailyshot.co/m/item/22693) | 2026-11-24 |
+| `leegangju-5th` | 이강주 5호 | ./assets/images/leegangju-5th.webp | [Dailyshot - 이강주 5호](https://dailyshot.co/m/item/6537) | 2026-11-24 |
+| `errazuriz-max-reserva-chardonnay` | 에라주리즈, 맥스 리제르바 샤르도네 | ./assets/images/errazuriz-max-reserva-chardonnay.webp | [Dailyshot - 에라주리즈, 맥스 리제르바 샤르도네](https://dailyshot.co/m/item/11060) | 2026-11-24 |
+| `domaine-a-f-gros-gevrey-chambertin` | A.F. 그로, 쥬브레 샹베르땡 프리미에 크뤼 '꽁브 오 므안느' 2023 | ./assets/images/domaine-a-f-gros-gevrey-chambertin.webp | [Dailyshot - A.F. 그로, 쥬브레 샹베르땡 프리미에 크뤼 '꽁브 오 므안느' 2023](https://dailyshot.co/m/item/39555) | 2026-11-24 |
+| `absolut-lime` | 앱솔루트 라임 | ./assets/images/absolut-lime.webp | [Dailyshot - 앱솔루트 라임](https://dailyshot.co/m/item/4962) | 2026-11-24 |
+| `hennessy-richard` | 헤네시 리샤 | ./assets/images/hennessy-richard.webp | [Dailyshot - 헤네시 리샤](https://dailyshot.co/m/item/4413) | 2026-11-24 |
+| `carpineto-vino-nobile-di-montepulciano-reserva` | 까르피네토, 비노 노빌레 디 몬테풀치아노 리제르바 | ./assets/images/carpineto-vino-nobile-di-montepulciano-reserva.webp | [Dailyshot - 까르피네토, 비노 노빌레 디 몬테풀치아노 리제르바](https://dailyshot.co/m/item/10129) | 2026-11-24 |
+| `kilchoman-batch-strength` | 킬호만 배치 스트렝스 | ./assets/images/kilchoman-batch-strength.webp | [Dailyshot - 킬호만 배치 스트렝스](https://dailyshot.co/m/item/22786) | 2026-11-24 |
+| `1865-selected-vineyard-merlot` | 1865 셀렉티드 빈야드 메를로 | ./assets/images/1865-selected-vineyard-merlot.webp | [Dailyshot - 1865 셀렉티드 빈야드 메를로](https://dailyshot.co/m/item/10651) | 2026-11-24 |
+| `the-glenlivet-nadurra-1st-fill-selection` | 더 글렌리벳 나두라 퍼스트필 셀렉션 배치 FF0716 | ./assets/images/the-glenlivet-nadurra-1st-fill-selection.webp | [Dailyshot - 더 글렌리벳 나두라 퍼스트필 셀렉션 배치 FF0716](https://dailyshot.co/m/item/17077) | 2026-11-24 |
+| `1865-selected-vineyard-syrah` | 1865 셀렉티드 빈야드 시라 | ./assets/images/1865-selected-vineyard-syrah.webp | [Dailyshot - 1865 셀렉티드 빈야드 시라](https://dailyshot.co/m/item/15911) | 2026-11-24 |
+| `pietradolce-contrada-rampante-etna-rosso` | 피에트라돌체 콘트라다 람판테 에트나 로쏘 | ./assets/images/pietradolce-contrada-rampante-etna-rosso.webp | [Dailyshot - 피에트라돌체 콘트라다 람판테 에트나 로쏘](https://dailyshot.co/m/item/30018) | 2026-11-24 |
+| `gamhongro-40` | 감홍로 40% 360ml | ./assets/images/gamhongro-40.webp | [Dailyshot - 감홍로 40% 360ml](https://dailyshot.co/m/item/35687) | 2026-11-24 |
+| `martell-xxo` | 마르텔 XXO | ./assets/images/martell-xxo.webp | [Dailyshot - 마르텔 XXO](https://dailyshot.co/m/item/30468) | 2026-11-24 |
+| `dalmore-21` | 달모어 21년 | ./assets/images/dalmore-21.webp | [Dailyshot - 달모어 21년](https://dailyshot.co/m/item/4576) | 2026-11-24 |
+| `norton-reserva-malbec` | 노통 리제르바 말벡 | ./assets/images/norton-reserva-malbec.webp | [Dailyshot - 노통 리제르바 말벡](https://dailyshot.co/m/item/4096) | 2026-11-24 |
+| `mumm-olympe` | 멈 올람프 | ./assets/images/mumm-olympe.webp | [Dailyshot - 멈 올람프](https://dailyshot.co/m/item/16013) | 2026-11-24 |
+| `mumm-grand-cordon-rouge` | 멈, 그랑 꼬르동 루즈 | ./assets/images/mumm-grand-cordon-rouge.webp | [Dailyshot - 멈, 그랑 꼬르동 루즈](https://dailyshot.co/m/item/27136) | 2026-11-24 |
+| `bumbu-rum` | 범부 럼 | ./assets/images/bumbu-rum.webp | [Dailyshot - 범부 럼](https://dailyshot.co/m/item/24445) | 2026-11-24 |
+| `pommery-brut-royal` | 뽀므리 브뤼 로얄 | ./assets/images/pommery-brut-royal.webp | [Dailyshot - 뽀므리 브뤼 로얄](https://dailyshot.co/m/item/8287) | 2026-11-24 |
+| `pommery-brut-rose` | 뽀므리 브뤼 로제 | ./assets/images/pommery-brut-rose.webp | [Dailyshot - 뽀므리 브뤼 로제](https://dailyshot.co/m/item/11410) | 2026-11-24 |
+| `champagne-billecart-salmon-brut-sous-bois` | 샴페인 빌까르 살몽 브뤼 수 부아 | ./assets/images/champagne-billecart-salmon-brut-sous-bois.webp | [Dailyshot - 샴페인 빌까르 살몽 브뤼 수 부아](https://dailyshot.co/m/item/28708) | 2026-11-24 |
+| `ilpoom-jinro-mild` | 일품진로 마일드 | ./assets/images/ilpoom-jinro-mild.webp | [Dailyshot - 일품진로 마일드](https://dailyshot.co/m/item/26126) | 2026-11-24 |
+| `gerard-duplessis-chablis` | 제라드 듀플레시스, 샤블리 | ./assets/images/gerard-duplessis-chablis.webp | [Dailyshot - 제라드 듀플레시스, 샤블리](https://dailyshot.co/m/item/13467) | 2026-11-24 |
+| `super-nikka` | 슈퍼 닛카 | ./assets/images/super-nikka.webp | [Dailyshot - 슈퍼 닛카](https://dailyshot.co/m/item/22838) | 2026-11-24 |
+| `jinro-red-wine` | 진로 레드 와인 | ./assets/images/jinro-red-wine.webp | [Dailyshot - 진로 레드 와인](https://dailyshot.co/m/item/8654) | 2026-11-24 |
+| `billecart-salmon-brut-rose` | 빌까르 살몽, 브뤼 로제 | ./assets/images/billecart-salmon-brut-rose.webp | [Dailyshot - 빌까르 살몽, 브뤼 로제](https://dailyshot.co/m/item/4403) | 2026-11-24 |
+| `georges-duboeuf-beaujolais-villages-nouveau` | 조르쥐 뒤뵈프 보졸레 빌라주 누보 | ./assets/images/georges-duboeuf-beaujolais-villages-nouveau.webp | [Dailyshot - 조르쥐 뒤뵈프 보졸레 빌라주 누보](https://dailyshot.co/m/item/18308) | 2026-11-24 |
+| `ruinart-rose` | 루이나 로제 | ./assets/images/ruinart-rose.webp | [Dailyshot - 루이나 로제](https://dailyshot.co/m/item/30711) | 2026-11-24 |
+| `dom-perignon-magnum` | 돔 페리뇽 2012 매그넘 | ./assets/images/dom-perignon-magnum.webp | [Dailyshot - 돔 페리뇽 2012 매그넘](https://dailyshot.co/m/item/10551) | 2026-11-24 |
+| `bols-cacao-white` | 볼스 카카오 화이트 | ./assets/images/bols-cacao-white.webp | [Dailyshot - 볼스 카카오 화이트](https://dailyshot.co/m/item/32096) | 2026-11-24 |
+| `tsunuki-kumquat-liqueur` | 츠누키 금귤 리큐르 | ./assets/images/tsunuki-kumquat-liqueur.webp | [Dailyshot - 츠누키 금귤 리큐르](https://dailyshot.co/m/item/36681) | 2026-11-24 |
+| `taittinger-comtes-de-champagne-blanc-de` | 떼땅져 꽁뜨 드 샹파뉴 블랑 드 블랑 | ./assets/images/taittinger-comtes-de-champagne-blanc-de.webp | [Dailyshot - 떼땅져 꽁뜨 드 샹파뉴 블랑 드 블랑](https://dailyshot.co/m/item/8999) | 2026-11-24 |
+| `marc-hebrart-selection-brut-premier-cru` | 마크 에브라 셀렉션 브뤼 프리미에 크뤼 | ./assets/images/marc-hebrart-selection-brut-premier-cru.webp | [Dailyshot - 마크 에브라 셀렉션 브뤼 프리미에 크뤼](https://dailyshot.co/m/item/7772) | 2026-11-24 |
+| `prince-polignac-cognac-xo-royal` | 프린스 폴리냑 꼬냑 XO 로얄 | ./assets/images/prince-polignac-cognac-xo-royal.webp | [Dailyshot - 프린스 폴리냑 꼬냑 XO 로얄](https://dailyshot.co/m/item/9744) | 2026-11-24 |
+| `ishizuchi-junmai-ginjo-midori-label` | 이시즈치 준마이 긴죠 미도리 라벨 | ./assets/images/ishizuchi-junmai-ginjo-midori-label.webp | [Dailyshot - 이시즈치 준마이 긴죠 미도리 라벨](https://dailyshot.co/m/item/31040) | 2026-11-24 |
+| `louis-roederer-vintage-brut` | 루이 로드레 빈티지 브뤼 | ./assets/images/louis-roederer-vintage-brut.webp | [Dailyshot - 루이 로드레 빈티지 브뤼](https://dailyshot.co/m/item/11709) | 2026-11-24 |
+| `veuve-clicquot-extra-brut-extra-old` | 뵈브 클리코 엑스트라 브뤼 엑스트라 올드 No.3 | ./assets/images/veuve-clicquot-extra-brut-extra-old.webp | [Dailyshot - 뵈브 클리코 엑스트라 브뤼 엑스트라 올드 No.3](https://dailyshot.co/m/item/15578) | 2026-11-24 |
+| `louis-roederer-vintage-rose` | 루이 로드레 빈티지 로제 2016 | ./assets/images/louis-roederer-vintage-rose.webp | [Dailyshot - 루이 로드레 빈티지 로제 2016](https://dailyshot.co/m/item/24183) | 2026-11-24 |
+| `mouton-cadet-reserve-medoc` | 무똥 까데 리저브 메독 | ./assets/images/mouton-cadet-reserve-medoc.webp | [Dailyshot - 무똥 까데 리저브 메독](https://dailyshot.co/m/item/7530) | 2026-11-24 |
+| `jacobs-creek-1847-chardonnay` | 제이콥스 크릭, 1847 샤르도네 | ./assets/images/jacobs-creek-1847-chardonnay.webp | [Dailyshot - 제이콥스 크릭, 1847 샤르도네](https://dailyshot.co/m/item/16131) | 2026-11-24 |
+| `domaine-de-charron-millesime-cask-strength` | 도멘 드 샤홍 밀레짐 2001 CS 아르마냑 | ./assets/images/domaine-de-charron-millesime-cask-strength.webp | [Dailyshot - 도멘 드 샤홍 밀레짐 2001 CS 아르마냑](https://dailyshot.co/m/item/35276) | 2026-11-24 |
+| `accademia-lambrusco` | 아카데미아 람브루스코 | ./assets/images/accademia-lambrusco.webp | [Dailyshot - 아카데미아 람브루스코](https://dailyshot.co/m/item/6242) | 2026-11-24 |
+| `torbreck-the-steading` | 토브렉 더 스테딩 2022 | ./assets/images/torbreck-the-steading.webp | [Dailyshot - 토브렉 더 스테딩 2022](https://dailyshot.co/m/item/35453) | 2026-11-24 |
+| `olivier-leflaive-meursault` | 올리비에 르플레브, 뫼르소 | ./assets/images/olivier-leflaive-meursault.webp | [Dailyshot - 올리비에 르플레브, 뫼르소](https://dailyshot.co/m/item/5469) | 2026-11-24 |
+| `medici-ermete-phermento-lambrusco-di-sorbara` | 메디치 에르메테 페르멘토 람브루스코 디 소르바라 | ./assets/images/medici-ermete-phermento-lambrusco-di-sorbara.webp | [Dailyshot - 메디치 에르메테 페르멘토 람브루스코 디 소르바라](https://dailyshot.co/m/item/32402) | 2026-11-24 |
+| `penfolds-max-shiraz` | 펜폴즈 맥스 쉬라즈 | ./assets/images/penfolds-max-shiraz.webp | [Dailyshot - 펜폴즈 맥스 쉬라즈](https://dailyshot.co/m/item/7074) | 2026-11-24 |
+| `penfolds-club-tawny` | 펜폴즈 클럽 토니 | ./assets/images/penfolds-club-tawny.webp | [Dailyshot - 펜폴즈 클럽 토니](https://dailyshot.co/m/item/18399) | 2026-11-24 |
+| `penfolds-bin-138-shiraz` | 펜폴즈 빈 138 쉬라즈 | ./assets/images/penfolds-bin-138-shiraz.webp | [Dailyshot - 펜폴즈 빈 138 쉬라즈](https://dailyshot.co/m/item/22949) | 2026-11-24 |
+| `medici-ermete-concerto-lambrusco` | 메디치 에르메테 콘체르토 람브루스코 | ./assets/images/medici-ermete-concerto-lambrusco.webp | [Dailyshot - 메디치 에르메테 콘체르토 람브루스코](https://dailyshot.co/m/item/27683) | 2026-11-24 |
+| `penfolds-max-cabernet-sauvignon` | 펜폴즈 맥스 까베르네 소비뇽 | ./assets/images/penfolds-max-cabernet-sauvignon.webp | [Dailyshot - 펜폴즈 맥스 까베르네 소비뇽](https://dailyshot.co/m/item/7076) | 2026-11-24 |
+| `two-hands-charlies-garden-shiraz` | 투핸즈 찰리스 가든 쉬라즈 | ./assets/images/two-hands-charlies-garden-shiraz.webp | [Dailyshot - 투핸즈 찰리스 가든 쉬라즈](https://dailyshot.co/m/item/30372) | 2026-11-24 |
+| `hakushika-tokubetsu-junmai` | 하쿠시카 토쿠베츠 준마이 | ./assets/images/hakushika-tokubetsu-junmai.webp | [Dailyshot - 하쿠시카 토쿠베츠 준마이](https://dailyshot.co/m/item/14813) | 2026-11-24 |
+| `bernard-defaix-chablis` | 베르나르 드페, 샤블리 | ./assets/images/bernard-defaix-chablis.webp | [Dailyshot - 베르나르 드페, 샤블리](https://dailyshot.co/m/item/5302) | 2026-11-24 |
+| `cloudy-bay-te-koko` | 클라우디 베이 테 코코 | ./assets/images/cloudy-bay-te-koko.webp | [Dailyshot - 클라우디 베이 테 코코](https://dailyshot.co/m/item/10500) | 2026-11-24 |
+| `pazo-cilleiro-albarino` | 빠소 씨에이로, 알바리뇨 | ./assets/images/pazo-cilleiro-albarino.webp | [Dailyshot - 빠소 씨에이로, 알바리뇨](https://dailyshot.co/m/item/14409) | 2026-11-24 |
+| `vieil-armagnac-delord` | 비에일 아르마냑 드로르 2010 | ./assets/images/vieil-armagnac-delord.webp | [Dailyshot - 비에일 아르마냑 드로르 2010](https://dailyshot.co/m/item/31251) | 2026-11-24 |
+| `hakusika-junmai-pack` | 하쿠시카 준마이 팩 900ml | ./assets/images/hakusika-junmai-pack.webp | [Dailyshot - 하쿠시카 준마이 팩 900ml](https://dailyshot.co/m/item/20314) | 2026-11-24 |
+| `remigiotto-lambrusco-reggiano-dolce` | 레미지오토 람부르스코 레지아노 돌체 | ./assets/images/remigiotto-lambrusco-reggiano-dolce.webp | [Dailyshot - 레미지오토 람부르스코 레지아노 돌체](https://dailyshot.co/m/item/17169) | 2026-11-24 |
+| `two-hands-daves-block-shiraz` | 투핸즈 데이브스 블록 쉬라즈 | ./assets/images/two-hands-daves-block-shiraz.webp | [Dailyshot - 투핸즈 데이브스 블록 쉬라즈](https://dailyshot.co/m/item/29074) | 2026-11-24 |
+| `tokki-soju-white-sohae-ju` | 토끼소주 화이트 소해주 | ./assets/images/tokki-soju-white-sohae-ju.webp | [Dailyshot - 토끼소주 화이트 소해주](https://dailyshot.co/m/item/3390) | 2026-11-24 |
+| `hakurakusei-junmai-daiginjo-hikari` | 하쿠라쿠세이 준마이 다이긴죠 히카리 | ./assets/images/hakurakusei-junmai-daiginjo-hikari.webp | [Dailyshot - 하쿠라쿠세이 준마이 다이긴죠 히카리](https://dailyshot.co/m/item/38862) | 2026-11-24 |
+| `two-hands-gnarly-dudes-shiraz` | 투핸즈 날리 듀즈 쉬라즈 | ./assets/images/two-hands-gnarly-dudes-shiraz.webp | [Dailyshot - 투핸즈 날리 듀즈 쉬라즈](https://dailyshot.co/m/item/8684) | 2026-11-24 |
+| `heritage-du-pic-st-loup-sainte` | 에리타쥬 뒤 픽생 루 상뜨 아네스 블랑 2024 | ./assets/images/heritage-du-pic-st-loup-sainte.webp | [Dailyshot - 에리타쥬 뒤 픽생 루 상뜨 아네스 블랑 2024](https://dailyshot.co/m/item/35898) | 2026-11-24 |
+| `pio-cesare-barbaresco` | 피오 체사레, 바르바레스코 | ./assets/images/pio-cesare-barbaresco.webp | [Dailyshot - 피오 체사레, 바르바레스코](https://dailyshot.co/m/item/12022) | 2026-11-24 |
+| `grey-goose-vodka-le-citron` | 그레이 구스 보드카 시트론 | ./assets/images/grey-goose-vodka-le-citron.webp | [Dailyshot - 그레이 구스 보드카 시트론](https://dailyshot.co/m/item/5554) | 2026-11-24 |
+| `bushmills-18-46` | 부쉬밀 18년 46% | ./assets/images/bushmills-18-46.webp | [Dailyshot - 부쉬밀 18년 46%](https://dailyshot.co/m/item/31981) | 2026-11-24 |
+| `1800-coconut` | 1800 코코넛 | ./assets/images/1800-coconut.webp | [Dailyshot - 1800 코코넛](https://dailyshot.co/m/item/6880) | 2026-11-24 |
+| `clase-azul-anejo` | 클라세 아줄 아네호 | ./assets/images/clase-azul-anejo.webp | [Dailyshot - 클라세 아줄 아네호](https://dailyshot.co/m/item/17208) | 2026-11-24 |
+| `the-glenlivet-nadurra-oloroso-sherry-batch` | 더 글렌리벳 나두라 올로로쏘 셰리 배치 OL0818 | ./assets/images/the-glenlivet-nadurra-oloroso-sherry-batch.webp | [Dailyshot - 더 글렌리벳 나두라 올로로쏘 셰리 배치 OL0818](https://dailyshot.co/m/item/38944) | 2026-11-24 |
+| `moutai-prince-gold` | 마오타이 왕자주 골드 | ./assets/images/moutai-prince-gold.webp | [Dailyshot - 마오타이 왕자주 골드](https://dailyshot.co/m/item/23722) | 2026-11-24 |
+| `olmeca-anejo` | 올메카 아네호 700ml | ./assets/images/olmeca-anejo.webp | [Dailyshot - 올메카 아네호 700ml](https://dailyshot.co/m/item/7098) | 2026-11-24 |
+| `plantation-xo` | 플랜테이션 XO | ./assets/images/plantation-xo.webp | [Dailyshot - 플랜테이션 XO](https://dailyshot.co/m/item/5607) | 2026-11-24 |
+| `kweichow-moutai-15` | 귀주 마오타이 15년 500ml | ./assets/images/kweichow-moutai-15.webp | [Dailyshot - 귀주 마오타이 15년 500ml](https://dailyshot.co/m/item/18008) | 2026-11-24 |
+| `signatory-glenlivet-19` | 시그나토리 2004 글렌리벳 19년 | ./assets/images/signatory-glenlivet-19.webp | [Dailyshot - 시그나토리 2004 글렌리벳 19년](https://dailyshot.co/m/item/24293) | 2026-11-24 |
+| `jose-cuervo-margaritas` | 호세 쿠엘보 마가리타 | ./assets/images/jose-cuervo-margaritas.webp | [Dailyshot - 호세 쿠엘보 마가리타](https://dailyshot.co/m/item/6674) | 2026-11-24 |
+| `alta-vista-vive-torrontes` | 알타 비스타, 비베 토론테스 | ./assets/images/alta-vista-vive-torrontes.webp | [Dailyshot - 알타 비스타, 비베 토론테스](https://dailyshot.co/m/item/14075) | 2026-11-24 |
+| `patron-el-alto` | 페트론 엘 알토 | ./assets/images/patron-el-alto.webp | [Dailyshot - 페트론 엘 알토](https://dailyshot.co/m/item/28937) | 2026-11-24 |
+| `giacomo-fenocchio-barolo` | 지아코모 페노키오 바롤로 | ./assets/images/giacomo-fenocchio-barolo.webp | [Dailyshot - 지아코모 페노키오 바롤로](https://dailyshot.co/m/item/14625) | 2026-11-24 |
+| `chateau-suduiraut-sauternes` | 샤또 쉬드로 소테른 | ./assets/images/chateau-suduiraut-sauternes.webp | [Dailyshot - 샤또 쉬드로 소테른](https://dailyshot.co/m/item/28317) | 2026-11-24 |
+| `clase-azul-mezcal-guerrero` | 클라세 아줄 메즈칼 게레로 | ./assets/images/clase-azul-mezcal-guerrero.webp | [Dailyshot - 클라세 아줄 메즈칼 게레로](https://dailyshot.co/m/item/32010) | 2026-11-24 |
+| `absolut-mandrin` | 앱솔루트 만다린 | ./assets/images/absolut-mandrin.webp | [Dailyshot - 앱솔루트 만다린](https://dailyshot.co/m/item/6412) | 2026-11-24 |
+| `pelissero-barbaresco-tulin` | 펠리세로 바르바레스코 투린 2018 | ./assets/images/pelissero-barbaresco-tulin.webp | [Dailyshot - 펠리세로 바르바레스코 투린 2018](https://dailyshot.co/m/item/24085) | 2026-11-24 |
+| `don-julio-reposado-38` | 돈 훌리오 레포사도 750ml 38% | ./assets/images/don-julio-reposado-38.webp | [Dailyshot - 돈 훌리오 레포사도 750ml 38%](https://dailyshot.co/m/item/15875) | 2026-11-24 |
+| `don-julio-ultima-reserva` | 돈 훌리오 울티마 리제르바 | ./assets/images/don-julio-ultima-reserva.webp | [Dailyshot - 돈 훌리오 울티마 리제르바](https://dailyshot.co/m/item/24815) | 2026-11-24 |
+| `federico-paternina-rioja-gran-reserva` | 페데리코 파테니나 리오하 그랑 리제르바 | ./assets/images/federico-paternina-rioja-gran-reserva.webp | [Dailyshot - 페데리코 파테니나 리오하 그랑 리제르바](https://dailyshot.co/m/item/27068) | 2026-11-24 |
+| `fenjiu-20y` | 분주 20년 | ./assets/images/fenjiu-20y.webp | [Dailyshot - 분주 20년](https://dailyshot.co/m/item/23000) | 2026-11-24 |
+| `shui-jing-fang-no-8` | 수정방 진량 8호 | ./assets/images/shui-jing-fang-no-8.webp | [Dailyshot - 수정방 진량 8호](https://dailyshot.co/m/item/21756) | 2026-11-24 |
+| `mazzie-zisola-sicilia` | 마쩨이 찌솔라 시칠리아 | ./assets/images/mazzie-zisola-sicilia.webp | [Dailyshot - 마쩨이 찌솔라 시칠리아](https://dailyshot.co/m/item/13608) | 2026-11-24 |
+| `bombay-sapphire-40` | 봄베이 사파이어 40% 700ml | ./assets/images/bombay-sapphire-40.webp | [Dailyshot - 봄베이 사파이어 40% 700ml](https://dailyshot.co/m/item/12616) | 2026-11-24 |
+| `francois-peyrot-poire-williams-liqueur` | 프랑소와 페이로 포아르 윌리엄스 리큐르 | ./assets/images/francois-peyrot-poire-williams-liqueur.webp | [Dailyshot - 프랑소와 페이로 포아르 윌리엄스 리큐르](https://dailyshot.co/m/item/7618) | 2026-11-24 |
+| `allumea-grillo-chardonnay-sicilia-organic` | 알루메아 그릴로 샤르도네 시칠리아 오가닉 | ./assets/images/allumea-grillo-chardonnay-sicilia-organic.webp | [Dailyshot - 알루메아 그릴로 샤르도네 시칠리아 오가닉](https://dailyshot.co/m/item/15739) | 2026-11-24 |
+| `empress` | 엠프레스 1908 | ./assets/images/empress.webp | [Dailyshot - 엠프레스 1908](https://dailyshot.co/m/item/25136) | 2026-11-24 |
+| `canti-piemonte-brachetto` | 칸티 피에몬테 브라케토 | ./assets/images/canti-piemonte-brachetto.webp | [Dailyshot - 칸티 피에몬테 브라케토](https://dailyshot.co/m/item/5219) | 2026-11-24 |
+| `ballechin-edradour-10` | 발레친 에드라두어 10년 | ./assets/images/ballechin-edradour-10.webp | [Dailyshot - 발레친 에드라두어 10년](https://dailyshot.co/m/item/6769) | 2026-11-24 |
+| `the-coopers-choice-invergordon-18-marsala` | 쿠퍼스 초이스 2005 인버고든 18년 마르살라 캐스크 피니시 | ./assets/images/the-coopers-choice-invergordon-18-marsala.webp | [Dailyshot - 쿠퍼스 초이스 2005 인버고든 18년 마르살라 캐스크 피니시](https://dailyshot.co/m/item/21831) | 2026-11-24 |
+| `edradour-12-cs-batch-8` | 에드라두어 12년 CS 배치 8 | ./assets/images/edradour-12-cs-batch-8.webp | [Dailyshot - 에드라두어 12년 CS 배치 8](https://dailyshot.co/m/item/39192) | 2026-11-24 |
+| `sekitoba-umeshu-liqueur` | 세키토바 매실주 리큐르 | ./assets/images/sekitoba-umeshu-liqueur.webp | [Dailyshot - 세키토바 매실주 리큐르](https://dailyshot.co/m/item/38063) | 2026-11-24 |
+| `lejay-banana-liqueur` | 르제 바나나 리큐르 | ./assets/images/lejay-banana-liqueur.webp | [Dailyshot - 르제 바나나 리큐르](https://dailyshot.co/m/item/36838) | 2026-11-24 |
+| `gordon-and-macphail-conosair-choice-auchroisk` | 고든 앤 맥페일 코노세어 초이스 2009 오크로이스크 13년 | ./assets/images/gordon-and-macphail-conosair-choice-auchroisk.webp | [Dailyshot - 고든 앤 맥페일 코노세어 초이스 2009 오크로이스크 13년](https://dailyshot.co/m/item/14547) | 2026-11-24 |
+| `kraken-black-spiced` | 크라켄 블랙 스파이스드 | ./assets/images/kraken-black-spiced.webp | [Dailyshot - 크라켄 블랙 스파이스드](https://dailyshot.co/m/item/6891) | 2026-11-24 |
+| `domaine-a-f-gros-moulin-a` | 도멘 A.F 그로, 물랭 아 방 엉 모르페레이 | ./assets/images/domaine-a-f-gros-moulin-a.webp | [Dailyshot - 도멘 A.F 그로, 물랭 아 방 엉 모르페레이](https://dailyshot.co/m/item/14715) | 2026-11-24 |
+| `pianoro-toscana` | 피안 오로 토스카나 | ./assets/images/pianoro-toscana.webp | [Dailyshot - 피안 오로 토스카나](https://dailyshot.co/m/item/15435) | 2026-11-24 |
+| `alchymia-primitivo` | 알치미아 프리미티보 | ./assets/images/alchymia-primitivo.webp | [Dailyshot - 알치미아 프리미티보](https://dailyshot.co/m/item/11792) | 2026-11-24 |
+| `puglia-pop-fico-susumaniello` | 풀리아 팝 피코 수수마니엘로 | ./assets/images/puglia-pop-fico-susumaniello.webp | [Dailyshot - 풀리아 팝 피코 수수마니엘로](https://dailyshot.co/m/item/11392) | 2026-11-24 |
+| `cadel-baio-barbaresco-autinbej` | 까델 바이오 바르바레스코 아우틴베이 | ./assets/images/cadel-baio-barbaresco-autinbej.webp | [Dailyshot - 까델 바이오 바르바레스코 아우틴베이](https://dailyshot.co/m/item/12731) | 2026-11-24 |
+| `fantini-montepulciano-dabruzzo` | 판티니 몬테풀치아노 다브루쪼 | ./assets/images/fantini-montepulciano-dabruzzo.webp | [Dailyshot - 판티니 몬테풀치아노 다브루쪼](https://dailyshot.co/m/item/24253) | 2026-11-24 |
+| `menicucci-appassimento-bianco-puglia` | 메니쿠치 아파씨멘토 비앙코 풀리아 | ./assets/images/menicucci-appassimento-bianco-puglia.webp | [Dailyshot - 메니쿠치 아파씨멘토 비앙코 풀리아](https://dailyshot.co/m/item/30332) | 2026-11-24 |
+| `grey-goose-vodka-pear` | 그레이 구스 보드카 페어 | ./assets/images/grey-goose-vodka-pear.webp | [Dailyshot - 그레이 구스 보드카 페어](https://dailyshot.co/m/item/5552) | 2026-11-24 |
+| `masi-costasera-amarone` | 마시 코스타세라 아마로네 | ./assets/images/masi-costasera-amarone.webp | [Dailyshot - 마시 코스타세라 아마로네](https://dailyshot.co/m/item/11548) | 2026-11-24 |
+| `lunaria-primitivo` | 루나리아 프리미티보 | ./assets/images/lunaria-primitivo.webp | [Dailyshot - 루나리아 프리미티보](https://dailyshot.co/m/item/22087) | 2026-11-24 |
+| `scagliola-piemonte-chardonnay` | 스칼리올라, 피에몬테 샤르도네 | ./assets/images/scagliola-piemonte-chardonnay.webp | [Dailyshot - 스칼리올라, 피에몬테 샤르도네](https://dailyshot.co/m/item/30535) | 2026-11-24 |
+| `tanqueray-london-dry-gin` | 텐커레이 런던 드라이 진 1L | ./assets/images/tanqueray-london-dry-gin.webp | [Dailyshot - 텐커레이 런던 드라이 진 1L](https://dailyshot.co/m/item/34708) | 2026-11-24 |
+| `alta-vista-vive-malbec` | 알타 비스타, 비베 말벡 | ./assets/images/alta-vista-vive-malbec.webp | [Dailyshot - 알타 비스타, 비베 말벡](https://dailyshot.co/m/item/11884) | 2026-11-24 |
+| `premium-kaoliang-liquor` | 금주전장진품 | ./assets/images/premium-kaoliang-liquor.webp | [Dailyshot - 금주전장진품](https://dailyshot.co/m/item/11669) | 2026-11-24 |
+| `piccini-chianti` | 피치니, 끼안티 | ./assets/images/piccini-chianti.webp | [Dailyshot - 피치니, 끼안티](https://dailyshot.co/m/item/14196) | 2026-11-24 |
+| `braida-montebruna-barbera-dasti` | 브라이다, 몬테브루나 바르베라 다스티 | ./assets/images/braida-montebruna-barbera-dasti.webp | [Dailyshot - 브라이다, 몬테브루나 바르베라 다스티](https://dailyshot.co/m/item/21574) | 2026-11-24 |
+| `verrazzano-chianti-classico` | 베라짜노 끼안티 클라시코 | ./assets/images/verrazzano-chianti-classico.webp | [Dailyshot - 베라짜노 끼안티 클라시코](https://dailyshot.co/m/item/20114) | 2026-11-24 |
+| `ruffino-riserva-ducale-chianti-classico-riserva` | 루피노, 리제르바 두칼레 끼안티 클라시코 리제르바 | ./assets/images/ruffino-riserva-ducale-chianti-classico-riserva.webp | [Dailyshot - 루피노, 리제르바 두칼레 끼안티 클라시코 리제르바](https://dailyshot.co/m/item/6576) | 2026-11-24 |
+| `chateau-prieure-lichine` | 샤또 프리외르 리쉰 | ./assets/images/chateau-prieure-lichine.webp | [Dailyshot - 샤또 프리외르 리쉰](https://dailyshot.co/m/item/11757) | 2026-11-24 |
+| `mengzhilan-m3-crystal` | 몽지람 M3 크리스탈 500ml | ./assets/images/mengzhilan-m3-crystal.webp | [Dailyshot - 몽지람 M3 크리스탈 500ml](https://dailyshot.co/m/item/11682) | 2026-11-24 |
+| `otu-marlborough-sauvignon-blanc` | 오투 말보로 소비뇽 블랑 | ./assets/images/otu-marlborough-sauvignon-blanc.webp | [Dailyshot - 오투 말보로 소비뇽 블랑](https://dailyshot.co/m/item/27194) | 2026-11-24 |
+| `vallepicciola-chianti-classico` | 발레피치올라 끼안티 클라시코 | ./assets/images/vallepicciola-chianti-classico.webp | [Dailyshot - 발레피치올라 끼안티 클라시코](https://dailyshot.co/m/item/18018) | 2026-11-24 |
+| `piccini-cosi-chianti` | 피치니 코지 끼안티 | ./assets/images/piccini-cosi-chianti.webp | [Dailyshot - 피치니 코지 끼안티](https://dailyshot.co/m/item/26829) | 2026-11-24 |
+| `wolfburn-morven` | 울프번 몰벤 | ./assets/images/wolfburn-morven.webp | [Dailyshot - 울프번 몰벤](https://dailyshot.co/m/item/4954) | 2026-11-24 |
+| `e-guigal-gigondas` | 이기갈, 지공다스 | ./assets/images/e-guigal-gigondas.webp | [Dailyshot - 이기갈, 지공다스](https://dailyshot.co/m/item/5843) | 2026-11-24 |
+| `louis-latour-pinot-noir` | 루이 라뚜르, 피노 누아 | ./assets/images/louis-latour-pinot-noir.webp | [Dailyshot - 루이 라뚜르, 피노 누아](https://dailyshot.co/m/item/9066) | 2026-11-24 |
+| `miratto-shine-muscat-white-sparkling` | 미르아토 샤인머스켓 화이트 스파클링 | ./assets/images/miratto-shine-muscat-white-sparkling.webp | [Dailyshot - 미르아토 샤인머스켓 화이트 스파클링](https://dailyshot.co/m/item/19083) | 2026-11-24 |
+| `kinmen-kaoliang-liquor-38` | 금문고량주 38% | ./assets/images/kinmen-kaoliang-liquor-38.webp | [Dailyshot - 금문고량주 38%](https://dailyshot.co/m/item/6460) | 2026-11-24 |
+| `louis-jadot-chateau-des-jacques-morgon` | 루이 자도 샤또 데 자크 모르공 | ./assets/images/louis-jadot-chateau-des-jacques-morgon.webp | [Dailyshot - 루이 자도 샤또 데 자크 모르공](https://dailyshot.co/m/item/30551) | 2026-11-24 |
+| `antinori-tignanello-grappa` | 안티노리 티냐넬로 그라파 | ./assets/images/antinori-tignanello-grappa.webp | [Dailyshot - 안티노리 티냐넬로 그라파](https://dailyshot.co/m/item/8565) | 2026-11-24 |
+| `antinori-bramito-del-cervo-castello-della` | 안티노리, 브라미토 델 체르보 카스텔로 델라 살라 샤르도네 | ./assets/images/antinori-bramito-del-cervo-castello-della.webp | [Dailyshot - 안티노리, 브라미토 델 체르보 카스텔로 델라 살라 샤르도네](https://dailyshot.co/m/item/18367) | 2026-11-24 |
+| `m-chapoutier-hermitage-le-pavillon` | 엠 샤푸티에, 에르미타주 르 파비용 2012 | ./assets/images/m-chapoutier-hermitage-le-pavillon.webp | [Dailyshot - 엠 샤푸티에, 에르미타주 르 파비용 2012](https://dailyshot.co/m/item/15630) | 2026-11-24 |
+| `absolut-pple` | 앱솔루트 애플 | ./assets/images/absolut-pple.webp | [Dailyshot - 앱솔루트 애플](https://dailyshot.co/m/item/10480) | 2026-11-24 |
+| `dalmore-16-px` | 달모어 16년 PX | ./assets/images/dalmore-16-px.webp | [Dailyshot - 달모어 16년 PX](https://dailyshot.co/m/item/38609) | 2026-11-24 |
+| `starriver-shine-muscat-tree-wine` | 스타리버 샤인 머스캣 트리 와인 | ./assets/images/starriver-shine-muscat-tree-wine.webp | [Dailyshot - 스타리버 샤인 머스캣 트리 와인](https://dailyshot.co/m/item/20949) | 2026-11-24 |
+| `louis-jadot-chassagne-montrachet-blanc` | 루이 자도 샤사뉴 몽라셰 | ./assets/images/louis-jadot-chassagne-montrachet-blanc.webp | [Dailyshot - 루이 자도 샤사뉴 몽라셰](https://dailyshot.co/m/item/5026) | 2026-11-24 |
+| `absolut-citron` | 앱솔루트 시트론 | ./assets/images/absolut-citron.webp | [Dailyshot - 앱솔루트 시트론](https://dailyshot.co/m/item/5002) | 2026-11-24 |
+| `absolut-watermelon` | 앱솔루트 워터멜론 | ./assets/images/absolut-watermelon.webp | [Dailyshot - 앱솔루트 워터멜론](https://dailyshot.co/m/item/7188) | 2026-11-24 |
+| `luzhou-laojiao-zishadaqu` | 노주노교 자사대곡 | ./assets/images/luzhou-laojiao-zishadaqu.webp | [Dailyshot - 노주노교 자사대곡](https://dailyshot.co/m/item/11674) | 2026-11-24 |
+| `il-poggione-brunello-di-montalcino-bdm` | 일 포지오네, 브루넬로 디 몬탈치노 | ./assets/images/il-poggione-brunello-di-montalcino-bdm.webp | [Dailyshot - 일 포지오네, 브루넬로 디 몬탈치노](https://dailyshot.co/m/item/8232) | 2026-11-24 |
+| `raen-sonoma-coast-chardonnay` | 레인 소노마 코스트 샤르도네 | ./assets/images/raen-sonoma-coast-chardonnay.webp | [Dailyshot - 레인 소노마 코스트 샤르도네](https://dailyshot.co/m/item/29111) | 2026-11-24 |
+| `lindores-single-malt-bourbon-barrel` | 린도어스 싱글몰트 버번 배럴 | ./assets/images/lindores-single-malt-bourbon-barrel.webp | [Dailyshot - 린도어스 싱글몰트 버번 배럴](https://dailyshot.co/m/item/16763) | 2026-11-24 |
+| `luzhou-laojiao-jiaoling-30-52` | 노주노교 교령 30년 52% 500ml | ./assets/images/luzhou-laojiao-jiaoling-30-52.webp | [Dailyshot - 노주노교 교령 30년 52% 500ml](https://dailyshot.co/m/item/38001) | 2026-11-24 |
+| `mezcal-derrumbes-durango` | 메즈칼 데룸베스 듀랑고 | ./assets/images/mezcal-derrumbes-durango.webp | [Dailyshot - 메즈칼 데룸베스 듀랑고](https://dailyshot.co/m/item/26153) | 2026-11-24 |
+| `absolut-pears` | 앱솔루트 페어 | ./assets/images/absolut-pears.webp | [Dailyshot - 앱솔루트 페어](https://dailyshot.co/m/item/3350) | 2026-11-24 |
+| `glenmorangie-accord-12` | 글렌모렌지 어코드 12년 1L | ./assets/images/glenmorangie-accord-12.webp | [Dailyshot - 글렌모렌지 어코드 12년 1L](https://dailyshot.co/m/item/24038) | 2026-11-24 |
+| `madre-mezcal-ensemble` | 마드레 메즈칼 앙상블 | ./assets/images/madre-mezcal-ensemble.webp | [Dailyshot - 마드레 메즈칼 앙상블](https://dailyshot.co/m/item/10486) | 2026-11-24 |
+| `flowers-sonoma-chardonnay` | 플라워스 소노마 샤르도네 | ./assets/images/flowers-sonoma-chardonnay.webp | [Dailyshot - 플라워스 소노마 샤르도네](https://dailyshot.co/m/item/32256) | 2026-11-24 |
+| `pieropan-calvarino-soave-classico` | 삐에로판 칼바리노 소아베 클라시코 2022 | ./assets/images/pieropan-calvarino-soave-classico.webp | [Dailyshot - 삐에로판 칼바리노 소아베 클라시코 2022](https://dailyshot.co/m/item/28935) | 2026-11-24 |
+| `raen-sonoma-coast-pinot-noir` | 레인 소노마 코스트 피노 누아 | ./assets/images/raen-sonoma-coast-pinot-noir.webp | [Dailyshot - 레인 소노마 코스트 피노 누아](https://dailyshot.co/m/item/18082) | 2026-11-24 |
+| `rockbare-barossa-valley-shiraz` | 락베어 바로사 밸리 쉬라즈 | ./assets/images/rockbare-barossa-valley-shiraz.webp | [Dailyshot - 락베어 바로사 밸리 쉬라즈](https://dailyshot.co/m/item/34651) | 2026-11-24 |
+| `catrina-tequila-blanco` | 카트리나 데킬라 블랑코 | ./assets/images/catrina-tequila-blanco.webp | [Dailyshot - 카트리나 데킬라 블랑코](https://dailyshot.co/m/item/33794) | 2026-11-24 |
+| `hurra-tequila-blanco` | 후라 데킬라 블랑코 | ./assets/images/hurra-tequila-blanco.webp | [Dailyshot - 후라 데킬라 블랑코](https://dailyshot.co/m/item/31934) | 2026-11-24 |
+| `yanghe-blue-42` | 양하블루 42% 500ml | ./assets/images/yanghe-blue-42.webp | [Dailyshot - 양하블루 42% 500ml](https://dailyshot.co/m/item/36257) | 2026-11-24 |
+| `fontodi-chianti-classico` | 폰토디, 끼안티 클라시코 | ./assets/images/fontodi-chianti-classico.webp | [Dailyshot - 폰토디, 끼안티 클라시코](https://dailyshot.co/m/item/7940) | 2026-11-24 |
+| `jules-taylor-marlborough-sauvignon-blanc` | 줄스 테일러 말보로 소비뇽 블랑 | ./assets/images/jules-taylor-marlborough-sauvignon-blanc.webp | [Dailyshot - 줄스 테일러 말보로 소비뇽 블랑](https://dailyshot.co/m/item/29906) | 2026-11-24 |
+| `frescobaldi-castelgiocondo-brunello-di-montalcino-bdm` | 프레스코발디, 카스텔지오콘도 브루넬로 디 몬탈치노 | ./assets/images/frescobaldi-castelgiocondo-brunello-di-montalcino-bdm.webp | [Dailyshot - 프레스코발디, 카스텔지오콘도 브루넬로 디 몬탈치노](https://dailyshot.co/m/item/12032) | 2026-11-24 |
+| `broglia-gavi-la-meirana` | 브롤리아 가비 디 가비 라메이라나 | ./assets/images/broglia-gavi-la-meirana.webp | [Dailyshot - 브롤리아 가비 디 가비 라메이라나](https://dailyshot.co/m/item/23663) | 2026-11-24 |
+| `matt-wenk-barossa-valley-shiraz` | 맷 웽크, 바로사 밸리 쉬라즈 | ./assets/images/matt-wenk-barossa-valley-shiraz.webp | [Dailyshot - 맷 웽크, 바로사 밸리 쉬라즈](https://dailyshot.co/m/item/19010) | 2026-11-24 |
+| `la-colombina-brunello-di-montalcino-bdm` | 라 콜롬비나 브루넬로 디 몬탈치노 | ./assets/images/la-colombina-brunello-di-montalcino-bdm.webp | [Dailyshot - 라 콜롬비나 브루넬로 디 몬탈치노](https://dailyshot.co/m/item/23672) | 2026-11-24 |
+| `biondi-santi-brunello-di-montalcino` | 비온디 산티, 브루넬로 디 몬탈치노 | ./assets/images/biondi-santi-brunello-di-montalcino.webp | [Dailyshot - 비온디 산티, 브루넬로 디 몬탈치노](https://dailyshot.co/m/item/27032) | 2026-11-24 |
+| `luzhoulaojiao-kyoryoung-60y` | 노주노교 교령 60년 | ./assets/images/luzhoulaojiao-kyoryoung-60y.webp | [Dailyshot - 노주노교 교령 60년](https://dailyshot.co/m/item/11672) | 2026-11-24 |
+| `hentley-farm-barossa-valley-shiraz` | 헨틀리 팜 바로사 밸리 쉬라즈 | ./assets/images/hentley-farm-barossa-valley-shiraz.webp | [Dailyshot - 헨틀리 팜 바로사 밸리 쉬라즈](https://dailyshot.co/m/item/15301) | 2026-11-24 |
+| `lapostolle-cuvee-alexandre-cabernet-sauvignon` | 라포스톨, 뀌베 알렉상드르 까베르네 소비뇽 | ./assets/images/lapostolle-cuvee-alexandre-cabernet-sauvignon.webp | [Dailyshot - 라포스톨, 뀌베 알렉상드르 까베르네 소비뇽](https://dailyshot.co/m/item/12679) | 2026-11-24 |
+| `rampur-asava` | 람푸르 아사바 | ./assets/images/rampur-asava.webp | [Dailyshot - 람푸르 아사바](https://dailyshot.co/m/item/8810) | 2026-11-24 |
+| `muichibutsu-sherry-cask-13-you` | 무이치부츠 셰리 캐스크 13년 'You' 2025 | ./assets/images/muichibutsu-sherry-cask-13-you.webp | [Dailyshot - 무이치부츠 셰리 캐스크 13년 'You' 2025](https://dailyshot.co/m/item/38942) | 2026-11-24 |
+| `toyobijin-junmai-ginjo-jundoichizu-yamadanishiki` | 토요비진 준마이긴죠 준도이치즈 야마다니시키 720ml | ./assets/images/toyobijin-junmai-ginjo-jundoichizu-yamadanishiki.webp | [Dailyshot - 토요비진 준마이긴죠 준도이치즈 야마다니시키 720ml](https://dailyshot.co/m/item/28405) | 2026-11-24 |
+| `glen-scotia-8-campbeltown-malts-festival` | 글렌스코샤 8년 캠벨타운 몰트 페스티벌 | ./assets/images/glen-scotia-8-campbeltown-malts-festival.webp | [Dailyshot - 글렌스코샤 8년 캠벨타운 몰트 페스티벌](https://dailyshot.co/m/item/7835) | 2026-11-24 |
+| `koshi-no-yukitsubaki-junmai-ginjo-hana` | 코시노 유키츠바키 준마이 긴죠 하나 | ./assets/images/koshi-no-yukitsubaki-junmai-ginjo-hana.webp | [Dailyshot - 코시노 유키츠바키 준마이 긴죠 하나](https://dailyshot.co/m/item/30961) | 2026-11-24 |
+| `glen-scotia-11-campbeltown-malts-festival` | 글렌스코샤 11년 캠벨타운 몰트 페스티벌 2023 | ./assets/images/glen-scotia-11-campbeltown-malts-festival.webp | [Dailyshot - 글렌스코샤 11년 캠벨타운 몰트 페스티벌 2023](https://dailyshot.co/m/item/16535) | 2026-11-24 |
+| `bowmore-16-ruby-port-cask-finish` | 보모어 16년 루비 포트 캐스크 피니시 | ./assets/images/bowmore-16-ruby-port-cask-finish.webp | [Dailyshot - 보모어 16년 루비 포트 캐스크 피니시](https://dailyshot.co/m/item/25812) | 2026-11-24 |
+| `nisinoseki-kunisaki-tokubetsu-honjozo` | 니시노세키 쿠니사키 토쿠베츠 혼죠조 | ./assets/images/nisinoseki-kunisaki-tokubetsu-honjozo.webp | [Dailyshot - 니시노세키 쿠니사키 토쿠베츠 혼죠조](https://dailyshot.co/m/item/14370) | 2026-11-24 |
+| `vina-vik-milla-cala` | 비냐 빅, 밀라칼라 | ./assets/images/vina-vik-milla-cala.webp | [Dailyshot - 비냐 빅, 밀라칼라](https://dailyshot.co/m/item/9069) | 2026-11-24 |
+| `takashimizu-josen-honjozo` | 다카시미즈 죠우센 혼죠조 | ./assets/images/takashimizu-josen-honjozo.webp | [Dailyshot - 다카시미즈 죠우센 혼죠조](https://dailyshot.co/m/item/7978) | 2026-11-24 |
+| `jokigen-shojo-honjozo` | 죠키겐 혼죠조 쇼죠 | ./assets/images/jokigen-shojo-honjozo.webp | [Dailyshot - 죠키겐 혼죠조 쇼죠](https://dailyshot.co/m/item/37253) | 2026-11-24 |
+| `kamotsuru-tokubetsu-honjozo` | 카모츠루 토쿠베츠 혼죠조 | ./assets/images/kamotsuru-tokubetsu-honjozo.webp | [Dailyshot - 카모츠루 토쿠베츠 혼죠조](https://dailyshot.co/m/item/32713) | 2026-11-24 |
+| `whiskynavi-twelve-zodiac-series-sheep-aberlour` | 위스키내비 십이지신도 미 2013 아벨라워 12년 | ./assets/images/whiskynavi-twelve-zodiac-series-sheep-aberlour.webp | [Dailyshot - 위스키내비 십이지신도 미 2013 아벨라워 12년](https://dailyshot.co/m/item/32300) | 2026-11-24 |
+| `signatory-speyside-m-14nyo` | 시그나토리 스페이사이드 2011 (M) 14년 | ./assets/images/signatory-speyside-m-14nyo.webp | [Dailyshot - 시그나토리 스페이사이드 2011 (M) 14년](https://dailyshot.co/m/item/37625) | 2026-11-24 |
+| `signatory-speyside-m-18` | 시그나토리 2005 스페이사이드 M 18년 | ./assets/images/signatory-speyside-m-18.webp | [Dailyshot - 시그나토리 2005 스페이사이드 M 18년](https://dailyshot.co/m/item/27737) | 2026-11-24 |
+| `cadenheads-enigma-16-speyside-53-6` | 카덴헤드 이니그마 16년 스페이사이드 53.6% | ./assets/images/cadenheads-enigma-16-speyside-53-6.webp | [Dailyshot - 카덴헤드 이니그마 16년 스페이사이드 53.6%](https://dailyshot.co/m/item/24644) | 2026-11-24 |
+| `cadenheads-speyside-13` | 카덴헤드 스페이사이드 13년 | ./assets/images/cadenheads-speyside-13.webp | [Dailyshot - 카덴헤드 스페이사이드 13년](https://dailyshot.co/m/item/5449) | 2026-11-24 |
+| `smokehead-rum-rebel` | 스모크 헤드 럼 레블 | ./assets/images/smokehead-rum-rebel.webp | [Dailyshot - 스모크 헤드 럼 레블](https://dailyshot.co/m/item/5108) | 2026-11-24 |
+| `smokehead-sherry-bomb` | 스모크 헤드 셰리 밤 | ./assets/images/smokehead-sherry-bomb.webp | [Dailyshot - 스모크 헤드 셰리 밤](https://dailyshot.co/m/item/4880) | 2026-11-24 |
+| `smokehead-sherry-cask-blast` | 스모크 헤드 셰리 캐스크 블라스트 | ./assets/images/smokehead-sherry-cask-blast.webp | [Dailyshot - 스모크 헤드 셰리 캐스크 블라스트](https://dailyshot.co/m/item/11353) | 2026-11-24 |
+| `elements-of-islay-i-love-islay` | 엘리먼츠 오브 아일라 아이 러브 아일라 | ./assets/images/elements-of-islay-i-love-islay.webp | [Dailyshot - 엘리먼츠 오브 아일라 아이 러브 아일라](https://dailyshot.co/m/item/23248) | 2026-11-24 |
+| `konishi-junmai-ginjo-hiyashibori` | 코니시 준마이 긴죠 히야시보리 | ./assets/images/konishi-junmai-ginjo-hiyashibori.webp | [Dailyshot - 코니시 준마이 긴죠 히야시보리](https://dailyshot.co/m/item/36682) | 2026-11-24 |
+| `highland-chief` | 하이랜드 치프 | ./assets/images/highland-chief.webp | [Dailyshot - 하이랜드 치프](https://dailyshot.co/m/item/33105) | 2026-11-24 |
+| `riverstown-fettercairn-7` | 리버스타운 패터캐른 7년 | ./assets/images/riverstown-fettercairn-7.webp | [Dailyshot - 리버스타운 패터캐른 7년](https://dailyshot.co/m/item/15262) | 2026-11-24 |
+| `signatory-speyside-m-18-cs-41` | 시그나토리 2005 스페이사이드(M) 18년 CS #41 | ./assets/images/signatory-speyside-m-18-cs-41.webp | [Dailyshot - 시그나토리 2005 스페이사이드(M) 18년 CS #41](https://dailyshot.co/m/item/29133) | 2026-11-24 |
+| `signatory-100-proof-exceptional-speyside-m` | 시그나토리 100 프루프 익셉셔널 2008 스페이사이드(M) 17년 #16 | ./assets/images/signatory-100-proof-exceptional-speyside-m.webp | [Dailyshot - 시그나토리 100 프루프 익셉셔널 2008 스페이사이드(M) 17년 #16](https://dailyshot.co/m/item/39177) | 2026-11-24 |
+| `whiskynavi-twelve-zodiac-series-horse-croftengea` | 위스키내비 십이지신도 오 2009 크로프텐기어 16년 | ./assets/images/whiskynavi-twelve-zodiac-series-horse-croftengea.webp | [Dailyshot - 위스키내비 십이지신도 오 2009 크로프텐기어 16년](https://dailyshot.co/m/item/33566) | 2026-11-24 |
+| `vina-vik-a-red` | 비냐 빅 A 레드 | ./assets/images/vina-vik-a-red.webp | [Dailyshot - 비냐 빅 A 레드](https://dailyshot.co/m/item/14165) | 2026-11-24 |
+| `the-whisky-tales-malt-the-rock` | 더 위스키 테일즈 몰트 더 락 베이스 리나 2012 벤 네비스 12년 | ./assets/images/the-whisky-tales-malt-the-rock.webp | [Dailyshot - 더 위스키 테일즈 몰트 더 락 베이스 리나 2012 벤 네비스 12년](https://dailyshot.co/m/item/29963) | 2026-11-24 |
+| `fontanafredda-brachetto-dacqui` | 폰타나프레다 브라케토 다퀴 | ./assets/images/fontanafredda-brachetto-dacqui.webp | [Dailyshot - 폰타나프레다 브라케토 다퀴](https://dailyshot.co/m/item/16422) | 2026-11-24 |
+| `signatory-ben-nevis-heavily-peated-7` | 시그나토리 벤 네비스 2019 7년 100프루프 헤빌리 피티드 #75 | ./assets/images/signatory-ben-nevis-heavily-peated-7.webp | [Dailyshot - 시그나토리 벤 네비스 2019 7년 100프루프 헤빌리 피티드 #75](https://dailyshot.co/m/item/39690) | 2026-11-24 |
+| `heaven-hill-bottled-in-bond-whiskey` | 헤븐힐 보틀드 인 본드 위스키 750ml | ./assets/images/heaven-hill-bottled-in-bond-whiskey.webp | [Dailyshot - 헤븐힐 보틀드 인 본드 위스키 750ml](https://dailyshot.co/m/item/36648) | 2026-11-24 |
+| `mars-cosmo-manzanilla-sherry-cask-finish` | 마르스 코스모 만자니아 셰리 캐스크 피니시 2022 | ./assets/images/mars-cosmo-manzanilla-sherry-cask-finish.webp | [Dailyshot - 마르스 코스모 만자니아 셰리 캐스크 피니시 2022](https://dailyshot.co/m/item/5887) | 2026-11-24 |
+| `mixology-smoky-earl-grey-syrup` | 믹솔로지 스모키 얼그레이 시럽 | ./assets/images/mixology-smoky-earl-grey-syrup.webp | [Dailyshot - 믹솔로지 스모키 얼그레이 시럽](https://dailyshot.co/m/item/6107) | 2026-11-24 |
+| `bungo-sake` | 분고 사케 | ./assets/images/bungo-sake.webp | [Dailyshot - 분고 사케](https://dailyshot.co/m/item/37140) | 2026-11-24 |
+| `old-ezra-7-full-proof-straight` | 올드 에즈라 7년 풀 프루프 스트레이트 라이 위스키 | ./assets/images/old-ezra-7-full-proof-straight.webp | [Dailyshot - 올드 에즈라 7년 풀 프루프 스트레이트 라이 위스키](https://dailyshot.co/m/item/17089) | 2026-11-24 |
+| `glen-scotia-12-year-old` | 글렌스코샤 12년 | ./assets/images/glen-scotia-12-year-old.webp | [Dailyshot - 글렌스코샤 12년](https://dailyshot.co/m/item/37924) | 2026-11-24 |
+| `signatory-ben-nevis-9` | 시그나토리 2014 벤 네비스 9년 | ./assets/images/signatory-ben-nevis-9.webp | [Dailyshot - 시그나토리 2014 벤 네비스 9년](https://dailyshot.co/m/item/27790) | 2026-11-24 |
+| `prunotto-moscato-dasti-x3` | 프루노토 모스카토 다스티 x3 | ./assets/images/prunotto-moscato-dasti-x3.webp | [Dailyshot - 프루노토 모스카토 다스티 x3](https://dailyshot.co/m/item/20517) | 2026-11-24 |
+| `onikoroshi-sake` | 오니코로시 900ml | ./assets/images/onikoroshi-sake.webp | [Dailyshot - 오니코로시 900ml](https://dailyshot.co/m/item/27235) | 2026-11-24 |
+| `iwai-tradition` | 이와이 트레디션 | ./assets/images/iwai-tradition.webp | [Dailyshot - 이와이 트레디션](https://dailyshot.co/m/item/4688) | 2026-11-24 |
+| `vietti-timorasso-derthona` | 비에티 티모라쏘 데르토나 | ./assets/images/vietti-timorasso-derthona.webp | [Dailyshot - 비에티 티모라쏘 데르토나](https://dailyshot.co/m/item/27154) | 2026-11-24 |
+| `the-glendronach-peated` | 더 글렌드로낙 피티드 | ./assets/images/the-glendronach-peated.webp | [Dailyshot - 더 글렌드로낙 피티드](https://dailyshot.co/m/item/9383) | 2026-11-24 |
+| `benriach-peated-quarter-casks` | 벤리악 피티드 쿼터 캐스크 | ./assets/images/benriach-peated-quarter-casks.webp | [Dailyshot - 벤리악 피티드 쿼터 캐스크](https://dailyshot.co/m/item/6031) | 2026-11-24 |
+| `signatory-symingtons-blended-10nyo` | 시그나토리 시밍턴 블렌디드 10년 | ./assets/images/signatory-symingtons-blended-10nyo.webp | [Dailyshot - 시그나토리 시밍턴 블렌디드 10년](https://dailyshot.co/m/item/37640) | 2026-11-24 |
+| `cuvee-dissenay-chardonnay` | 뀌베 디즈네, 샤르도네 | ./assets/images/cuvee-dissenay-chardonnay.webp | [Dailyshot - 뀌베 디즈네, 샤르도네](https://dailyshot.co/m/item/14831) | 2026-11-24 |
+| `highland-park-15-viking-heart` | 하이랜드 파크 15년 바이킹 하트 | ./assets/images/highland-park-15-viking-heart.webp | [Dailyshot - 하이랜드 파크 15년 바이킹 하트](https://dailyshot.co/m/item/4522) | 2026-11-24 |
+| `hart-brothers-peated` | 하트 브라더스 피티드 | ./assets/images/hart-brothers-peated.webp | [Dailyshot - 하트 브라더스 피티드](https://dailyshot.co/m/item/33404) | 2026-11-24 |
+| `sena-rocas-de-se-a` | 로카스 데 세냐 2020 | ./assets/images/sena-rocas-de-se-a.webp | [Dailyshot - 로카스 데 세냐 2020](https://dailyshot.co/m/item/20110) | 2026-11-24 |
+| `clos-de-los-siete` | 끌로 드 로스 씨에떼 | ./assets/images/clos-de-los-siete.webp | [Dailyshot - 끌로 드 로스 씨에떼](https://dailyshot.co/m/item/8362) | 2026-11-24 |
+| `terrazas-de-los-andes-reserva-chardonnay` | 테라자스 데 로스 안데스 리제르바 샤르도네 | ./assets/images/terrazas-de-los-andes-reserva-chardonnay.webp | [Dailyshot - 테라자스 데 로스 안데스 리제르바 샤르도네](https://dailyshot.co/m/item/18519) | 2026-11-24 |
+| `bladnoch-16-oloroso-sherry-cask` | 블라드녹 16년 올로로쏘 셰리 | ./assets/images/bladnoch-16-oloroso-sherry-cask.webp | [Dailyshot - 블라드녹 16년 올로로쏘 셰리](https://dailyshot.co/m/item/31724) | 2026-11-24 |
+| `bladnoch-30` | 블라드녹 30년 | ./assets/images/bladnoch-30.webp | [Dailyshot - 블라드녹 30년](https://dailyshot.co/m/item/7201) | 2026-11-24 |
+| `toro-seleccion-malbec` | 토로 셀렉시옹 말벡 | ./assets/images/toro-seleccion-malbec.webp | [Dailyshot - 토로 셀렉시옹 말벡](https://dailyshot.co/m/item/5957) | 2026-11-24 |
+| `joseph-pascal-bourgogne-aligote` | 조셉 파스칼, 부르고뉴 알리고떼 | ./assets/images/joseph-pascal-bourgogne-aligote.webp | [Dailyshot - 조셉 파스칼, 부르고뉴 알리고떼](https://dailyshot.co/m/item/15115) | 2026-11-24 |
+| `amabuki-matcha-yuza-sake` | 아마부키 맛차 유즈 사케 | ./assets/images/amabuki-matcha-yuza-sake.webp | [Dailyshot - 아마부키 맛차 유즈 사케](https://dailyshot.co/m/item/12990) | 2026-11-24 |
+| `tomatin-30` | 토마틴 30년 | ./assets/images/tomatin-30.webp | [Dailyshot - 토마틴 30년](https://dailyshot.co/m/item/6722) | 2026-11-24 |
+| `tomatin-15-yo` | 토마틴 15년 | ./assets/images/tomatin-15-yo.webp | [Dailyshot - 토마틴 15년](https://dailyshot.co/m/item/4848) | 2026-11-24 |
+| `tomatin-18-yo` | 토마틴 18년 | ./assets/images/tomatin-18-yo.webp | [Dailyshot - 토마틴 18년](https://dailyshot.co/m/item/4798) | 2026-11-24 |
+| `signatory-teaninich-17-6-symingtons-choice` | 시그나토리 2007 티니닉 17년 #6 시밍턴스 초이스 | ./assets/images/signatory-teaninich-17-6-symingtons-choice.webp | [Dailyshot - 시그나토리 2007 티니닉 17년 #6 시밍턴스 초이스](https://dailyshot.co/m/item/31400) | 2026-11-24 |
+| `pesquera-crianza` | 뻬스께라 크리안자 | ./assets/images/pesquera-crianza.webp | [Dailyshot - 뻬스께라 크리안자](https://dailyshot.co/m/item/12004) | 2026-11-24 |
+| `felix-solis-the-guvnor-vip` | 펠릭스 솔릭스 거브너 VIP | ./assets/images/felix-solis-the-guvnor-vip.webp | [Dailyshot - 펠릭스 솔릭스 거브너 VIP](https://dailyshot.co/m/item/35809) | 2026-11-24 |
+| `red-cask-teaninich-12` | 레드 캐스크 2009 티니닉 12년 | ./assets/images/red-cask-teaninich-12.webp | [Dailyshot - 레드 캐스크 2009 티니닉 12년](https://dailyshot.co/m/item/15616) | 2026-11-24 |
+| `angelo-primo` | 안젤로 프리모 | ./assets/images/angelo-primo.webp | [Dailyshot - 안젤로 프리모](https://dailyshot.co/m/item/20103) | 2026-11-24 |
+| `tomintoul-seiridh` | 토민타울 셰리 | ./assets/images/tomintoul-seiridh.webp | [Dailyshot - 토민타울 셰리](https://dailyshot.co/m/item/37848) | 2026-11-24 |
+| `that-boutique-y-whisky-company-craigellachie` | 댓 부티키 위스키 컴퍼니 크라이겔라키 13년 배치 14 | ./assets/images/that-boutique-y-whisky-company-craigellachie.webp | [Dailyshot - 댓 부티키 위스키 컴퍼니 크라이겔라키 13년 배치 14](https://dailyshot.co/m/item/20299) | 2026-11-24 |
+| `grand-tokaj-tokaji-aszu-5-puttonyos` | 그랜드 토카이 아수 5 푸토뇨스 | ./assets/images/grand-tokaj-tokaji-aszu-5-puttonyos.webp | [Dailyshot - 그랜드 토카이 아수 5 푸토뇨스](https://dailyshot.co/m/item/14759) | 2026-11-24 |
+| `grand-tokaj-classic-tokaji-sargamuskotaly` | 그랜드 토카이, 클래식 토카이 살가무쉬코타이 | ./assets/images/grand-tokaj-classic-tokaji-sargamuskotaly.webp | [Dailyshot - 그랜드 토카이, 클래식 토카이 살가무쉬코타이](https://dailyshot.co/m/item/16183) | 2026-11-24 |
+| `signatory-glendullan-11-100-proof` | 시그나토리 2012 글렌듈란 11년 100 프루프 | ./assets/images/signatory-glendullan-11-100-proof.webp | [Dailyshot - 시그나토리 2012 글렌듈란 11년 100 프루프](https://dailyshot.co/m/item/25774) | 2026-11-24 |
+| `disznoko-tokaji-aszu-5-puttonyos` | 디즈노코 토카이 아수 5 푸토뇨스 | ./assets/images/disznoko-tokaji-aszu-5-puttonyos.webp | [Dailyshot - 디즈노코 토카이 아수 5 푸토뇨스](https://dailyshot.co/m/item/12737) | 2026-11-24 |
+| `casano-marsala-fine` | 카사노 마르살라 파인 1L | ./assets/images/casano-marsala-fine.webp | [Dailyshot - 카사노 마르살라 파인 1L](https://dailyshot.co/m/item/13380) | 2026-11-24 |
+| `sagamore-spirit-double-oak` | 사가모어 스피릿 더블 오크 라이 750ml | ./assets/images/sagamore-spirit-double-oak.webp | [Dailyshot - 사가모어 스피릿 더블 오크 라이 750ml](https://dailyshot.co/m/item/22795) | 2026-11-24 |
+| `country-lane-salted-caramel-cream-liqueur` | 컨트리 레인 솔티드 카라멜 | ./assets/images/country-lane-salted-caramel-cream-liqueur.webp | [Dailyshot - 컨트리 레인 솔티드 카라멜](https://dailyshot.co/m/item/37966) | 2026-11-24 |
+| `mojo-moscato-rose` | 모조, 모스카토 로제 | ./assets/images/mojo-moscato-rose.webp | [Dailyshot - 모조, 모스카토 로제](https://dailyshot.co/m/item/28115) | 2026-11-24 |
+| `old-pulteney-harbour` | 올드 풀트니 하버 | ./assets/images/old-pulteney-harbour.webp | [Dailyshot - 올드 풀트니 하버](https://dailyshot.co/m/item/38303) | 2026-11-24 |
+| `omoro-10` | 오모로 10년 | ./assets/images/omoro-10.webp | [Dailyshot - 오모로 10년](https://dailyshot.co/m/item/17673) | 2026-11-24 |
+| `poggio-le-volpi-roma-rosso` | 포지오 레 볼피, 로마 로쏘 | ./assets/images/poggio-le-volpi-roma-rosso.webp | [Dailyshot - 포지오 레 볼피, 로마 로쏘](https://dailyshot.co/m/item/20093) | 2026-11-24 |
+| `rittenhouse-rye` | 리튼하우스 라이 | ./assets/images/rittenhouse-rye.webp | [Dailyshot - 리튼하우스 라이](https://dailyshot.co/m/item/10300) | 2026-11-24 |
+| `bodegas-muga-reserva` | 보데가스 무가 리제르바 | ./assets/images/bodegas-muga-reserva.webp | [Dailyshot - 보데가스 무가 리제르바](https://dailyshot.co/m/item/14092) | 2026-11-24 |
+| `pesquera-haza-crianza` | 뻬스께라 아싸 크리안자 | ./assets/images/pesquera-haza-crianza.webp | [Dailyshot - 뻬스께라 아싸 크리안자](https://dailyshot.co/m/item/27116) | 2026-11-24 |
+| `signatory-inchgower-13` | 시그나토리 인치고워 2011 13년 | ./assets/images/signatory-inchgower-13.webp | [Dailyshot - 시그나토리 인치고워 2011 13년](https://dailyshot.co/m/item/29244) | 2026-11-24 |
+| `sohomare-kimoto-junmai-daiginjo` | 소호마레 기모토 준마이 다이긴죠 | ./assets/images/sohomare-kimoto-junmai-daiginjo.webp | [Dailyshot - 소호마레 기모토 준마이 다이긴죠](https://dailyshot.co/m/item/15697) | 2026-11-24 |
+| `niu-lan-shan-chen-niang-jiu` | 우란산 천량 36% 500ml | ./assets/images/niu-lan-shan-chen-niang-jiu.webp | [Dailyshot - 우란산 천량 36% 500ml](https://dailyshot.co/m/item/27329) | 2026-11-24 |
+| `donnhoff-tonschiefer-riesling-trocken` | 된호프 돈시파 리슬링 트로켄 | ./assets/images/donnhoff-tonschiefer-riesling-trocken.webp | [Dailyshot - 된호프 돈시파 리슬링 트로켄](https://dailyshot.co/m/item/24075) | 2026-11-24 |
+| `the-whisky-tales-seasons-2-eve` | 더 위스키 테일즈 시즌 2 이브 크라이겔라키 16년 | ./assets/images/the-whisky-tales-seasons-2-eve.webp | [Dailyshot - 더 위스키 테일즈 시즌 2 이브 크라이겔라키 16년](https://dailyshot.co/m/item/28278) | 2026-11-24 |
+| `michters-us-1-single-barrel-toasted` | 믹터스 US*1 싱글배럴 토스티드 배럴 피니시 라이 | ./assets/images/michters-us-1-single-barrel-toasted.webp | [Dailyshot - 믹터스 US*1 싱글배럴 토스티드 배럴 피니시 라이](https://dailyshot.co/m/item/21153) | 2026-11-24 |
+| `cadenheads-glen-elgin-12` | 카덴헤드 글렌 엘긴 12년 | ./assets/images/cadenheads-glen-elgin-12.webp | [Dailyshot - 카덴헤드 글렌 엘긴 12년](https://dailyshot.co/m/item/5452) | 2026-11-24 |
+| `lochlea-our-barley` | 로크리 아워 발리 | ./assets/images/lochlea-our-barley.webp | [Dailyshot - 로크리 아워 발리](https://dailyshot.co/m/item/24017) | 2026-11-24 |
+| `kingsbarns-balcomie` | 킹스반즈 발코미 | ./assets/images/kingsbarns-balcomie.webp | [Dailyshot - 킹스반즈 발코미](https://dailyshot.co/m/item/14554) | 2026-11-24 |
+| `mollydooker-two-left-feet` | 몰리두커, 투 레프트 피트 | ./assets/images/mollydooker-two-left-feet.webp | [Dailyshot - 몰리두커, 투 레프트 피트](https://dailyshot.co/m/item/11963) | 2026-11-24 |
+| `mollydooker-the-scooter` | 몰리두커, 더 스쿠터 | ./assets/images/mollydooker-the-scooter.webp | [Dailyshot - 몰리두커, 더 스쿠터](https://dailyshot.co/m/item/16712) | 2026-11-24 |
+| `tendo-whisky` | 텐도 위스키 | ./assets/images/tendo-whisky.webp | [Dailyshot - 텐도 위스키](https://dailyshot.co/m/item/37600) | 2026-11-24 |
+| `cadenheads-fettercairn-14` | 카덴헤드 2007 패터캐른 15년 | ./assets/images/cadenheads-fettercairn-14.webp | [Dailyshot - 카덴헤드 2007 패터캐른 15년](https://dailyshot.co/m/item/18138) | 2026-11-24 |
+| `port-charlotte-islay-barley` | 포트샬롯 아일라발리 2012 | ./assets/images/port-charlotte-islay-barley.webp | [Dailyshot - 포트샬롯 아일라발리 2012](https://dailyshot.co/m/item/4851) | 2026-11-24 |
+| `escudo-rojo-gran-reserva` | 에스쿠도 로호 그랑 리제르바 | ./assets/images/escudo-rojo-gran-reserva.webp | [Dailyshot - 에스쿠도 로호 그랑 리제르바](https://dailyshot.co/m/item/7278) | 2026-11-24 |
+| `sandeman-fine-white-porto` | 샌드맨 파인 화이트 포트 | ./assets/images/sandeman-fine-white-porto.webp | [Dailyshot - 샌드맨 파인 화이트 포트](https://dailyshot.co/m/item/11912) | 2026-11-24 |
+| `lochlea-overtone-stout-cask-finish` | 로크리 오버톤 스타우트 캐스크 피니시 | ./assets/images/lochlea-overtone-stout-cask-finish.webp | [Dailyshot - 로크리 오버톤 스타우트 캐스크 피니시](https://dailyshot.co/m/item/25772) | 2026-11-24 |
+| `dows-fine-tawny-port` | 다우 파인 토니 포트 | ./assets/images/dows-fine-tawny-port.webp | [Dailyshot - 다우 파인 토니 포트](https://dailyshot.co/m/item/6584) | 2026-11-24 |
+| `paul-john-mithuna` | 폴존 미투나 | ./assets/images/paul-john-mithuna.webp | [Dailyshot - 폴존 미투나](https://dailyshot.co/m/item/34609) | 2026-11-24 |
+| `blackadder-raw-cask-glen-moray-single` | 블랙애더 로우 캐스크 글렌 모레이 싱글 캐스크 2008년 by ‘DaL DaL' | ./assets/images/blackadder-raw-cask-glen-moray-single.webp | [Dailyshot - 블랙애더 로우 캐스크 글렌 모레이 싱글 캐스크 2008년 by ‘DaL DaL'](https://dailyshot.co/m/item/5504) | 2026-11-24 |
+| `glen-moray-12` | 글렌 모레이 12년 | ./assets/images/glen-moray-12.webp | [Dailyshot - 글렌 모레이 12년](https://dailyshot.co/m/item/4222) | 2026-11-24 |
+| `tomintoul-px-sherry-cask-finish` | 토민타울 PX 셰리 캐스크 피니시 | ./assets/images/tomintoul-px-sherry-cask-finish.webp | [Dailyshot - 토민타울 PX 셰리 캐스크 피니시](https://dailyshot.co/m/item/26186) | 2026-11-24 |
+| `e-h-taylor-single-barrel` | E.H. 테일러 싱글배럴 | ./assets/images/e-h-taylor-single-barrel.webp | [Dailyshot - E.H. 테일러 싱글배럴](https://dailyshot.co/m/item/10290) | 2026-11-24 |
+| `tomintoul-21` | 토민타울 21년 | ./assets/images/tomintoul-21.webp | [Dailyshot - 토민타울 21년](https://dailyshot.co/m/item/6941) | 2026-11-24 |
+| `tomintoul-cigar-malt` | 토민타울 시가 몰트 | ./assets/images/tomintoul-cigar-malt.webp | [Dailyshot - 토민타울 시가 몰트](https://dailyshot.co/m/item/14561) | 2026-11-24 |
+| `glencadam-25` | 글렌카담 25년 | ./assets/images/glencadam-25.webp | [Dailyshot - 글렌카담 25년](https://dailyshot.co/m/item/6908) | 2026-11-24 |
+| `wolf-blass-eaglehawk-cuvee-brut` | 울프 블라스 이글호크 뀌베 브뤼 | ./assets/images/wolf-blass-eaglehawk-cuvee-brut.webp | [Dailyshot - 울프 블라스 이글호크 뀌베 브뤼](https://dailyshot.co/m/item/24414) | 2026-11-24 |
+| `fonseca-20-old-tawny-port` | 폰세카, 20년 토니 포트 | ./assets/images/fonseca-20-old-tawny-port.webp | [Dailyshot - 폰세카, 20년 토니 포트](https://dailyshot.co/m/item/35342) | 2026-11-24 |
+| `blackadder-raw-cask-ardmore-single-cask` | 블랙애더 로우 캐스크 디스틸러리 아드모어 싱글 캐스크 2010년 by 'DaL DaL' | ./assets/images/blackadder-raw-cask-ardmore-single-cask.webp | [Dailyshot - 블랙애더 로우 캐스크 디스틸러리 아드모어 싱글 캐스크 2010년 by 'DaL DaL'](https://dailyshot.co/m/item/6090) | 2026-11-24 |
+| `fonseca-10-tawny` | 폰세카, 10년 숙성 토니 | ./assets/images/fonseca-10-tawny.webp | [Dailyshot - 폰세카, 10년 숙성 토니](https://dailyshot.co/m/item/30538) | 2026-11-24 |
+| `duncan-taylor-octave-laphroaig-14-oloroso` | 던컨 테일러 옥타브 2011 라프로익 14년 올로로쏘 옥타브 캐스크 피니시 | ./assets/images/duncan-taylor-octave-laphroaig-14-oloroso.webp | [Dailyshot - 던컨 테일러 옥타브 2011 라프로익 14년 올로로쏘 옥타브 캐스크 피니시](https://dailyshot.co/m/item/31974) | 2026-11-24 |
+| `murray-mcdavid-benchmark-glen-garioch-11` | 머레이 맥데이비드 벤치마크 글렌 기리 11년 | ./assets/images/murray-mcdavid-benchmark-glen-garioch-11.webp | [Dailyshot - 머레이 맥데이비드 벤치마크 글렌 기리 11년](https://dailyshot.co/m/item/38640) | 2026-11-24 |
+| `firkin-49-tullibardine` | 펄킨 49 툴리바딘 | ./assets/images/firkin-49-tullibardine.webp | [Dailyshot - 펄킨 49 툴리바딘](https://dailyshot.co/m/item/9886) | 2026-11-24 |
+| `caymus-vineyards-conundrum-white` | 케이머스 빈야드, 코넌드럼 화이트 | ./assets/images/caymus-vineyards-conundrum-white.webp | [Dailyshot - 케이머스 빈야드, 코넌드럼 화이트](https://dailyshot.co/m/item/21576) | 2026-11-24 |
+| `vina-real-crianza` | 비냐 레알 크리안자 | ./assets/images/vina-real-crianza.webp | [Dailyshot - 비냐 레알 크리안자](https://dailyshot.co/m/item/17340) | 2026-11-24 |
+| `caymus-emmolo-merlot` | 케이머스 에멀로 멀롯 | ./assets/images/caymus-emmolo-merlot.webp | [Dailyshot - 케이머스 에멀로 멀롯](https://dailyshot.co/m/item/27812) | 2026-11-24 |
+| `caymus-vineyards-conundrum-red` | 케이머스 빈야드, 코넌드럼 레드 | ./assets/images/caymus-vineyards-conundrum-red.webp | [Dailyshot - 케이머스 빈야드, 코넌드럼 레드](https://dailyshot.co/m/item/18443) | 2026-11-24 |
+| `kirinzan-momiji-choki-jukusei-junmai-daiginjo` | 키린잔 모미지 초키쥬쿠세이 준마이 다이긴죠 겐슈 | ./assets/images/kirinzan-momiji-choki-jukusei-junmai-daiginjo.webp | [Dailyshot - 키린잔 모미지 초키쥬쿠세이 준마이 다이긴죠 겐슈](https://dailyshot.co/m/item/39773) | 2026-11-24 |
+| `farmers-leap-the-brave` | 파머스 립, 더 브레이브 | ./assets/images/farmers-leap-the-brave.webp | [Dailyshot - 파머스 립, 더 브레이브](https://dailyshot.co/m/item/11625) | 2026-11-24 |
+| `akabu-junmai-daiginjo` | 아카부 준마이 다이긴죠 | ./assets/images/akabu-junmai-daiginjo.webp | [Dailyshot - 아카부 준마이 다이긴죠](https://dailyshot.co/m/item/19072) | 2026-11-24 |
+| `duckhorn-decoy-merlot` | 덕혼 디코이 메를로 2022 | ./assets/images/duckhorn-decoy-merlot.webp | [Dailyshot - 덕혼 디코이 메를로 2022](https://dailyshot.co/m/item/23983) | 2026-11-24 |
+| `senkin-kakumei-kamosu` | 센킨 카쿠메이 카모스 | ./assets/images/senkin-kakumei-kamosu.webp | [Dailyshot - 센킨 카쿠메이 카모스](https://dailyshot.co/m/item/38191) | 2026-11-24 |
+| `senkin-classic-hiire` | 센킨 클래식 히이레 | ./assets/images/senkin-classic-hiire.webp | [Dailyshot - 센킨 클래식 히이레](https://dailyshot.co/m/item/29913) | 2026-11-24 |
+| `duckhorn-goldeneye-pinot-noir` | 덕혼 골든아이 피노 누아 | ./assets/images/duckhorn-goldeneye-pinot-noir.webp | [Dailyshot - 덕혼 골든아이 피노 누아](https://dailyshot.co/m/item/5779) | 2026-11-24 |
+| `caymus-bonanza-cabernet-sauvignon` | 케이머스 보난자 까베르네 소비뇽 | ./assets/images/caymus-bonanza-cabernet-sauvignon.webp | [Dailyshot - 케이머스 보난자 까베르네 소비뇽](https://dailyshot.co/m/item/26327) | 2026-11-24 |
+| `duckhorn-decoy-limited-alexander-valley-cabernet` | 덕혼 디코이 리미티드 알렉산더 밸리 까베르네 소비뇽 | ./assets/images/duckhorn-decoy-limited-alexander-valley-cabernet.webp | [Dailyshot - 덕혼 디코이 리미티드 알렉산더 밸리 까베르네 소비뇽](https://dailyshot.co/m/item/29100) | 2026-11-24 |
+| `duckhorn-napa-valley-cabernet-sauvignon` | 덕혼 나파 밸리 까베르네 소비뇽 | ./assets/images/duckhorn-napa-valley-cabernet-sauvignon.webp | [Dailyshot - 덕혼 나파 밸리 까베르네 소비뇽](https://dailyshot.co/m/item/4102) | 2026-11-24 |
+| `benromach-unpeated` | 벤로막 2014 언피티드 | ./assets/images/benromach-unpeated.webp | [Dailyshot - 벤로막 2014 언피티드](https://dailyshot.co/m/item/27459) | 2026-11-24 |
+| `orin-swift-mercury-head` | 오린 스위프트 머큐리 헤드 | ./assets/images/orin-swift-mercury-head.webp | [Dailyshot - 오린 스위프트 머큐리 헤드](https://dailyshot.co/m/item/13910) | 2026-11-24 |
+| `benromach-organic` | 벤로막 오가닉 | ./assets/images/benromach-organic.webp | [Dailyshot - 벤로막 오가닉](https://dailyshot.co/m/item/5098) | 2026-11-24 |
+| `bodegas-alto-moncayo-veraton` | 보데가스 알토 몬카요 베라톤 | ./assets/images/bodegas-alto-moncayo-veraton.webp | [Dailyshot - 보데가스 알토 몬카요 베라톤](https://dailyshot.co/m/item/13875) | 2026-11-24 |
+| `glenfarclas-26` | 글렌파클라스 26년 | ./assets/images/glenfarclas-26.webp | [Dailyshot - 글렌파클라스 26년](https://dailyshot.co/m/item/17727) | 2026-11-24 |
+| `benromach-single-cask-wisukui` | 벤로막 싱글 캐스크 위숙희 | ./assets/images/benromach-single-cask-wisukui.webp | [Dailyshot - 벤로막 싱글 캐스크 위숙희](https://dailyshot.co/m/item/30383) | 2026-11-24 |
+| `kazenomori-alpha2-konouenakihana` | 카제노모리 ALPHA2 코노우에나키하나 | ./assets/images/kazenomori-alpha2-konouenakihana.webp | [Dailyshot - 카제노모리 ALPHA2 코노우에나키하나](https://dailyshot.co/m/item/38828) | 2026-11-24 |
+| `shafer-relentless` | 쉐이퍼, 릴렌트레스 | ./assets/images/shafer-relentless.webp | [Dailyshot - 쉐이퍼, 릴렌트레스](https://dailyshot.co/m/item/13037) | 2026-11-24 |
+| `farmers-leap-padthaway-shiraz` | 파머스 립, 페더웨이 쉬라즈 | ./assets/images/farmers-leap-padthaway-shiraz.webp | [Dailyshot - 파머스 립, 페더웨이 쉬라즈](https://dailyshot.co/m/item/11626) | 2026-11-24 |
+| `akabu-junmai-ginjo-yamadanishiki` | 아카부 준마이 긴죠 야마다니시키 | ./assets/images/akabu-junmai-ginjo-yamadanishiki.webp | [Dailyshot - 아카부 준마이 긴죠 야마다니시키](https://dailyshot.co/m/item/35292) | 2026-11-24 |
+| `the-prisoner-unshackled-red-blend` | 더 프리즈너, 언쉐클드 레드 블렌드 | ./assets/images/the-prisoner-unshackled-red-blend.webp | [Dailyshot - 더 프리즈너, 언쉐클드 레드 블렌드](https://dailyshot.co/m/item/12208) | 2026-11-24 |
+| `bodegas-castano-hecula-monastrell` | 보데가 까스따뇨, 헤쿨라 모나스트렐 | ./assets/images/bodegas-castano-hecula-monastrell.webp | [Dailyshot - 보데가 까스따뇨, 헤쿨라 모나스트렐](https://dailyshot.co/m/item/3059) | 2026-11-24 |
+| `orin-swift-abstract` | 오린 스위프트 앱스트랙트 | ./assets/images/orin-swift-abstract.webp | [Dailyshot - 오린 스위프트 앱스트랙트](https://dailyshot.co/m/item/30513) | 2026-11-24 |
+| `kaze-no-mori-akitsuho-yatsuriyama-pesticide` | 카제노모리 아키츠호 야츠리야마 무농약특별재배쌀 | ./assets/images/kaze-no-mori-akitsuho-yatsuriyama-pesticide.webp | [Dailyshot - 카제노모리 아키츠호 야츠리야마 무농약특별재배쌀](https://dailyshot.co/m/item/35229) | 2026-11-24 |
+| `duckhorn-decoy-chardonnay` | 덕혼 디코이 샤르도네 | ./assets/images/duckhorn-decoy-chardonnay.webp | [Dailyshot - 덕혼 디코이 샤르도네](https://dailyshot.co/m/item/8407) | 2026-11-24 |
+| `marie-brizard-green-melon` | 마리브리자드 그린 멜론 | ./assets/images/marie-brizard-green-melon.webp | [Dailyshot - 마리브리자드 그린 멜론](https://dailyshot.co/m/item/11798) | 2026-11-24 |
+| `dal-forno-romano-valpolicella-superiore` | 달 포르노 로마노, 발폴리첼라 수페리오레 | ./assets/images/dal-forno-romano-valpolicella-superiore.webp | [Dailyshot - 달 포르노 로마노, 발폴리첼라 수페리오레](https://dailyshot.co/m/item/9275) | 2026-11-24 |
+| `marie-brizard-watermelon` | 마리브리자드 워터멜론 | ./assets/images/marie-brizard-watermelon.webp | [Dailyshot - 마리브리자드 워터멜론](https://dailyshot.co/m/item/11797) | 2026-11-24 |
+| `paul-gosset-des-jours-et-des` | 폴 고세, 데 주르 에 데 뮈이 브뤼 | ./assets/images/paul-gosset-des-jours-et-des.webp | [Dailyshot - 폴 고세, 데 주르 에 데 뮈이 브뤼](https://dailyshot.co/m/item/35577) | 2026-11-24 |
+| `suavia-soave-classico` | 수아비아 소아베 클라시코 | ./assets/images/suavia-soave-classico.webp | [Dailyshot - 수아비아 소아베 클라시코](https://dailyshot.co/m/item/8165) | 2026-11-24 |
+| `marie-brizard-jolie-cherry` | 마리브리자드 졸리체리 | ./assets/images/marie-brizard-jolie-cherry.webp | [Dailyshot - 마리브리자드 졸리체리](https://dailyshot.co/m/item/7155) | 2026-11-24 |
+| `benriach-25-triple-distilled` | 벤리악 25년 트리플 디스틸드 | ./assets/images/benriach-25-triple-distilled.webp | [Dailyshot - 벤리악 25년 트리플 디스틸드](https://dailyshot.co/m/item/27025) | 2026-11-24 |
+| `piper-heidsieck` | 파이퍼 하이직 2014 | ./assets/images/piper-heidsieck.webp | [Dailyshot - 파이퍼 하이직 2014](https://dailyshot.co/m/item/8931) | 2026-11-24 |
+| `bollinger-b16` | 볼랭저 B16 | ./assets/images/bollinger-b16.webp | [Dailyshot - 볼랭저 B16](https://dailyshot.co/m/item/36409) | 2026-11-24 |
+| `bollinger-grand-annee` | 볼랭저, 그랑 아네 | ./assets/images/bollinger-grand-annee.webp | [Dailyshot - 볼랭저, 그랑 아네](https://dailyshot.co/m/item/8881) | 2026-11-24 |
+| `egly-ouriet-grand-cru-extra-brut` | 에글리 우리에 그랑 크뤼 엑스트라 브뤼 | ./assets/images/egly-ouriet-grand-cru-extra-brut.webp | [Dailyshot - 에글리 우리에 그랑 크뤼 엑스트라 브뤼](https://dailyshot.co/m/item/40202) | 2026-11-24 |
+| `laurent-perrier-grand-siecle` | 로랑 페리에 그랑 시에클 | ./assets/images/laurent-perrier-grand-siecle.webp | [Dailyshot - 로랑 페리에 그랑 시에클](https://dailyshot.co/m/item/8265) | 2026-11-24 |
+| `de-kuyper-blueberry` | 디카이퍼 블루베리 | ./assets/images/de-kuyper-blueberry.webp | [Dailyshot - 디카이퍼 블루베리](https://dailyshot.co/m/item/12189) | 2026-11-24 |
+| `benriach-quarter-cask` | 벤리악 쿼터 캐스크 | ./assets/images/benriach-quarter-cask.webp | [Dailyshot - 벤리악 쿼터 캐스크](https://dailyshot.co/m/item/4551) | 2026-11-24 |
+| `oyster-bay-chardonnay` | 오이스터 베이 샤르도네 | ./assets/images/oyster-bay-chardonnay.webp | [Dailyshot - 오이스터 베이 샤르도네](https://dailyshot.co/m/item/29803) | 2026-11-24 |
+| `giffard-cr-me-de-p-che` | 지파드 크림 드 페슈(복숭아) | ./assets/images/giffard-cr-me-de-p-che.webp | [Dailyshot - 지파드 크림 드 페슈(복숭아)](https://dailyshot.co/m/item/21617) | 2026-11-24 |
+| `marie-brizard-grenadine-syrup` | 마리브리자드 그레나딘 시럽 | ./assets/images/marie-brizard-grenadine-syrup.webp | [Dailyshot - 마리브리자드 그레나딘 시럽](https://dailyshot.co/m/item/4326) | 2026-11-24 |
+| `giffard-sour-apple` | 지파드 사워 애플 | ./assets/images/giffard-sour-apple.webp | [Dailyshot - 지파드 사워 애플](https://dailyshot.co/m/item/21614) | 2026-11-24 |
+| `duckhorn-north-coast-sauvignon-blanc` | 덕혼 노스 코스트 소비뇽 블랑 | ./assets/images/duckhorn-north-coast-sauvignon-blanc.webp | [Dailyshot - 덕혼 노스 코스트 소비뇽 블랑](https://dailyshot.co/m/item/15066) | 2026-11-24 |
+| `dog-point-chardonnay` | 도그 포인트 샤르도네 | ./assets/images/dog-point-chardonnay.webp | [Dailyshot - 도그 포인트 샤르도네](https://dailyshot.co/m/item/5248) | 2026-11-24 |
+| `sommos-reserva` | 소모스, 리제르바 | ./assets/images/sommos-reserva.webp | [Dailyshot - 소모스, 리제르바](https://dailyshot.co/m/item/5979) | 2026-11-24 |
+| `marie-brizard-orange-cura-ao` | 마리브리자드 오렌지 큐라소 | ./assets/images/marie-brizard-orange-cura-ao.webp | [Dailyshot - 마리브리자드 오렌지 큐라소](https://dailyshot.co/m/item/6163) | 2026-11-24 |
+| `monopole-classico` | 모노폴 클라시코 | ./assets/images/monopole-classico.webp | [Dailyshot - 모노폴 클라시코](https://dailyshot.co/m/item/18464) | 2026-11-24 |
+| `banshuikkon-junmai-chokarakuchi` | 반슈잇콘 준마이 초카라구치 | ./assets/images/banshuikkon-junmai-chokarakuchi.webp | [Dailyshot - 반슈잇콘 준마이 초카라구치](https://dailyshot.co/m/item/17860) | 2026-11-24 |
+| `compass-box-ultramarine` | 컴파스 박스 울트라 마린 | ./assets/images/compass-box-ultramarine.webp | [Dailyshot - 컴파스 박스 울트라 마린](https://dailyshot.co/m/item/12823) | 2026-11-24 |
+| `compass-box-glasgow-blend` | 컴파스 박스 글래스고 블렌드 | ./assets/images/compass-box-glasgow-blend.webp | [Dailyshot - 컴파스 박스 글래스고 블렌드](https://dailyshot.co/m/item/9702) | 2026-11-24 |
+| `compass-box-artist-blend` | 컴파스 박스 아티스트 블렌드 | ./assets/images/compass-box-artist-blend.webp | [Dailyshot - 컴파스 박스 아티스트 블렌드](https://dailyshot.co/m/item/9703) | 2026-11-24 |
+| `compass-box-hedonism` | 컴파스 박스 헤도니즘 | ./assets/images/compass-box-hedonism.webp | [Dailyshot - 컴파스 박스 헤도니즘](https://dailyshot.co/m/item/4433) | 2026-11-24 |
+| `amahagan-guunmong-yangsoyu` | 아마하간 구운몽 양소유 | ./assets/images/amahagan-guunmong-yangsoyu.webp | [Dailyshot - 아마하간 구운몽 양소유](https://dailyshot.co/m/item/38727) | 2026-11-24 |
+| `chateau-lynch-bages` | 샤또 린치바쥬 | ./assets/images/chateau-lynch-bages.webp | [Dailyshot - 샤또 린치바쥬](https://dailyshot.co/m/item/11613) | 2026-11-24 |
+| `copenhagen-sparkling-tea` | 코펜하겐 스파클링 티 | ./assets/images/copenhagen-sparkling-tea.webp | [Dailyshot - 코펜하겐 스파클링 티](https://dailyshot.co/m/item/38753) | 2026-11-24 |
+| `chateau-lagrange` | 샤또 라그랑쥬 | ./assets/images/chateau-lagrange.webp | [Dailyshot - 샤또 라그랑쥬](https://dailyshot.co/m/item/11756) | 2026-11-24 |
+| `ornellaia` | 오르넬라이아 | ./assets/images/ornellaia.webp | [Dailyshot - 오르넬라이아](https://dailyshot.co/m/item/7716) | 2026-11-24 |
+| `gordon-and-macphail-conosair-choice-caol` | 고든 앤 맥페일 코노세어 초이스 2010 쿨일라 사시까이아 12년 | ./assets/images/gordon-and-macphail-conosair-choice-caol.webp | [Dailyshot - 고든 앤 맥페일 코노세어 초이스 2010 쿨일라 사시까이아 12년](https://dailyshot.co/m/item/21107) | 2026-11-24 |
+| `hyde-de-villaine-napa-valley-chardonnay` | 하이드 드 빌렌 나파 밸리 샤르도네 | ./assets/images/hyde-de-villaine-napa-valley-chardonnay.webp | [Dailyshot - 하이드 드 빌렌 나파 밸리 샤르도네](https://dailyshot.co/m/item/29158) | 2026-11-24 |
+| `love-you-bunches-red` | 러브유 번치스 레드 | ./assets/images/love-you-bunches-red.webp | [Dailyshot - 러브유 번치스 레드](https://dailyshot.co/m/item/12982) | 2026-11-24 |
+| `seifried-estate-old-coach-road-sauvignon` | 세이프리드 에스테이트, 올드 코치 로드 소비뇽 블랑 | ./assets/images/seifried-estate-old-coach-road-sauvignon.webp | [Dailyshot - 세이프리드 에스테이트, 올드 코치 로드 소비뇽 블랑](https://dailyshot.co/m/item/28176) | 2026-11-24 |
+| `domaine-faiveley-bourgogne-pinot-noir` | 도멘 페블레 부르고뉴 피노 누아 | ./assets/images/domaine-faiveley-bourgogne-pinot-noir.webp | [Dailyshot - 도멘 페블레 부르고뉴 피노 누아](https://dailyshot.co/m/item/37778) | 2026-11-24 |
+| `grosperrin-orange-dor` | 그로페랑 오렌지 도르 | ./assets/images/grosperrin-orange-dor.webp | [Dailyshot - 그로페랑 오렌지 도르](https://dailyshot.co/m/item/32757) | 2026-11-24 |
+| `shicken-sparkling-sora-no-irodori` | 시치켄 스파클링 소라노이로도리 | ./assets/images/shicken-sparkling-sora-no-irodori.webp | [Dailyshot - 시치켄 스파클링 소라노이로도리](https://dailyshot.co/m/item/30928) | 2026-11-24 |
+| `chusa-white-oak-25` | 추사 백 오크 25 | ./assets/images/chusa-white-oak-25.webp | [Dailyshot - 추사 백 오크 25](https://dailyshot.co/m/item/27129) | 2026-11-24 |
+| `cote-de-nuits-villages-la-montagne` | 꼬뜨 드뉘 빌라쥐 라 몽타뉴 | ./assets/images/cote-de-nuits-villages-la-montagne.webp | [Dailyshot - 꼬뜨 드뉘 빌라쥐 라 몽타뉴](https://dailyshot.co/m/item/37195) | 2026-11-24 |
+| `koshi-no-kanbai-seishu` | 코시노칸바이 세이슈 | ./assets/images/koshi-no-kanbai-seishu.webp | [Dailyshot - 코시노칸바이 세이슈](https://dailyshot.co/m/item/37960) | 2026-11-24 |
+| `weller-special-reserve` | 웰러 스페셜 리저브 | ./assets/images/weller-special-reserve.webp | [Dailyshot - 웰러 스페셜 리저브](https://dailyshot.co/m/item/24779) | 2026-11-24 |
+| `weller-antique-107` | 웰러 앤티크 107 | ./assets/images/weller-antique-107.webp | [Dailyshot - 웰러 앤티크 107](https://dailyshot.co/m/item/15869) | 2026-11-24 |
+| `balblair-15` | 발블레어 15년 | ./assets/images/balblair-15.webp | [Dailyshot - 발블레어 15년](https://dailyshot.co/m/item/18058) | 2026-11-24 |
+| `rebel-yell-small-batch-rye` | 레벨 옐 스몰 배치 라이 | ./assets/images/rebel-yell-small-batch-rye.webp | [Dailyshot - 레벨 옐 스몰 배치 라이](https://dailyshot.co/m/item/6712) | 2026-11-24 |
+| `rebel-yell-kentucky-straight-bourbon-100proof` | 레벨 옐 켄터키 스트레이트 버번 100프루프 | ./assets/images/rebel-yell-kentucky-straight-bourbon-100proof.webp | [Dailyshot - 레벨 옐 켄터키 스트레이트 버번 100프루프](https://dailyshot.co/m/item/9698) | 2026-11-24 |
+| `brave-new-spirits-royal-brackla-9` | 브레이브 뉴 스피리츠 2012 로얄 브라클라 9년 레벨즈 더 게릴라 캐스크즈 | ./assets/images/brave-new-spirits-royal-brackla-9.webp | [Dailyshot - 브레이브 뉴 스피리츠 2012 로얄 브라클라 9년 레벨즈 더 게릴라 캐스크즈](https://dailyshot.co/m/item/10821) | 2026-11-24 |
+| `banfi-tiara-platinum-moscato` | 반피 티아라 플래티넘 모스카토 | ./assets/images/banfi-tiara-platinum-moscato.webp | [Dailyshot - 반피 티아라 플래티넘 모스카토](https://dailyshot.co/m/item/4027) | 2026-11-24 |
+| `willett-family-estate-bottled-single-barrel` | 윌렛 패밀리 에스테이트 싱글배럴 8년 퍼플탑 | ./assets/images/willett-family-estate-bottled-single-barrel.webp | [Dailyshot - 윌렛 패밀리 에스테이트 싱글배럴 8년 퍼플탑](https://dailyshot.co/m/item/27193) | 2026-11-24 |
+| `zaku-gennotomo-junmai` | 자쿠 겐노토모 준마이 | ./assets/images/zaku-gennotomo-junmai.webp | [Dailyshot - 자쿠 겐노토모 준마이](https://dailyshot.co/m/item/34460) | 2026-11-24 |
+| `dewazakura-junmai-daiginjo-kimoto` | 데와자쿠라 준마이 다이긴죠 키모토 | ./assets/images/dewazakura-junmai-daiginjo-kimoto.webp | [Dailyshot - 데와자쿠라 준마이 다이긴죠 키모토](https://dailyshot.co/m/item/39553) | 2026-11-24 |
+| `aultmore-18-madeira-casks-finish` | 올트모어 18년 마데이라 캐스크 피니시 500ml | ./assets/images/aultmore-18-madeira-casks-finish.webp | [Dailyshot - 올트모어 18년 마데이라 캐스크 피니시 500ml](https://dailyshot.co/m/item/25652) | 2026-11-24 |
+| `tatenokawa-junmai-daiginjo-jyoryu` | 타테노카와 준마이 다이긴죠 죠류 | ./assets/images/tatenokawa-junmai-daiginjo-jyoryu.webp | [Dailyshot - 타테노카와 준마이 다이긴죠 죠류](https://dailyshot.co/m/item/37271) | 2026-11-24 |
+| `masi-campofiorin` | 마시 캄포피오린 | ./assets/images/masi-campofiorin.webp | [Dailyshot - 마시 캄포피오린](https://dailyshot.co/m/item/12204) | 2026-11-24 |
+| `mackmyra-svensk-ek-single-malt-whisky` | 맥미라 스벤스크 에크 싱글몰트 위스키 | ./assets/images/mackmyra-svensk-ek-single-malt-whisky.webp | [Dailyshot - 맥미라 스벤스크 에크 싱글몰트 위스키](https://dailyshot.co/m/item/9252) | 2026-11-24 |
+| `tenuta-viglione-johe-rosso-organic` | 테누타 뷔리오네, 요헤 로쏘 오가닉 | ./assets/images/tenuta-viglione-johe-rosso-organic.webp | [Dailyshot - 테누타 뷔리오네, 요헤 로쏘 오가닉](https://dailyshot.co/m/item/14178) | 2026-11-24 |
+| `bombergers-declaration-kentuky-straight-bourbon-whiskey` | 보머거스 데클라레이션 켄터키 스트레이트 버번 위스키 (2025 릴리즈) | ./assets/images/bombergers-declaration-kentuky-straight-bourbon-whiskey.webp | [Dailyshot - 보머거스 데클라레이션 켄터키 스트레이트 버번 위스키 (2025 릴리즈)](https://dailyshot.co/m/item/31137) | 2026-11-24 |
+| `kanosuke-single-malt-peated` | 카노스케 싱글몰트 피티드 | ./assets/images/kanosuke-single-malt-peated.webp | [Dailyshot - 카노스케 싱글몰트 피티드](https://dailyshot.co/m/item/38619) | 2026-11-24 |
+| `buck-shack-bourbon-barrel-cabernet-sauvignon` | 벅 쉑, 버번 배럴 까베르네 소비뇽 | ./assets/images/buck-shack-bourbon-barrel-cabernet-sauvignon.webp | [Dailyshot - 벅 쉑, 버번 배럴 까베르네 소비뇽](https://dailyshot.co/m/item/29159) | 2026-11-24 |
+| `domaine-gautheron-chablis` | 고뜨홍 샤블리 | ./assets/images/domaine-gautheron-chablis.webp | [Dailyshot - 고뜨홍 샤블리](https://dailyshot.co/m/item/11166) | 2026-11-24 |
+| `karatanba` | 카라탄바 | ./assets/images/karatanba.webp | [Dailyshot - 카라탄바](https://dailyshot.co/m/item/28177) | 2026-11-24 |
+| `tenuta-san-guido-guidalberto` | 테누타 산 귀도, 귀달베르토 | ./assets/images/tenuta-san-guido-guidalberto.webp | [Dailyshot - 테누타 산 귀도, 귀달베르토](https://dailyshot.co/m/item/11387) | 2026-11-24 |
+| `kamoshibito-kuheiji-junmai-daiginjo-human` | 카모시비토 쿠헤이지 준마이 다이긴죠 휴먼 | ./assets/images/kamoshibito-kuheiji-junmai-daiginjo-human.webp | [Dailyshot - 카모시비토 쿠헤이지 준마이 다이긴죠 휴먼](https://dailyshot.co/m/item/38860) | 2026-11-24 |
+| `robert-mondavi-private-selection-buttery-chardonnay` | 로버트 몬다비, 프라이빗 셀렉션 버터리 샤르도네 | ./assets/images/robert-mondavi-private-selection-buttery-chardonnay.webp | [Dailyshot - 로버트 몬다비, 프라이빗 셀렉션 버터리 샤르도네](https://dailyshot.co/m/item/5974) | 2026-11-24 |
+| `kokuryu-daiginjo-crystal-dragon` | 코쿠류 다이긴죠 크리스탈 드래곤 | ./assets/images/kokuryu-daiginjo-crystal-dragon.webp | [Dailyshot - 코쿠류 다이긴죠 크리스탈 드래곤](https://dailyshot.co/m/item/9152) | 2026-11-24 |
+| `ego-bodegas-goru` | 에고 보데가스 고루 | ./assets/images/ego-bodegas-goru.webp | [Dailyshot - 에고 보데가스 고루](https://dailyshot.co/m/item/18435) | 2026-11-24 |
+| `tenuta-ulisse-masseri-primitivo` | 테누타 울리쎄 마쎄리 프리미티보 | ./assets/images/tenuta-ulisse-masseri-primitivo.webp | [Dailyshot - 테누타 울리쎄 마쎄리 프리미티보](https://dailyshot.co/m/item/17022) | 2026-11-24 |
+| `tenuta-san-guido-le-difese` | 테누타 산 귀도, 레 디페제 | ./assets/images/tenuta-san-guido-le-difese.webp | [Dailyshot - 테누타 산 귀도, 레 디페제](https://dailyshot.co/m/item/12019) | 2026-11-24 |
+| `robert-mondavi-woodbridge-white-zinfandel` | 로버트 몬다비, 우드브릿지 화이트 진판델 | ./assets/images/robert-mondavi-woodbridge-white-zinfandel.webp | [Dailyshot - 로버트 몬다비, 우드브릿지 화이트 진판델](https://dailyshot.co/m/item/27233) | 2026-11-24 |
+| `armorik-classic` | 아모릭 클래식 | ./assets/images/armorik-classic.webp | [Dailyshot - 아모릭 클래식](https://dailyshot.co/m/item/12760) | 2026-11-24 |
+| `junmai-ginjo-akafuji` | 준마이 긴죠 아카후지 | ./assets/images/junmai-ginjo-akafuji.webp | [Dailyshot - 준마이 긴죠 아카후지](https://dailyshot.co/m/item/29130) | 2026-11-24 |
+| `aberfeldy-15-cadillac-white-wine-cask` | 애버펠디 15년 캐딜락 화이트 와인 캐스크 피니시 | ./assets/images/aberfeldy-15-cadillac-white-wine-cask.webp | [Dailyshot - 애버펠디 15년 캐딜락 화이트 와인 캐스크 피니시](https://dailyshot.co/m/item/28825) | 2026-11-24 |
+| `stauning-smoke-single-malt-whisky` | 스터닝 스모크 싱글몰트 위스키 | ./assets/images/stauning-smoke-single-malt-whisky.webp | [Dailyshot - 스터닝 스모크 싱글몰트 위스키](https://dailyshot.co/m/item/6858) | 2026-11-24 |
+| `stauning-rye-whisky` | 스터닝 라이 위스키 | ./assets/images/stauning-rye-whisky.webp | [Dailyshot - 스터닝 라이 위스키](https://dailyshot.co/m/item/7182) | 2026-11-24 |
+| `russells-reserve-single-barrel-x6` | 러셀 리저브 싱글배럴 x6 | ./assets/images/russells-reserve-single-barrel-x6.webp | [Dailyshot - 러셀 리저브 싱글배럴 x6](https://dailyshot.co/m/item/18441) | 2026-11-24 |
+| `russells-reserve-single-rickhouse-camp-nelson` | 러셀 리저브 싱글 릭하우스 캠프 넬슨 E | ./assets/images/russells-reserve-single-rickhouse-camp-nelson.webp | [Dailyshot - 러셀 리저브 싱글 릭하우스 캠프 넬슨 E](https://dailyshot.co/m/item/33886) | 2026-11-24 |
+| `glencadam-10-yo-1st-fill-bourbon` | 키어쉬 임포트 50주년 기념 글렌카담 2016 10년 퍼스트 필 버번 캐스크 #2591 | ./assets/images/glencadam-10-yo-1st-fill-bourbon.webp | [Dailyshot - 키어쉬 임포트 50주년 기념 글렌카담 2016 10년 퍼스트 필 버번 캐스크 #2591](https://dailyshot.co/m/item/39786) | 2026-11-24 |
+| `columbia-crest-grand-estates-cabernet-sauvignon` | 콜롬비아 크레스트, 그랜드 에스테이트 까베르네 소비뇽 | ./assets/images/columbia-crest-grand-estates-cabernet-sauvignon.webp | [Dailyshot - 콜롬비아 크레스트, 그랜드 에스테이트 까베르네 소비뇽](https://dailyshot.co/m/item/4401) | 2026-11-24 |
+| `columbia-crest-h3-cabernet-sauvignon` | 콜롬비아 크레스트 H3 까베르네 소비뇽 | ./assets/images/columbia-crest-h3-cabernet-sauvignon.webp | [Dailyshot - 콜롬비아 크레스트 H3 까베르네 소비뇽](https://dailyshot.co/m/item/4402) | 2026-11-24 |
+| `chateau-gloria` | 샤또 글로리아 2017 | ./assets/images/chateau-gloria.webp | [Dailyshot - 샤또 글로리아 2017](https://dailyshot.co/m/item/18628) | 2026-11-24 |
+| `kavalan-solist-peated-cask-strength` | 카발란 솔리스트 피티드 CS | ./assets/images/kavalan-solist-peated-cask-strength.webp | [Dailyshot - 카발란 솔리스트 피티드 CS](https://dailyshot.co/m/item/23430) | 2026-11-24 |
+| `suigei-liqueur-kaju-yuzu` | 스이게이 리큐르 카쥬 유즈 | ./assets/images/suigei-liqueur-kaju-yuzu.webp | [Dailyshot - 스이게이 리큐르 카쥬 유즈](https://dailyshot.co/m/item/30302) | 2026-11-24 |
+| `suigei-junmai-ginjo-ginrei-summer` | 스이게이 준마이 긴죠 긴레이 Summer | ./assets/images/suigei-junmai-ginjo-ginrei-summer.webp | [Dailyshot - 스이게이 준마이 긴죠 긴레이 Summer](https://dailyshot.co/m/item/34851) | 2026-11-24 |
+| `mr-boston-amaretto` | 미스터 보스턴 아마레또 1L | ./assets/images/mr-boston-amaretto.webp | [Dailyshot - 미스터 보스턴 아마레또 1L](https://dailyshot.co/m/item/25182) | 2026-11-24 |
+| `murray-mcdavid-benchmark-caol-ila-8` | 머레이 맥데이비드 벤치마크 쿨일라 8년 | ./assets/images/murray-mcdavid-benchmark-caol-ila-8.webp | [Dailyshot - 머레이 맥데이비드 벤치마크 쿨일라 8년](https://dailyshot.co/m/item/38639) | 2026-11-24 |
+| `toschi-amaretto` | 토스키 아마레또 | ./assets/images/toschi-amaretto.webp | [Dailyshot - 토스키 아마레또](https://dailyshot.co/m/item/13194) | 2026-11-24 |
+| `puglia-pop-triglia-negroamaro-rosato` | 풀리아 팝 트리리아 네그로아마로 로자토 | ./assets/images/puglia-pop-triglia-negroamaro-rosato.webp | [Dailyshot - 풀리아 팝 트리리아 네그로아마로 로자토](https://dailyshot.co/m/item/12426) | 2026-11-24 |
+| `spey-river-sherry-cask-finish` | 스페이 리버 셰리 캐스크 피니시 | ./assets/images/spey-river-sherry-cask-finish.webp | [Dailyshot - 스페이 리버 셰리 캐스크 피니시](https://dailyshot.co/m/item/18164) | 2026-11-24 |
+| `luce-della-vite-brunello-di-montalcino` | 루체 델라 비테,  브루넬로 디 몬탈치노 | ./assets/images/luce-della-vite-brunello-di-montalcino.webp | [Dailyshot - 루체 델라 비테,  브루넬로 디 몬탈치노](https://dailyshot.co/m/item/9917) | 2026-11-24 |
+| `de-kuyper-creme-de-cassis` | 디카이퍼 크림 드 카시스 750ml | ./assets/images/de-kuyper-creme-de-cassis.webp | [Dailyshot - 디카이퍼 크림 드 카시스 750ml](https://dailyshot.co/m/item/12218) | 2026-11-24 |
+| `la-crema-monterey-pinot-noir` | 라 크레마 몬터레이 피노 누아 | ./assets/images/la-crema-monterey-pinot-noir.webp | [Dailyshot - 라 크레마 몬터레이 피노 누아](https://dailyshot.co/m/item/18692) | 2026-11-24 |
+| `dr-loosen-riesling-dry` | 닥터 루젠 리슬링 드라이 | ./assets/images/dr-loosen-riesling-dry.webp | [Dailyshot - 닥터 루젠 리슬링 드라이](https://dailyshot.co/m/item/20124) | 2026-11-24 |
+| `blackadder-raw-cask-caol-ila-9` | 블랙애더 로우 캐스크 쿨일라 9년 | ./assets/images/blackadder-raw-cask-caol-ila-9.webp | [Dailyshot - 블랙애더 로우 캐스크 쿨일라 9년](https://dailyshot.co/m/item/5140) | 2026-11-24 |
+| `spey-river-bourbon-cask-finish` | 스페이 리버 버번 캐스크 피니시 | ./assets/images/spey-river-bourbon-cask-finish.webp | [Dailyshot - 스페이 리버 버번 캐스크 피니시](https://dailyshot.co/m/item/18163) | 2026-11-24 |
+| `montes-alpha-chardonnay` | 몬테스 알파 샤르도네 | ./assets/images/montes-alpha-chardonnay.webp | [Dailyshot - 몬테스 알파 샤르도네](https://dailyshot.co/m/item/8401) | 2026-11-24 |
+| `cesari-amarone-della-valpolicella-classico` | 체사리, 아마로네 델라 발폴리첼라 클라시코 | ./assets/images/cesari-amarone-della-valpolicella-classico.webp | [Dailyshot - 체사리, 아마로네 델라 발폴리첼라 클라시코](https://dailyshot.co/m/item/12030) | 2026-11-24 |
+| `barbeito-10-reserva-boal-madeira` | 바르베이토, 10년 리제르바 보알 마데이라 | ./assets/images/barbeito-10-reserva-boal-madeira.webp | [Dailyshot - 바르베이토, 10년 리제르바 보알 마데이라](https://dailyshot.co/m/item/30833) | 2026-11-24 |
+| `gravelly-ford-cabernet-sauvignon` | 그래블리 포드 까베르네 소비뇽 | ./assets/images/gravelly-ford-cabernet-sauvignon.webp | [Dailyshot - 그래블리 포드 까베르네 소비뇽](https://dailyshot.co/m/item/37850) | 2026-11-24 |
+| `kistler-les-noisetiers-chardonnay` | 키슬러, 레 누아제티에 샤르도네 | ./assets/images/kistler-les-noisetiers-chardonnay.webp | [Dailyshot - 키슬러, 레 누아제티에 샤르도네](https://dailyshot.co/m/item/21081) | 2026-11-24 |
+| `valhondo-cava-brut` | 발혼도 까바 브뤼 | ./assets/images/valhondo-cava-brut.webp | [Dailyshot - 발혼도 까바 브뤼](https://dailyshot.co/m/item/26426) | 2026-11-24 |
+| `shafer-founders-path-cabernet-sauvignon` | 쉐이퍼 파운더스 패스 까베르네 소비뇽 2023 | ./assets/images/shafer-founders-path-cabernet-sauvignon.webp | [Dailyshot - 쉐이퍼 파운더스 패스 까베르네 소비뇽 2023](https://dailyshot.co/m/item/40098) | 2026-11-24 |
+| `cuvee-dissenay-cabernet-sauvignon` | 뀌베 디즈네 까베르네 소비뇽 | ./assets/images/cuvee-dissenay-cabernet-sauvignon.webp | [Dailyshot - 뀌베 디즈네 까베르네 소비뇽](https://dailyshot.co/m/item/7352) | 2026-11-24 |
+| `scarlet-vine-cabernet-sauvignon` | 스칼렛 바인 까베르네 소비뇽 | ./assets/images/scarlet-vine-cabernet-sauvignon.webp | [Dailyshot - 스칼렛 바인 까베르네 소비뇽](https://dailyshot.co/m/item/18316) | 2026-11-24 |
+| `joseph-phelps-napa-valley-cabernet-sauvignon` | 조셉 펠프스 나파 밸리 까베르네 소비뇽 2022 | ./assets/images/joseph-phelps-napa-valley-cabernet-sauvignon.webp | [Dailyshot - 조셉 펠프스 나파 밸리 까베르네 소비뇽 2022](https://dailyshot.co/m/item/27773) | 2026-11-24 |
+| `il-poggione-brunello-di-montalcino-riserva` | 일 포지오네, 브루넬로 디 몬탈치노 리제르바 비나 파가넬리 | ./assets/images/il-poggione-brunello-di-montalcino-riserva.webp | [Dailyshot - 일 포지오네, 브루넬로 디 몬탈치노 리제르바 비나 파가넬리](https://dailyshot.co/m/item/12017) | 2026-11-24 |
+| `yali-wetland-reserva-cabernet-sauvignon` | 얄리 리제르바 까베르네 소비뇽 | ./assets/images/yali-wetland-reserva-cabernet-sauvignon.webp | [Dailyshot - 얄리 리제르바 까베르네 소비뇽](https://dailyshot.co/m/item/37940) | 2026-11-24 |
+| `veuve-ambal-cremant-de-bourgogne-grande` | 뵈브 암발, 크레망 드 부르고뉴 그랑 뀌베 브뤼 | ./assets/images/veuve-ambal-cremant-de-bourgogne-grande.webp | [Dailyshot - 뵈브 암발, 크레망 드 부르고뉴 그랑 뀌베 브뤼](https://dailyshot.co/m/item/7870) | 2026-11-24 |
+| `chateau-joanin-becot-castillon-cotes-de` | 샤또 조아닌 베코 카스티용 꼬뜨 드 보르도 2012 | ./assets/images/chateau-joanin-becot-castillon-cotes-de.webp | [Dailyshot - 샤또 조아닌 베코 카스티용 꼬뜨 드 보르도 2012](https://dailyshot.co/m/item/34903) | 2026-11-24 |
+| `caol-ila-25` | 쿨일라 25년 | ./assets/images/caol-ila-25.webp | [Dailyshot - 쿨일라 25년](https://dailyshot.co/m/item/25037) | 2026-11-24 |
+| `singleton-glendullan-14-sr` | 싱글톤 글렌듈란 14년 SR 2023 | ./assets/images/singleton-glendullan-14-sr.webp | [Dailyshot - 싱글톤 글렌듈란 14년 SR 2023](https://dailyshot.co/m/item/17849) | 2026-11-24 |
+| `haymans-royal-dock-of-deptford-gin` | 헤이먼스 로얄 독 오브 뎁포드 진 | ./assets/images/haymans-royal-dock-of-deptford-gin.webp | [Dailyshot - 헤이먼스 로얄 독 오브 뎁포드 진](https://dailyshot.co/m/item/5564) | 2026-11-24 |
+| `dolin-vermouth-dry` | 돌린 버무스 드라이 750ml | ./assets/images/dolin-vermouth-dry.webp | [Dailyshot - 돌린 버무스 드라이 750ml](https://dailyshot.co/m/item/13192) | 2026-11-24 |
+| `redwood-empire-whiskey-rye-emerald-giant` | 레드우드 엠파이어 위스키 라이(에메랄드 자이언트) | ./assets/images/redwood-empire-whiskey-rye-emerald-giant.webp | [Dailyshot - 레드우드 엠파이어 위스키 라이(에메랄드 자이언트)](https://dailyshot.co/m/item/19252) | 2026-11-24 |
+| `s-m-w-mosel-christmas-red` | 에셈베 모젤 크리스마스 레드 일본 한정판 | ./assets/images/s-m-w-mosel-christmas-red.webp | [Dailyshot - 에셈베 모젤 크리스마스 레드 일본 한정판](https://dailyshot.co/m/item/31300) | 2026-11-24 |
+| `tia-maria` | 티아 마리아 700ml | ./assets/images/tia-maria.webp | [Dailyshot - 티아 마리아 700ml](https://dailyshot.co/m/item/10450) | 2026-11-24 |
+| `caol-ila-15` | 쿨일라 15년 | ./assets/images/caol-ila-15.webp | [Dailyshot - 쿨일라 15년](https://dailyshot.co/m/item/4716) | 2026-11-24 |
+| `tspot-bordeaux` | 티스팟 보르도 | ./assets/images/tspot-bordeaux.webp | [Dailyshot - 티스팟 보르도](https://dailyshot.co/m/item/9334) | 2026-11-24 |
+| `koval-single-barrel-millet-whiskey` | 코발 싱글배럴 밀레 위스키 750ml | ./assets/images/koval-single-barrel-millet-whiskey.webp | [Dailyshot - 코발 싱글배럴 밀레 위스키 750ml](https://dailyshot.co/m/item/9074) | 2026-11-24 |
+| `de-kuyper-creme-de-menthe-white` | 디카이퍼 크림 드 민트 화이트 | ./assets/images/de-kuyper-creme-de-menthe-white.webp | [Dailyshot - 디카이퍼 크림 드 민트 화이트](https://dailyshot.co/m/item/13200) | 2026-11-24 |
+| `lejay-creme-de-strawberry-liqueur` | 르제 크렘 드 스트로베리 리큐르 | ./assets/images/lejay-creme-de-strawberry-liqueur.webp | [Dailyshot - 르제 크렘 드 스트로베리 리큐르](https://dailyshot.co/m/item/36836) | 2026-11-24 |
+| `gui-gas-vinho-verde` | 구이 가스 비뉴 베르드 | ./assets/images/gui-gas-vinho-verde.webp | [Dailyshot - 구이 가스 비뉴 베르드](https://dailyshot.co/m/item/17180) | 2026-11-24 |
+| `de-kuyper-creme-de-kakao-dark` | 디카이퍼 카카오 다크 | ./assets/images/de-kuyper-creme-de-kakao-dark.webp | [Dailyshot - 디카이퍼 카카오 다크](https://dailyshot.co/m/item/6532) | 2026-11-24 |
+| `mr-boston-blue-curacao` | 미스터 보스턴 블루 큐라소 1L | ./assets/images/mr-boston-blue-curacao.webp | [Dailyshot - 미스터 보스턴 블루 큐라소 1L](https://dailyshot.co/m/item/14544) | 2026-11-24 |
+| `bowmore-14-bordeaux-cask-finish` | 보모어 14년 보르도 캐스크 피니시 | ./assets/images/bowmore-14-bordeaux-cask-finish.webp | [Dailyshot - 보모어 14년 보르도 캐스크 피니시](https://dailyshot.co/m/item/25811) | 2026-11-24 |
+| `lejay-creme-de-abricot-liqueur` | 르제 크렘 드 애프리콧 리큐르 | ./assets/images/lejay-creme-de-abricot-liqueur.webp | [Dailyshot - 르제 크렘 드 애프리콧 리큐르](https://dailyshot.co/m/item/36844) | 2026-11-24 |
+| `bols-creme-de-kakao-brown` | 볼스 크림 드 카카오 브라운 | ./assets/images/bols-creme-de-kakao-brown.webp | [Dailyshot - 볼스 크림 드 카카오 브라운](https://dailyshot.co/m/item/16580) | 2026-11-24 |
+| `duckhorn-three-palms-vineyard-merlot` | 덕혼 쓰리 팜스 빈야드 메를로 | ./assets/images/duckhorn-three-palms-vineyard-merlot.webp | [Dailyshot - 덕혼 쓰리 팜스 빈야드 메를로](https://dailyshot.co/m/item/29116) | 2026-11-24 |
+| `glenallachie-35` | 글렌알라키 35년 | ./assets/images/glenallachie-35.webp | [Dailyshot - 글렌알라키 35년](https://dailyshot.co/m/item/25041) | 2026-11-24 |
+| `los-vecinos-del-campo-espadin` | 로스 베치노스 델 캄포 에스파딘 | ./assets/images/los-vecinos-del-campo-espadin.webp | [Dailyshot - 로스 베치노스 델 캄포 에스파딘](https://dailyshot.co/m/item/5790) | 2026-11-24 |
+| `vietti-langhe-nebbiolo-perbacco` | 비에티 랑게 네비올로 페바코 | ./assets/images/vietti-langhe-nebbiolo-perbacco.webp | [Dailyshot - 비에티 랑게 네비올로 페바코](https://dailyshot.co/m/item/18420) | 2026-11-24 |
+| `mauro-molino-langhe-nebbiolo` | 마우로 몰리노, 랑게 네비올로 | ./assets/images/mauro-molino-langhe-nebbiolo.webp | [Dailyshot - 마우로 몰리노, 랑게 네비올로](https://dailyshot.co/m/item/28772) | 2026-11-24 |
+| `coopers-creek-razorboack-pinot-noir` | 쿠퍼스 크릭 레이저백 피노 누아 | ./assets/images/coopers-creek-razorboack-pinot-noir.webp | [Dailyshot - 쿠퍼스 크릭 레이저백 피노 누아](https://dailyshot.co/m/item/40102) | 2026-11-24 |
+| `champagne-delamotte-blanc-de-blancs` | 샴페인 델라모뜨 블랑 드 블랑 | ./assets/images/champagne-delamotte-blanc-de-blancs.webp | [Dailyshot - 샴페인 델라모뜨 블랑 드 블랑](https://dailyshot.co/m/item/8301) | 2026-11-24 |
+| `revolution-solaire-cabernet-sauvignon-merlot-syrah` | 레볼루션 솔레이어 C.S.M | ./assets/images/revolution-solaire-cabernet-sauvignon-merlot-syrah.webp | [Dailyshot - 레볼루션 솔레이어 C.S.M](https://dailyshot.co/m/item/29797) | 2026-11-24 |
+| `austo-merlot` | 아우스토 메를로 | ./assets/images/austo-merlot.webp | [Dailyshot - 아우스토 메를로](https://dailyshot.co/m/item/24250) | 2026-11-24 |
+| `glenallachie-25` | 글렌알라키 25년 | ./assets/images/glenallachie-25.webp | [Dailyshot - 글렌알라키 25년](https://dailyshot.co/m/item/6326) | 2026-11-24 |
+| `invincible-10-tawny-port` | 인빈서블 10년 토니 포트 | ./assets/images/invincible-10-tawny-port.webp | [Dailyshot - 인빈서블 10년 토니 포트](https://dailyshot.co/m/item/36379) | 2026-11-24 |
+| `mortlach-13-sr` | 몰트락 SR 2023 | ./assets/images/mortlach-13-sr.webp | [Dailyshot - 몰트락 SR 2023](https://dailyshot.co/m/item/17856) | 2026-11-24 |
+| `codigo-1530-rose` | 코디고 1530 로제 | ./assets/images/codigo-1530-rose.webp | [Dailyshot - 코디고 1530 로제](https://dailyshot.co/m/item/23609) | 2026-11-24 |
+| `ricossa-langhe-nebbiolo` | 리코사, 랑게 네비올로 | ./assets/images/ricossa-langhe-nebbiolo.webp | [Dailyshot - 리코사, 랑게 네비올로](https://dailyshot.co/m/item/11570) | 2026-11-24 |
+| `sagang40-second-session` | 사강40 세컨드 세션 | ./assets/images/sagang40-second-session.webp | [Dailyshot - 사강40 세컨드 세션](https://dailyshot.co/m/item/37097) | 2026-11-24 |
+| `yuanhesheng-42` | 원화성 42% 500ml | ./assets/images/yuanhesheng-42.webp | [Dailyshot - 원화성 42% 500ml](https://dailyshot.co/m/item/29131) | 2026-11-24 |
+| `seppeltsfield-eden-valley-riesling` | 세펠츠 필드 이든 벨리 리슬링 | ./assets/images/seppeltsfield-eden-valley-riesling.webp | [Dailyshot - 세펠츠 필드 이든 벨리 리슬링](https://dailyshot.co/m/item/18016) | 2026-11-24 |
+| `pierre-ferrand-cognac-1840` | 피에르 페랑 1840 | ./assets/images/pierre-ferrand-cognac-1840.webp | [Dailyshot - 피에르 페랑 1840](https://dailyshot.co/m/item/2628) | 2026-11-24 |
+| `tesseron-conac-compotision` | 테세롱 꼬냑 컴포지시옹 | ./assets/images/tesseron-conac-compotision.webp | [Dailyshot - 테세롱 꼬냑 컴포지시옹](https://dailyshot.co/m/item/22386) | 2026-11-24 |
+| `arras-blanc-de-blancs` | 아라스 블랑 드 블랑 | ./assets/images/arras-blanc-de-blancs.webp | [Dailyshot - 아라스 블랑 드 블랑](https://dailyshot.co/m/item/18374) | 2026-11-24 |
+| `signatory-mortlach-10-small-batch-15` | 시그나토리 몰트락 2014 10년 스몰배치 #15 | ./assets/images/signatory-mortlach-10-small-batch-15.webp | [Dailyshot - 시그나토리 몰트락 2014 10년 스몰배치 #15](https://dailyshot.co/m/item/28165) | 2026-11-24 |
+| `calvados-pere-magloire-vsop-smoky-islay` | 깔바도스 페르 마그루아 VSOP 스모키 아일라 캐스크 피니시 | ./assets/images/calvados-pere-magloire-vsop-smoky-islay.webp | [Dailyshot - 깔바도스 페르 마그루아 VSOP 스모키 아일라 캐스크 피니시](https://dailyshot.co/m/item/21685) | 2026-11-24 |
+| `badoxa-ruby-port` | 바도사 루비 포트 | ./assets/images/badoxa-ruby-port.webp | [Dailyshot - 바도사 루비 포트](https://dailyshot.co/m/item/21193) | 2026-11-24 |
+| `ocho-reposado` | 오초 레포사도 | ./assets/images/ocho-reposado.webp | [Dailyshot - 오초 레포사도](https://dailyshot.co/m/item/27133) | 2026-11-24 |
+| `svedka-strawberry-lemonade` | 스베드카 스트로베리 레몬에이드 | ./assets/images/svedka-strawberry-lemonade.webp | [Dailyshot - 스베드카 스트로베리 레몬에이드](https://dailyshot.co/m/item/6102) | 2026-11-24 |
+| `justinos-madeira-colheita` | 주스티노스 마데이라, 콜헤이타 | ./assets/images/justinos-madeira-colheita.webp | [Dailyshot - 주스티노스 마데이라, 콜헤이타](https://dailyshot.co/m/item/6237) | 2026-11-24 |
+| `justinos-madeira-malvasia-10` | 주스티노스 마데이라, 말바시아 10년 | ./assets/images/justinos-madeira-malvasia-10.webp | [Dailyshot - 주스티노스 마데이라, 말바시아 10년](https://dailyshot.co/m/item/13381) | 2026-11-24 |
+| `two-rivers-pinot-noir` | 투 리버즈 피노 누아 | ./assets/images/two-rivers-pinot-noir.webp | [Dailyshot - 투 리버즈 피노 누아](https://dailyshot.co/m/item/11791) | 2026-11-24 |
+| `story-ridge-vineyards-panamera-chardonnay` | 스토리 리지 빈야드 파나메라 샤르도네 2023 | ./assets/images/story-ridge-vineyards-panamera-chardonnay.webp | [Dailyshot - 스토리 리지 빈야드 파나메라 샤르도네 2023](https://dailyshot.co/m/item/39809) | 2026-11-24 |
+| `glenallachie-madeira-15` | 글렌알라키 2006 마데이라 15년 | ./assets/images/glenallachie-madeira-15.webp | [Dailyshot - 글렌알라키 2006 마데이라 15년](https://dailyshot.co/m/item/4140) | 2026-11-24 |
+| `four-pillars-olive-leaf` | 포 필라스 올리브 리프 | ./assets/images/four-pillars-olive-leaf.webp | [Dailyshot - 포 필라스 올리브 리프](https://dailyshot.co/m/item/7537) | 2026-11-24 |
+| `stags-leap-wine-cellars-karia-chardonnay` | 스택스 립 와인 셀라 카리아 샤르도네 2024 | ./assets/images/stags-leap-wine-cellars-karia-chardonnay.webp | [Dailyshot - 스택스 립 와인 셀라 카리아 샤르도네 2024](https://dailyshot.co/m/item/38898) | 2026-11-24 |
+| `codigo-1530-blanco` | 코디고 1530 블랑코 | ./assets/images/codigo-1530-blanco.webp | [Dailyshot - 코디고 1530 블랑코](https://dailyshot.co/m/item/15124) | 2026-11-24 |
+| `domaine-michel-lafarge-lexception-bourgogne-passetoutgrain` | 도멘 미셸 라파주 레셉시옹 부르고뉴 파스투그랭 2022 | ./assets/images/domaine-michel-lafarge-lexception-bourgogne-passetoutgrain.webp | [Dailyshot - 도멘 미셸 라파주 레셉시옹 부르고뉴 파스투그랭 2022](https://dailyshot.co/m/item/33000) | 2026-11-24 |
+| `laphroaig-10-cs-batch-14` | 라프로익 10년 CS 배치 14 | ./assets/images/laphroaig-10-cs-batch-14.webp | [Dailyshot - 라프로익 10년 CS 배치 14](https://dailyshot.co/m/item/13566) | 2026-11-24 |
+| `skyy-infusions-blueberry` | 스카이 인퓨전 블루베리 | ./assets/images/skyy-infusions-blueberry.webp | [Dailyshot - 스카이 인퓨전 블루베리](https://dailyshot.co/m/item/5924) | 2026-11-24 |
+| `don-ramon-anejo` | 돈라몬 아네호 | ./assets/images/don-ramon-anejo.webp | [Dailyshot - 돈라몬 아네호](https://dailyshot.co/m/item/37207) | 2026-11-24 |
+| `como-cotes-du-rhone` | 꼬모 꼬뜨 뒤 론 | ./assets/images/como-cotes-du-rhone.webp | [Dailyshot - 꼬모 꼬뜨 뒤 론](https://dailyshot.co/m/item/37144) | 2026-11-24 |
+| `po-as-ruby-porto` | 포카스 루비 포트 | ./assets/images/po-as-ruby-porto.webp | [Dailyshot - 포카스 루비 포트](https://dailyshot.co/m/item/9236) | 2026-11-24 |
+| `stolichnaya-ohranj` | 스톨리치나야 오렌지 | ./assets/images/stolichnaya-ohranj.webp | [Dailyshot - 스톨리치나야 오렌지](https://dailyshot.co/m/item/7203) | 2026-11-24 |
+| `joseph-drouhin-laforet-bourgogne-chardonnay` | 조셉 드루앙 라포레 부르고뉴 샤르도네 | ./assets/images/joseph-drouhin-laforet-bourgogne-chardonnay.webp | [Dailyshot - 조셉 드루앙 라포레 부르고뉴 샤르도네](https://dailyshot.co/m/item/28599) | 2026-11-24 |
+| `stolichnaya-razberi` | 스톨리치나야 라즈베리 | ./assets/images/stolichnaya-razberi.webp | [Dailyshot - 스톨리치나야 라즈베리](https://dailyshot.co/m/item/8616) | 2026-11-24 |
+| `laphroaig-12` | 라프로익 12년 | ./assets/images/laphroaig-12.webp | [Dailyshot - 라프로익 12년](https://dailyshot.co/m/item/36582) | 2026-11-24 |
+| `sobieski-premium-vodka` | 소비에스키 프리미엄 보드카 | ./assets/images/sobieski-premium-vodka.webp | [Dailyshot - 소비에스키 프리미엄 보드카](https://dailyshot.co/m/item/14038) | 2026-11-24 |
+| `champagne-inspiration-1818` | 샴페인 인스파이레이션 1818 | ./assets/images/champagne-inspiration-1818.webp | [Dailyshot - 샴페인 인스파이레이션 1818](https://dailyshot.co/m/item/26002) | 2026-11-24 |
+| `shikishima-tokubetsu-junmai-muroka-namagenshu-yumesansui` | 시키시마 토쿠베츠 준마이 무로카나마겐슈 유메산스이 | ./assets/images/shikishima-tokubetsu-junmai-muroka-namagenshu-yumesansui.webp | [Dailyshot - 시키시마 토쿠베츠 준마이 무로카나마겐슈 유메산스이](https://dailyshot.co/m/item/27221) | 2026-11-24 |
+| `daldal-planet-series-no-3-earth` | 달달 행성 시리즈 No.3 지구 크라이넬리쉬 10년 | ./assets/images/daldal-planet-series-no-3-earth.webp | [Dailyshot - 달달 행성 시리즈 No.3 지구 크라이넬리쉬 10년](https://dailyshot.co/m/item/36988) | 2026-11-24 |
+| `cream-heroes-strawberry` | 크림 히어로즈 딸기 | ./assets/images/cream-heroes-strawberry.webp | [Dailyshot - 크림 히어로즈 딸기](https://dailyshot.co/m/item/31335) | 2026-11-24 |
+| `akkeshi-risshun` | 아케시 리슌 | ./assets/images/akkeshi-risshun.webp | [Dailyshot - 아케시 리슌](https://dailyshot.co/m/item/34695) | 2026-11-24 |
+| `matsui-pure-malt-whisky-kurayoshi-12` | 마쓰이 퓨어 몰트 위스키 쿠라요시 12년 몰트 | ./assets/images/matsui-pure-malt-whisky-kurayoshi-12.webp | [Dailyshot - 마쓰이 퓨어 몰트 위스키 쿠라요시 12년 몰트](https://dailyshot.co/m/item/22889) | 2026-11-24 |
+| `high-coast-roenhee-private-cask-moscatel` | 하이코스트 로엔히 프라이빗 캐스크 2017 모스카텔 #2022-737 | ./assets/images/high-coast-roenhee-private-cask-moscatel.webp | [Dailyshot - 하이코스트 로엔히 프라이빗 캐스크 2017 모스카텔 #2022-737](https://dailyshot.co/m/item/21711) | 2026-11-24 |
+| `thompson-bros-sutherland-clynelish-8-batch` | 톰슨 브로스 서덜랜드 크라이넬리쉬 8년 배치 2 | ./assets/images/thompson-bros-sutherland-clynelish-8-batch.webp | [Dailyshot - 톰슨 브로스 서덜랜드 크라이넬리쉬 8년 배치 2](https://dailyshot.co/m/item/39151) | 2026-11-24 |
+| `gemma-di-luna-prosecco` | 젬마 디 루나, 프로세코 | ./assets/images/gemma-di-luna-prosecco.webp | [Dailyshot - 젬마 디 루나, 프로세코](https://dailyshot.co/m/item/20159) | 2026-11-24 |
+| `w-kamenoo-50-junmai-muroka-nama` | 더블유 카메노오 50 준마이 무로카나마겐슈 | ./assets/images/w-kamenoo-50-junmai-muroka-nama.webp | [Dailyshot - 더블유 카메노오 50 준마이 무로카나마겐슈](https://dailyshot.co/m/item/33205) | 2026-11-24 |
+| `zanpa-white-awamori` | 잔파 화이트 아와모리 | ./assets/images/zanpa-white-awamori.webp | [Dailyshot - 잔파 화이트 아와모리](https://dailyshot.co/m/item/9323) | 2026-11-24 |
+| `camellia-flower-jeju` | 동백꽃, 제주 | ./assets/images/camellia-flower-jeju.webp | [Dailyshot - 동백꽃, 제주](https://dailyshot.co/m/item/7200) | 2026-11-24 |
+| `asum-jeju` | 어썸 제주 | ./assets/images/asum-jeju.webp | [Dailyshot - 어썸 제주](https://dailyshot.co/m/item/15798) | 2026-11-24 |
+| `rm-champagne-lamiable-terre-detoiles-grand` | RM 샴페인 라미아블 떼르 데투알 그랑 크뤼 브뤼 | ./assets/images/rm-champagne-lamiable-terre-detoiles-grand.webp | [Dailyshot - RM 샴페인 라미아블 떼르 데투알 그랑 크뤼 브뤼](https://dailyshot.co/m/item/32089) | 2026-11-24 |
+| `belstar-prosecco-cult-extra-dry` | 벨스타 프로세코 컬트 엑스트라 드라이 | ./assets/images/belstar-prosecco-cult-extra-dry.webp | [Dailyshot - 벨스타 프로세코 컬트 엑스트라 드라이](https://dailyshot.co/m/item/18171) | 2026-11-24 |
+| `old-particular-ledaig-21-cs` | 올드 파티큘러 레칙 18년 CS | ./assets/images/old-particular-ledaig-21-cs.webp | [Dailyshot - 올드 파티큘러 레칙 18년 CS](https://dailyshot.co/m/item/4478) | 2026-11-24 |
+| `vietti-roero-arneis` | 비에티 로에로 아르네이스 | ./assets/images/vietti-roero-arneis.webp | [Dailyshot - 비에티 로에로 아르네이스](https://dailyshot.co/m/item/16909) | 2026-11-24 |
+| `champagne-charles-ellner-carte-blanche-brut` | 샴페인 샤를 엘너 카르트 블랑슈 브뤼 | ./assets/images/champagne-charles-ellner-carte-blanche-brut.webp | [Dailyshot - 샴페인 샤를 엘너 카르트 블랑슈 브뤼](https://dailyshot.co/m/item/13755) | 2026-11-24 |
+| `mar-de-frades-albarino-atlantico` | 마르 데 프라데스, 알바리뇨 아틀란티코 | ./assets/images/mar-de-frades-albarino-atlantico.webp | [Dailyshot - 마르 데 프라데스, 알바리뇨 아틀란티코](https://dailyshot.co/m/item/11378) | 2026-11-24 |
+| `makers-mark-cs-26-01` | 메이커스 마크 CS 26-01 | ./assets/images/makers-mark-cs-26-01.webp | [Dailyshot - 메이커스 마크 CS 26-01](https://dailyshot.co/m/item/38398) | 2026-11-24 |
+| `springbank-21` | 스프링뱅크 21년 | ./assets/images/springbank-21.webp | [Dailyshot - 스프링뱅크 21년](https://dailyshot.co/m/item/6325) | 2026-11-24 |
+| `yaki-imo-shochu-makai-eno-izanai` | 야키이모쇼츄 마카이에노 이자나이 | ./assets/images/yaki-imo-shochu-makai-eno-izanai.webp | [Dailyshot - 야키이모쇼츄 마카이에노 이자나이](https://dailyshot.co/m/item/9734) | 2026-11-24 |
+| `lagavulin-12-sr` | 라가불린 12년 SR 2025 | ./assets/images/lagavulin-12-sr.webp | [Dailyshot - 라가불린 12년 SR 2025](https://dailyshot.co/m/item/31600) | 2026-11-24 |
+| `prinz-von-hessen-scheurebe-trocken` | 프린츠 폰 헤센 쇼이레베 트로켄 2022 | ./assets/images/prinz-von-hessen-scheurebe-trocken.webp | [Dailyshot - 프린츠 폰 헤센 쇼이레베 트로켄 2022](https://dailyshot.co/m/item/38950) | 2026-11-24 |
+| `wittmann-morstein-riesling-trocken-gg` | 비트만 몰슈타인 리슬링 트로켄 GG | ./assets/images/wittmann-morstein-riesling-trocken-gg.webp | [Dailyshot - 비트만 몰슈타인 리슬링 트로켄 GG](https://dailyshot.co/m/item/23061) | 2026-11-24 |
+| `shin-yuzu` | 신 유즈 | ./assets/images/shin-yuzu.webp | [Dailyshot - 신 유즈](https://dailyshot.co/m/item/12192) | 2026-11-24 |
+| `cragganmore-20` | 크래겐모어 20년 | ./assets/images/cragganmore-20.webp | [Dailyshot - 크래겐모어 20년](https://dailyshot.co/m/item/5165) | 2026-11-24 |
+| `cloud-umeshu` | 쿠모 우메슈 | ./assets/images/cloud-umeshu.webp | [Dailyshot - 쿠모 우메슈](https://dailyshot.co/m/item/20326) | 2026-11-24 |
+| `cabaret-cava-brut` | 꺄바레 까바 브뤼 | ./assets/images/cabaret-cava-brut.webp | [Dailyshot - 꺄바레 까바 브뤼](https://dailyshot.co/m/item/11466) | 2026-11-24 |
+| `rubber-duck-yuzu` | 러버덕 유즈 | ./assets/images/rubber-duck-yuzu.webp | [Dailyshot - 러버덕 유즈](https://dailyshot.co/m/item/31129) | 2026-11-24 |
+| `torresella-prosecco` | 토레셀라 프로세코 | ./assets/images/torresella-prosecco.webp | [Dailyshot - 토레셀라 프로세코](https://dailyshot.co/m/item/27120) | 2026-11-24 |
+| `nikka-single-malt-yoichi-grande` | 닛카 싱글몰트 요이치 그란데 | ./assets/images/nikka-single-malt-yoichi-grande.webp | [Dailyshot - 닛카 싱글몰트 요이치 그란데](https://dailyshot.co/m/item/32867) | 2026-11-24 |
+| `hibiki-12` | 히비키 12년 | ./assets/images/hibiki-12.webp | [Dailyshot - 히비키 12년](https://dailyshot.co/m/item/12961) | 2026-11-24 |
+| `suntory-kanade-sakura` | 산토리 카나데 사쿠라 | ./assets/images/suntory-kanade-sakura.webp | [Dailyshot - 산토리 카나데 사쿠라](https://dailyshot.co/m/item/33178) | 2026-11-24 |
+| `suntory-toki` | 산토리 토키 1L | ./assets/images/suntory-toki.webp | [Dailyshot - 산토리 토키 1L](https://dailyshot.co/m/item/35408) | 2026-11-24 |
+| `valhondo-cava-reserva-brut-nature` | 발혼도 까바 리제르바 브뤼 나뚜르 | ./assets/images/valhondo-cava-reserva-brut-nature.webp | [Dailyshot - 발혼도 까바 리제르바 브뤼 나뚜르](https://dailyshot.co/m/item/26830) | 2026-11-24 |
+| `mmm-lopez-morenas-cava` | 음mmm! 로페즈 모레나스 까바 | ./assets/images/mmm-lopez-morenas-cava.webp | [Dailyshot - 음mmm! 로페즈 모레나스 까바](https://dailyshot.co/m/item/39797) | 2026-11-24 |
+| `federico-paternina-cava-brut` | 페데리코 파테니나 까바 브뤼 | ./assets/images/federico-paternina-cava-brut.webp | [Dailyshot - 페데리코 파테니나 까바 브뤼](https://dailyshot.co/m/item/11902) | 2026-11-24 |
+| `yamazaki-18-mizunara-cask` | 야마자키 18년 미즈나라 캐스크 | ./assets/images/yamazaki-18-mizunara-cask.webp | [Dailyshot - 야마자키 18년 미즈나라 캐스크](https://dailyshot.co/m/item/25049) | 2026-11-24 |
+| `hakushu-nv` | 하쿠슈 NV 700ml | ./assets/images/hakushu-nv.webp | [Dailyshot - 하쿠슈 NV 700ml](https://dailyshot.co/m/item/39324) | 2026-11-24 |
+| `matsui-single-malt-whisky-sakura-cask` | 마쓰이 싱글몰트 사쿠라 캐스크 | ./assets/images/matsui-single-malt-whisky-sakura-cask.webp | [Dailyshot - 마쓰이 싱글몰트 사쿠라 캐스크](https://dailyshot.co/m/item/4795) | 2026-11-24 |
+| `matsui-single-malt-whisky-the-peated` | 마쓰이 싱글몰트 더 피티드 | ./assets/images/matsui-single-malt-whisky-the-peated.webp | [Dailyshot - 마쓰이 싱글몰트 더 피티드](https://dailyshot.co/m/item/4794) | 2026-11-24 |
+| `kozaemon-junmai-yuzu` | 코자에몽 준마이 유즈 | ./assets/images/kozaemon-junmai-yuzu.webp | [Dailyshot - 코자에몽 준마이 유즈](https://dailyshot.co/m/item/15761) | 2026-11-24 |
+| `ine-to-agave-koshu-hanakaze` | 이네토아가베 코우슈 하나카제 | ./assets/images/ine-to-agave-koshu-hanakaze.webp | [Dailyshot - 이네토아가베 코우슈 하나카제](https://dailyshot.co/m/item/39091) | 2026-11-24 |
+| `bardstown-bourbon-discovery-10` | 바즈타운 버번 디스커버리 #10 | ./assets/images/bardstown-bourbon-discovery-10.webp | [Dailyshot - 바즈타운 버번 디스커버리 #10](https://dailyshot.co/m/item/37576) | 2026-11-24 |
+| `kentucky-owl-straight-bourbon-batch-11` | 켄터키 아울 스트레이트 버번 배치 11 | ./assets/images/kentucky-owl-straight-bourbon-batch-11.webp | [Dailyshot - 켄터키 아울 스트레이트 버번 배치 11](https://dailyshot.co/m/item/10989) | 2026-11-24 |
+| `bols-ginger` | 볼스 진저 | ./assets/images/bols-ginger.webp | [Dailyshot - 볼스 진저](https://dailyshot.co/m/item/5677) | 2026-11-24 |
+| `martini-bianco-15` | 마티니 비앙코 15% | ./assets/images/martini-bianco-15.webp | [Dailyshot - 마티니 비앙코 15%](https://dailyshot.co/m/item/24752) | 2026-11-24 |
+| `louis-m-martini-napa-valley-cabernet` | 루이스 엠 마티니 나파 밸리 까베르네 소비뇽 | ./assets/images/louis-m-martini-napa-valley-cabernet.webp | [Dailyshot - 루이스 엠 마티니 나파 밸리 까베르네 소비뇽](https://dailyshot.co/m/item/4121) | 2026-11-24 |
+| `noguchi-naohiko-yamahai-aiyama-muroka-nama` | 노구치 나오히코 야마하이 아이야마 무로카나마겐슈 | ./assets/images/noguchi-naohiko-yamahai-aiyama-muroka-nama.webp | [Dailyshot - 노구치 나오히코 야마하이 아이야마 무로카나마겐슈](https://dailyshot.co/m/item/27562) | 2026-11-24 |
+| `jipyeong-yakju-16` | 지평약주 16% 750ml | ./assets/images/jipyeong-yakju-16.webp | [Dailyshot - 지평약주 16% 750ml](https://dailyshot.co/m/item/32294) | 2026-11-24 |
+| `busan-cheongju-1` | 부산 청주 1.8L | ./assets/images/busan-cheongju-1.webp | [Dailyshot - 부산 청주 1.8L](https://dailyshot.co/m/item/40212) | 2026-11-24 |
+| `the-lakes-volar` | 더 레이크스 볼라 | ./assets/images/the-lakes-volar.webp | [Dailyshot - 더 레이크스 볼라](https://dailyshot.co/m/item/22737) | 2026-11-24 |
+| `nollen-erben-riesling-kabinett` | 놀렌 에르벤 리슬링 카비넷 | ./assets/images/nollen-erben-riesling-kabinett.webp | [Dailyshot - 놀렌 에르벤 리슬링 카비넷](https://dailyshot.co/m/item/37791) | 2026-11-24 |
+| `penelope-architect` | 페넬로페 아키텍트 | ./assets/images/penelope-architect.webp | [Dailyshot - 페넬로페 아키텍트](https://dailyshot.co/m/item/15364) | 2026-11-24 |
+| `carpano-punt-e-mes` | 카르파노 푼테메스 | ./assets/images/carpano-punt-e-mes.webp | [Dailyshot - 카르파노 푼테메스](https://dailyshot.co/m/item/34988) | 2026-11-24 |
+| `bunnahabhain-25` | 부나하벤 25년 | ./assets/images/bunnahabhain-25.webp | [Dailyshot - 부나하벤 25년](https://dailyshot.co/m/item/9321) | 2026-11-24 |
+| `penelope-four-grain-straight-bourbon` | 페넬로페 포 그레인 스트레이트 버번 | ./assets/images/penelope-four-grain-straight-bourbon.webp | [Dailyshot - 페넬로페 포 그레인 스트레이트 버번](https://dailyshot.co/m/item/32962) | 2026-11-24 |
+| `rodniks-absinthe-boheme-blue` | 로드닉스 압생트 보헤미안 블루 | ./assets/images/rodniks-absinthe-boheme-blue.webp | [Dailyshot - 로드닉스 압생트 보헤미안 블루](https://dailyshot.co/m/item/5510) | 2026-11-24 |
+| `cocchi-storico-vermouth-di-torino` | 코키 스토리코 버무스 디 토리노 | ./assets/images/cocchi-storico-vermouth-di-torino.webp | [Dailyshot - 코키 스토리코 버무스 디 토리노](https://dailyshot.co/m/item/29178) | 2026-11-24 |
+| `champagne-collet-demi-sec` | 샴페인 꼴렛, 드미 섹 | ./assets/images/champagne-collet-demi-sec.webp | [Dailyshot - 샴페인 꼴렛, 드미 섹](https://dailyshot.co/m/item/13547) | 2026-11-24 |
+| `penelope-barrel-strength` | 페넬로페 배럴 스트렝스 | ./assets/images/penelope-barrel-strength.webp | [Dailyshot - 페넬로페 배럴 스트렝스](https://dailyshot.co/m/item/32959) | 2026-11-24 |
+| `cinzano-1757-rosso` | 친자노 1757 로쏘 1L | ./assets/images/cinzano-1757-rosso.webp | [Dailyshot - 친자노 1757 로쏘 1L](https://dailyshot.co/m/item/11799) | 2026-11-24 |
+| `j-baumer-rheingau-riesling` | 제이 보이머 라인가우 리슬링 | ./assets/images/j-baumer-rheingau-riesling.webp | [Dailyshot - 제이 보이머 라인가우 리슬링](https://dailyshot.co/m/item/5276) | 2026-11-24 |
+| `nordic-gin-house-k-benhavn-pink` | 노르딕 진 하우스 코펜하겐 핑크 진 | ./assets/images/nordic-gin-house-k-benhavn-pink.webp | [Dailyshot - 노르딕 진 하우스 코펜하겐 핑크 진](https://dailyshot.co/m/item/21676) | 2026-11-24 |
+| `angeline-mendocino-pinot-noir` | 앤젤린 멘도치노 피노 누아 | ./assets/images/angeline-mendocino-pinot-noir.webp | [Dailyshot - 앤젤린 멘도치노 피노 누아](https://dailyshot.co/m/item/21387) | 2026-11-24 |
+| `jim-beam-lineage` | 짐빔 리니지 | ./assets/images/jim-beam-lineage.webp | [Dailyshot - 짐빔 리니지](https://dailyshot.co/m/item/16587) | 2026-11-24 |
+| `naejangsan-bokbunja` | 내장산 복분자 프리미엄 | ./assets/images/naejangsan-bokbunja.webp | [Dailyshot - 내장산 복분자 프리미엄](https://dailyshot.co/m/item/9495) | 2026-11-24 |
+| `jim-beam-single-barrel` | 짐빔 싱글 배럴 | ./assets/images/jim-beam-single-barrel.webp | [Dailyshot - 짐빔 싱글 배럴](https://dailyshot.co/m/item/34299) | 2026-11-24 |
+| `naru-yakju-13` | 나루 약주 13% | ./assets/images/naru-yakju-13.webp | [Dailyshot - 나루 약주 13%](https://dailyshot.co/m/item/15639) | 2026-11-24 |
+| `leonard-kreusch-sapphire-selection-spatlese` | 레오나르드 커리쉬 사파이어 셀렉션 슈페트리제 | ./assets/images/leonard-kreusch-sapphire-selection-spatlese.webp | [Dailyshot - 레오나르드 커리쉬 사파이어 셀렉션 슈페트리제](https://dailyshot.co/m/item/7228) | 2026-11-24 |
+| `elijah-craig-barrel-proof-c922` | 일라이저 크레이그 배럴 프루프 C922 | ./assets/images/elijah-craig-barrel-proof-c922.webp | [Dailyshot - 일라이저 크레이그 배럴 프루프 C922](https://dailyshot.co/m/item/21541) | 2026-11-24 |
+| `waterford-arcadian-organic-gaia-1-1` | 워터포드 아카디안 오가닉 가이아 1.1 | ./assets/images/waterford-arcadian-organic-gaia-1-1.webp | [Dailyshot - 워터포드 아카디안 오가닉 가이아 1.1](https://dailyshot.co/m/item/5942) | 2026-11-24 |
+| `elijah-craig-barrel-proof-a120` | 일라이저 크레이그 배럴 프루프 A120 | ./assets/images/elijah-craig-barrel-proof-a120.webp | [Dailyshot - 일라이저 크레이그 배럴 프루프 A120](https://dailyshot.co/m/item/16664) | 2026-11-24 |
+| `jim-beam-pineapple` | 짐빔 파인애플 | ./assets/images/jim-beam-pineapple.webp | [Dailyshot - 짐빔 파인애플](https://dailyshot.co/m/item/31279) | 2026-11-24 |
+| `masterpiece-bokbunja` | 명작 복분자 | ./assets/images/masterpiece-bokbunja.webp | [Dailyshot - 명작 복분자](https://dailyshot.co/m/item/9442) | 2026-11-24 |
+| `larceny-barrel-proof-b525` | 라세니 배럴 프루프 B525 | ./assets/images/larceny-barrel-proof-b525.webp | [Dailyshot - 라세니 배럴 프루프 B525](https://dailyshot.co/m/item/39965) | 2026-11-24 |
+| `dr-faust-riesling-spatlese` | 닥터 파우스트, 리슬링 스페트레제 | ./assets/images/dr-faust-riesling-spatlese.webp | [Dailyshot - 닥터 파우스트, 리슬링 스페트레제](https://dailyshot.co/m/item/10895) | 2026-11-24 |
+| `keiryu-ko-ringosan-junmai-ginjo-genshu` | 케이류 코링고산 준마이 긴죠 겐슈 | ./assets/images/keiryu-ko-ringosan-junmai-ginjo-genshu.webp | [Dailyshot - 케이류 코링고산 준마이 긴죠 겐슈](https://dailyshot.co/m/item/28292) | 2026-11-24 |
+| `montes-purple-angel` | 몬테스 퍼플 엔젤 | ./assets/images/montes-purple-angel.webp | [Dailyshot - 몬테스 퍼플 엔젤](https://dailyshot.co/m/item/4245) | 2026-11-24 |
+| `muichibutsu-genshu-42` | 무이치부츠 겐슈 42% | ./assets/images/muichibutsu-genshu-42.webp | [Dailyshot - 무이치부츠 겐슈 42%](https://dailyshot.co/m/item/38940) | 2026-11-24 |
+| `silver-angel-sauvignon-blanc` | 실버 엔젤 소비뇽 블랑 | ./assets/images/silver-angel-sauvignon-blanc.webp | [Dailyshot - 실버 엔젤 소비뇽 블랑](https://dailyshot.co/m/item/19586) | 2026-11-24 |
+| `high-west-campfire` | 하이 웨스트 캠프파이어 | ./assets/images/high-west-campfire.webp | [Dailyshot - 하이 웨스트 캠프파이어](https://dailyshot.co/m/item/30424) | 2026-11-24 |
+| `larceny-barrel-proof` | 라세니 배럴 프루프 | ./assets/images/larceny-barrel-proof.webp | [Dailyshot - 라세니 배럴 프루프](https://dailyshot.co/m/item/4432) | 2026-11-24 |
+| `peter-weinbach-medium-sweet-spatlese` | 피터 바인바흐 미디움 스위트 슈페트레제 | ./assets/images/peter-weinbach-medium-sweet-spatlese.webp | [Dailyshot - 피터 바인바흐 미디움 스위트 슈페트레제](https://dailyshot.co/m/item/15889) | 2026-11-24 |
+| `angels-envy-cask-strength` | 엔젤스 엔비 CS 2026 | ./assets/images/angels-envy-cask-strength.webp | [Dailyshot - 엔젤스 엔비 CS 2026](https://dailyshot.co/m/item/39030) | 2026-11-24 |
+| `whistlepig-10-yo-rye` | 휘슬피그 10년 라이 750ml | ./assets/images/whistlepig-10-yo-rye.webp | [Dailyshot - 휘슬피그 10년 라이 750ml](https://dailyshot.co/m/item/12945) | 2026-11-24 |
+| `ata-rangi-pinot-noir` | 아타랑이 피노 누아 | ./assets/images/ata-rangi-pinot-noir.webp | [Dailyshot - 아타랑이 피노 누아](https://dailyshot.co/m/item/11955) | 2026-11-24 |
+| `talisker-dark-storm` | 탈리스커 다크스톰 | ./assets/images/talisker-dark-storm.webp | [Dailyshot - 탈리스커 다크스톰](https://dailyshot.co/m/item/4360) | 2026-11-24 |
+| `cepas-viejas-monastrell` | 세바스 비에하스 모나스트렐 | ./assets/images/cepas-viejas-monastrell.webp | [Dailyshot - 세바스 비에하스 모나스트렐](https://dailyshot.co/m/item/5703) | 2026-11-24 |
+| `fio-wines-jojo-orange-wine` | 피오 와인즈 요요 오렌지 와인 | ./assets/images/fio-wines-jojo-orange-wine.webp | [Dailyshot - 피오 와인즈 요요 오렌지 와인](https://dailyshot.co/m/item/9668) | 2026-11-24 |
+| `bache-gabrielsen-american-oak` | 바쉐 가브리엘센 아메리칸 오크 | ./assets/images/bache-gabrielsen-american-oak.webp | [Dailyshot - 바쉐 가브리엘센 아메리칸 오크](https://dailyshot.co/m/item/6799) | 2026-11-24 |
+| `domaine-tortochot-charmes-chambertin-grand-cru` | 도멘 토르토쇼, 샤름 샹베르땡 그랑 크뤼 2013 | ./assets/images/domaine-tortochot-charmes-chambertin-grand-cru.webp | [Dailyshot - 도멘 토르토쇼, 샤름 샹베르땡 그랑 크뤼 2013](https://dailyshot.co/m/item/33530) | 2026-11-24 |
+| `zarihs-syrah` | 자리스 시라 | ./assets/images/zarihs-syrah.webp | [Dailyshot - 자리스 시라](https://dailyshot.co/m/item/4455) | 2026-11-24 |
+| `negrita-dark-rum` | 네그리타 다크 럼 1L | ./assets/images/negrita-dark-rum.webp | [Dailyshot - 네그리타 다크 럼 1L](https://dailyshot.co/m/item/25655) | 2026-11-24 |
+| `aberlour-abunadh-batch-81` | 아벨라워 아부나흐 배치 81 | ./assets/images/aberlour-abunadh-batch-81.webp | [Dailyshot - 아벨라워 아부나흐 배치 81](https://dailyshot.co/m/item/28517) | 2026-11-24 |
+| `punctum-sin-sulfitos-tempranillo` | 푼크툼 신 술피토스 템프라니요 | ./assets/images/punctum-sin-sulfitos-tempranillo.webp | [Dailyshot - 푼크툼 신 술피토스 템프라니요](https://dailyshot.co/m/item/13523) | 2026-11-24 |
+| `highland-park-16-between-you-and` | 하이랜드 파크 16년 Between You and I | ./assets/images/highland-park-16-between-you-and.webp | [Dailyshot - 하이랜드 파크 16년 Between You and I](https://dailyshot.co/m/item/31093) | 2026-11-24 |
+| `kanonkop-kadette-pinotage` | 캐논캅, 카데트 피노타지 | ./assets/images/kanonkop-kadette-pinotage.webp | [Dailyshot - 캐논캅, 카데트 피노타지](https://dailyshot.co/m/item/25091) | 2026-11-24 |
+| `diablo-syrah` | 디아블로 시라 | ./assets/images/diablo-syrah.webp | [Dailyshot - 디아블로 시라](https://dailyshot.co/m/item/11041) | 2026-11-24 |
+| `the-grape-grinder-pinotage` | 더 그레이프 그라인더, 피노타주 | ./assets/images/the-grape-grinder-pinotage.webp | [Dailyshot - 더 그레이프 그라인더, 피노타주](https://dailyshot.co/m/item/13419) | 2026-11-24 |
+| `condor-peak-malbec` | 콘도르 픽 말벡 | ./assets/images/condor-peak-malbec.webp | [Dailyshot - 콘도르 픽 말벡](https://dailyshot.co/m/item/9966) | 2026-11-24 |
+| `terrazas-grand-malbec` | 테라자스 그랑 말벡 | ./assets/images/terrazas-grand-malbec.webp | [Dailyshot - 테라자스 그랑 말벡](https://dailyshot.co/m/item/9221) | 2026-11-24 |
+| `dictador-12` | 딕타도르 12년 | ./assets/images/dictador-12.webp | [Dailyshot - 딕타도르 12년](https://dailyshot.co/m/item/17542) | 2026-11-24 |
+| `gautier-xo` | 꼬띠에르 XO | ./assets/images/gautier-xo.webp | [Dailyshot - 꼬띠에르 XO](https://dailyshot.co/m/item/4322) | 2026-11-24 |
+| `fantini-sangiovese` | 판티니 산지오베제 | ./assets/images/fantini-sangiovese.webp | [Dailyshot - 판티니 산지오베제](https://dailyshot.co/m/item/7266) | 2026-11-24 |
+| `chateau-belgrave-grand-cru-classe-haut` | 샤또 벨그라브 그랑 크뤼 클라쎄 오-메독 | ./assets/images/chateau-belgrave-grand-cru-classe-haut.webp | [Dailyshot - 샤또 벨그라브 그랑 크뤼 클라쎄 오-메독](https://dailyshot.co/m/item/8762) | 2026-11-24 |
+| `rombauer-vineyards-zinfandel` | 롬바우어 빈야드, 진판델 | ./assets/images/rombauer-vineyards-zinfandel.webp | [Dailyshot - 롬바우어 빈야드, 진판델](https://dailyshot.co/m/item/19764) | 2026-11-24 |
+| `kilkerran-8-sherry-cask-strength` | 킬커란 8년 셰리 캐스크 CS | ./assets/images/kilkerran-8-sherry-cask-strength.webp | [Dailyshot - 킬커란 8년 셰리 캐스크 CS](https://dailyshot.co/m/item/5993) | 2026-11-24 |
+| `real-compania-de-vinos-tempranillo` | 레알 꼼빠니아 드 비노스 템프라니요 | ./assets/images/real-compania-de-vinos-tempranillo.webp | [Dailyshot - 레알 꼼빠니아 드 비노스 템프라니요](https://dailyshot.co/m/item/17781) | 2026-11-24 |
+| `besserat-de-bellefon-brut-mill-sime` | 베세라 드 벨퐁 브뤼 밀레짐 2008 | ./assets/images/besserat-de-bellefon-brut-mill-sime.webp | [Dailyshot - 베세라 드 벨퐁 브뤼 밀레짐 2008](https://dailyshot.co/m/item/39424) | 2026-11-24 |
+| `ogier-clos-de-loratoire-chateauneuf-du` | 오지에, 끌로 드 로라뚜아르 샤또네프 뒤 빠쁘 루즈 | ./assets/images/ogier-clos-de-loratoire-chateauneuf-du.webp | [Dailyshot - 오지에, 끌로 드 로라뚜아르 샤또네프 뒤 빠쁘 루즈](https://dailyshot.co/m/item/24685) | 2026-11-24 |
+| `loch-lomond-22-open-course-collection` | 로크로몬드 22년 오픈 코스 컬렉션 | ./assets/images/loch-lomond-22-open-course-collection.webp | [Dailyshot - 로크로몬드 22년 오픈 코스 컬렉션](https://dailyshot.co/m/item/6775) | 2026-11-24 |
+| `graces-harvest-toro-black-rose` | 그레이스 하비스트 토로 블랙 로즈 | ./assets/images/graces-harvest-toro-black-rose.webp | [Dailyshot - 그레이스 하비스트 토로 블랙 로즈](https://dailyshot.co/m/item/6240) | 2026-11-24 |
+| `edradour-no-2-8-1st-fill` | 에드라두어 넘버 투 2018 8년 퍼스트 필 샤토뇌프 뒤 파프 혹스헤드 애니버서리 릴리즈 | ./assets/images/edradour-no-2-8-1st-fill.webp | [Dailyshot - 에드라두어 넘버 투 2018 8년 퍼스트 필 샤토뇌프 뒤 파프 혹스헤드 애니버서리 릴리즈](https://dailyshot.co/m/item/40254) | 2026-11-24 |
+| `vallein-tercinier-napoleon` | 발레앙 테시니에 나폴레옹 | ./assets/images/vallein-tercinier-napoleon.webp | [Dailyshot - 발레앙 테시니에 나폴레옹](https://dailyshot.co/m/item/16804) | 2026-11-24 |
+| `planteray-3-stars-rum` | 플랜터레이 쓰리스타 럼 | ./assets/images/planteray-3-stars-rum.webp | [Dailyshot - 플랜터레이 쓰리스타 럼](https://dailyshot.co/m/item/5523) | 2026-11-24 |
+| `bowmore-25` | 보모어 25년 | ./assets/images/bowmore-25.webp | [Dailyshot - 보모어 25년](https://dailyshot.co/m/item/5586) | 2026-11-24 |
+| `roger-goulart-luminous-extra-brut` | 로저 구라트 루미너스 엑스트라 브뤼 | ./assets/images/roger-goulart-luminous-extra-brut.webp | [Dailyshot - 로저 구라트 루미너스 엑스트라 브뤼](https://dailyshot.co/m/item/27004) | 2026-11-24 |
+| `camus-vsop-elegance` | 까뮤 VSOP 엘레강스 | ./assets/images/camus-vsop-elegance.webp | [Dailyshot - 까뮤 VSOP 엘레강스](https://dailyshot.co/m/item/11836) | 2026-11-24 |
+| `glen-scotia-18-yo` | 글렌스코샤 18년 | ./assets/images/glen-scotia-18-yo.webp | [Dailyshot - 글렌스코샤 18년](https://dailyshot.co/m/item/13695) | 2026-11-24 |
+| `desconocido-monastrell` | 데스코노시도 모나스트렐 | ./assets/images/desconocido-monastrell.webp | [Dailyshot - 데스코노시도 모나스트렐](https://dailyshot.co/m/item/21936) | 2026-11-24 |
+| `commander-white-rum` | 커맨더 화이트 럼 | ./assets/images/commander-white-rum.webp | [Dailyshot - 커맨더 화이트 럼](https://dailyshot.co/m/item/6821) | 2026-11-24 |
+| `cruzan-aged-dark-rum` | 크루잔 에이지드 다크 럼 | ./assets/images/cruzan-aged-dark-rum.webp | [Dailyshot - 크루잔 에이지드 다크 럼](https://dailyshot.co/m/item/6076) | 2026-11-24 |
+| `the-federalist-zinfandel` | 더 페더럴리스트 진판델 | ./assets/images/the-federalist-zinfandel.webp | [Dailyshot - 더 페더럴리스트 진판델](https://dailyshot.co/m/item/14539) | 2026-11-24 |
+| `chateau-darmailhac-pauillac` | 샤또 달마이약 뽀이약 | ./assets/images/chateau-darmailhac-pauillac.webp | [Dailyshot - 샤또 달마이약 뽀이약](https://dailyshot.co/m/item/26332) | 2026-11-24 |
+| `old-nick-white-rum` | 올드 닉 화이트 럼 | ./assets/images/old-nick-white-rum.webp | [Dailyshot - 올드 닉 화이트 럼](https://dailyshot.co/m/item/6436) | 2026-11-24 |
+| `atzes-corner-boehms-black-shiraz` | 엣지스 코너 보엠 블랙 쉬라즈 | ./assets/images/atzes-corner-boehms-black-shiraz.webp | [Dailyshot - 엣지스 코너 보엠 블랙 쉬라즈](https://dailyshot.co/m/item/21080) | 2026-11-24 |
+| `wrap-appassimento-rosso` | 랩 아파시멘토 로쏘 | ./assets/images/wrap-appassimento-rosso.webp | [Dailyshot - 랩 아파시멘토 로쏘](https://dailyshot.co/m/item/25044) | 2026-11-24 |
+| `killibinbin-sneaky-shiraz` | 킬리빙빙 스니키 쉬라즈 | ./assets/images/killibinbin-sneaky-shiraz.webp | [Dailyshot - 킬리빙빙 스니키 쉬라즈](https://dailyshot.co/m/item/11385) | 2026-11-24 |
+| `kick-the-rules-mango` | 킥 더 룰스 망고 | ./assets/images/kick-the-rules-mango.webp | [Dailyshot - 킥 더 룰스 망고](https://dailyshot.co/m/item/34154) | 2026-11-24 |
+| `volcan-de-mi-tierra-xa` | 볼칸 데 미 띠에라 XA | ./assets/images/volcan-de-mi-tierra-xa.webp | [Dailyshot - 볼칸 데 미 띠에라 XA](https://dailyshot.co/m/item/14533) | 2026-11-24 |
+| `calvados-pere-magloire-xo-memoire-15` | 깔바도스 페르 마그루아 XO 메모아(15년) | ./assets/images/calvados-pere-magloire-xo-memoire-15.webp | [Dailyshot - 깔바도스 페르 마그루아 XO 메모아(15년)](https://dailyshot.co/m/item/30275) | 2026-11-24 |
+| `sailing-napoleon` | 세일링 나폴레옹 | ./assets/images/sailing-napoleon.webp | [Dailyshot - 세일링 나폴레옹](https://dailyshot.co/m/item/6709) | 2026-11-24 |
+| `camus-napoleon` | 까뮤 나폴레옹 | ./assets/images/camus-napoleon.webp | [Dailyshot - 까뮤 나폴레옹](https://dailyshot.co/m/item/22250) | 2026-11-24 |
+| `siete-misterios-doba-yej` | 시에테 미스테리오스 도바예 | ./assets/images/siete-misterios-doba-yej.webp | [Dailyshot - 시에테 미스테리오스 도바예](https://dailyshot.co/m/item/17753) | 2026-11-24 |
+| `whiskynavi-glenturret-11` | 위스키내비 글렌터렛 11년 | ./assets/images/whiskynavi-glenturret-11.webp | [Dailyshot - 위스키내비 글렌터렛 11년](https://dailyshot.co/m/item/5448) | 2026-11-24 |
+| `honoro-vera-garnacha` | 호노로 베라 가르나차 | ./assets/images/honoro-vera-garnacha.webp | [Dailyshot - 호노로 베라 가르나차](https://dailyshot.co/m/item/7357) | 2026-11-24 |
+| `nouveau-monde-ice-vidal-wine` | 누보몽드 비달 아이스 와인 | ./assets/images/nouveau-monde-ice-vidal-wine.webp | [Dailyshot - 누보몽드 비달 아이스 와인](https://dailyshot.co/m/item/4228) | 2026-11-24 |
+| `hardy-vsop` | 하디 VSOP | ./assets/images/hardy-vsop.webp | [Dailyshot - 하디 VSOP](https://dailyshot.co/m/item/20373) | 2026-11-24 |
+| `kick-the-rules-watermelon` | 킥 더 룰스 워터멜론 | ./assets/images/kick-the-rules-watermelon.webp | [Dailyshot - 킥 더 룰스 워터멜론](https://dailyshot.co/m/item/34150) | 2026-11-24 |
+| `glen-scotia-cs-korea-single-cask` | 글렌스코샤 CS 코리아 싱글 캐스크 올로로쏘 | ./assets/images/glen-scotia-cs-korea-single-cask.webp | [Dailyshot - 글렌스코샤 CS 코리아 싱글 캐스크 올로로쏘](https://dailyshot.co/m/item/9144) | 2026-11-24 |
+| `martell-vsop` | 마르텔 VSOP | ./assets/images/martell-vsop.webp | [Dailyshot - 마르텔 VSOP](https://dailyshot.co/m/item/9223) | 2026-11-24 |
+| `la-spinetta-langhe-nebbiolo` | 라 스피네따 랑게 네비올로 | ./assets/images/la-spinetta-langhe-nebbiolo.webp | [Dailyshot - 라 스피네따 랑게 네비올로](https://dailyshot.co/m/item/4109) | 2026-11-24 |
+| `finn-thomson-tamnavulin-33` | 핀 톰슨 1991 탐나불린 33년 | ./assets/images/finn-thomson-tamnavulin-33.webp | [Dailyshot - 핀 톰슨 1991 탐나불린 33년](https://dailyshot.co/m/item/28819) | 2026-11-24 |
+| `louis-perdrier-rose` | 루이 페드리에 로제 | ./assets/images/louis-perdrier-rose.webp | [Dailyshot - 루이 페드리에 로제](https://dailyshot.co/m/item/17930) | 2026-11-24 |
+| `e-guigal-chateauneuf-du-pape` | 이기갈, 샤또네프 뒤 파프 | ./assets/images/e-guigal-chateauneuf-du-pape.webp | [Dailyshot - 이기갈, 샤또네프 뒤 파프](https://dailyshot.co/m/item/5022) | 2026-11-24 |
+| `shiba-sake` | 시바 사케 | ./assets/images/shiba-sake.webp | [Dailyshot - 시바 사케](https://dailyshot.co/m/item/27258) | 2026-11-24 |
+| `loch-lomond-12-inchmoan` | 로크로몬드 12년 인치몬 | ./assets/images/loch-lomond-12-inchmoan.webp | [Dailyshot - 로크로몬드 12년 인치몬](https://dailyshot.co/m/item/7926) | 2026-11-24 |
+| `michel-couvreur-fino-maturation` | 미쉘 쿠브어 피노 머츄레이션 | ./assets/images/michel-couvreur-fino-maturation.webp | [Dailyshot - 미쉘 쿠브어 피노 머츄레이션](https://dailyshot.co/m/item/30411) | 2026-11-24 |
+| `el-candado-pedro-ximenez` | 엘 깐따도 PX | ./assets/images/el-candado-pedro-ximenez.webp | [Dailyshot - 엘 깐따도 PX](https://dailyshot.co/m/item/7541) | 2026-11-24 |
+| `the-glen-grant-private-cask-15` | 더 글렌그란트 2006 프라이빗 캐스크 15년 CS 바이 라빈 | ./assets/images/the-glen-grant-private-cask-15.webp | [Dailyshot - 더 글렌그란트 2006 프라이빗 캐스크 15년 CS 바이 라빈](https://dailyshot.co/m/item/12696) | 2026-11-24 |
+| `hardys-stamp-chardonnay-semillon` | 하디스, 스탬프 샤르도네 세미용 | ./assets/images/hardys-stamp-chardonnay-semillon.webp | [Dailyshot - 하디스, 스탬프 샤르도네 세미용](https://dailyshot.co/m/item/14114) | 2026-11-24 |
+| `matsu-la-moza-blanco` | 마츠 라 모자 | ./assets/images/matsu-la-moza-blanco.webp | [Dailyshot - 마츠 라 모자](https://dailyshot.co/m/item/36806) | 2026-11-24 |
+| `springbank-10-fino-cask` | 스프링뱅크 10년 피노 캐스크 | ./assets/images/springbank-10-fino-cask.webp | [Dailyshot - 스프링뱅크 10년 피노 캐스크](https://dailyshot.co/m/item/34904) | 2026-11-24 |
+| `michel-couvreur-manzanilla-maturation` | 미쉘 쿠브어 만자니아 머츄레이션 | ./assets/images/michel-couvreur-manzanilla-maturation.webp | [Dailyshot - 미쉘 쿠브어 만자니아 머츄레이션](https://dailyshot.co/m/item/30413) | 2026-11-24 |
+| `alpaca-malbec` | 알파카 말벡 | ./assets/images/alpaca-malbec.webp | [Dailyshot - 알파카 말벡](https://dailyshot.co/m/item/21069) | 2026-11-24 |
+| `chateau-de-beaucastel-chateauneuf-du-pape` | 샤또 드 보카스텔 샤또네프 뒤 파프 2022 | ./assets/images/chateau-de-beaucastel-chateauneuf-du-pape.webp | [Dailyshot - 샤또 드 보카스텔 샤또네프 뒤 파프 2022](https://dailyshot.co/m/item/36410) | 2026-11-24 |
+| `precision-navigator-zinfandel` | 프리시전, 네비게이터 진판델 | ./assets/images/precision-navigator-zinfandel.webp | [Dailyshot - 프리시전, 네비게이터 진판델](https://dailyshot.co/m/item/6343) | 2026-11-24 |
+| `trivento-golden-reserve-malbec` | 트리벤토 골든 리저브 말벡 | ./assets/images/trivento-golden-reserve-malbec.webp | [Dailyshot - 트리벤토 골든 리저브 말벡](https://dailyshot.co/m/item/28503) | 2026-11-24 |
+| `hardy-legend-1863` | 하디 레전드 1863 | ./assets/images/hardy-legend-1863.webp | [Dailyshot - 하디 레전드 1863](https://dailyshot.co/m/item/1654) | 2026-11-24 |
+| `caymus-zinfandel` | 케이머스 진판델 | ./assets/images/caymus-zinfandel.webp | [Dailyshot - 케이머스 진판델](https://dailyshot.co/m/item/27396) | 2026-11-24 |
+| `jeff-carrel-mousse-tache-chenin-blanc` | 제프 까렐 무스따쉬 슈냉 블랑 | ./assets/images/jeff-carrel-mousse-tache-chenin-blanc.webp | [Dailyshot - 제프 까렐 무스따쉬 슈냉 블랑](https://dailyshot.co/m/item/12048) | 2026-11-24 |
+| `lapis-luna-zinfandel` | 라피스 루나 진판델 | ./assets/images/lapis-luna-zinfandel.webp | [Dailyshot - 라피스 루나 진판델](https://dailyshot.co/m/item/5959) | 2026-11-24 |
+| `finn-thomson-tomatin-8` | 핀 톰슨 2015 토마틴 8년 | ./assets/images/finn-thomson-tomatin-8.webp | [Dailyshot - 핀 톰슨 2015 토마틴 8년](https://dailyshot.co/m/item/28820) | 2026-11-24 |
+| `fleury-extra-brut` | 플뢰리 엑스트라 브뤼 | ./assets/images/fleury-extra-brut.webp | [Dailyshot - 플뢰리 엑스트라 브뤼](https://dailyshot.co/m/item/14666) | 2026-11-24 |
+| `smos-mannochmore-11` | SMOS 2009 마녹모어 11년 | ./assets/images/smos-mannochmore-11.webp | [Dailyshot - SMOS 2009 마녹모어 11년](https://dailyshot.co/m/item/4427) | 2026-11-24 |
+| `yanbo-junmai-arabashiri-muroka-genshu` | 얀보우 준마이 아라바시리 무로카 겐슈 | ./assets/images/yanbo-junmai-arabashiri-muroka-genshu.webp | [Dailyshot - 얀보우 준마이 아라바시리 무로카 겐슈](https://dailyshot.co/m/item/40649) | 2026-11-24 |
+| `precision-method-cabernet-sauvignon` | 프리시전, 메쏘드 까베르네 소비뇽 | ./assets/images/precision-method-cabernet-sauvignon.webp | [Dailyshot - 프리시전, 메쏘드 까베르네 소비뇽](https://dailyshot.co/m/item/16780) | 2026-11-24 |
+| `peerless-single-barrel-selection-kentucky-straight` | 피어리스 싱글배럴 셀렉션 켄터키 스트레이트 라이 위스키 750ml | ./assets/images/peerless-single-barrel-selection-kentucky-straight.webp | [Dailyshot - 피어리스 싱글배럴 셀렉션 켄터키 스트레이트 라이 위스키 750ml](https://dailyshot.co/m/item/20528) | 2026-11-24 |
+| `red-cask-teaninich-13` | 레드 캐스크 2009 티니닉 13년 | ./assets/images/red-cask-teaninich-13.webp | [Dailyshot - 레드 캐스크 2009 티니닉 13년](https://dailyshot.co/m/item/16388) | 2026-11-24 |
+| `yantai-gold-black` | 연태 골드 블랙 | ./assets/images/yantai-gold-black.webp | [Dailyshot - 연태 골드 블랙](https://dailyshot.co/m/item/36998) | 2026-11-24 |
+| `brave-new-spirits-staoisha-7-rebels` | 브레이브 뉴 스피리츠 2013 스토이샤 7년 레벨즈 더 게릴라 캐스크즈 | ./assets/images/brave-new-spirits-staoisha-7-rebels.webp | [Dailyshot - 브레이브 뉴 스피리츠 2013 스토이샤 7년 레벨즈 더 게릴라 캐스크즈](https://dailyshot.co/m/item/10820) | 2026-11-24 |
+| `rebel-yell-kentucky-straight-bourbon` | 레벨 옐 켄터키 스트레이트 버번 | ./assets/images/rebel-yell-kentucky-straight-bourbon.webp | [Dailyshot - 레벨 옐 켄터키 스트레이트 버번](https://dailyshot.co/m/item/9699) | 2026-11-24 |
+| `sazerac-rye-18` | 사제락 라이 18년 | ./assets/images/sazerac-rye-18.webp | [Dailyshot - 사제락 라이 18년](https://dailyshot.co/m/item/33125) | 2026-11-24 |
+| `brave-new-spirits-ledaig-12-rebels` | 브레이브 뉴 스피리츠 2009 레칙 12년 레벨즈 더 게릴라 캐스크즈 | ./assets/images/brave-new-spirits-ledaig-12-rebels.webp | [Dailyshot - 브레이브 뉴 스피리츠 2009 레칙 12년 레벨즈 더 게릴라 캐스크즈](https://dailyshot.co/m/item/10826) | 2026-11-24 |
+| `signatory-mannochmore-16-3-symingtons-choice` | 시그나토리 2008 마녹모어 16년 #3 시밍턴스 초이스 | ./assets/images/signatory-mannochmore-16-3-symingtons-choice.webp | [Dailyshot - 시그나토리 2008 마녹모어 16년 #3 시밍턴스 초이스](https://dailyshot.co/m/item/29924) | 2026-11-24 |
+| `kubota-senjyu-nama-genshu` | 쿠보타 센주 나마겐슈 | ./assets/images/kubota-senjyu-nama-genshu.webp | [Dailyshot - 쿠보타 센주 나마겐슈](https://dailyshot.co/m/item/11634) | 2026-11-24 |
+| `tomatin-21` | 토마틴 21년 | ./assets/images/tomatin-21.webp | [Dailyshot - 토마틴 21년](https://dailyshot.co/m/item/11354) | 2026-11-24 |
+| `cadenheads-miltonduff-15` | 카덴헤드 2008 밀톤더프 15년 | ./assets/images/cadenheads-miltonduff-15.webp | [Dailyshot - 카덴헤드 2008 밀톤더프 15년](https://dailyshot.co/m/item/24640) | 2026-11-24 |
+| `signatory-mannochmore-16-6-symingtons-choice` | 시그나토리 2008 마녹모어 16년 #6 시밍턴스 초이스 | ./assets/images/signatory-mannochmore-16-6-symingtons-choice.webp | [Dailyshot - 시그나토리 2008 마녹모어 16년 #6 시밍턴스 초이스](https://dailyshot.co/m/item/29371) | 2026-11-24 |
+| `precision-method-cabernet-sauvignon-napa-valley` | 프리시전, 메쏘드 까베르네 소비뇽 나파 밸리 | ./assets/images/precision-method-cabernet-sauvignon-napa-valley.webp | [Dailyshot - 프리시전, 메쏘드 까베르네 소비뇽 나파 밸리](https://dailyshot.co/m/item/12422) | 2026-11-24 |
+| `auld-goonsys-malt-teaninich-13` | 올드 군시 티니닉 13년 | ./assets/images/auld-goonsys-malt-teaninich-13.webp | [Dailyshot - 올드 군시 티니닉 13년](https://dailyshot.co/m/item/9532) | 2026-11-24 |
+| `cadenhead-mannochmore-12-year-old` | 카덴헤드 마녹모어 12년 | ./assets/images/cadenhead-mannochmore-12-year-old.webp | [Dailyshot - 카덴헤드 마녹모어 12년](https://dailyshot.co/m/item/39595) | 2026-11-24 |
+| `bernard-tornay-extra-brut` | 베르나르 토르네 엑스트라 브뤼 | ./assets/images/bernard-tornay-extra-brut.webp | [Dailyshot - 베르나르 토르네 엑스트라 브뤼](https://dailyshot.co/m/item/22125) | 2026-11-24 |
+| `champagne-jestin-extra-brut` | 샴페인 제스탕 엑스트라 브뤼 | ./assets/images/champagne-jestin-extra-brut.webp | [Dailyshot - 샴페인 제스탕 엑스트라 브뤼](https://dailyshot.co/m/item/27835) | 2026-11-24 |
+| `odessa-prestige-extra-brut` | 오데사 프레스티지 엑스트라 브뤼 | ./assets/images/odessa-prestige-extra-brut.webp | [Dailyshot - 오데사 프레스티지 엑스트라 브뤼](https://dailyshot.co/m/item/28597) | 2026-11-24 |
+| `daldal-art-series-mannochmore-13-hwang` | 달달 아트시리즈 마녹모어 13년 황진이 | ./assets/images/daldal-art-series-mannochmore-13-hwang.webp | [Dailyshot - 달달 아트시리즈 마녹모어 13년 황진이](https://dailyshot.co/m/item/31462) | 2026-11-24 |
+| `choya-umeshu` | 쵸야 우메슈 | ./assets/images/choya-umeshu.webp | [Dailyshot - 쵸야 우메슈](https://dailyshot.co/m/item/14387) | 2026-11-24 |
+| `contratto-millesimato-extra-brut` | 콘트라토 밀레시마토 엑스트라 브뤼 | ./assets/images/contratto-millesimato-extra-brut.webp | [Dailyshot - 콘트라토 밀레시마토 엑스트라 브뤼](https://dailyshot.co/m/item/8936) | 2026-11-24 |
+| `ancnoc-rudhan` | 아녹 루안 | ./assets/images/ancnoc-rudhan.webp | [Dailyshot - 아녹 루안](https://dailyshot.co/m/item/3519) | 2026-11-24 |
+| `dram-mor-tullibardine-7-bourbon-barrel` | 드램모어 툴리바딘 7년 버번 배럴 | ./assets/images/dram-mor-tullibardine-7-bourbon-barrel.webp | [Dailyshot - 드램모어 툴리바딘 7년 버번 배럴](https://dailyshot.co/m/item/26141) | 2026-11-24 |
+| `rock-m-roll-chenin-blanc` | 락 엠 롤, 슈냉 블랑 | ./assets/images/rock-m-roll-chenin-blanc.webp | [Dailyshot - 락 엠 롤, 슈냉 블랑](https://dailyshot.co/m/item/17270) | 2026-11-24 |
+| `iwai-tradition-wcf` | 이와이 트레디션 WCF | ./assets/images/iwai-tradition-wcf.webp | [Dailyshot - 이와이 트레디션 WCF](https://dailyshot.co/m/item/4545) | 2026-11-24 |
+| `katanosakura-junmai-yamahai-omachi-namagenshu` | 카타노사쿠라 준마이 야마하이 오마치 나마겐슈 | ./assets/images/katanosakura-junmai-yamahai-omachi-namagenshu.webp | [Dailyshot - 카타노사쿠라 준마이 야마하이 오마치 나마겐슈](https://dailyshot.co/m/item/40332) | 2026-11-24 |
+| `daldal-art-series-tomintoul-11-no` | 달달 아트시리즈 토민타울 11년 아이시리즈 No.1 빗속의 아이 | ./assets/images/daldal-art-series-tomintoul-11-no.webp | [Dailyshot - 달달 아트시리즈 토민타울 11년 아이시리즈 No.1 빗속의 아이](https://dailyshot.co/m/item/36989) | 2026-11-24 |
+| `iwai-tradition-sherry-cask-finished` | 이와이 트레디션 셰리 캐스크 피니시 | ./assets/images/iwai-tradition-sherry-cask-finished.webp | [Dailyshot - 이와이 트레디션 셰리 캐스크 피니시](https://dailyshot.co/m/item/5379) | 2026-11-24 |
+| `sansibar-tullibardine-24` | 산시바 1993 툴리바딘 24년 | ./assets/images/sansibar-tullibardine-24.webp | [Dailyshot - 산시바 1993 툴리바딘 24년](https://dailyshot.co/m/item/8444) | 2026-11-24 |
+| `amrut-naarangi` | 암룻 나랑기 | ./assets/images/amrut-naarangi.webp | [Dailyshot - 암룻 나랑기](https://dailyshot.co/m/item/31491) | 2026-11-24 |
+| `maruhi-junmai-yamahai-hiyaoroshi` | 마루히 준마이 야마하이 히야오로시 | ./assets/images/maruhi-junmai-yamahai-hiyaoroshi.webp | [Dailyshot - 마루히 준마이 야마하이 히야오로시](https://dailyshot.co/m/item/39653) | 2026-11-24 |
+| `ardmore-legacy` | 아드모어 레거시 | ./assets/images/ardmore-legacy.webp | [Dailyshot - 아드모어 레거시](https://dailyshot.co/m/item/7077) | 2026-11-24 |
+| `speyburn-sherry-cask` | 스페이번 셰리 캐스크 | ./assets/images/speyburn-sherry-cask.webp | [Dailyshot - 스페이번 셰리 캐스크](https://dailyshot.co/m/item/38658) | 2026-11-24 |
+| `kimoto-junmai-daiginjo-satonohomare-muroka` | 키모토 준마이 다이긴죠 사토노호마레 무로카 | ./assets/images/kimoto-junmai-daiginjo-satonohomare-muroka.webp | [Dailyshot - 키모토 준마이 다이긴죠 사토노호마레 무로카](https://dailyshot.co/m/item/14377) | 2026-11-24 |
+| `amrut-intemediate-sherry` | 암룻 인터미디에이트 셰리 | ./assets/images/amrut-intemediate-sherry.webp | [Dailyshot - 암룻 인터미디에이트 셰리](https://dailyshot.co/m/item/19709) | 2026-11-24 |
+| `amrut-portonova` | 암룻 포트노바 | ./assets/images/amrut-portonova.webp | [Dailyshot - 암룻 포트노바](https://dailyshot.co/m/item/19708) | 2026-11-24 |
+| `takasago-yamahai-yuzu-sake` | 다카사고 야마하이 유즈 사케 | ./assets/images/takasago-yamahai-yuzu-sake.webp | [Dailyshot - 다카사고 야마하이 유즈 사케](https://dailyshot.co/m/item/12625) | 2026-11-24 |
+| `best-dram-amrut-6-year-old` | 베스트 드램 암룻 2020 6년 퍼스트 필 피티드 포트 파이프 #8795 | ./assets/images/best-dram-amrut-6-year-old.webp | [Dailyshot - 베스트 드램 암룻 2020 6년 퍼스트 필 피티드 포트 파이프 #8795](https://dailyshot.co/m/item/40605) | 2026-11-24 |
+| `longmorn-23` | 롱몬 23년 | ./assets/images/longmorn-23.webp | [Dailyshot - 롱몬 23년](https://dailyshot.co/m/item/23004) | 2026-11-24 |
+| `remi-leroy-extra-brut` | 레미 르로아, 엑스트라 브뤼 | ./assets/images/remi-leroy-extra-brut.webp | [Dailyshot - 레미 르로아, 엑스트라 브뤼](https://dailyshot.co/m/item/8295) | 2026-11-24 |
+| `longmorn-22-cask-strength-single-batch` | 롱몬 22년 CS 싱글 배치 | ./assets/images/longmorn-22-cask-strength-single-batch.webp | [Dailyshot - 롱몬 22년 CS 싱글 배치](https://dailyshot.co/m/item/22681) | 2026-11-24 |
+| `kankiku-occasional-junmai-daiginjo-denshogiku-yamadanishiki` | 칸키쿠 오케이저널 준마이 다이긴죠 덴쇼기쿠 야마다니시키 50 무로카 나마겐슈 | ./assets/images/kankiku-occasional-junmai-daiginjo-denshogiku-yamadanishiki.webp | [Dailyshot - 칸키쿠 오케이저널 준마이 다이긴죠 덴쇼기쿠 야마다니시키 50 무로카 나마겐슈](https://dailyshot.co/m/item/40637) | 2026-11-24 |
+| `emmanuel-brochet-s-lection-extra-brut` | 엠마뉴엘 브로셰 셀렉시온 엑스트라 브뤼 | ./assets/images/emmanuel-brochet-s-lection-extra-brut.webp | [Dailyshot - 엠마뉴엘 브로셰 셀렉시온 엑스트라 브뤼](https://dailyshot.co/m/item/39607) | 2026-11-24 |
+| `tomintoul-25` | 토민타울 25년 | ./assets/images/tomintoul-25.webp | [Dailyshot - 토민타울 25년](https://dailyshot.co/m/item/7995) | 2026-11-24 |
+| `kuro-kirishima-genshu-shibita-factory` | 구로 기리시마 원주 시비타 공장 700ml | ./assets/images/kuro-kirishima-genshu-shibita-factory.webp | [Dailyshot - 구로 기리시마 원주 시비타 공장 700ml](https://dailyshot.co/m/item/40360) | 2026-11-24 |
+| `kaminoizumi-genshu` | 카미노이즈미 준마이 | ./assets/images/kaminoizumi-genshu.webp | [Dailyshot - 카미노이즈미 준마이](https://dailyshot.co/m/item/25178) | 2026-11-24 |
+| `hart-brothers-longmorn-11-cs` | 하트 브라더스 2010 롱몬 11년 CS | ./assets/images/hart-brothers-longmorn-11-cs.webp | [Dailyshot - 하트 브라더스 2010 롱몬 11년 CS](https://dailyshot.co/m/item/9746) | 2026-11-24 |
+| `okura-tokubetsu-junmai-yamahai-jikagumi-muroka` | 오쿠라 토쿠베츠 준마이 야마하이 지카구미 무로카 나마겐슈 | ./assets/images/okura-tokubetsu-junmai-yamahai-jikagumi-muroka.webp | [Dailyshot - 오쿠라 토쿠베츠 준마이 야마하이 지카구미 무로카 나마겐슈](https://dailyshot.co/m/item/40630) | 2026-11-24 |
+| `daldal-art-series-tomintoul-11-child` | 달달 아트시리즈 토민타울 11년 아이시리즈 No.2 설레는 아이 | ./assets/images/daldal-art-series-tomintoul-11-child.webp | [Dailyshot - 달달 아트시리즈 토민타울 11년 아이시리즈 No.2 설레는 아이](https://dailyshot.co/m/item/36990) | 2026-11-24 |
+| `hukuiwai-yuzusu` | 후쿠이와이 유즈슈 | ./assets/images/hukuiwai-yuzusu.webp | [Dailyshot - 후쿠이와이 유즈슈](https://dailyshot.co/m/item/8610) | 2026-11-24 |
+| `vincent-brochet-extra-brut-champagne` | 뱅상 브로쉐 엑스트라 브뤼 | ./assets/images/vincent-brochet-extra-brut-champagne.webp | [Dailyshot - 뱅상 브로쉐 엑스트라 브뤼](https://dailyshot.co/m/item/37197) | 2026-11-24 |
+| `whiskynavi-longmorn-11` | 위스키내비 롱몬 11년 | ./assets/images/whiskynavi-longmorn-11.webp | [Dailyshot - 위스키내비 롱몬 11년](https://dailyshot.co/m/item/8147) | 2026-11-24 |
+| `fleury-mill-sime-extra-brut` | 플뢰리 밀레짐 엑스트라 브뤼 2010 | ./assets/images/fleury-mill-sime-extra-brut.webp | [Dailyshot - 플뢰리 밀레짐 엑스트라 브뤼 2010](https://dailyshot.co/m/item/39606) | 2026-11-24 |
+| `hukuiwai-yuzusu-1` | 후쿠이와이 유즈슈 1.8L | ./assets/images/hukuiwai-yuzusu-1.webp | [Dailyshot - 후쿠이와이 유즈슈 1.8L](https://dailyshot.co/m/item/8609) | 2026-11-24 |
+| `komaki-no-umeshu` | 코마키 우메슈 | ./assets/images/komaki-no-umeshu.webp | [Dailyshot - 코마키 우메슈](https://dailyshot.co/m/item/30944) | 2026-11-24 |
+| `cadenheads-authentic-collection-tomintoul-18` | 카덴헤드 어센틱 컬렉션 2006 토민타울 18년 | ./assets/images/cadenheads-authentic-collection-tomintoul-18.webp | [Dailyshot - 카덴헤드 어센틱 컬렉션 2006 토민타울 18년](https://dailyshot.co/m/item/41878) | 2026-11-24 |
+| `blackadder-raw-cask-miltonduff-10` | 블랙애더 로우 캐스크 밀튼더프 10년 | ./assets/images/blackadder-raw-cask-miltonduff-10.webp | [Dailyshot - 블랙애더 로우 캐스크 밀튼더프 10년](https://dailyshot.co/m/item/12607) | 2026-11-24 |
+| `sohomare-hiyaoroshi-kimoto-tokubetsu-junmai` | 소호마레 히야오로시 기모토 토쿠베츠 준마이 | ./assets/images/sohomare-hiyaoroshi-kimoto-tokubetsu-junmai.webp | [Dailyshot - 소호마레 히야오로시 기모토 토쿠베츠 준마이](https://dailyshot.co/m/item/30917) | 2026-11-24 |
+| `sohomare-hiyaoroshi-junmai-daiginjo-gohyakumangoku` | 소호마레 히야오로시 준마이 다이긴죠 고햐쿠만고쿠 | ./assets/images/sohomare-hiyaoroshi-junmai-daiginjo-gohyakumangoku.webp | [Dailyshot - 소호마레 히야오로시 준마이 다이긴죠 고햐쿠만고쿠](https://dailyshot.co/m/item/30947) | 2026-11-24 |
+| `saburomaru-junenmyo-noir` | 사브로마루 쥬넨모 누아 | ./assets/images/saburomaru-junenmyo-noir.webp | [Dailyshot - 사브로마루 쥬넨모 누아](https://dailyshot.co/m/item/23819) | 2026-11-24 |
+| `sohomare-karaguchi-1` | 소호마레 카라구치 1.8L | ./assets/images/sohomare-karaguchi-1.webp | [Dailyshot - 소호마레 카라구치 1.8L](https://dailyshot.co/m/item/30916) | 2026-11-24 |
+| `old-pulteney-13` | 올드 풀트니 13년 1L | ./assets/images/old-pulteney-13.webp | [Dailyshot - 올드 풀트니 13년 1L](https://dailyshot.co/m/item/33656) | 2026-11-24 |
+| `corazon-expression-anejo-george-t-stagg` | 코라존 익스프레션 아네호 조지 티 스택 | ./assets/images/corazon-expression-anejo-george-t-stagg.webp | [Dailyshot - 코라존 익스프레션 아네호 조지 티 스택](https://dailyshot.co/m/item/24441) | 2026-11-24 |
+| `tsuruume-wanjuku-umeshu` | 츠루우메 완숙매실주 | ./assets/images/tsuruume-wanjuku-umeshu.webp | [Dailyshot - 츠루우메 완숙매실주](https://dailyshot.co/m/item/38214) | 2026-11-24 |
+| `omar-single-malt-cs-plum-liqueur` | 오마르 싱글몰트 CS 플럼 리큐르 배럴 피니시 | ./assets/images/omar-single-malt-cs-plum-liqueur.webp | [Dailyshot - 오마르 싱글몰트 CS 플럼 리큐르 배럴 피니시](https://dailyshot.co/m/item/13633) | 2026-11-24 |
+| `umeshu-gin` | 우메슈 진 | ./assets/images/umeshu-gin.webp | [Dailyshot - 우메슈 진](https://dailyshot.co/m/item/27087) | 2026-11-24 |
+| `highland-park-30` | 하이랜드 파크 30년 2023 | ./assets/images/highland-park-30.webp | [Dailyshot - 하이랜드 파크 30년 2023](https://dailyshot.co/m/item/21060) | 2026-11-24 |
+| `the-glenlivet-scapa-skiren` | 더 글렌리벳 스카파 스카이렌 | ./assets/images/the-glenlivet-scapa-skiren.webp | [Dailyshot - 더 글렌리벳 스카파 스카이렌](https://dailyshot.co/m/item/32881) | 2026-11-24 |
+| `the-glenlivet-scapa-glansa` | 더 글렌리벳 글란사 | ./assets/images/the-glenlivet-scapa-glansa.webp | [Dailyshot - 더 글렌리벳 글란사](https://dailyshot.co/m/item/32887) | 2026-11-24 |
+| `sohomare-mokuren-ginjoshu` | 소호마레 모쿠렌 긴죠슈 | ./assets/images/sohomare-mokuren-ginjoshu.webp | [Dailyshot - 소호마레 모쿠렌 긴죠슈](https://dailyshot.co/m/item/15698) | 2026-11-24 |
+| `chiebijin-kocha-umeshu` | 치에비진 코차 우메슈 720ml | ./assets/images/chiebijin-kocha-umeshu.webp | [Dailyshot - 치에비진 코차 우메슈 720ml](https://dailyshot.co/m/item/40430) | 2026-11-24 |
+| `talisker-14-sr` | 탈리스커 14년 SR 2025 | ./assets/images/talisker-14-sr.webp | [Dailyshot - 탈리스커 14년 SR 2025](https://dailyshot.co/m/item/31989) | 2026-11-24 |
+| `asconi-riesling-icewine` | 아스코니 리슬링 아이스와인 | ./assets/images/asconi-riesling-icewine.webp | [Dailyshot - 아스코니 리슬링 아이스와인](https://dailyshot.co/m/item/8717) | 2026-11-24 |
+| `gangi-junmai-muroka-namagenshu-no-1` | 간기 준마이 무로카 나마겐슈 노이치 | ./assets/images/gangi-junmai-muroka-namagenshu-no-1.webp | [Dailyshot - 간기 준마이 무로카 나마겐슈 노이치](https://dailyshot.co/m/item/33629) | 2026-11-24 |
+| `the-coopers-choice-royal-brackla-8` | 쿠퍼스 초이스 2014 로얄 브라클라 8년 | ./assets/images/the-coopers-choice-royal-brackla-8.webp | [Dailyshot - 쿠퍼스 초이스 2014 로얄 브라클라 8년](https://dailyshot.co/m/item/21030) | 2026-11-24 |
+| `seasons-vidal-icewine` | 시즌스 비달 아이스 와인 | ./assets/images/seasons-vidal-icewine.webp | [Dailyshot - 시즌스 비달 아이스 와인](https://dailyshot.co/m/item/5009) | 2026-11-24 |
+| `yamasan-junmai-daiginjo-aiyama-45-muroka` | 야마산 준마이 다이긴죠 아이야마 45 무로카겐슈 히이레 | ./assets/images/yamasan-junmai-daiginjo-aiyama-45-muroka.webp | [Dailyshot - 야마산 준마이 다이긴죠 아이야마 45 무로카겐슈 히이레](https://dailyshot.co/m/item/38030) | 2026-11-24 |
+| `olivier-leflaive-bourgogne-oncle-vincent` | 올리비에 르플레브 부르고뉴 옹끌 뱅썽 | ./assets/images/olivier-leflaive-bourgogne-oncle-vincent.webp | [Dailyshot - 올리비에 르플레브 부르고뉴 옹끌 뱅썽](https://dailyshot.co/m/item/24825) | 2026-11-24 |
+| `whisky-navi-yeongdeungnal-royal-brackla` | 위스키내비 영등날 로얄 브라클라 | ./assets/images/whisky-navi-yeongdeungnal-royal-brackla.webp | [Dailyshot - 위스키내비 영등날 로얄 브라클라](https://dailyshot.co/m/item/31095) | 2026-11-24 |
+| `pillitteri-cabernet-sauvignon-icewine-reserve` | 필리터리 까베르네 소비뇽 아이스와인 리저브 | ./assets/images/pillitteri-cabernet-sauvignon-icewine-reserve.webp | [Dailyshot - 필리터리 까베르네 소비뇽 아이스와인 리저브](https://dailyshot.co/m/item/16419) | 2026-11-24 |
+| `20-bees-vidal-icewine` | 트웬티 비스 비달 아이스 와인 | ./assets/images/20-bees-vidal-icewine.webp | [Dailyshot - 트웬티 비스 비달 아이스 와인](https://dailyshot.co/m/item/21579) | 2026-11-24 |
+| `cadenheads-royal-brackla-11` | 카덴헤드 2011 로얄 브라클라 11년 | ./assets/images/cadenheads-royal-brackla-11.webp | [Dailyshot - 카덴헤드 2011 로얄 브라클라 11년](https://dailyshot.co/m/item/23207) | 2026-11-24 |
+| `old-pulteney-10` | 올드 풀트니 10년 1L | ./assets/images/old-pulteney-10.webp | [Dailyshot - 올드 풀트니 10년 1L](https://dailyshot.co/m/item/33655) | 2026-11-24 |
+| `sara-kazesome-junmai-ginjo-muroka-nama` | 사라 카제소메 준마이 긴죠 무로카나마겐슈 | ./assets/images/sara-kazesome-junmai-ginjo-muroka-nama.webp | [Dailyshot - 사라 카제소메 준마이 긴죠 무로카나마겐슈](https://dailyshot.co/m/item/40197) | 2026-11-24 |
+| `hinomaru-sakura-ra` | 히노마루 사쿠라 라 | ./assets/images/hinomaru-sakura-ra.webp | [Dailyshot - 히노마루 사쿠라 라](https://dailyshot.co/m/item/32759) | 2026-11-24 |
+| `templeton-fortitude-straight-bourbon-whiskey` | 템플턴 포티튜드 스트레이트 버번 | ./assets/images/templeton-fortitude-straight-bourbon-whiskey.webp | [Dailyshot - 템플턴 포티튜드 스트레이트 버번](https://dailyshot.co/m/item/23944) | 2026-11-24 |
+| `hyakushun-junmai-ginjo-try-jikagumi-muroka` | 햐쿠슌 준마이 긴죠 TRY 지카구미 무로카나마겐슈 | ./assets/images/hyakushun-junmai-ginjo-try-jikagumi-muroka.webp | [Dailyshot - 햐쿠슌 준마이 긴죠 TRY 지카구미 무로카나마겐슈](https://dailyshot.co/m/item/40475) | 2026-11-24 |
+| `radacini-ice-wine` | 라다치니 아이스 와인 | ./assets/images/radacini-ice-wine.webp | [Dailyshot - 라다치니 아이스 와인](https://dailyshot.co/m/item/18453) | 2026-11-24 |
+| `hayashi-honten-kintemari-brocade-junmai-daiginjo` | 하야시 혼텐 킨테마리 브로케이드 준마이 다이긴죠 무로카 나마겐슈 | ./assets/images/hayashi-honten-kintemari-brocade-junmai-daiginjo.webp | [Dailyshot - 하야시 혼텐 킨테마리 브로케이드 준마이 다이긴죠 무로카 나마겐슈](https://dailyshot.co/m/item/40646) | 2026-11-24 |
+| `templeton-rye-maple-cask-finish` | 템플턴 라이 메이플 캐스크 | ./assets/images/templeton-rye-maple-cask-finish.webp | [Dailyshot - 템플턴 라이 메이플 캐스크](https://dailyshot.co/m/item/5059) | 2026-11-24 |
+| `kistler-hyde-vineyard-chardonnay` | 키슬러 하이드 빈야드 샤르도네 2023 | ./assets/images/kistler-hyde-vineyard-chardonnay.webp | [Dailyshot - 키슬러 하이드 빈야드 샤르도네 2023](https://dailyshot.co/m/item/38615) | 2026-11-24 |
+| `arran-30` | 아란 30년 | ./assets/images/arran-30.webp | [Dailyshot - 아란 30년](https://dailyshot.co/m/item/40518) | 2026-11-24 |
+| `artis-ledaig-lmdw` | 아티스트 레칙 2007 LMDW | ./assets/images/artis-ledaig-lmdw.webp | [Dailyshot - 아티스트 레칙 2007 LMDW](https://dailyshot.co/m/item/5598) | 2026-11-24 |
+| `umeshu-whisky` | 우메슈 위스키 | ./assets/images/umeshu-whisky.webp | [Dailyshot - 우메슈 위스키](https://dailyshot.co/m/item/27086) | 2026-11-24 |
+| `tamdhu-cigar-malt-batch-4` | 탐두 시가몰트 배치 4 | ./assets/images/tamdhu-cigar-malt-batch-4.webp | [Dailyshot - 탐두 시가몰트 배치 4](https://dailyshot.co/m/item/33180) | 2026-11-24 |
+| `cantine-povero-moscato-dasti-campo-del` | 깐티네 포베로, 모스카토 다스티 '캄포 델 팔리오' | ./assets/images/cantine-povero-moscato-dasti-campo-del.webp | [Dailyshot - 깐티네 포베로, 모스카토 다스티 '캄포 델 팔리오'](https://dailyshot.co/m/item/12330) | 2026-11-24 |
+| `douglas-laing-old-particular-ledaig-13` | 더글라스 랭 올드 파티큘러 2009 레칙 13년 | ./assets/images/douglas-laing-old-particular-ledaig-13.webp | [Dailyshot - 더글라스 랭 올드 파티큘러 2009 레칙 13년](https://dailyshot.co/m/item/16792) | 2026-11-24 |
+| `tamdhu-quercus-alba-distinction` | 탐두 쿼커스 알바 디스팅션 | ./assets/images/tamdhu-quercus-alba-distinction.webp | [Dailyshot - 탐두 쿼커스 알바 디스팅션](https://dailyshot.co/m/item/23813) | 2026-11-24 |
+| `old-pulteney-16` | 올드 풀트니 16년 | ./assets/images/old-pulteney-16.webp | [Dailyshot - 올드 풀트니 16년](https://dailyshot.co/m/item/33657) | 2026-11-24 |
+| `the-whisky-tales-tipsy-night-3` | 더 위스키 테일즈 팁시 나이트 #3 2011 밀튼더프 14년 | ./assets/images/the-whisky-tales-tipsy-night-3.webp | [Dailyshot - 더 위스키 테일즈 팁시 나이트 #3 2011 밀튼더프 14년](https://dailyshot.co/m/item/41851) | 2026-11-24 |
+| `cadenheads-teaninich-15` | 카덴헤드 2008 티니닉 15년 | ./assets/images/cadenheads-teaninich-15.webp | [Dailyshot - 카덴헤드 2008 티니닉 15년](https://dailyshot.co/m/item/23206) | 2026-11-24 |
+| `ledaig-13` | 레칙 13년 | ./assets/images/ledaig-13.webp | [Dailyshot - 레칙 13년](https://dailyshot.co/m/item/10068) | 2026-11-24 |
+| `astrale-moscato-dasti` | 아스트랄, 모스카토 다스티 | ./assets/images/astrale-moscato-dasti.webp | [Dailyshot - 아스트랄, 모스카토 다스티](https://dailyshot.co/m/item/20532) | 2026-11-24 |
+| `smos-teaninich-11` | SMOS 티니닉 11년 | ./assets/images/smos-teaninich-11.webp | [Dailyshot - SMOS 티니닉 11년](https://dailyshot.co/m/item/5833) | 2026-11-24 |
+| `teaninich-17` | 티니닉 17년 | ./assets/images/teaninich-17.webp | [Dailyshot - 티니닉 17년](https://dailyshot.co/m/item/8514) | 2026-11-24 |
+| `that-boutique-y-whisky-company-miltonduff` | TBWC 밀튼더프 10년 배치 5 | ./assets/images/that-boutique-y-whisky-company-miltonduff.webp | [Dailyshot - TBWC 밀튼더프 10년 배치 5](https://dailyshot.co/m/item/17105) | 2026-11-24 |
+| `the-single-cask-miltonduff-13-cs` | TSC 2008 밀튼더프 13년 CS 1st Fill 버번 배럴 | ./assets/images/the-single-cask-miltonduff-13-cs.webp | [Dailyshot - TSC 2008 밀튼더프 13년 CS 1st Fill 버번 배럴](https://dailyshot.co/m/item/8529) | 2026-11-24 |
+| `whisky-navi-illustration-3-topaz-ledaig` | 위스키내비 일러스트레이션 #3 토파즈 2001 레칙 25년 | ./assets/images/whisky-navi-illustration-3-topaz-ledaig.webp | [Dailyshot - 위스키내비 일러스트레이션 #3 토파즈 2001 레칙 25년](https://dailyshot.co/m/item/40127) | 2026-11-24 |
+| `the-single-cask-ledaig-11-cs` | TSC 2010 레칙 11년 CS 가이아나 럼 배럴 피니시 | ./assets/images/the-single-cask-ledaig-11-cs.webp | [Dailyshot - TSC 2010 레칙 11년 CS 가이아나 럼 배럴 피니시](https://dailyshot.co/m/item/8530) | 2026-11-24 |
+| `hyde-de-villaine-belle-cousine` | 하이드 드 빌렌 벨르 쿠진느 | ./assets/images/hyde-de-villaine-belle-cousine.webp | [Dailyshot - 하이드 드 빌렌 벨르 쿠진느](https://dailyshot.co/m/item/29677) | 2026-11-24 |
+| `speyburn-kentucky-bourbon-cask` | 스페이번 켄터키 버번 캐스크 1L | ./assets/images/speyburn-kentucky-bourbon-cask.webp | [Dailyshot - 스페이번 켄터키 버번 캐스크 1L](https://dailyshot.co/m/item/33658) | 2026-11-24 |
+| `speyburn-jerez-sherry-cask` | 스페이번 헤레즈 셰리 캐스크 1L | ./assets/images/speyburn-jerez-sherry-cask.webp | [Dailyshot - 스페이번 헤레즈 셰리 캐스크 1L](https://dailyshot.co/m/item/33660) | 2026-11-24 |
+| `talisker-surge` | 탈리스커 써지 | ./assets/images/talisker-surge.webp | [Dailyshot - 탈리스커 써지](https://dailyshot.co/m/item/22988) | 2026-11-24 |
+| `lecole-no-41-yv-chenin-blanc` | 레꼴 넘버 41 야키마 밸리 슈냉 블랑 올드바인 | ./assets/images/lecole-no-41-yv-chenin-blanc.webp | [Dailyshot - 레꼴 넘버 41 야키마 밸리 슈냉 블랑 올드바인](https://dailyshot.co/m/item/28743) | 2026-11-24 |
+| `arran-21-yo` | 아란 21년 | ./assets/images/arran-21-yo.webp | [Dailyshot - 아란 21년](https://dailyshot.co/m/item/4354) | 2026-11-24 |
+| `speyburn-15` | 스페이번 15년 | ./assets/images/speyburn-15.webp | [Dailyshot - 스페이번 15년](https://dailyshot.co/m/item/22837) | 2026-11-24 |
+| `bosio-moscato-dasti` | 보시오, 모스카토 다스티 | ./assets/images/bosio-moscato-dasti.webp | [Dailyshot - 보시오, 모스카토 다스티](https://dailyshot.co/m/item/10072) | 2026-11-24 |
+| `tamdhu-ambar` | 탐두 엠버 | ./assets/images/tamdhu-ambar.webp | [Dailyshot - 탐두 엠버](https://dailyshot.co/m/item/22955) | 2026-11-24 |
+| `tamdhu-distinction-3` | 탐두 디스팅션 3 | ./assets/images/tamdhu-distinction-3.webp | [Dailyshot - 탐두 디스팅션 3](https://dailyshot.co/m/item/30488) | 2026-11-24 |
+| `tamdhu-cuatro-reserva` | 탐두 콰트로 리제르바 | ./assets/images/tamdhu-cuatro-reserva.webp | [Dailyshot - 탐두 콰트로 리제르바](https://dailyshot.co/m/item/33670) | 2026-11-24 |
+| `whisky-broker-strathmill-12` | 위스키 브로커 스트라스밀 12년 | ./assets/images/whisky-broker-strathmill-12.webp | [Dailyshot - 위스키 브로커 스트라스밀 12년](https://dailyshot.co/m/item/7147) | 2026-11-24 |
+| `strathmill-strathmill-12-36-100-proof` | 스트라스밀 2012 스트라스밀 12년 #36 100 프루프 | ./assets/images/strathmill-strathmill-12-36-100-proof.webp | [Dailyshot - 스트라스밀 2012 스트라스밀 12년 #36 100 프루프](https://dailyshot.co/m/item/26373) | 2026-11-24 |
+| `signatory-ledaig-6-100-proof-heavily` | 시그나토리 레칙 2020 6년 100프루프 헤빌리 피티드 #76 | ./assets/images/signatory-ledaig-6-100-proof-heavily.webp | [Dailyshot - 시그나토리 레칙 2020 6년 100프루프 헤빌리 피티드 #76](https://dailyshot.co/m/item/39691) | 2026-11-24 |
+| `tamdhu-21` | 탐두 21년 | ./assets/images/tamdhu-21.webp | [Dailyshot - 탐두 21년](https://dailyshot.co/m/item/28901) | 2026-11-24 |
+| `barrell-tale-of-two-islands` | 바렐 테일 오브 투 아일랜드 | ./assets/images/barrell-tale-of-two-islands.webp | [Dailyshot - 바렐 테일 오브 투 아일랜드](https://dailyshot.co/m/item/27002) | 2026-11-24 |
+| `barrell-bourbon-cask-finish-series-mizunara` | 바렐 버번 캐스크 피니시 시리즈 : 미즈나라 | ./assets/images/barrell-bourbon-cask-finish-series-mizunara.webp | [Dailyshot - 바렐 버번 캐스크 피니시 시리즈 : 미즈나라](https://dailyshot.co/m/item/23769) | 2026-11-24 |
+| `highland-park-18` | 하이랜드 파크 18년 | ./assets/images/highland-park-18.webp | [Dailyshot - 하이랜드 파크 18년](https://dailyshot.co/m/item/29786) | 2026-11-24 |
+| `barrell-gold-label-bourbon-18` | 바렐 골드 라벨 버번 18년 | ./assets/images/barrell-gold-label-bourbon-18.webp | [Dailyshot - 바렐 골드 라벨 버번 18년](https://dailyshot.co/m/item/31138) | 2026-11-24 |
+| `pannier-blanc-de-noirs-brut` | 파니에르 블랑 드 누아 브뤼 2015 | ./assets/images/pannier-blanc-de-noirs-brut.webp | [Dailyshot - 파니에르 블랑 드 누아 브뤼 2015](https://dailyshot.co/m/item/20849) | 2026-11-24 |
+| `savart-louverture-1er-extra-brut` | 사바르, 루베르튀르 1er 엑스트라 브뤼 | ./assets/images/savart-louverture-1er-extra-brut.webp | [Dailyshot - 사바르, 루베르튀르 1er 엑스트라 브뤼](https://dailyshot.co/m/item/22311) | 2026-11-24 |
+| `hunter-laing-scarabus-islay-single-malt` | 헌터랭 스카라버스 아일라 싱글몰트 | ./assets/images/hunter-laing-scarabus-islay-single-malt.webp | [Dailyshot - 헌터랭 스카라버스 아일라 싱글몰트](https://dailyshot.co/m/item/22872) | 2026-11-24 |
+| `charles-orban-blanc-de-noirs-brut` | 샤를 오르방 블랑 드 누아 | ./assets/images/charles-orban-blanc-de-noirs-brut.webp | [Dailyshot - 샤를 오르방 블랑 드 누아](https://dailyshot.co/m/item/6352) | 2026-11-24 |
+| `sylvain-pataille-marsannay-blanc` | 실뱅 파타유 마르사네 블랑 2023 | ./assets/images/sylvain-pataille-marsannay-blanc.webp | [Dailyshot - 실뱅 파타유 마르사네 블랑 2023](https://dailyshot.co/m/item/30460) | 2026-11-24 |
+| `champagne-la-titia-torchet-blanc-de` | 샴페인 레트시아 토르쉐 블랑 드 누아 | ./assets/images/champagne-la-titia-torchet-blanc-de.webp | [Dailyshot - 샴페인 레트시아 토르쉐 블랑 드 누아](https://dailyshot.co/m/item/14690) | 2026-11-24 |
+| `highland-pride` | 하이랜드 프라이드 | ./assets/images/highland-pride.webp | [Dailyshot - 하이랜드 프라이드](https://dailyshot.co/m/item/5870) | 2026-11-24 |
+| `georgium-blanc-de-noirs-frizzante` | 게오르지움, 블랑 드 누아 프리잔테 | ./assets/images/georgium-blanc-de-noirs-frizzante.webp | [Dailyshot - 게오르지움, 블랑 드 누아 프리잔테](https://dailyshot.co/m/item/21362) | 2026-11-24 |
+| `barrell-toasted-dovetail` | 바렐 토스티드 도브테일 | ./assets/images/barrell-toasted-dovetail.webp | [Dailyshot - 바렐 토스티드 도브테일](https://dailyshot.co/m/item/36593) | 2026-11-24 |
+| `barrell-foundation` | 바렐 파운데이션 | ./assets/images/barrell-foundation.webp | [Dailyshot - 바렐 파운데이션](https://dailyshot.co/m/item/24182) | 2026-11-24 |
+| `caillez-lemaire-jadis-extra-brut` | 캬이에 르메르 쟈디스 엑스트라 브뤼 | ./assets/images/caillez-lemaire-jadis-extra-brut.webp | [Dailyshot - 캬이에 르메르 쟈디스 엑스트라 브뤼](https://dailyshot.co/m/item/14679) | 2026-11-24 |
+| `barrell-rye-batch-4` | 바렐 라이 배치 4 | ./assets/images/barrell-rye-batch-4.webp | [Dailyshot - 바렐 라이 배치 4](https://dailyshot.co/m/item/23935) | 2026-11-24 |
+| `fleury-blanc-de-noirs-brut` | 플뢰리 블랑 드 누아 브뤼 | ./assets/images/fleury-blanc-de-noirs-brut.webp | [Dailyshot - 플뢰리 블랑 드 누아 브뤼](https://dailyshot.co/m/item/8369) | 2026-11-24 |
+| `barrell-bourbon-batch-36` | 바렐 버번 배치 36 | ./assets/images/barrell-bourbon-batch-36.webp | [Dailyshot - 바렐 버번 배치 36](https://dailyshot.co/m/item/36594) | 2026-11-24 |
+| `best-dram-highland-park-26-year` | 베스트 드램 하이랜드 파크 1999 26년 리필 올로로쏘 셰리 벗 #5337 | ./assets/images/best-dram-highland-park-26-year.webp | [Dailyshot - 베스트 드램 하이랜드 파크 1999 26년 리필 올로로쏘 셰리 벗 #5337](https://dailyshot.co/m/item/40615) | 2026-11-24 |
+| `barrell-decade-20` | 바렐 디케이드 20년 | ./assets/images/barrell-decade-20.webp | [Dailyshot - 바렐 디케이드 20년](https://dailyshot.co/m/item/29530) | 2026-11-24 |
+| `signatory-vintage-speyside-m-16-100` | 시그나토리 스페이사이드(M) 16년100 프루프 익셉셔널 #15 | ./assets/images/signatory-vintage-speyside-m-16-100.webp | [Dailyshot - 시그나토리 스페이사이드(M) 16년100 프루프 익셉셔널 #15](https://dailyshot.co/m/item/34354) | 2026-11-24 |
+| `iconic-speyside-15-oloroso-octave-cask` | 아이코닉 2010 스페이사이드 15년 올로로쏘 옥타브 캐스크 피니쉬 | ./assets/images/iconic-speyside-15-oloroso-octave-cask.webp | [Dailyshot - 아이코닉 2010 스페이사이드 15년 올로로쏘 옥타브 캐스크 피니쉬](https://dailyshot.co/m/item/31972) | 2026-11-24 |
+| `mars-the-y-a-05` | 마르스 더 Y.A. #05 | ./assets/images/mars-the-y-a-05.webp | [Dailyshot - 마르스 더 Y.A. #05](https://dailyshot.co/m/item/39631) | 2026-11-24 |
+| `mars-brewery-sour` | 마스 브루어리 사워 | ./assets/images/mars-brewery-sour.webp | [Dailyshot - 마스 브루어리 사워](https://dailyshot.co/m/item/18150) | 2026-11-24 |
+| `mars-brewery-zero` | 마스 브루어리 제로 | ./assets/images/mars-brewery-zero.webp | [Dailyshot - 마스 브루어리 제로](https://dailyshot.co/m/item/18148) | 2026-11-24 |
+| `mars-martinet-clos-martinet` | 마스 마르티네 클로스 마르티네 | ./assets/images/mars-martinet-clos-martinet.webp | [Dailyshot - 마스 마르티네 클로스 마르티네](https://dailyshot.co/m/item/31222) | 2026-11-24 |
+| `signatory-speyside-m-cs-20-22` | 시그나토리 스페이사이드(M) 2005 CS 20년 #22 | ./assets/images/signatory-speyside-m-cs-20-22.webp | [Dailyshot - 시그나토리 스페이사이드(M) 2005 CS 20년 #22](https://dailyshot.co/m/item/38517) | 2026-11-24 |
+| `champagne-besserat-de-bellefon-blanc-de` | 샴페인 베세라 드 벨퐁 블랑 드 누아 | ./assets/images/champagne-besserat-de-bellefon-blanc-de.webp | [Dailyshot - 샴페인 베세라 드 벨퐁 블랑 드 누아](https://dailyshot.co/m/item/16769) | 2026-11-24 |
+| `cadenhead-enigma-speyside-single-malt-12` | 카덴헤드 이니그마 스페이사이드 싱글몰트 12년 | ./assets/images/cadenhead-enigma-speyside-single-malt-12.webp | [Dailyshot - 카덴헤드 이니그마 스페이사이드 싱글몰트 12년](https://dailyshot.co/m/item/39603) | 2026-11-24 |
+| `mars-martinet-caml-pesseroles` | 마스 마르티네 카미 페세롤레스 | ./assets/images/mars-martinet-caml-pesseroles.webp | [Dailyshot - 마스 마르티네 카미 페세롤레스](https://dailyshot.co/m/item/31223) | 2026-11-24 |
+| `champahgne-de-venoge-princes-blanc-de` | 샴페인 드 브노쥬 프린스 블랑 드 누아 | ./assets/images/champahgne-de-venoge-princes-blanc-de.webp | [Dailyshot - 샴페인 드 브노쥬 프린스 블랑 드 누아](https://dailyshot.co/m/item/30011) | 2026-11-24 |
+| `guiborat-prohibition-blanc-de-noirs-extra` | 기보라, 프로히비시옹 블랑 드 누아 엑스트라 브뤼 | ./assets/images/guiborat-prohibition-blanc-de-noirs-extra.webp | [Dailyshot - 기보라, 프로히비시옹 블랑 드 누아 엑스트라 브뤼](https://dailyshot.co/m/item/23042) | 2026-11-24 |
+| `mars-tsunuki` | 마르스 츠누키 2026 | ./assets/images/mars-tsunuki.webp | [Dailyshot - 마르스 츠누키 2026](https://dailyshot.co/m/item/39634) | 2026-11-24 |
+| `elements-of-islay-cask-edit` | 엘리먼츠 오브 아일라 캐스크 에디트 | ./assets/images/elements-of-islay-cask-edit.webp | [Dailyshot - 엘리먼츠 오브 아일라 캐스크 에디트](https://dailyshot.co/m/item/18117) | 2026-11-24 |
+| `champagne-philippe-dechelle-blanc-de-noirs` | 샴페인 필립 드쉘 블랑 드 누아 브뤼 | ./assets/images/champagne-philippe-dechelle-blanc-de-noirs.webp | [Dailyshot - 샴페인 필립 드쉘 블랑 드 누아 브뤼](https://dailyshot.co/m/item/36877) | 2026-11-24 |
+| `mac-talla-terra-classic-islay` | 막탈라 테라 클래식 아일라 | ./assets/images/mac-talla-terra-classic-islay.webp | [Dailyshot - 막탈라 테라 클래식 아일라](https://dailyshot.co/m/item/8671) | 2026-11-24 |
+| `mars-maltage-cosmo` | 마르스 몰티지 코스모 | ./assets/images/mars-maltage-cosmo.webp | [Dailyshot - 마르스 몰티지 코스모](https://dailyshot.co/m/item/22828) | 2026-11-24 |
+| `mars-iwai-whisky` | 마르스 이와이 위스키 | ./assets/images/mars-iwai-whisky.webp | [Dailyshot - 마르스 이와이 위스키](https://dailyshot.co/m/item/22893) | 2026-11-24 |
+| `mars-iwai-tradition` | 마르스 이와이 트레디션 | ./assets/images/mars-iwai-tradition.webp | [Dailyshot - 마르스 이와이 트레디션](https://dailyshot.co/m/item/22900) | 2026-11-24 |
+| `sansibar-secret-islay-32y` | 산시바 시크릿 아일라 32년 | ./assets/images/sansibar-secret-islay-32y.webp | [Dailyshot - 산시바 시크릿 아일라 32년](https://dailyshot.co/m/item/28413) | 2026-11-24 |
+| `highland-park-25` | 하이랜드 파크 25년 | ./assets/images/highland-park-25.webp | [Dailyshot - 하이랜드 파크 25년](https://dailyshot.co/m/item/5587) | 2026-11-24 |
+| `kavalan-solist-port-cask-7` | 카발란 솔리스트 포트 캐스크 2018 7년 | ./assets/images/kavalan-solist-port-cask-7.webp | [Dailyshot - 카발란 솔리스트 포트 캐스크 2018 7년](https://dailyshot.co/m/item/40727) | 2026-11-24 |
+| `la-croisade-blanc-de-blancs` | 라 크라사드 블랑 드 블랑 | ./assets/images/la-croisade-blanc-de-blancs.webp | [Dailyshot - 라 크라사드 블랑 드 블랑](https://dailyshot.co/m/item/37142) | 2026-11-24 |
+| `dian-blended-whisky` | 다이앤 블렌디드 위스키 | ./assets/images/dian-blended-whisky.webp | [Dailyshot - 다이앤 블렌디드 위스키](https://dailyshot.co/m/item/18753) | 2026-11-24 |
+| `hure-freres-insouciance-rose-extra-brut` | 위레 프레르, 앵소시앙스 로제 엑스트라 브뤼 | ./assets/images/hure-freres-insouciance-rose-extra-brut.webp | [Dailyshot - 위레 프레르, 앵소시앙스 로제 엑스트라 브뤼](https://dailyshot.co/m/item/12736) | 2026-11-24 |
+| `hongthong-blended-spirits` | 홍통 블렌디드 스피리츠 | ./assets/images/hongthong-blended-spirits.webp | [Dailyshot - 홍통 블렌디드 스피리츠](https://dailyshot.co/m/item/30517) | 2026-11-24 |
+| `champagne-brimoncourt-blanc-de-blancs` | 샴페인 브리몽꾸르 블랑 드 블랑 | ./assets/images/champagne-brimoncourt-blanc-de-blancs.webp | [Dailyshot - 샴페인 브리몽꾸르 블랑 드 블랑](https://dailyshot.co/m/item/26000) | 2026-11-24 |
+| `eric-rodez-blanc-de-blancs` | 에릭 호데즈, 블랑 드 블랑 | ./assets/images/eric-rodez-blanc-de-blancs.webp | [Dailyshot - 에릭 호데즈, 블랑 드 블랑](https://dailyshot.co/m/item/25760) | 2026-11-24 |
+| `glenfiddich-18-port-cask-finish` | 글렌피딕 18년 포트 캐스크 피니시 | ./assets/images/glenfiddich-18-port-cask-finish.webp | [Dailyshot - 글렌피딕 18년 포트 캐스크 피니시](https://dailyshot.co/m/item/39402) | 2026-11-24 |
+| `domaine-sextant-foufounette-extra-brut` | 도멘 섹스탕, 푸푸네트 엑스트라 브뤼 2023 | ./assets/images/domaine-sextant-foufounette-extra-brut.webp | [Dailyshot - 도멘 섹스탕, 푸푸네트 엑스트라 브뤼 2023](https://dailyshot.co/m/item/37062) | 2026-11-24 |
+| `alexandre-bonnet-blanc-de-blancs` | 알렉상드르 보네 블랑 드 블랑 | ./assets/images/alexandre-bonnet-blanc-de-blancs.webp | [Dailyshot - 알렉상드르 보네 블랑 드 블랑](https://dailyshot.co/m/item/28041) | 2026-11-24 |
+| `caperdonich-peated-25` | 카퍼도닉 피티드 25년 | ./assets/images/caperdonich-peated-25.webp | [Dailyshot - 카퍼도닉 피티드 25년](https://dailyshot.co/m/item/28185) | 2026-11-24 |
+| `glenlivet-caperdonich-21-peated` | 글렌리벳 캐퍼도닉 21년 피티드 | ./assets/images/glenlivet-caperdonich-21-peated.webp | [Dailyshot - 글렌리벳 캐퍼도닉 21년 피티드](https://dailyshot.co/m/item/32850) | 2026-11-24 |
+| `caperdonich-18-peated` | 카퍼도닉 18년 피티드 | ./assets/images/caperdonich-18-peated.webp | [Dailyshot - 카퍼도닉 18년 피티드](https://dailyshot.co/m/item/24034) | 2026-11-24 |
+| `henriot-blanc-de-blancs` | 앙리오 블랑 드 블랑 | ./assets/images/henriot-blanc-de-blancs.webp | [Dailyshot - 앙리오 블랑 드 블랑](https://dailyshot.co/m/item/34038) | 2026-11-24 |
+| `hola-blanc-de-blancs` | 올라 블랑 드 블랑 | ./assets/images/hola-blanc-de-blancs.webp | [Dailyshot - 올라 블랑 드 블랑](https://dailyshot.co/m/item/32986) | 2026-11-24 |
+| `pierre-gimonnet-blanc-de-blancs-gastronome` | 피에르 지모네 블랑 드 블랑 '가스트로노메' 2016 | ./assets/images/pierre-gimonnet-blanc-de-blancs-gastronome.webp | [Dailyshot - 피에르 지모네 블랑 드 블랑 '가스트로노메' 2016](https://dailyshot.co/m/item/14658) | 2026-11-24 |
+| `schramsberg-blanc-de-blancs` | 슈램스버그 블랑 드 블랑 | ./assets/images/schramsberg-blanc-de-blancs.webp | [Dailyshot - 슈램스버그 블랑 드 블랑](https://dailyshot.co/m/item/8940) | 2026-11-24 |
+| `hinotori-goldorak-peated-whisky` | 히노토리 골드오락 피트 위스키 | ./assets/images/hinotori-goldorak-peated-whisky.webp | [Dailyshot - 히노토리 골드오락 피트 위스키](https://dailyshot.co/m/item/22815) | 2026-11-24 |
+| `macnairs-rum-jamaica-peated` | 멕네어스 럼 자메이카 피티드 | ./assets/images/macnairs-rum-jamaica-peated.webp | [Dailyshot - 멕네어스 럼 자메이카 피티드](https://dailyshot.co/m/item/23252) | 2026-11-24 |
+| `grongnet-blanc-de-blancs` | 그롱네 블랑 드 블랑 | ./assets/images/grongnet-blanc-de-blancs.webp | [Dailyshot - 그롱네 블랑 드 블랑](https://dailyshot.co/m/item/26853) | 2026-11-24 |
+| `pannier-blanc-de-noirs` | 파니에, 블랑 드 누아 | ./assets/images/pannier-blanc-de-noirs.webp | [Dailyshot - 파니에, 블랑 드 누아](https://dailyshot.co/m/item/31258) | 2026-11-24 |
+| `burnt-ends-blended-whiskey` | 번트 엔즈 블렌디드 위스키 | ./assets/images/burnt-ends-blended-whiskey.webp | [Dailyshot - 번트 엔즈 블렌디드 위스키](https://dailyshot.co/m/item/21044) | 2026-11-24 |
+| `benoit-dinvant-champgne-extra-brut` | 베누아 당보 샴페인 엑스트라 브뤼 | ./assets/images/benoit-dinvant-champgne-extra-brut.webp | [Dailyshot - 베누아 당보 샴페인 엑스트라 브뤼](https://dailyshot.co/m/item/8923) | 2026-11-24 |
+| `glen-scotia-campbeltown-malts-festival-10` | 글렌스코샤 캠벨타운 몰트 페스티벌 2021 10년 | ./assets/images/glen-scotia-campbeltown-malts-festival-10.webp | [Dailyshot - 글렌스코샤 캠벨타운 몰트 페스티벌 2021 10년](https://dailyshot.co/m/item/39023) | 2026-11-24 |
+| `champagne-philippe-dechelle-blanc-de-blancs` | 샴페인 필립 드쉘 블랑 드 블랑 | ./assets/images/champagne-philippe-dechelle-blanc-de-blancs.webp | [Dailyshot - 샴페인 필립 드쉘 블랑 드 블랑](https://dailyshot.co/m/item/35493) | 2026-11-24 |
+| `cadenheads-enigma-11-lowland` | 카덴헤드 이니그마 11년 로우랜드 | ./assets/images/cadenheads-enigma-11-lowland.webp | [Dailyshot - 카덴헤드 이니그마 11년 로우랜드](https://dailyshot.co/m/item/29488) | 2026-11-24 |
+| `highland-park-21` | 하이랜드 파크 21년 | ./assets/images/highland-park-21.webp | [Dailyshot - 하이랜드 파크 21년](https://dailyshot.co/m/item/4359) | 2026-11-24 |
+| `campbeltown-haven-11` | 캠벨타운 헤이븐 11년 | ./assets/images/campbeltown-haven-11.webp | [Dailyshot - 캠벨타운 헤이븐 11년](https://dailyshot.co/m/item/35743) | 2026-11-24 |
+| `grongnet-blanc-de-noirs` | 그롱네 블랑 드 누아 | ./assets/images/grongnet-blanc-de-noirs.webp | [Dailyshot - 그롱네 블랑 드 누아](https://dailyshot.co/m/item/26852) | 2026-11-24 |
+| `jean-philippe-trousset-extra-brut` | 장 필립 트루쎄, 엑스트라 브뤼 | ./assets/images/jean-philippe-trousset-extra-brut.webp | [Dailyshot - 장 필립 트루쎄, 엑스트라 브뤼](https://dailyshot.co/m/item/13263) | 2026-11-24 |
+| `signatory-blended-malt-hogshead` | 시그나토리 블렌디드 몰트 혹스헤드 | ./assets/images/signatory-blended-malt-hogshead.webp | [Dailyshot - 시그나토리 블렌디드 몰트 혹스헤드](https://dailyshot.co/m/item/28084) | 2026-11-24 |
+| `laetitia-torchet-blanc-de-blancs` | 레티시아 토르쉐 블랑 드 블랑 | ./assets/images/laetitia-torchet-blanc-de-blancs.webp | [Dailyshot - 레티시아 토르쉐 블랑 드 블랑](https://dailyshot.co/m/item/13987) | 2026-11-24 |
+| `kirin-blended-whisky-fuji` | 기린 블렌디드 위스키 후지 | ./assets/images/kirin-blended-whisky-fuji.webp | [Dailyshot - 기린 블렌디드 위스키 후지](https://dailyshot.co/m/item/28638) | 2026-11-24 |
+| `r-renaudin-blanc-de-blancs-brut` | 흐노당 리저브 블랑 드 블랑 브뤼 | ./assets/images/r-renaudin-blanc-de-blancs-brut.webp | [Dailyshot - 흐노당 리저브 블랑 드 블랑 브뤼](https://dailyshot.co/m/item/22220) | 2026-11-24 |
+| `a-margaine-cuv-e-m-extra` | 아르노 마르겐 뀌베 M 엑스트라 브뤼 | ./assets/images/a-margaine-cuv-e-m-extra.webp | [Dailyshot - 아르노 마르겐 뀌베 M 엑스트라 브뤼](https://dailyshot.co/m/item/39614) | 2026-11-24 |
+| `hure-freres-linattendue-blanc-de-blancs` | 위레 프레르 인아땅두 블랑 드 블랑 | ./assets/images/hure-freres-linattendue-blanc-de-blancs.webp | [Dailyshot - 위레 프레르 인아땅두 블랑 드 블랑](https://dailyshot.co/m/item/38733) | 2026-11-24 |
+| `glen-scotia-12-icons-of-campbeltown` | 글렌스코샤 12년 아이콘 오브 캠벨타운 릴리즈 No.3 | ./assets/images/glen-scotia-12-icons-of-campbeltown.webp | [Dailyshot - 글렌스코샤 12년 아이콘 오브 캠벨타운 릴리즈 No.3](https://dailyshot.co/m/item/31524) | 2026-11-24 |
+| `watt-whisky-campbeltown-blended-malt-9` | 와트 위스키 캠벨타운 블렌디드 몰트 2016 9년 위스키 | ./assets/images/watt-whisky-campbeltown-blended-malt-9.webp | [Dailyshot - 와트 위스키 캠벨타운 블렌디드 몰트 2016 9년 위스키](https://dailyshot.co/m/item/40441) | 2026-11-24 |
+| `rampur-double-cask` | 람푸르 더블 캐스크 | ./assets/images/rampur-double-cask.webp | [Dailyshot - 람푸르 더블 캐스크](https://dailyshot.co/m/item/8809) | 2026-11-24 |
+| `conciere-blended-whiskey` | 컨시에르 블렌디드 위스키 1L | ./assets/images/conciere-blended-whiskey.webp | [Dailyshot - 컨시에르 블렌디드 위스키 1L](https://dailyshot.co/m/item/27134) | 2026-11-24 |
+| `mars-the-y-a-03` | 마르스 더 Y.A. #03 | ./assets/images/mars-the-y-a-03.webp | [Dailyshot - 마르스 더 Y.A. #03](https://dailyshot.co/m/item/23387) | 2026-11-24 |
+| `kingsbarns-dream-to-dram` | 킹스반즈 드림 투 드램 | ./assets/images/kingsbarns-dream-to-dram.webp | [Dailyshot - 킹스반즈 드림 투 드램](https://dailyshot.co/m/item/14553) | 2026-11-24 |
+| `j-l-chave-selection-saint-joseph` | 장 루이 샤브 셀렉시옹 쌩 조셉 오프뤼 | ./assets/images/j-l-chave-selection-saint-joseph.webp | [Dailyshot - 장 루이 샤브 셀렉시옹 쌩 조셉 오프뤼](https://dailyshot.co/m/item/25911) | 2026-11-24 |
+| `baron-albert-preference-demi-sec` | 바롱 알베르 프레페랑스 드미 섹 | ./assets/images/baron-albert-preference-demi-sec.webp | [Dailyshot - 바롱 알베르 프레페랑스 드미 섹](https://dailyshot.co/m/item/15016) | 2026-11-24 |
+| `lagg-batch-2` | 라그 배치 2 | ./assets/images/lagg-batch-2.webp | [Dailyshot - 라그 배치 2](https://dailyshot.co/m/item/12162) | 2026-11-24 |
+| `lagg-batch-3` | 라그 배치 3 | ./assets/images/lagg-batch-3.webp | [Dailyshot - 라그 배치 3](https://dailyshot.co/m/item/12163) | 2026-11-24 |
+| `beau-joie-champagne-demi-sec` | 보 주아 샴페인 드미 섹 | ./assets/images/beau-joie-champagne-demi-sec.webp | [Dailyshot - 보 주아 샴페인 드미 섹](https://dailyshot.co/m/item/16053) | 2026-11-24 |
+| `joseph-colin-saint-aubin-1er-cru` | 조셉 콜린 생또방 프리미에 크뤼 쉬르 르 쌍띠에 뒤 끌루 2022 | ./assets/images/joseph-colin-saint-aubin-1er-cru.webp | [Dailyshot - 조셉 콜린 생또방 프리미에 크뤼 쉬르 르 쌍띠에 뒤 끌루 2022](https://dailyshot.co/m/item/40591) | 2026-11-24 |
+| `armand-de-brignac-demi-sec` | 아르망 드 브리냑 데미 섹 | ./assets/images/armand-de-brignac-demi-sec.webp | [Dailyshot - 아르망 드 브리냑 데미 섹](https://dailyshot.co/m/item/20625) | 2026-11-24 |
+| `roger-goulart-demi-sec-millesime` | 로저 구라트 드미 섹 밀레짐 | ./assets/images/roger-goulart-demi-sec-millesime.webp | [Dailyshot - 로저 구라트 드미 섹 밀레짐](https://dailyshot.co/m/item/27806) | 2026-11-24 |
+| `isle-of-jura-10` | 주라 10년 | ./assets/images/isle-of-jura-10.webp | [Dailyshot - 주라 10년](https://dailyshot.co/m/item/4835) | 2026-11-24 |
+| `lochlea-dark-briar` | 로크리 다크 브라이어 | ./assets/images/lochlea-dark-briar.webp | [Dailyshot - 로크리 다크 브라이어](https://dailyshot.co/m/item/31505) | 2026-11-24 |
+| `lochlea-6` | 로크리 6년 | ./assets/images/lochlea-6.webp | [Dailyshot - 로크리 6년](https://dailyshot.co/m/item/32777) | 2026-11-24 |
+| `royal-salute-55-time-series` | 로얄살루트 55년 타임 시리즈 | ./assets/images/royal-salute-55-time-series.webp | [Dailyshot - 로얄살루트 55년 타임 시리즈](https://dailyshot.co/m/item/36560) | 2026-11-24 |
+| `19-crimes-snoop-cali-rose` | 19 크라임스 스눕 칼리 로제 | ./assets/images/19-crimes-snoop-cali-rose.webp | [Dailyshot - 19 크라임스 스눕 칼리 로제](https://dailyshot.co/m/item/24564) | 2026-11-24 |
+| `lochlea-somke-without-fire` | 로크리 스모크 위드아웃 파이어 | ./assets/images/lochlea-somke-without-fire.webp | [Dailyshot - 로크리 스모크 위드아웃 파이어](https://dailyshot.co/m/item/31504) | 2026-11-24 |
+| `fleury-bolero-extra-brut` | 플뢰리 볼레로 엑스트라 브뤼 2008 | ./assets/images/fleury-bolero-extra-brut.webp | [Dailyshot - 플뢰리 볼레로 엑스트라 브뤼 2008](https://dailyshot.co/m/item/23952) | 2026-11-24 |
+| `george-dickel-bottled-in-bond` | 조지 디켈 바틀 인 본드 | ./assets/images/george-dickel-bottled-in-bond.webp | [Dailyshot - 조지 디켈 바틀 인 본드](https://dailyshot.co/m/item/10346) | 2026-11-24 |
+| `finlaggan-original` | 핀라간 오리지널 | ./assets/images/finlaggan-original.webp | [Dailyshot - 핀라간 오리지널](https://dailyshot.co/m/item/8523) | 2026-11-24 |
+| `lochlea-7` | 로크리 7년 | ./assets/images/lochlea-7.webp | [Dailyshot - 로크리 7년](https://dailyshot.co/m/item/36304) | 2026-11-24 |
+| `vinyes-tortuga-fruita-analogica-big-time` | 비니스 토르투가 프루타 아날로지카 빅타임 센슈얼리티 | ./assets/images/vinyes-tortuga-fruita-analogica-big-time.webp | [Dailyshot - 비니스 토르투가 프루타 아날로지카 빅타임 센슈얼리티](https://dailyshot.co/m/item/36894) | 2026-11-24 |
+| `the-whisky-tales-season-2-sharon` | 더 위스키 테일즈 시즌 2 샤론 아드모어 8년 | ./assets/images/the-whisky-tales-season-2-sharon.webp | [Dailyshot - 더 위스키 테일즈 시즌 2 샤론 아드모어 8년](https://dailyshot.co/m/item/30384) | 2026-11-24 |
+| `the-whisky-agency-orchestra-1-violin` | 더 위스키 에이전시 오케스트라 #1 바이올린 아드모어 11년 | ./assets/images/the-whisky-agency-orchestra-1-violin.webp | [Dailyshot - 더 위스키 에이전시 오케스트라 #1 바이올린 아드모어 11년](https://dailyshot.co/m/item/41847) | 2026-11-24 |
+| `alexandre-bonnet-extra-brut-rose` | 알렉상드르 보네 엑스트라 브뤼 로제 | ./assets/images/alexandre-bonnet-extra-brut-rose.webp | [Dailyshot - 알렉상드르 보네 엑스트라 브뤼 로제](https://dailyshot.co/m/item/31830) | 2026-11-24 |
+| `champagne-gamet-caracteres-extra-brut` | 샴페인 가메 캐릭터 엑스트라 브뤼 | ./assets/images/champagne-gamet-caracteres-extra-brut.webp | [Dailyshot - 샴페인 가메 캐릭터 엑스트라 브뤼](https://dailyshot.co/m/item/28753) | 2026-11-24 |
+| `wind-shaking-the-barley-field-ardmore` | 보리밭을 흔드는 바람 아드모어 15년 2026 #3 | ./assets/images/wind-shaking-the-barley-field-ardmore.webp | [Dailyshot - 보리밭을 흔드는 바람 아드모어 15년 2026 #3](https://dailyshot.co/m/item/40121) | 2026-11-24 |
+| `ardmore-triple-wood` | 아드모어 트리플 우드 1L | ./assets/images/ardmore-triple-wood.webp | [Dailyshot - 아드모어 트리플 우드 1L](https://dailyshot.co/m/item/32892) | 2026-11-24 |
+| `kikumasamune-kimoto-junmai` | 키쿠마사무네 기모토 준마이 | ./assets/images/kikumasamune-kimoto-junmai.webp | [Dailyshot - 키쿠마사무네 기모토 준마이](https://dailyshot.co/m/item/28959) | 2026-11-24 |
+| `finn-thomson-ardmore-14` | 핀 톰슨 2009 아드모어 14년 | ./assets/images/finn-thomson-ardmore-14.webp | [Dailyshot - 핀 톰슨 2009 아드모어 14년](https://dailyshot.co/m/item/27097) | 2026-11-24 |
+| `roger-goulart-demi-sec-reserva` | 로저 구라트, 드미 섹 리제르바 | ./assets/images/roger-goulart-demi-sec-reserva.webp | [Dailyshot - 로저 구라트, 드미 섹 리제르바](https://dailyshot.co/m/item/15024) | 2026-11-24 |
+| `signatory-vintage-ardmore-14-100-proof` | 시그나토리 아드모어 14년 100프루프 #62 | ./assets/images/signatory-vintage-ardmore-14-100-proof.webp | [Dailyshot - 시그나토리 아드모어 14년 100프루프 #62](https://dailyshot.co/m/item/34348) | 2026-11-24 |
+| `thompson-bros-bunnahabhain-12-yo-pride` | 톰슨 브라더스 부나하벤 12년 프라이드 오브 아일라 마데이라 캐스크 | ./assets/images/thompson-bros-bunnahabhain-12-yo-pride.webp | [Dailyshot - 톰슨 브라더스 부나하벤 12년 프라이드 오브 아일라 마데이라 캐스크](https://dailyshot.co/m/item/39787) | 2026-11-24 |
+| `glasgow-distillery-10-year-old-oloroso` | 글래스고 2015 10년 올로로쏘 셰리 벗 #15-137 | ./assets/images/glasgow-distillery-10-year-old-oloroso.webp | [Dailyshot - 글래스고 2015 10년 올로로쏘 셰리 벗 #15-137](https://dailyshot.co/m/item/40612) | 2026-11-24 |
+| `bosio-demi-sec-sparkling-zero-white` | 보시오 스파클링 화이트 논알콜릭 드미섹 | ./assets/images/bosio-demi-sec-sparkling-zero-white.webp | [Dailyshot - 보시오 스파클링 화이트 논알콜릭 드미섹](https://dailyshot.co/m/item/37953) | 2026-11-24 |
+| `old-ballantruan-peated-malt` | 올드 발란트루안 피티드 몰트 | ./assets/images/old-ballantruan-peated-malt.webp | [Dailyshot - 올드 발란트루안 피티드 몰트](https://dailyshot.co/m/item/35271) | 2026-11-24 |
+| `andre-perret-st-joseph` | 앙드레 페레 쌩 조셉 | ./assets/images/andre-perret-st-joseph.webp | [Dailyshot - 앙드레 페레 쌩 조셉](https://dailyshot.co/m/item/18630) | 2026-11-24 |
+| `thompson-bros-strathclyde-36-single-grain` | 톰슨 브라더스 스트라스클라이드 36년 싱글 그레인 글래스고 드램 | ./assets/images/thompson-bros-strathclyde-36-single-grain.webp | [Dailyshot - 톰슨 브라더스 스트라스클라이드 36년 싱글 그레인 글래스고 드램](https://dailyshot.co/m/item/39791) | 2026-11-24 |
+| `jobard-morey-hautes-c-tes-de` | 조바르 모레이 오뜨 꼬뜨 드 본 루즈 | ./assets/images/jobard-morey-hautes-c-tes-de.webp | [Dailyshot - 조바르 모레이 오뜨 꼬뜨 드 본 루즈](https://dailyshot.co/m/item/32263) | 2026-11-24 |
+| `glasgow-1770-triple-distilled` | 글래스고 1770 트리플 디스틸드 | ./assets/images/glasgow-1770-triple-distilled.webp | [Dailyshot - 글래스고 1770 트리플 디스틸드](https://dailyshot.co/m/item/6703) | 2026-11-24 |
+| `joseph-carr-chardonnay` | 조셉 칼, 샤르도네 | ./assets/images/joseph-carr-chardonnay.webp | [Dailyshot - 조셉 칼, 샤르도네](https://dailyshot.co/m/item/15211) | 2026-11-24 |
+| `glasgow-1770-px-cask-korean-exclusive` | 글래스고 1770 PX 캐스크 코리안 익스클루시브 | ./assets/images/glasgow-1770-px-cask-korean-exclusive.webp | [Dailyshot - 글래스고 1770 PX 캐스크 코리안 익스클루시브](https://dailyshot.co/m/item/32678) | 2026-11-24 |
+| `maurice-vesselle-grand-cru-les-hauts` | 모리스 베셀 그랑 크뤼 레 오 슈망 블랑 드 누아 엑스트라 브뤼 | ./assets/images/maurice-vesselle-grand-cru-les-hauts.webp | [Dailyshot - 모리스 베셀 그랑 크뤼 레 오 슈망 블랑 드 누아 엑스트라 브뤼](https://dailyshot.co/m/item/28002) | 2026-11-24 |
+| `fleury-cepage-blanc-extra-brut` | 플뢰리 세파주 블랑 엑스트라 브뤼 | ./assets/images/fleury-cepage-blanc-extra-brut.webp | [Dailyshot - 플뢰리 세파주 블랑 엑스트라 브뤼](https://dailyshot.co/m/item/23892) | 2026-11-24 |
+| `whiskynavi-secret-speyside-13` | 위스키내비 시크릿 스페이사이드 13년 | ./assets/images/whiskynavi-secret-speyside-13.webp | [Dailyshot - 위스키내비 시크릿 스페이사이드 13년](https://dailyshot.co/m/item/8146) | 2026-11-24 |
+| `xop-speyside-30-cs` | XOP 스페이사이드 30년 CS | ./assets/images/xop-speyside-30-cs.webp | [Dailyshot - XOP 스페이사이드 30년 CS](https://dailyshot.co/m/item/7956) | 2026-11-24 |
+| `mars-iwai-tradition-sherry-cask-finish` | 마르스 이와이 트레디션 셰리 캐스크 피니시 2024 | ./assets/images/mars-iwai-tradition-sherry-cask-finish.webp | [Dailyshot - 마르스 이와이 트레디션 셰리 캐스크 피니시 2024](https://dailyshot.co/m/item/23388) | 2026-11-24 |
+| `mars-maltage-cosmo-wine-cask-finish` | 마르스 몰티지 코스모 와인 캐스크 피니시 2023 | ./assets/images/mars-maltage-cosmo-wine-cask-finish.webp | [Dailyshot - 마르스 몰티지 코스모 와인 캐스크 피니시 2023](https://dailyshot.co/m/item/16407) | 2026-11-24 |
+| `saint-r-ol-brut-blanc-de` | 생 레올 그랑 크뤼 블랑 드 누아 앙보네 | ./assets/images/saint-r-ol-brut-blanc-de.webp | [Dailyshot - 생 레올 그랑 크뤼 블랑 드 누아 앙보네](https://dailyshot.co/m/item/19816) | 2026-11-24 |
+| `nathalie-falmet-parcelle-zh-302-blanc` | 나탈리 팔메, 팍셀 ZH 302 블랑 드 누아 엑스트라 브뤼 | ./assets/images/nathalie-falmet-parcelle-zh-302-blanc.webp | [Dailyshot - 나탈리 팔메, 팍셀 ZH 302 블랑 드 누아 엑스트라 브뤼](https://dailyshot.co/m/item/8892) | 2026-11-24 |
+| `jerome-prevost-la-closerie-blanc-de` | 제롬 프레보, 라 끌로즈리 블랑 드 누아 엑스트라 브뤼 2021 | ./assets/images/jerome-prevost-la-closerie-blanc-de.webp | [Dailyshot - 제롬 프레보, 라 끌로즈리 블랑 드 누아 엑스트라 브뤼 2021](https://dailyshot.co/m/item/22219) | 2026-11-24 |
+| `nathalie-falmet-le-val-cornet-blanc` | 나탈리 팔메, 르 발 코르네 블랑 드 누아 브뤼 | ./assets/images/nathalie-falmet-le-val-cornet-blanc.webp | [Dailyshot - 나탈리 팔메, 르 발 코르네 블랑 드 누아 브뤼](https://dailyshot.co/m/item/8894) | 2026-11-24 |
+| `creetown-speyside-28` | 크리타운 스페이사이드 28년 | ./assets/images/creetown-speyside-28.webp | [Dailyshot - 크리타운 스페이사이드 28년](https://dailyshot.co/m/item/32679) | 2026-11-24 |
+| `stephane-coquillette-les-cles-blanc-de` | 스테판 꼬끼예뜨, 레 끌레 블랑 드 누아 브뤼 | ./assets/images/stephane-coquillette-les-cles-blanc-de.webp | [Dailyshot - 스테판 꼬끼예뜨, 레 끌레 블랑 드 누아 브뤼](https://dailyshot.co/m/item/24503) | 2026-11-24 |
+| `jean-philippe-trousset-blanc-de-noirs` | 장 필립 트루쎄, 블랑 드 누아 브뤼 나뚜르 | ./assets/images/jean-philippe-trousset-blanc-de-noirs.webp | [Dailyshot - 장 필립 트루쎄, 블랑 드 누아 브뤼 나뚜르](https://dailyshot.co/m/item/8270) | 2026-11-24 |
+| `signatory-speyside-tam-11` | 시그나토리 2013 스페이사이드(TAM) 11년 | ./assets/images/signatory-speyside-tam-11.webp | [Dailyshot - 시그나토리 2013 스페이사이드(TAM) 11년](https://dailyshot.co/m/item/23771) | 2026-11-24 |
+| `whiskynavi-christmas-a-speyside` | 위스키내비 2025 크리스마스 A 스페이사이드 2008 | ./assets/images/whiskynavi-christmas-a-speyside.webp | [Dailyshot - 위스키내비 2025 크리스마스 A 스페이사이드 2008](https://dailyshot.co/m/item/33564) | 2026-11-24 |
+| `whiskynavi-christmas-b-speyside` | 위스키내비 2025 크리스마스 B 스페이사이드 2008 | ./assets/images/whiskynavi-christmas-b-speyside.webp | [Dailyshot - 위스키내비 2025 크리스마스 B 스페이사이드 2008](https://dailyshot.co/m/item/33565) | 2026-11-24 |
+| `mars-the-y-a-02` | 마르스 더 Y.A. #02 | ./assets/images/mars-the-y-a-02.webp | [Dailyshot - 마르스 더 Y.A. #02](https://dailyshot.co/m/item/16345) | 2026-11-24 |
+| `mars-the-lucky-cat-solla` | 마르스 더 럭키 캣 솔라 | ./assets/images/mars-the-lucky-cat-solla.webp | [Dailyshot - 마르스 더 럭키 캣 솔라](https://dailyshot.co/m/item/39632) | 2026-11-24 |
+| `jaffelin-cremant-de-bourgogne-blanc-de` | 자플랑 크레망 드 부르고뉴 블랑 드 누아 성 설피트 | ./assets/images/jaffelin-cremant-de-bourgogne-blanc-de.webp | [Dailyshot - 자플랑 크레망 드 부르고뉴 블랑 드 누아 성 설피트](https://dailyshot.co/m/item/26478) | 2026-11-24 |
+| `signatory-secret-speyside-14` | 시그나토리  2009 시크릿 스페이사이드 14년 | ./assets/images/signatory-secret-speyside-14.webp | [Dailyshot - 시그나토리  2009 시크릿 스페이사이드 14년](https://dailyshot.co/m/item/28085) | 2026-11-24 |
+| `cadenheads-enigma-16-speyside-51-9` | 카덴헤드 이니그마 16년 스페이사이드 51.9% | ./assets/images/cadenheads-enigma-16-speyside-51-9.webp | [Dailyshot - 카덴헤드 이니그마 16년 스페이사이드 51.9%](https://dailyshot.co/m/item/30328) | 2026-11-24 |
+| `benoit-dehu-cuvee-la-rue-des` | 베누아 데위, 뀌베 라 뤼 데 누아예 블랑 드 누아 엑스트라 브뤼 | ./assets/images/benoit-dehu-cuvee-la-rue-des.webp | [Dailyshot - 베누아 데위, 뀌베 라 뤼 데 누아예 블랑 드 누아 엑스트라 브뤼](https://dailyshot.co/m/item/14928) | 2026-11-24 |
+| `paul-john-single-cask-destruction-14384` | 폴존 싱글 캐스크 디스트럭션 #14384 by 생명의물 | ./assets/images/paul-john-single-cask-destruction-14384.webp | [Dailyshot - 폴존 싱글 캐스크 디스트럭션 #14384 by 생명의물](https://dailyshot.co/m/item/22655) | 2026-11-24 |
+| `costieres-de-nimes-zero-sulphites` | 코스티에르 드 님, 제로 술휘뜨 | ./assets/images/costieres-de-nimes-zero-sulphites.webp | [Dailyshot - 코스티에르 드 님, 제로 술휘뜨](https://dailyshot.co/m/item/14136) | 2026-11-24 |
+| `bruichladdich-port-charlotte-olc-01` | 브룩라디 포트샬롯 OLC:01 | ./assets/images/bruichladdich-port-charlotte-olc-01.webp | [Dailyshot - 브룩라디 포트샬롯 OLC:01](https://dailyshot.co/m/item/4863) | 2026-11-24 |
+| `jerome-prevost-la-closerie-fac-simile` | 제롬 프레보, 라 끌로즈리 팩시밀리 로제 블랑 드 누아 엑스트라 브뤼 | ./assets/images/jerome-prevost-la-closerie-fac-simile.webp | [Dailyshot - 제롬 프레보, 라 끌로즈리 팩시밀리 로제 블랑 드 누아 엑스트라 브뤼](https://dailyshot.co/m/item/22218) | 2026-11-24 |
+| `paul-john-brilliance` | 폴존 브릴리언스 | ./assets/images/paul-john-brilliance.webp | [Dailyshot - 폴존 브릴리언스](https://dailyshot.co/m/item/14945) | 2026-11-24 |
+| `paul-john-bold` | 폴존 볼드 | ./assets/images/paul-john-bold.webp | [Dailyshot - 폴존 볼드](https://dailyshot.co/m/item/18147) | 2026-11-24 |
+| `paul-john-peated-oloroso-single-cask` | 폴존 피티드 올로로쏘 싱글 캐스크 | ./assets/images/paul-john-peated-oloroso-single-cask.webp | [Dailyshot - 폴존 피티드 올로로쏘 싱글 캐스크](https://dailyshot.co/m/item/32981) | 2026-11-24 |
+| `paul-john-single-cask-devotion-14390` | 폴존 싱글 캐스크 디보션 #14390 by 생명의물 | ./assets/images/paul-john-single-cask-devotion-14390.webp | [Dailyshot - 폴존 싱글 캐스크 디보션 #14390 by 생명의물](https://dailyshot.co/m/item/22656) | 2026-11-24 |
+| `paul-john-unpeated-oloroso-single-cask` | 폴존 언피티드 올로로쏘 싱글 캐스크 | ./assets/images/paul-john-unpeated-oloroso-single-cask.webp | [Dailyshot - 폴존 언피티드 올로로쏘 싱글 캐스크](https://dailyshot.co/m/item/32883) | 2026-11-24 |
+| `rosebank-30` | 로즈뱅크 30년 | ./assets/images/rosebank-30.webp | [Dailyshot - 로즈뱅크 30년](https://dailyshot.co/m/item/3618) | 2026-11-24 |
+| `rosebank-31` | 로즈뱅크 31년 | ./assets/images/rosebank-31.webp | [Dailyshot - 로즈뱅크 31년](https://dailyshot.co/m/item/14607) | 2026-11-24 |
+| `nathalie-falmet-parcelle-zh-318-blanc` | 나탈리 팔메, 팍셀 ZH 318 블랑 드 누아 엑스트라 브뤼 | ./assets/images/nathalie-falmet-parcelle-zh-318-blanc.webp | [Dailyshot - 나탈리 팔메, 팍셀 ZH 318 블랑 드 누아 엑스트라 브뤼](https://dailyshot.co/m/item/8890) | 2026-11-24 |
+| `smokehead-twisted-stout` | 스모크 헤드 트위스티드 스타우트 | ./assets/images/smokehead-twisted-stout.webp | [Dailyshot - 스모크 헤드 트위스티드 스타우트](https://dailyshot.co/m/item/39463) | 2026-11-24 |
+| `daldal-planet-series-no-4-mars` | 달달 행성 시리즈 No.4 화성 블레어 아솔 12년 | ./assets/images/daldal-planet-series-no-4-mars.webp | [Dailyshot - 달달 행성 시리즈 No.4 화성 블레어 아솔 12년](https://dailyshot.co/m/item/38389) | 2026-11-24 |
+| `macallan-time-space-mastery` | 맥캘란 타임 스페이스 마스터리 | ./assets/images/macallan-time-space-mastery.webp | [Dailyshot - 맥캘란 타임 스페이스 마스터리](https://dailyshot.co/m/item/25726) | 2026-11-24 |
+| `glenfiddich-40-cumulative-time` | 글렌피딕 40년 큐물레이티브 타임 | ./assets/images/glenfiddich-40-cumulative-time.webp | [Dailyshot - 글렌피딕 40년 큐물레이티브 타임](https://dailyshot.co/m/item/13651) | 2026-11-24 |
+| `yamanogotobuki-good-times-summer-session` | 야마노고토부키 굿 타임즈 섬머 세션 | ./assets/images/yamanogotobuki-good-times-summer-session.webp | [Dailyshot - 야마노고토부키 굿 타임즈 섬머 세션](https://dailyshot.co/m/item/35927) | 2026-11-24 |
+| `douglas-laing-port-ellen-39-cs` | 더글라스 랭 1982 포트 엘런 39년 CS 리필 혹스헤드 | ./assets/images/douglas-laing-port-ellen-39-cs.webp | [Dailyshot - 더글라스 랭 1982 포트 엘런 39년 CS 리필 혹스헤드](https://dailyshot.co/m/item/13674) | 2026-11-24 |
+| `yamanokotobuki-good-times-night-session` | 야마노코토부키 굿타임즈 나이트세션 | ./assets/images/yamanokotobuki-good-times-night-session.webp | [Dailyshot - 야마노코토부키 굿타임즈 나이트세션](https://dailyshot.co/m/item/39771) | 2026-11-24 |
+| `ginjyo-umeshu-light` | 긴죠 우메슈 라이트 | ./assets/images/ginjyo-umeshu-light.webp | [Dailyshot - 긴죠 우메슈 라이트](https://dailyshot.co/m/item/29337) | 2026-11-24 |
+| `ilpoom-jinro-18` | 일품진로 18년산 | ./assets/images/ilpoom-jinro-18.webp | [Dailyshot - 일품진로 18년산](https://dailyshot.co/m/item/26170) | 2026-11-24 |
+| `signatory-mortlach-12-year-old-60` | 시그나토리 몰트락 2013 12년 #60 100 프루프 위스키 | ./assets/images/signatory-mortlach-12-year-old-60.webp | [Dailyshot - 시그나토리 몰트락 2013 12년 #60 100 프루프 위스키](https://dailyshot.co/m/item/31587) | 2026-11-24 |
+| `wugusong-40` | 우구송 40% 500ml | ./assets/images/wugusong-40.webp | [Dailyshot - 우구송 40% 500ml](https://dailyshot.co/m/item/36993) | 2026-11-24 |
+| `mortlach-neverbound` | 몰트락 네버바운드 | ./assets/images/mortlach-neverbound.webp | [Dailyshot - 몰트락 네버바운드](https://dailyshot.co/m/item/31980) | 2026-11-24 |
+| `hunter-laing-hepburns-choice-mortlach-13` | 헌터랭 햅번스 초이스 몰트락 13년 | ./assets/images/hunter-laing-hepburns-choice-mortlach-13.webp | [Dailyshot - 헌터랭 햅번스 초이스 몰트락 13년](https://dailyshot.co/m/item/6810) | 2026-11-24 |
+| `signatory-mortlach-17-203-symingtons-choice` | 시그나토리 2007 몰트락 17년 #203 시밍턴 초이스 | ./assets/images/signatory-mortlach-17-203-symingtons-choice.webp | [Dailyshot - 시그나토리 2007 몰트락 17년 #203 시밍턴 초이스](https://dailyshot.co/m/item/29419) | 2026-11-24 |
+| `haechang-daejanggyeong-45` | 해창 대장경 45 | ./assets/images/haechang-daejanggyeong-45.webp | [Dailyshot - 해창 대장경 45](https://dailyshot.co/m/item/32344) | 2026-11-24 |
+| `won-soju-spirit` | 원소주 스피릿 | ./assets/images/won-soju-spirit.webp | [Dailyshot - 원소주 스피릿](https://dailyshot.co/m/item/15187) | 2026-11-24 |
+| `wonhwaseong-42` | 원화성 42% 500ml | ./assets/images/wonhwaseong-42.webp | [Dailyshot - 원화성 42% 500ml](https://dailyshot.co/m/item/22700) | 2026-11-24 |
+| `tokki-soju-black` | 토끼소주 블랙 700ml | ./assets/images/tokki-soju-black.webp | [Dailyshot - 토끼소주 블랙 700ml](https://dailyshot.co/m/item/39941) | 2026-11-24 |
+| `tokki-soju-green` | 토끼소주 그린 | ./assets/images/tokki-soju-green.webp | [Dailyshot - 토끼소주 그린](https://dailyshot.co/m/item/5158) | 2026-11-24 |
+| `tokki-gureum` | 토끼 구름 | ./assets/images/tokki-gureum.webp | [Dailyshot - 토끼 구름](https://dailyshot.co/m/item/8350) | 2026-11-24 |
+| `richard-bavion-prestige-luminous` | 리샤르 바비옹 프레스티지 루미너스 | ./assets/images/richard-bavion-prestige-luminous.webp | [Dailyshot - 리샤르 바비옹 프레스티지 루미너스](https://dailyshot.co/m/item/32663) | 2026-11-24 |
+| `richard-bavion-prestige` | 리샤르 바비옹 프레스티지 | ./assets/images/richard-bavion-prestige.webp | [Dailyshot - 리샤르 바비옹 프레스티지](https://dailyshot.co/m/item/26508) | 2026-11-24 |
+| `capo-di-stato` | 카포 디 스타토 | ./assets/images/capo-di-stato.webp | [Dailyshot - 카포 디 스타토](https://dailyshot.co/m/item/18407) | 2026-11-24 |
+| `de-kuyper-cranberry` | 디카이퍼 크랜베리 | ./assets/images/de-kuyper-cranberry.webp | [Dailyshot - 디카이퍼 크랜베리](https://dailyshot.co/m/item/17102) | 2026-11-24 |
+| `de-kuyper-appletree` | 디카이퍼 애플트리 | ./assets/images/de-kuyper-appletree.webp | [Dailyshot - 디카이퍼 애플트리](https://dailyshot.co/m/item/35052) | 2026-11-24 |
+| `cava-de-oro-tequila-anejo-cristalino` | 카바 데 오로, 데킬라 아네호 크리스탈리노 | ./assets/images/cava-de-oro-tequila-anejo-cristalino.webp | [Dailyshot - 카바 데 오로, 데킬라 아네호 크리스탈리노](https://dailyshot.co/m/item/32803) | 2026-11-24 |
+| `hatsumidori-junmai-ginjo-muroka-nama-genshu` | 하츠미도리 준마이 긴죠 무로카 나마 겐슈 | ./assets/images/hatsumidori-junmai-ginjo-muroka-nama-genshu.webp | [Dailyshot - 하츠미도리 준마이 긴죠 무로카 나마 겐슈](https://dailyshot.co/m/item/25866) | 2026-11-24 |
+| `midorikawa-cask-collection-master-brewers-select` | 미도리카와 캐스크 컬렉션 마스터 브루어스 셀렉트 | ./assets/images/midorikawa-cask-collection-master-brewers-select.webp | [Dailyshot - 미도리카와 캐스크 컬렉션 마스터 브루어스 셀렉트](https://dailyshot.co/m/item/39692) | 2026-11-24 |
+| `cenote-blanco-tequila` | 세노테 블랑코 데킬라 | ./assets/images/cenote-blanco-tequila.webp | [Dailyshot - 세노테 블랑코 데킬라](https://dailyshot.co/m/item/5447) | 2026-11-24 |
+| `wanted-cab` | 원티드 캡 | ./assets/images/wanted-cab.webp | [Dailyshot - 원티드 캡](https://dailyshot.co/m/item/17240) | 2026-11-24 |
+| `bols-kirsch` | 볼스 커리쉬 | ./assets/images/bols-kirsch.webp | [Dailyshot - 볼스 커리쉬](https://dailyshot.co/m/item/12190) | 2026-11-24 |
+| `fio-wines-cabi-sehr-nett` | 피오 와인즈 카비(제어)넷 | ./assets/images/fio-wines-cabi-sehr-nett.webp | [Dailyshot - 피오 와인즈 카비(제어)넷](https://dailyshot.co/m/item/9669) | 2026-11-24 |
+| `mondeunghag-4-sung` | 문등학 4성 | ./assets/images/mondeunghag-4-sung.webp | [Dailyshot - 문등학 4성](https://dailyshot.co/m/item/18156) | 2026-11-24 |
+| `megori-andong-soju-79au` | 미고리 안동소주 79Au | ./assets/images/megori-andong-soju-79au.webp | [Dailyshot - 미고리 안동소주 79Au](https://dailyshot.co/m/item/34475) | 2026-11-24 |
+| `provenance-jura-8` | 프로비넌스 주라 8년 | ./assets/images/provenance-jura-8.webp | [Dailyshot - 프로비넌스 주라 8년](https://dailyshot.co/m/item/5102) | 2026-11-24 |
+| `jura-the-sound` | 주라 더 사운드 1L | ./assets/images/jura-the-sound.webp | [Dailyshot - 주라 더 사운드 1L](https://dailyshot.co/m/item/23275) | 2026-11-24 |
+| `jura-prophecy` | 주라 프로페시 | ./assets/images/jura-prophecy.webp | [Dailyshot - 주라 프로페시](https://dailyshot.co/m/item/2347) | 2026-11-24 |
+| `jura-13` | 주라 13년 1L | ./assets/images/jura-13.webp | [Dailyshot - 주라 13년 1L](https://dailyshot.co/m/item/38536) | 2026-11-24 |
+| `jura-aeven-wood` | 주라 세븐 우드 | ./assets/images/jura-aeven-wood.webp | [Dailyshot - 주라 세븐 우드](https://dailyshot.co/m/item/6946) | 2026-11-24 |
+| `jura-rare-vintage` | 주라 1993 레어 빈티지 | ./assets/images/jura-rare-vintage.webp | [Dailyshot - 주라 1993 레어 빈티지](https://dailyshot.co/m/item/23267) | 2026-11-24 |
+| `jura-diurachs-own-16` | 주라 드라스 온 16년 | ./assets/images/jura-diurachs-own-16.webp | [Dailyshot - 주라 드라스 온 16년](https://dailyshot.co/m/item/6944) | 2026-11-24 |
+| `jura-the-bay-12` | 주라 더 베이 12년 1L | ./assets/images/jura-the-bay-12.webp | [Dailyshot - 주라 더 베이 12년 1L](https://dailyshot.co/m/item/23274) | 2026-11-24 |
+| `jura-the-paps-19` | 주라 더 팹스 19년 | ./assets/images/jura-the-paps-19.webp | [Dailyshot - 주라 더 팹스 19년](https://dailyshot.co/m/item/23273) | 2026-11-24 |
+| `jameson-triple-triple` | 제임슨 트리플 트리플 1L | ./assets/images/jameson-triple-triple.webp | [Dailyshot - 제임슨 트리플 트리플 1L](https://dailyshot.co/m/item/32961) | 2026-11-24 |
+| `jameson-12` | 제임슨 12년 1L | ./assets/images/jameson-12.webp | [Dailyshot - 제임슨 12년 1L](https://dailyshot.co/m/item/19998) | 2026-11-24 |
+| `thompson-bros-north-british-34-single` | 톰슨 브라더스 노스 브리티시 34년 싱글 그레인 에든버러 드램 | ./assets/images/thompson-bros-north-british-34-single.webp | [Dailyshot - 톰슨 브라더스 노스 브리티시 34년 싱글 그레인 에든버러 드램](https://dailyshot.co/m/item/39789) | 2026-11-24 |
+| `leegangju-25` | 이강주 일러스트 25 | ./assets/images/leegangju-25.webp | [Dailyshot - 이강주 일러스트 25](https://dailyshot.co/m/item/9346) | 2026-11-24 |
+| `jura-16` | 주라 16년 | ./assets/images/jura-16.webp | [Dailyshot - 주라 16년](https://dailyshot.co/m/item/38507) | 2026-11-24 |
+| `yong-41` | 용 41% | ./assets/images/yong-41.webp | [Dailyshot - 용 41%](https://dailyshot.co/m/item/14836) | 2026-11-24 |
+| `leegangju-moon-clay-pot-38-1` | 이강주 달 항아리 38% 1,000ml | ./assets/images/leegangju-moon-clay-pot-38-1.webp | [Dailyshot - 이강주 달 항아리 38% 1,000ml](https://dailyshot.co/m/item/39054) | 2026-11-24 |
+| `signatory-north-british-15-single-grain` | 시그나토리 2009 노스 브리티쉬 15년 싱글 그레인 100 프루프 #2 | ./assets/images/signatory-north-british-15-single-grain.webp | [Dailyshot - 시그나토리 2009 노스 브리티쉬 15년 싱글 그레인 100 프루프 #2](https://dailyshot.co/m/item/39150) | 2026-11-24 |
+| `master-andong-soju` | 명인 안동소주 | ./assets/images/master-andong-soju.webp | [Dailyshot - 명인 안동소주](https://dailyshot.co/m/item/7021) | 2026-11-24 |
+| `andong-soju-olso` | 안동소주 올소 25% | ./assets/images/andong-soju-olso.webp | [Dailyshot - 안동소주 올소 25%](https://dailyshot.co/m/item/16755) | 2026-11-24 |
+| `jura-21` | 주라 21년 | ./assets/images/jura-21.webp | [Dailyshot - 주라 21년](https://dailyshot.co/m/item/5991) | 2026-11-24 |
+| `jura-origin` | 주라 오리진 | ./assets/images/jura-origin.webp | [Dailyshot - 주라 오리진](https://dailyshot.co/m/item/10114) | 2026-11-24 |
+| `jura-superstition` | 주라 슈퍼스티션 | ./assets/images/jura-superstition.webp | [Dailyshot - 주라 슈퍼스티션](https://dailyshot.co/m/item/6945) | 2026-11-24 |
+| `leegangju-1` | 이강주 1호 | ./assets/images/leegangju-1.webp | [Dailyshot - 이강주 1호](https://dailyshot.co/m/item/9417) | 2026-11-24 |
+| `arette-clasico-blanco` | 아레테 클라시코 블랑코 | ./assets/images/arette-clasico-blanco.webp | [Dailyshot - 아레테 클라시코 블랑코](https://dailyshot.co/m/item/40055) | 2026-11-24 |
+| `arette-blanco-artesanal` | 아레테 블랑코 아르테사날 | ./assets/images/arette-blanco-artesanal.webp | [Dailyshot - 아레테 블랑코 아르테사날](https://dailyshot.co/m/item/40053) | 2026-11-24 |
+| `arette-fuerte-blanco` | 아레테 푸에르테 블랑코 | ./assets/images/arette-fuerte-blanco.webp | [Dailyshot - 아레테 푸에르테 블랑코](https://dailyshot.co/m/item/40050) | 2026-11-24 |
+| `benromach-unpeated-12` | 벤로막 언피티드 12년 | ./assets/images/benromach-unpeated-12.webp | [Dailyshot - 벤로막 언피티드 12년](https://dailyshot.co/m/item/30179) | 2026-11-24 |
+| `benromach-40` | 벤로막 40년 2021 | ./assets/images/benromach-40.webp | [Dailyshot - 벤로막 40년 2021](https://dailyshot.co/m/item/8504) | 2026-11-24 |
+| `benromach-cask-strength-batch-1` | 벤로막 2015 CS 배치 1 | ./assets/images/benromach-cask-strength-batch-1.webp | [Dailyshot - 벤로막 2015 CS 배치 1](https://dailyshot.co/m/item/40680) | 2026-11-24 |
+| `el-coco-blanco` | 엘코코 블랑코 | ./assets/images/el-coco-blanco.webp | [Dailyshot - 엘코코 블랑코](https://dailyshot.co/m/item/39389) | 2026-11-24 |
+| `sommos-gl-rima-blanco` | 소모스 글라리마 블랑코 | ./assets/images/sommos-gl-rima-blanco.webp | [Dailyshot - 소모스 글라리마 블랑코](https://dailyshot.co/m/item/36403) | 2026-11-24 |
+| `do-a-celia-blanco` | 도냐 첼리아 블랑코 | ./assets/images/do-a-celia-blanco.webp | [Dailyshot - 도냐 첼리아 블랑코](https://dailyshot.co/m/item/31430) | 2026-11-24 |
+| `tabernero-pisco-quebranta` | 타베르네로 피스코 케브란타 | ./assets/images/tabernero-pisco-quebranta.webp | [Dailyshot - 타베르네로 피스코 케브란타](https://dailyshot.co/m/item/37212) | 2026-11-24 |
+| `la-spinetta-grappa-di-moscato-bricco` | 라 스피네따 그라빠 디 모스카토 브리꼬 콸리아 | ./assets/images/la-spinetta-grappa-di-moscato-bricco.webp | [Dailyshot - 라 스피네따 그라빠 디 모스카토 브리꼬 콸리아](https://dailyshot.co/m/item/15732) | 2026-11-24 |
+| `grappa-tradizionale` | 그라파 트라디찌오날레 | ./assets/images/grappa-tradizionale.webp | [Dailyshot - 그라파 트라디찌오날레](https://dailyshot.co/m/item/5089) | 2026-11-24 |
+| `watt-whisky-royal-brackla-11-year` | 와트 위스키 로얄 브라클라 2014 11년 위스키 | ./assets/images/watt-whisky-royal-brackla-11-year.webp | [Dailyshot - 와트 위스키 로얄 브라클라 2014 11년 위스키](https://dailyshot.co/m/item/40443) | 2026-11-24 |
+| `silent-pool-mediterranean-gin` | 사일런트 풀 메디테라니언 1L | ./assets/images/silent-pool-mediterranean-gin.webp | [Dailyshot - 사일런트 풀 메디테라니언 1L](https://dailyshot.co/m/item/34691) | 2026-11-24 |
+| `benromach-contrasts-high-enzyme` | 벤로막 콘트라스트: 하이 엔자임 | ./assets/images/benromach-contrasts-high-enzyme.webp | [Dailyshot - 벤로막 콘트라스트: 하이 엔자임](https://dailyshot.co/m/item/27976) | 2026-11-24 |
+| `silent-pool-gin` | 사일런트 풀 진 1L | ./assets/images/silent-pool-gin.webp | [Dailyshot - 사일런트 풀 진 1L](https://dailyshot.co/m/item/34692) | 2026-11-24 |
+| `ryuka-single-malt-endless-summer` | 류카 싱글몰트 엔드리스 서머 2026 | ./assets/images/ryuka-single-malt-endless-summer.webp | [Dailyshot - 류카 싱글몰트 엔드리스 서머 2026](https://dailyshot.co/m/item/40641) | 2026-11-24 |
+| `kirin-single-blended-whisky-fuji` | 기린 싱글 블렌디드 위스키 후지 | ./assets/images/kirin-single-blended-whisky-fuji.webp | [Dailyshot - 기린 싱글 블렌디드 위스키 후지](https://dailyshot.co/m/item/28636) | 2026-11-24 |
+| `solisca-blanco` | 솔리스카 블랑코 | ./assets/images/solisca-blanco.webp | [Dailyshot - 솔리스카 블랑코](https://dailyshot.co/m/item/33987) | 2026-11-24 |
+| `cincoro-blanco` | 싱코로 블랑코 | ./assets/images/cincoro-blanco.webp | [Dailyshot - 싱코로 블랑코](https://dailyshot.co/m/item/28900) | 2026-11-24 |
+| `superbloom-blanco` | 슈퍼블룸 블랑코 | ./assets/images/superbloom-blanco.webp | [Dailyshot - 슈퍼블룸 블랑코](https://dailyshot.co/m/item/28516) | 2026-11-24 |
+| `whitley-neill-raspberry-gin` | 휘틀리 닐 라즈베리 진 | ./assets/images/whitley-neill-raspberry-gin.webp | [Dailyshot - 휘틀리 닐 라즈베리 진](https://dailyshot.co/m/item/4662) | 2026-11-24 |
+| `benromach-contrasts-organic` | 벤로막 콘트라스트: 오가닉 | ./assets/images/benromach-contrasts-organic.webp | [Dailyshot - 벤로막 콘트라스트: 오가닉](https://dailyshot.co/m/item/19977) | 2026-11-24 |
+| `amaraya-blanco` | 아마라야 블랑코 | ./assets/images/amaraya-blanco.webp | [Dailyshot - 아마라야 블랑코](https://dailyshot.co/m/item/38748) | 2026-11-24 |
+| `polini-limoncello-anfora` | 폴리니 리몬첼로 안포라 500ml | ./assets/images/polini-limoncello-anfora.webp | [Dailyshot - 폴리니 리몬첼로 안포라 500ml](https://dailyshot.co/m/item/10268) | 2026-11-24 |
+| `marie-brizard-white-mint` | 마리브리자드 민트 화이트 | ./assets/images/marie-brizard-white-mint.webp | [Dailyshot - 마리브리자드 민트 화이트](https://dailyshot.co/m/item/11794) | 2026-11-24 |
+| `codigo-1530-anejo` | 코디고 1530 아네호 | ./assets/images/codigo-1530-anejo.webp | [Dailyshot - 코디고 1530 아네호](https://dailyshot.co/m/item/31982) | 2026-11-24 |
+| `marie-brizard-brown-cocoa` | 마리브리자드 카카오 브라운 | ./assets/images/marie-brizard-brown-cocoa.webp | [Dailyshot - 마리브리자드 카카오 브라운](https://dailyshot.co/m/item/11795) | 2026-11-24 |
+| `marie-brizard-lime-juice` | 마리브리자드 라임 주스 | ./assets/images/marie-brizard-lime-juice.webp | [Dailyshot - 마리브리자드 라임 주스](https://dailyshot.co/m/item/5881) | 2026-11-24 |
+| `identity-anejo` | 아이덴티티 아네호 | ./assets/images/identity-anejo.webp | [Dailyshot - 아이덴티티 아네호](https://dailyshot.co/m/item/26871) | 2026-11-24 |
+| `arette-anejo-artesanal` | 아레테 아네호 아르테사날 | ./assets/images/arette-anejo-artesanal.webp | [Dailyshot - 아레테 아네호 아르테사날](https://dailyshot.co/m/item/40051) | 2026-11-24 |
+| `marie-brizard-white-cocoa` | 마리브리자드 화이트 코코아 | ./assets/images/marie-brizard-white-cocoa.webp | [Dailyshot - 마리브리자드 화이트 코코아](https://dailyshot.co/m/item/9804) | 2026-11-24 |
+| `komos-anejo-cristalino` | 코모스 아네호 크리스탈리노 | ./assets/images/komos-anejo-cristalino.webp | [Dailyshot - 코모스 아네호 크리스탈리노](https://dailyshot.co/m/item/22691) | 2026-11-24 |
+| `identity-anejo-cristalino` | 아이덴티티 아네호 크리스탈리노 | ./assets/images/identity-anejo-cristalino.webp | [Dailyshot - 아이덴티티 아네호 크리스탈리노](https://dailyshot.co/m/item/12307) | 2026-11-24 |
+| `arette-gran-clase-extra-anejo` | 아레테 그란 클라세 엑스트라 아네호 | ./assets/images/arette-gran-clase-extra-anejo.webp | [Dailyshot - 아레테 그란 클라세 엑스트라 아네호](https://dailyshot.co/m/item/40049) | 2026-11-24 |
+| `marie-brizard-vanilia-sucre` | 마리브리자드 바닐라 시럽 | ./assets/images/marie-brizard-vanilia-sucre.webp | [Dailyshot - 마리브리자드 바닐라 시럽](https://dailyshot.co/m/item/11803) | 2026-11-24 |
+| `the-vice-extra-anejo-cabernet-sauvignon` | 더 바이스 엑스트라 아네호 까베르네 소비뇽 2017 | ./assets/images/the-vice-extra-anejo-cabernet-sauvignon.webp | [Dailyshot - 더 바이스 엑스트라 아네호 까베르네 소비뇽 2017](https://dailyshot.co/m/item/35373) | 2026-11-24 |
+| `arette-clasico-reposado` | 아레테 클라시코 레포사도 | ./assets/images/arette-clasico-reposado.webp | [Dailyshot - 아레테 클라시코 레포사도](https://dailyshot.co/m/item/40054) | 2026-11-24 |
+| `arette-reposado-artesanal` | 아레테 레포사도 아르테사날 | ./assets/images/arette-reposado-artesanal.webp | [Dailyshot - 아레테 레포사도 아르테사날](https://dailyshot.co/m/item/40052) | 2026-11-24 |
+| `do-a-celia-reposado` | 도냐 첼리아 레포사도 | ./assets/images/do-a-celia-reposado.webp | [Dailyshot - 도냐 첼리아 레포사도](https://dailyshot.co/m/item/31429) | 2026-11-24 |
+| `molinari-limoncello-di-capri` | 몰리나리 리몬첼로 디 카프리 | ./assets/images/molinari-limoncello-di-capri.webp | [Dailyshot - 몰리나리 리몬첼로 디 카프리](https://dailyshot.co/m/item/23631) | 2026-11-24 |
+| `chulavista-reposado` | 출라비스타 레포사도 | ./assets/images/chulavista-reposado.webp | [Dailyshot - 출라비스타 레포사도](https://dailyshot.co/m/item/37209) | 2026-11-24 |
+| `giffard-premium-caf-du-honduras` | 지파드 프리미엄 카페 두 온두라스 | ./assets/images/giffard-premium-caf-du-honduras.webp | [Dailyshot - 지파드 프리미엄 카페 두 온두라스](https://dailyshot.co/m/item/21610) | 2026-11-24 |
+| `giffard-menthe-pastille` | 지파드 멘트 파스틸 | ./assets/images/giffard-menthe-pastille.webp | [Dailyshot - 지파드 멘트 파스틸](https://dailyshot.co/m/item/21616) | 2026-11-24 |
+| `kirakira-taiyo-banana` | 키라키라 타이요 바나나 | ./assets/images/kirakira-taiyo-banana.webp | [Dailyshot - 키라키라 타이요 바나나](https://dailyshot.co/m/item/15758) | 2026-11-24 |
+| `ocho-anejo` | 오초 아네호 | ./assets/images/ocho-anejo.webp | [Dailyshot - 오초 아네호](https://dailyshot.co/m/item/27131) | 2026-11-24 |
+| `giffard-cr-me-de-cacao-white` | 지파드 크림 드 카카오 화이트 | ./assets/images/giffard-cr-me-de-cacao-white.webp | [Dailyshot - 지파드 크림 드 카카오 화이트](https://dailyshot.co/m/item/21615) | 2026-11-24 |
+| `giffard-premium-caribbean-pineapple` | 지파드 프리미엄 캐리비안 파인애플 | ./assets/images/giffard-premium-caribbean-pineapple.webp | [Dailyshot - 지파드 프리미엄 캐리비안 파인애플](https://dailyshot.co/m/item/17693) | 2026-11-24 |
+| `giffard-premium-piment-despelette` | 지파드 프리미엄 피망 데스플레뜨 | ./assets/images/giffard-premium-piment-despelette.webp | [Dailyshot - 지파드 프리미엄 피망 데스플레뜨](https://dailyshot.co/m/item/17694) | 2026-11-24 |
+| `manaturu-junmai-daiginjo-sakaguradamashii-sakahomare` | 마나츠루 준마이 다이긴죠 사카구라다마시이 사카호마레 | ./assets/images/manaturu-junmai-daiginjo-sakaguradamashii-sakahomare.webp | [Dailyshot - 마나츠루 준마이 다이긴죠 사카구라다마시이 사카호마레](https://dailyshot.co/m/item/40470) | 2026-11-24 |
+| `appleton-special` | 애플톤 스페셜 | ./assets/images/appleton-special.webp | [Dailyshot - 애플톤 스페셜](https://dailyshot.co/m/item/8168) | 2026-11-24 |
+| `chateau-pape-clement` | 샤또 빠쁘 끌레망 2021 | ./assets/images/chateau-pape-clement.webp | [Dailyshot - 샤또 빠쁘 끌레망 2021](https://dailyshot.co/m/item/34455) | 2026-11-24 |
+| `diplomatico-ambassador` | 디플로마티코 앰베서더 | ./assets/images/diplomatico-ambassador.webp | [Dailyshot - 디플로마티코 앰베서더](https://dailyshot.co/m/item/5047) | 2026-11-24 |
+| `town-branch-overproof` | 타운브랜치 오버프루프 | ./assets/images/town-branch-overproof.webp | [Dailyshot - 타운브랜치 오버프루프](https://dailyshot.co/m/item/28429) | 2026-11-24 |
+| `dijon-peach-liqueur` | 디종 복숭아 | ./assets/images/dijon-peach-liqueur.webp | [Dailyshot - 디종 복숭아](https://dailyshot.co/m/item/36264) | 2026-11-24 |
+| `juyondai-graceful-yuga-wine-liqueur` | 쥬욘다이 그레이스풀 유우가 와인 리큐르 | ./assets/images/juyondai-graceful-yuga-wine-liqueur.webp | [Dailyshot - 쥬욘다이 그레이스풀 유우가 와인 리큐르](https://dailyshot.co/m/item/40639) | 2026-11-24 |
+| `chales-clement-brut` | 샤를 크레망 브뤼 | ./assets/images/chales-clement-brut.webp | [Dailyshot - 샤를 크레망 브뤼](https://dailyshot.co/m/item/17261) | 2026-11-24 |
+| `chateau-pape-clement-blanc` | 샤또 빠쁘 끌레망 블랑 | ./assets/images/chateau-pape-clement-blanc.webp | [Dailyshot - 샤또 빠쁘 끌레망 블랑](https://dailyshot.co/m/item/27782) | 2026-11-24 |
+| `malibu-lime` | 말리부 라임 | ./assets/images/malibu-lime.webp | [Dailyshot - 말리부 라임](https://dailyshot.co/m/item/5204) | 2026-11-24 |
+| `plantation-isle-of-fiji` | 플랜테이션 아일 오브 피지 | ./assets/images/plantation-isle-of-fiji.webp | [Dailyshot - 플랜테이션 아일 오브 피지](https://dailyshot.co/m/item/7512) | 2026-11-24 |
+| `plantation-grande-reserve` | 플랜테이션 그랑 리저브 | ./assets/images/plantation-grande-reserve.webp | [Dailyshot - 플랜테이션 그랑 리저브](https://dailyshot.co/m/item/5590) | 2026-11-24 |
+| `charles-clement-brut` | 샤를 클레망 브뤼 | ./assets/images/charles-clement-brut.webp | [Dailyshot - 샤를 클레망 브뤼](https://dailyshot.co/m/item/18359) | 2026-11-24 |
+| `dijon-fig-liqueur` | 디종 무화과 | ./assets/images/dijon-fig-liqueur.webp | [Dailyshot - 디종 무화과](https://dailyshot.co/m/item/36269) | 2026-11-24 |
+| `glen-scotia-10` | 글렌스코샤 10년 | ./assets/images/glen-scotia-10.webp | [Dailyshot - 글렌스코샤 10년](https://dailyshot.co/m/item/8952) | 2026-11-24 |
+| `dijon-grapefruit-liqueur` | 디종 자몽 | ./assets/images/dijon-grapefruit-liqueur.webp | [Dailyshot - 디종 자몽](https://dailyshot.co/m/item/36270) | 2026-11-24 |
+| `glen-scotia-48` | 글렌스코샤 48년 | ./assets/images/glen-scotia-48.webp | [Dailyshot - 글렌스코샤 48년](https://dailyshot.co/m/item/34662) | 2026-11-24 |
+| `jagermeister-manifest` | 예거마이스터 매니페스트 1L | ./assets/images/jagermeister-manifest.webp | [Dailyshot - 예거마이스터 매니페스트 1L](https://dailyshot.co/m/item/22854) | 2026-11-24 |
+| `glen-scotia-25` | 글렌스코샤 25년 | ./assets/images/glen-scotia-25.webp | [Dailyshot - 글렌스코샤 25년](https://dailyshot.co/m/item/13607) | 2026-11-24 |
+| `dijon-lychee-liqueur` | 디종 리치 | ./assets/images/dijon-lychee-liqueur.webp | [Dailyshot - 디종 리치](https://dailyshot.co/m/item/36274) | 2026-11-24 |
+| `hermes-banana-liqueur` | 헤르메스 바나나 리큐르 | ./assets/images/hermes-banana-liqueur.webp | [Dailyshot - 헤르메스 바나나 리큐르](https://dailyshot.co/m/item/36674) | 2026-11-24 |
+| `glen-scotia-8-korea-exclusive-tawny` | 글렌스코샤 8년 코리아 익스클루시브 토니 포트 혹스헤드 | ./assets/images/glen-scotia-8-korea-exclusive-tawny.webp | [Dailyshot - 글렌스코샤 8년 코리아 익스클루시브 토니 포트 혹스헤드](https://dailyshot.co/m/item/24475) | 2026-11-24 |
+| `dijon-lemon-liqueur` | 디종 레몬 | ./assets/images/dijon-lemon-liqueur.webp | [Dailyshot - 디종 레몬](https://dailyshot.co/m/item/36271) | 2026-11-24 |
+| `dijon-apricot-liqueur` | 디종 에프리콧 | ./assets/images/dijon-apricot-liqueur.webp | [Dailyshot - 디종 에프리콧](https://dailyshot.co/m/item/36272) | 2026-11-24 |
+| `the-perfect-fifth-glen-scotia` | 더 퍼펙트 핍스 글렌스코샤 1992 | ./assets/images/the-perfect-fifth-glen-scotia.webp | [Dailyshot - 더 퍼펙트 핍스 글렌스코샤 1992](https://dailyshot.co/m/item/4588) | 2026-11-24 |
+| `chateau-clement-saint-jean` | 샤또 끌레망 생 장 | ./assets/images/chateau-clement-saint-jean.webp | [Dailyshot - 샤또 끌레망 생 장](https://dailyshot.co/m/item/8469) | 2026-11-24 |
+| `el-dorado-rum-15` | 엘 도라도 럼 15년 | ./assets/images/el-dorado-rum-15.webp | [Dailyshot - 엘 도라도 럼 15년](https://dailyshot.co/m/item/13643) | 2026-11-24 |
+| `bacardi-10` | 바카디 10년 1L | ./assets/images/bacardi-10.webp | [Dailyshot - 바카디 10년 1L](https://dailyshot.co/m/item/22896) | 2026-11-24 |
+| `bacardi-peach-red` | 바카디 피치 레드 | ./assets/images/bacardi-peach-red.webp | [Dailyshot - 바카디 피치 레드](https://dailyshot.co/m/item/23102) | 2026-11-24 |
+| `bacardi-spiced` | 바카디 스파이스드 럼 1L | ./assets/images/bacardi-spiced.webp | [Dailyshot - 바카디 스파이스드 럼 1L](https://dailyshot.co/m/item/22885) | 2026-11-24 |
+| `doorlys-14-year-old` | 두얼리스 14년 | ./assets/images/doorlys-14-year-old.webp | [Dailyshot - 두얼리스 14년](https://dailyshot.co/m/item/33806) | 2026-11-24 |
+| `el-dorado-rum-12` | 엘 도라도 럼 12년 | ./assets/images/el-dorado-rum-12.webp | [Dailyshot - 엘 도라도 럼 12년](https://dailyshot.co/m/item/28759) | 2026-11-24 |
+| `bacardi-facundo-exquisito` | 바카디 파쿤도 엑스퀴지토 | ./assets/images/bacardi-facundo-exquisito.webp | [Dailyshot - 바카디 파쿤도 엑스퀴지토](https://dailyshot.co/m/item/34683) | 2026-11-24 |
+| `bacardi-facundo-eximo` | 바카디 파쿤도 엑시모 | ./assets/images/bacardi-facundo-eximo.webp | [Dailyshot - 바카디 파쿤도 엑시모](https://dailyshot.co/m/item/34684) | 2026-11-24 |
+| `bacardi-mojito` | 바카디 모히토 1L | ./assets/images/bacardi-mojito.webp | [Dailyshot - 바카디 모히토 1L](https://dailyshot.co/m/item/40412) | 2026-11-24 |
+| `bacardi-gold` | 바카디 골드 1L | ./assets/images/bacardi-gold.webp | [Dailyshot - 바카디 골드 1L](https://dailyshot.co/m/item/34679) | 2026-11-24 |
+| `bacardi-limon` | 바카디 리몬 1L | ./assets/images/bacardi-limon.webp | [Dailyshot - 바카디 리몬 1L](https://dailyshot.co/m/item/34680) | 2026-11-24 |
+| `bacardi-facundo-neo` | 바카디 파쿤도 네오 | ./assets/images/bacardi-facundo-neo.webp | [Dailyshot - 바카디 파쿤도 네오](https://dailyshot.co/m/item/34682) | 2026-11-24 |
+| `logan-clementine-rose` | 로건, 클레멘타인 피노 그리 | ./assets/images/logan-clementine-rose.webp | [Dailyshot - 로건, 클레멘타인 피노 그리](https://dailyshot.co/m/item/8945) | 2026-11-24 |
+| `teeling-sinlge-malt-30-yo` | 틸링 싱글몰트 30년 | ./assets/images/teeling-sinlge-malt-30-yo.webp | [Dailyshot - 틸링 싱글몰트 30년](https://dailyshot.co/m/item/5096) | 2026-11-24 |
+| `dictador-20` | 딕타도르 20년 | ./assets/images/dictador-20.webp | [Dailyshot - 딕타도르 20년](https://dailyshot.co/m/item/17543) | 2026-11-24 |
+| `captain-morgan-dark-rum` | 캡틴 모건 다크 럼 | ./assets/images/captain-morgan-dark-rum.webp | [Dailyshot - 캡틴 모건 다크 럼](https://dailyshot.co/m/item/29132) | 2026-11-24 |
+| `logan-clementine-blushing-minnie` | 로건 클레멘타인 블러싱 미니 | ./assets/images/logan-clementine-blushing-minnie.webp | [Dailyshot - 로건 클레멘타인 블러싱 미니](https://dailyshot.co/m/item/32582) | 2026-11-24 |
+| `woodlands-clementine` | 우드랜즈 클레멘타인 | ./assets/images/woodlands-clementine.webp | [Dailyshot - 우드랜즈 클레멘타인](https://dailyshot.co/m/item/23842) | 2026-11-24 |
+| `bacardi-caribbean-spiced` | 바카디 캐리비안 스파이스 1L | ./assets/images/bacardi-caribbean-spiced.webp | [Dailyshot - 바카디 캐리비안 스파이스 1L](https://dailyshot.co/m/item/34681) | 2026-11-24 |
+| `bacardi-reserva-ocho` | 바카디 리제르바 오초 | ./assets/images/bacardi-reserva-ocho.webp | [Dailyshot - 바카디 리제르바 오초](https://dailyshot.co/m/item/5198) | 2026-11-24 |
+| `bacardi-big-apple` | 바카디 빅 애플 | ./assets/images/bacardi-big-apple.webp | [Dailyshot - 바카디 빅 애플](https://dailyshot.co/m/item/6530) | 2026-11-24 |
+| `havana-club-frenna-7` | 하바나 클럽 프레나 7년 | ./assets/images/havana-club-frenna-7.webp | [Dailyshot - 하바나 클럽 프레나 7년](https://dailyshot.co/m/item/21663) | 2026-11-24 |
+| `havana-club-7` | 하바나 클럽 7년 | ./assets/images/havana-club-7.webp | [Dailyshot - 하바나 클럽 7년](https://dailyshot.co/m/item/7513) | 2026-11-24 |
+| `doorlys-12-year-old` | 두얼리스 12년 | ./assets/images/doorlys-12-year-old.webp | [Dailyshot - 두얼리스 12년](https://dailyshot.co/m/item/36795) | 2026-11-24 |
+| `yanghe-golden-horse-ceramic-68` | 양하 골든 호스 세라믹 68% 1L | ./assets/images/yanghe-golden-horse-ceramic-68.webp | [Dailyshot - 양하 골든 호스 세라믹 68% 1L](https://dailyshot.co/m/item/39525) | 2026-11-24 |
+| `yanghe-gold-52` | 양하골드 52% 500ml | ./assets/images/yanghe-gold-52.webp | [Dailyshot - 양하골드 52% 500ml](https://dailyshot.co/m/item/35244) | 2026-11-24 |
+| `domaine-tortochot-gevrey-chambertin-vieilles-vignes` | 도멘 토르토쇼, 쥬브레 샹베르땡 비에이 비뉴 | ./assets/images/domaine-tortochot-gevrey-chambertin-vieilles-vignes.webp | [Dailyshot - 도멘 토르토쇼, 쥬브레 샹베르땡 비에이 비뉴](https://dailyshot.co/m/item/32073) | 2026-11-24 |
+| `mengzhilan-shou-gong-ban-52` | 몽지람 수공반 52% 500ml | ./assets/images/mengzhilan-shou-gong-ban-52.webp | [Dailyshot - 몽지람 수공반 52% 500ml](https://dailyshot.co/m/item/31888) | 2026-11-24 |
+| `domaine-tortochot-morey-saint-denis-premier` | 도멘 토르토쇼, 모레 생 드니 프리미에 크뤼 르네상스 | ./assets/images/domaine-tortochot-morey-saint-denis-premier.webp | [Dailyshot - 도멘 토르토쇼, 모레 생 드니 프리미에 크뤼 르네상스](https://dailyshot.co/m/item/32075) | 2026-11-24 |
+| `domaine-tortochot-gevrey-chambertin-les-jeunes` | 도멘 토르토쇼, 쥬브레 샹베르땡 레 젠느 루아 | ./assets/images/domaine-tortochot-gevrey-chambertin-les-jeunes.webp | [Dailyshot - 도멘 토르토쇼, 쥬브레 샹베르땡 레 젠느 루아](https://dailyshot.co/m/item/32074) | 2026-11-24 |
+| `luzhou-laojiao-erqu-38` | 노주노교 이곡 38% 500ml | ./assets/images/luzhou-laojiao-erqu-38.webp | [Dailyshot - 노주노교 이곡 38% 500ml](https://dailyshot.co/m/item/30471) | 2026-11-24 |
+| `le-petit-cochonnet-chardonnay` | 르 쁘띠 꼬쇼네 샤르도네 | ./assets/images/le-petit-cochonnet-chardonnay.webp | [Dailyshot - 르 쁘띠 꼬쇼네 샤르도네](https://dailyshot.co/m/item/6374) | 2026-11-24 |
+| `provenance-auchentoshan-7` | 프로비넌스 오켄토션 7년 | ./assets/images/provenance-auchentoshan-7.webp | [Dailyshot - 프로비넌스 오켄토션 7년](https://dailyshot.co/m/item/5101) | 2026-11-24 |
+| `seochon-makgeolli-12` | 서촌 막걸리 12 | ./assets/images/seochon-makgeolli-12.webp | [Dailyshot - 서촌 막걸리 12](https://dailyshot.co/m/item/14900) | 2026-11-24 |
+| `seochon-makgeolli-15` | 서촌 막걸리 15 | ./assets/images/seochon-makgeolli-15.webp | [Dailyshot - 서촌 막걸리 15](https://dailyshot.co/m/item/14899) | 2026-11-24 |
+| `le-petit-cochonnet-cabernet-sauvignon` | 르 쁘띠 꼬쇼네 까베르네 소비뇽 | ./assets/images/le-petit-cochonnet-cabernet-sauvignon.webp | [Dailyshot - 르 쁘띠 꼬쇼네 까베르네 소비뇽](https://dailyshot.co/m/item/6493) | 2026-11-24 |
+| `honwaka-huyuno-junmai` | 혼와카 후유노 준마이 | ./assets/images/honwaka-huyuno-junmai.webp | [Dailyshot - 혼와카 후유노 준마이](https://dailyshot.co/m/item/19050) | 2026-11-24 |
+| `gran-maestro-appassimento` | 그랑 마에스트로 아파시멘토 | ./assets/images/gran-maestro-appassimento.webp | [Dailyshot - 그랑 마에스트로 아파시멘토](https://dailyshot.co/m/item/9968) | 2026-11-24 |
+| `alfredo-maestro-el-marciano` | 알프레도 마에스트로 엘 마르시아노 | ./assets/images/alfredo-maestro-el-marciano.webp | [Dailyshot - 알프레도 마에스트로 엘 마르시아노](https://dailyshot.co/m/item/5536) | 2026-11-24 |
+| `kitaoka-honten-yakiimo-liqueur` | 키타오카혼텐 야키이모 리큐르 | ./assets/images/kitaoka-honten-yakiimo-liqueur.webp | [Dailyshot - 키타오카혼텐 야키이모 리큐르](https://dailyshot.co/m/item/39093) | 2026-11-24 |
+| `kkls-65th-anniversary-kaoliang-liquor` | 금문 65주년 기념주 | ./assets/images/kkls-65th-anniversary-kaoliang-liquor.webp | [Dailyshot - 금문 65주년 기념주](https://dailyshot.co/m/item/11668) | 2026-11-24 |
+| `takahakkei-junmai-daiginjo` | 타카핫케이 준마이 다이긴죠 | ./assets/images/takahakkei-junmai-daiginjo.webp | [Dailyshot - 타카핫케이 준마이 다이긴죠](https://dailyshot.co/m/item/35646) | 2026-11-24 |
+| `el-maestro-blend-maker-tinto` | 엘 마에스트로 레드 | ./assets/images/el-maestro-blend-maker-tinto.webp | [Dailyshot - 엘 마에스트로 레드](https://dailyshot.co/m/item/37810) | 2026-11-24 |
+| `mastroberardino-mastro-bianco-campania` | 마스트로베라르디노, 마스트로 비앙코 캄파니아 | ./assets/images/mastroberardino-mastro-bianco-campania.webp | [Dailyshot - 마스트로베라르디노, 마스트로 비앙코 캄파니아](https://dailyshot.co/m/item/14279) | 2026-11-24 |
+| `mastroberardino-mastro-rosso-campania` | 마스트로베라르디노, 마스트로 로쏘 캄파니아 | ./assets/images/mastroberardino-mastro-rosso-campania.webp | [Dailyshot - 마스트로베라르디노, 마스트로 로쏘 캄파니아](https://dailyshot.co/m/item/14278) | 2026-11-24 |
+| `el-maestro-blend-maker-blanco` | 엘 마에스트로 화이트 | ./assets/images/el-maestro-blend-maker-blanco.webp | [Dailyshot - 엘 마에스트로 화이트](https://dailyshot.co/m/item/37820) | 2026-11-24 |
+| `kinmen-kaoliang-liquor-red` | 진년 금문고량주(레드) | ./assets/images/kinmen-kaoliang-liquor-red.webp | [Dailyshot - 진년 금문고량주(레드)](https://dailyshot.co/m/item/19994) | 2026-11-24 |
+| `geumseong-kaoliang-52` | 금성고량주 52% 500ml | ./assets/images/geumseong-kaoliang-52.webp | [Dailyshot - 금성고량주 52% 500ml](https://dailyshot.co/m/item/31576) | 2026-11-24 |
+| `auchentoshan-blood-oak` | 오켄토션 블러드 오크 1L | ./assets/images/auchentoshan-blood-oak.webp | [Dailyshot - 오켄토션 블러드 오크 1L](https://dailyshot.co/m/item/22920) | 2026-11-24 |
+| `moutai-maoxiang-guobin-liquor` | 마오타이 모향국빈주 | ./assets/images/moutai-maoxiang-guobin-liquor.webp | [Dailyshot - 마오타이 모향국빈주](https://dailyshot.co/m/item/31403) | 2026-11-24 |
+| `moutai-golf-liquor` | 마오타이 골프주 | ./assets/images/moutai-golf-liquor.webp | [Dailyshot - 마오타이 골프주](https://dailyshot.co/m/item/6418) | 2026-11-24 |
+| `colonist-dark-rum` | 콜로니스트 다크 럼 | ./assets/images/colonist-dark-rum.webp | [Dailyshot - 콜로니스트 다크 럼](https://dailyshot.co/m/item/6162) | 2026-11-24 |
+| `bushmills-15` | 부쉬밀 15년 | ./assets/images/bushmills-15.webp | [Dailyshot - 부쉬밀 15년](https://dailyshot.co/m/item/31563) | 2026-11-24 |
+| `moutai-kangsoi-red` | 마오타이 강소이 레드 500ml | ./assets/images/moutai-kangsoi-red.webp | [Dailyshot - 마오타이 강소이 레드 500ml](https://dailyshot.co/m/item/11679) | 2026-11-24 |
+| `monarch-dark-rum` | 모나크 다크 럼 | ./assets/images/monarch-dark-rum.webp | [Dailyshot - 모나크 다크 럼](https://dailyshot.co/m/item/24753) | 2026-11-24 |
+| `cut-spiced-rum` | 커트 스파이스 럼 | ./assets/images/cut-spiced-rum.webp | [Dailyshot - 커트 스파이스 럼](https://dailyshot.co/m/item/5600) | 2026-11-24 |
+| `master-jack-spiced-rum` | 마스터 잭 스파이스드 럼 | ./assets/images/master-jack-spiced-rum.webp | [Dailyshot - 마스터 잭 스파이스드 럼](https://dailyshot.co/m/item/37170) | 2026-11-24 |
+| `cruzan-aged-light-rum` | 크루잔 에이지드 라이트 럼 | ./assets/images/cruzan-aged-light-rum.webp | [Dailyshot - 크루잔 에이지드 라이트 럼](https://dailyshot.co/m/item/6077) | 2026-11-24 |
+| `kweichow-moutai-flying-fairy-53` | 귀주 마오타이 비천 53% 500ml | ./assets/images/kweichow-moutai-flying-fairy-53.webp | [Dailyshot - 귀주 마오타이 비천 53% 500ml](https://dailyshot.co/m/item/38518) | 2026-11-24 |
+| `kweichow-moutai-golden-prince-53` | 귀주 마오타이 골든프린스 53% 500ml | ./assets/images/kweichow-moutai-golden-prince-53.webp | [Dailyshot - 귀주 마오타이 골든프린스 53% 500ml](https://dailyshot.co/m/item/38519) | 2026-11-24 |
+| `la-criolla-dark-rum` | 라 크리올라 다크 럼 | ./assets/images/la-criolla-dark-rum.webp | [Dailyshot - 라 크리올라 다크 럼](https://dailyshot.co/m/item/24360) | 2026-11-24 |
+| `wuliangye-classic-10-52` | 우량예 경전 10년 52% 500ml | ./assets/images/wuliangye-classic-10-52.webp | [Dailyshot - 우량예 경전 10년 52% 500ml](https://dailyshot.co/m/item/31891) | 2026-11-24 |
+| `whisky-navi-glenturret-viva-la-vida` | 위스키 내비 글렌터렛 비바라비다 | ./assets/images/whisky-navi-glenturret-viva-la-vida.webp | [Dailyshot - 위스키 내비 글렌터렛 비바라비다](https://dailyshot.co/m/item/21750) | 2026-11-24 |
+| `friends-of-whiskynavi-dalmore` | 프렌즈 오브 위스키내비 달모어 2012 | ./assets/images/friends-of-whiskynavi-dalmore.webp | [Dailyshot - 프렌즈 오브 위스키내비 달모어 2012](https://dailyshot.co/m/item/35837) | 2026-11-24 |
+| `auchentoshan-dark-oak` | 오켄토션 다크 오크 1L | ./assets/images/auchentoshan-dark-oak.webp | [Dailyshot - 오켄토션 다크 오크 1L](https://dailyshot.co/m/item/22932) | 2026-11-24 |
+| `blackadder-raw-cask-auchentoshan-30` | 블랙애더 로우 캐스크 오켄토션 30년 | ./assets/images/blackadder-raw-cask-auchentoshan-30.webp | [Dailyshot - 블랙애더 로우 캐스크 오켄토션 30년](https://dailyshot.co/m/item/31006) | 2026-11-24 |
+| `auchentoshan-dark-oak-cny` | 오켄토션 다크 오크 CNY 1L | ./assets/images/auchentoshan-dark-oak-cny.webp | [Dailyshot - 오켄토션 다크 오크 CNY 1L](https://dailyshot.co/m/item/22821) | 2026-11-24 |
+| `bushmills-18` | 부쉬밀 18년 | ./assets/images/bushmills-18.webp | [Dailyshot - 부쉬밀 18년](https://dailyshot.co/m/item/39974) | 2026-11-24 |
+| `misty-hills-ice-vidal-wine` | 미스티힐 비달 아이스 와인 | ./assets/images/misty-hills-ice-vidal-wine.webp | [Dailyshot - 미스티힐 비달 아이스 와인](https://dailyshot.co/m/item/4227) | 2026-11-24 |
+| `old-nick-gold-rum` | 올드닉 골드럼 | ./assets/images/old-nick-gold-rum.webp | [Dailyshot - 올드닉 골드럼](https://dailyshot.co/m/item/13434) | 2026-11-24 |
+| `wuliangye-panda-52` | 우량예 판다 52% 500ml | ./assets/images/wuliangye-panda-52.webp | [Dailyshot - 우량예 판다 52% 500ml](https://dailyshot.co/m/item/31890) | 2026-11-24 |
+| `vidal-fleury-condrieu` | 비달플뢰리 꽁드리유 | ./assets/images/vidal-fleury-condrieu.webp | [Dailyshot - 비달플뢰리 꽁드리유](https://dailyshot.co/m/item/12694) | 2026-11-24 |
+| `wuliangye-jianzhuang-38` | 우량예 첨장 38% | ./assets/images/wuliangye-jianzhuang-38.webp | [Dailyshot - 우량예 첨장 38%](https://dailyshot.co/m/item/40730) | 2026-11-24 |
+| `finn-thomson-glen-elgin-12` | 핀 톰슨 2012 글렌엘긴 12년 | ./assets/images/finn-thomson-glen-elgin-12.webp | [Dailyshot - 핀 톰슨 2012 글렌엘긴 12년](https://dailyshot.co/m/item/28822) | 2026-11-24 |
+| `hoho-makgeolli` | 호호 막걸리 | ./assets/images/hoho-makgeolli.webp | [Dailyshot - 호호 막걸리](https://dailyshot.co/m/item/13174) | 2026-11-24 |
+| `cadenheads-glen-elgin-13` | 카덴헤드 2009 글렌 엘긴 13년 | ./assets/images/cadenheads-glen-elgin-13.webp | [Dailyshot - 카덴헤드 2009 글렌 엘긴 13년](https://dailyshot.co/m/item/20047) | 2026-11-24 |
+| `the-perfect-fifth-springbank` | 더 퍼펙트 핍스 스프링뱅크 1993 | ./assets/images/the-perfect-fifth-springbank.webp | [Dailyshot - 더 퍼펙트 핍스 스프링뱅크 1993](https://dailyshot.co/m/item/4560) | 2026-11-24 |
+| `glen-garioch-18` | 글렌 기어리 18년 | ./assets/images/glen-garioch-18.webp | [Dailyshot - 글렌 기어리 18년](https://dailyshot.co/m/item/27751) | 2026-11-24 |
+| `springbank-35-14-03-1-signatory` | 스프링뱅크 1989/2024 35년 #14/03/1 시그나토리 시밍턴스 초이스 | ./assets/images/springbank-35-14-03-1-signatory.webp | [Dailyshot - 스프링뱅크 1989/2024 35년 #14/03/1 시그나토리 시밍턴스 초이스](https://dailyshot.co/m/item/37472) | 2026-11-24 |
+| `harushika-sakura-junmai-namagenshu` | 하루시카 사쿠라 준마이 나마겐슈 | ./assets/images/harushika-sakura-junmai-namagenshu.webp | [Dailyshot - 하루시카 사쿠라 준마이 나마겐슈](https://dailyshot.co/m/item/27700) | 2026-11-24 |
+| `sakura-sarasara` | 사쿠라 사라사라 | ./assets/images/sakura-sarasara.webp | [Dailyshot - 사쿠라 사라사라](https://dailyshot.co/m/item/16593) | 2026-11-24 |
+| `hunter-laing-hepburns-choice-fettercairn-12` | 헌터랭 햅번스 초이스 패터캐른 12년 | ./assets/images/hunter-laing-hepburns-choice-fettercairn-12.webp | [Dailyshot - 헌터랭 햅번스 초이스 패터캐른 12년](https://dailyshot.co/m/item/6808) | 2026-11-24 |
+| `miyakanbai-jumai-ginjo-origarami` | 미야칸바이 준마이 긴죠 오리가라미 | ./assets/images/miyakanbai-jumai-ginjo-origarami.webp | [Dailyshot - 미야칸바이 준마이 긴죠 오리가라미](https://dailyshot.co/m/item/31595) | 2026-11-24 |
+| `glen-elgin-18` | 글렌 엘긴 18년 | ./assets/images/glen-elgin-18.webp | [Dailyshot - 글렌 엘긴 18년](https://dailyshot.co/m/item/8515) | 2026-11-24 |
+| `mansaku-no-hana-yogurshu` | 만사쿠노하나 요구루슈 | ./assets/images/mansaku-no-hana-yogurshu.webp | [Dailyshot - 만사쿠노하나 요구루슈](https://dailyshot.co/m/item/28186) | 2026-11-24 |
+| `douglas-laing-old-particular-glen-garioch` | 더글라스 랭 올드 파티큘러 2010 글렌 기어리 12년 | ./assets/images/douglas-laing-old-particular-glen-garioch.webp | [Dailyshot - 더글라스 랭 올드 파티큘러 2010 글렌 기어리 12년](https://dailyshot.co/m/item/16791) | 2026-11-24 |
+| `hantabaru-awamori-shochu-1` | 한타바루 아와모리 소주 1.8L | ./assets/images/hantabaru-awamori-shochu-1.webp | [Dailyshot - 한타바루 아와모리 소주 1.8L](https://dailyshot.co/m/item/30963) | 2026-11-24 |
+| `finn-thomson-glen-garioch-36` | 핀 톰슨 1988 글렌 기어리 36년 | ./assets/images/finn-thomson-glen-garioch-36.webp | [Dailyshot - 핀 톰슨 1988 글렌 기어리 36년](https://dailyshot.co/m/item/27468) | 2026-11-24 |
+| `glen-moray-8` | 글렌 모레이 8년 | ./assets/images/glen-moray-8.webp | [Dailyshot - 글렌 모레이 8년](https://dailyshot.co/m/item/7691) | 2026-11-24 |
+| `glen-moray-18` | 글렌 모레이 18년 | ./assets/images/glen-moray-18.webp | [Dailyshot - 글렌 모레이 18년](https://dailyshot.co/m/item/21849) | 2026-11-24 |
+| `kura-8-awamori` | 쿠라 8년 아와모리 | ./assets/images/kura-8-awamori.webp | [Dailyshot - 쿠라 8년 아와모리](https://dailyshot.co/m/item/22820) | 2026-11-24 |
+| `club-qing-glen-garioch-15` | 클럽 칭 글렌 기어리 15년 | ./assets/images/club-qing-glen-garioch-15.webp | [Dailyshot - 클럽 칭 글렌 기어리 15년](https://dailyshot.co/m/item/40126) | 2026-11-24 |
+| `smos-directors-special-springbank-25` | SMOS 디렉터스 스페셜 스프링뱅크 25년 | ./assets/images/smos-directors-special-springbank-25.webp | [Dailyshot - SMOS 디렉터스 스페셜 스프링뱅크 25년](https://dailyshot.co/m/item/40532) | 2026-11-24 |
+| `cadenheads-glen-garioch-11` | 카덴헤드 글렌기어리 11년 | ./assets/images/cadenheads-glen-garioch-11.webp | [Dailyshot - 카덴헤드 글렌기어리 11년](https://dailyshot.co/m/item/29485) | 2026-11-24 |
+| `hiroki-junmai-daiginjo` | 히로키 준마이 다이긴죠 | ./assets/images/hiroki-junmai-daiginjo.webp | [Dailyshot - 히로키 준마이 다이긴죠](https://dailyshot.co/m/item/31511) | 2026-11-24 |
+| `shiro-kirishima-pack` | 시로 기리시마 팩 | ./assets/images/shiro-kirishima-pack.webp | [Dailyshot - 시로 기리시마 팩](https://dailyshot.co/m/item/35234) | 2026-11-24 |
+| `springbank-30` | 스프링뱅크 30년 | ./assets/images/springbank-30.webp | [Dailyshot - 스프링뱅크 30년](https://dailyshot.co/m/item/9868) | 2026-11-24 |
+| `shimeharitsuru-ginjo-namachozo` | 시메하리츠루 긴죠 나마쵸조 | ./assets/images/shimeharitsuru-ginjo-namachozo.webp | [Dailyshot - 시메하리츠루 긴죠 나마쵸조](https://dailyshot.co/m/item/38043) | 2026-11-24 |
+| `bruichladdich-bere-barley` | 브룩라디 베레 발리 2013 | ./assets/images/bruichladdich-bere-barley.webp | [Dailyshot - 브룩라디 베레 발리 2013](https://dailyshot.co/m/item/22364) | 2026-11-24 |
+| `bruichladdich-the-classic-laddie-10` | 브룩라디 더 클래식 라디 10년 | ./assets/images/bruichladdich-the-classic-laddie-10.webp | [Dailyshot - 브룩라디 더 클래식 라디 10년](https://dailyshot.co/m/item/36991) | 2026-11-24 |
+| `sansibar-finest-bruichladdich-30-bourbon-hogshead` | 산시바 파이니스트 브룩라디 30년 버번 혹스헤드 | ./assets/images/sansibar-finest-bruichladdich-30-bourbon-hogshead.webp | [Dailyshot - 산시바 파이니스트 브룩라디 30년 버번 혹스헤드](https://dailyshot.co/m/item/12261) | 2026-11-24 |
+| `fettercairn-25` | 패터캐른 25년 | ./assets/images/fettercairn-25.webp | [Dailyshot - 패터캐른 25년](https://dailyshot.co/m/item/32901) | 2026-11-24 |
+| `twa-bruichladdich-lochindal-12y` | TWA 브룩라디 로킨달 12년 | ./assets/images/twa-bruichladdich-lochindal-12y.webp | [Dailyshot - TWA 브룩라디 로킨달 12년](https://dailyshot.co/m/item/27295) | 2026-11-24 |
+| `bruichladdich-the-laddie-8` | 브룩라디 더 라디 8 | ./assets/images/bruichladdich-the-laddie-8.webp | [Dailyshot - 브룩라디 더 라디 8](https://dailyshot.co/m/item/22962) | 2026-11-24 |
+| `whiskynavi-the-twelve-zodiac-rooster-caol` | 위스키내비 십이지신 유 2012 쿨일라 14년 | ./assets/images/whiskynavi-the-twelve-zodiac-rooster-caol.webp | [Dailyshot - 위스키내비 십이지신 유 2012 쿨일라 14년](https://dailyshot.co/m/item/39015) | 2026-11-24 |
+| `whisky-navi-twelve-zodiac-series-monkey` | 위스키내비 십이지신도 신 2008 벤리네스 18년 | ./assets/images/whisky-navi-twelve-zodiac-series-monkey.webp | [Dailyshot - 위스키내비 십이지신도 신 2008 벤리네스 18년](https://dailyshot.co/m/item/40128) | 2026-11-24 |
+| `hakushika-kuromatsu-junmai-mochiyodan` | 하쿠시카 쿠로마츠 준마이 모치요단 | ./assets/images/hakushika-kuromatsu-junmai-mochiyodan.webp | [Dailyshot - 하쿠시카 쿠로마츠 준마이 모치요단](https://dailyshot.co/m/item/6673) | 2026-11-24 |
+| `hakushika-ginjo-namachojo` | 하쿠시카 긴죠 나마죠조 | ./assets/images/hakushika-ginjo-namachojo.webp | [Dailyshot - 하쿠시카 긴죠 나마죠조](https://dailyshot.co/m/item/14812) | 2026-11-24 |
+| `fettercairn-17` | 패터캐른 17년 | ./assets/images/fettercairn-17.webp | [Dailyshot - 패터캐른 17년](https://dailyshot.co/m/item/32955) | 2026-11-24 |
+| `fettercairn-50` | 패터캐른 50년 | ./assets/images/fettercairn-50.webp | [Dailyshot - 패터캐른 50년](https://dailyshot.co/m/item/36566) | 2026-11-24 |
+| `bruichladdich-yellow-submarine-14` | 브룩라디 옐로우 서브마린 1991 14년 | ./assets/images/bruichladdich-yellow-submarine-14.webp | [Dailyshot - 브룩라디 옐로우 서브마린 1991 14년](https://dailyshot.co/m/item/40514) | 2026-11-24 |
+| `bruichladdich-16-organic-barley` | 브룩라디 16년 오가닉 발리 700ml | ./assets/images/bruichladdich-16-organic-barley.webp | [Dailyshot - 브룩라디 16년 오가닉 발리 700ml](https://dailyshot.co/m/item/40413) | 2026-11-24 |
+| `fettercairn-warehouse-14` | 패터캐른 웨어하우스 14 | ./assets/images/fettercairn-warehouse-14.webp | [Dailyshot - 패터캐른 웨어하우스 14](https://dailyshot.co/m/item/23261) | 2026-11-24 |
+| `cadenhead-original-collection-fettercairn-13` | 카덴헤드 패터캐른 13년 | ./assets/images/cadenhead-original-collection-fettercairn-13.webp | [Dailyshot - 카덴헤드 패터캐른 13년](https://dailyshot.co/m/item/4676) | 2026-11-24 |
+| `finn-thomson-fettercairn-15` | 핀 톰슨 2008 패터케른 15년 | ./assets/images/finn-thomson-fettercairn-15.webp | [Dailyshot - 핀 톰슨 2008 패터케른 15년](https://dailyshot.co/m/item/28831) | 2026-11-24 |
+| `shimeharitsuru-daiginjo-gold-label` | 시메하리츠루 다이긴죠 금 라벨 | ./assets/images/shimeharitsuru-daiginjo-gold-label.webp | [Dailyshot - 시메하리츠루 다이긴죠 금 라벨](https://dailyshot.co/m/item/40603) | 2026-11-24 |
+| `bruichladdich-old-skool-10` | 브룩라디 올드 스쿨 10년 | ./assets/images/bruichladdich-old-skool-10.webp | [Dailyshot - 브룩라디 올드 스쿨 10년](https://dailyshot.co/m/item/40535) | 2026-11-24 |
+| `bruichladdich-black-art-11-1` | 브룩라디 블랙아트 11.1 | ./assets/images/bruichladdich-black-art-11-1.webp | [Dailyshot - 브룩라디 블랙아트 11.1](https://dailyshot.co/m/item/38386) | 2026-11-24 |
+| `fettercairn-14` | 패터캐른 14년 | ./assets/images/fettercairn-14.webp | [Dailyshot - 패터캐른 14년](https://dailyshot.co/m/item/32889) | 2026-11-24 |
+| `bruichladdich-organic` | 브룩라디 오가닉 2012 | ./assets/images/bruichladdich-organic.webp | [Dailyshot - 브룩라디 오가닉 2012](https://dailyshot.co/m/item/22363) | 2026-11-24 |
+| `fettercairn-28` | 패터캐른 28년 | ./assets/images/fettercairn-28.webp | [Dailyshot - 패터캐른 28년](https://dailyshot.co/m/item/23262) | 2026-11-24 |
+| `fettercairn-23` | 패터캐른 23년 | ./assets/images/fettercairn-23.webp | [Dailyshot - 패터캐른 23년](https://dailyshot.co/m/item/23263) | 2026-11-24 |
+| `cadenheads-knockdhu-10` | 카덴헤드 2013 녹두 10년 | ./assets/images/cadenheads-knockdhu-10.webp | [Dailyshot - 카덴헤드 2013 녹두 10년](https://dailyshot.co/m/item/23205) | 2026-11-24 |
+| `the-coopers-choice-inchgower-11` | 쿠퍼스 초이스 2011 인치고워 11년 | ./assets/images/the-coopers-choice-inchgower-11.webp | [Dailyshot - 쿠퍼스 초이스 2011 인치고워 11년](https://dailyshot.co/m/item/21031) | 2026-11-24 |
+| `cadenheads-inchgower-14` | 카덴헤드 2009 인치고어 14년 | ./assets/images/cadenheads-inchgower-14.webp | [Dailyshot - 카덴헤드 2009 인치고어 14년](https://dailyshot.co/m/item/24639) | 2026-11-24 |
+| `cadenheads-linkwood-10` | 카덴헤드 2013 링크우드 10년 | ./assets/images/cadenheads-linkwood-10.webp | [Dailyshot - 카덴헤드 2013 링크우드 10년](https://dailyshot.co/m/item/24809) | 2026-11-24 |
+| `signatory-linkwood-11` | 시그나토리 2012 링크우드 11년 | ./assets/images/signatory-linkwood-11.webp | [Dailyshot - 시그나토리 2012 링크우드 11년](https://dailyshot.co/m/item/26947) | 2026-11-24 |
+| `dalgety-linkwood-10` | 달게티 링크우드 10년 | ./assets/images/dalgety-linkwood-10.webp | [Dailyshot - 달게티 링크우드 10년](https://dailyshot.co/m/item/31133) | 2026-11-24 |
+| `umi-yuzu-salt-yuzu-sake-1` | 우미 유즈(소금 유자 사케) 1.8L | ./assets/images/umi-yuzu-salt-yuzu-sake-1.webp | [Dailyshot - 우미 유즈(소금 유자 사케) 1.8L](https://dailyshot.co/m/item/21705) | 2026-11-24 |
+| `nito-nitoto-yuzu` | 니토 니토토 유즈 | ./assets/images/nito-nitoto-yuzu.webp | [Dailyshot - 니토 니토토 유즈](https://dailyshot.co/m/item/39085) | 2026-11-24 |
+| `cadenheads-glentauchers-14-original-collection` | 카덴헤드 글렌토커스 14년 오리지널 컬렉션 | ./assets/images/cadenheads-glentauchers-14-original-collection.webp | [Dailyshot - 카덴헤드 글렌토커스 14년 오리지널 컬렉션](https://dailyshot.co/m/item/14258) | 2026-11-24 |
+| `aki-yuzu` | 아키 유자 | ./assets/images/aki-yuzu.webp | [Dailyshot - 아키 유자](https://dailyshot.co/m/item/35747) | 2026-11-24 |
+| `kavalan-king-car-conductor` | 카발란 킹 카 컨덕터 | ./assets/images/kavalan-king-car-conductor.webp | [Dailyshot - 카발란 킹 카 컨덕터](https://dailyshot.co/m/item/30793) | 2026-11-24 |
+| `kavalan-ex-bourbon-oak` | 카발란 EX 버번 캐스크 | ./assets/images/kavalan-ex-bourbon-oak.webp | [Dailyshot - 카발란 EX 버번 캐스크](https://dailyshot.co/m/item/36279) | 2026-11-24 |
+| `signatory-linkwood-15-2-symingtons-choice` | 시그나토리 2009 링크우드 15년 #2 시밍턴스 초이스 | ./assets/images/signatory-linkwood-15-2-symingtons-choice.webp | [Dailyshot - 시그나토리 2009 링크우드 15년 #2 시밍턴스 초이스](https://dailyshot.co/m/item/32776) | 2026-11-24 |
+| `sekitoba-yuzu-umeshu-liqueur` | 세키토바 유즈 매실주 리큐르 | ./assets/images/sekitoba-yuzu-umeshu-liqueur.webp | [Dailyshot - 세키토바 유즈 매실주 리큐르](https://dailyshot.co/m/item/38057) | 2026-11-24 |
+| `signatory-linkwood-30-3-symingtons-choice` | 시그나토리 1995 링크우드 30년 #3 시밍턴스 초이스 | ./assets/images/signatory-linkwood-30-3-symingtons-choice.webp | [Dailyshot - 시그나토리 1995 링크우드 30년 #3 시밍턴스 초이스](https://dailyshot.co/m/item/34895) | 2026-11-24 |
+| `best-dram-linkwood-31-year-old` | 베스트 드램 링크우드 1995 31년 퍼스트 필 PX 셰리 캐스크 #15 | ./assets/images/best-dram-linkwood-31-year-old.webp | [Dailyshot - 베스트 드램 링크우드 1995 31년 퍼스트 필 PX 셰리 캐스크 #15](https://dailyshot.co/m/item/40622) | 2026-11-24 |
+| `the-whisky-tales-tipsy-night-4` | 더 위스키 테일즈 팁시 나이트 #4 2010 링크우드 15년 | ./assets/images/the-whisky-tales-tipsy-night-4.webp | [Dailyshot - 더 위스키 테일즈 팁시 나이트 #4 2010 링크우드 15년](https://dailyshot.co/m/item/41848) | 2026-11-24 |
+| `the-whisky-tales-vacance-linkwood-13` | 더 위스키 테일즈 바캉스 2012 링크우드 13년 | ./assets/images/the-whisky-tales-vacance-linkwood-13.webp | [Dailyshot - 더 위스키 테일즈 바캉스 2012 링크우드 13년](https://dailyshot.co/m/item/31932) | 2026-11-24 |
+| `liquid-treasure-linkwood-12` | 리퀴드 트레져 2010 링크우드 12년 | ./assets/images/liquid-treasure-linkwood-12.webp | [Dailyshot - 리퀴드 트레져 2010 링크우드 12년](https://dailyshot.co/m/item/15925) | 2026-11-24 |
+| `finn-thomson-linkwood-13` | 핀 톰슨 2010 링크우드 13년 | ./assets/images/finn-thomson-linkwood-13.webp | [Dailyshot - 핀 톰슨 2010 링크우드 13년](https://dailyshot.co/m/item/27096) | 2026-11-24 |
+| `sansibar-north-star-linkwood-9` | 산시바 노스 스타 링크우드 9년 | ./assets/images/sansibar-north-star-linkwood-9.webp | [Dailyshot - 산시바 노스 스타 링크우드 9년](https://dailyshot.co/m/item/31936) | 2026-11-24 |
+| `signatory-100-proof-linkwood-14-72` | 시그나토리 100 프루프 링크우드 2011 14년 #72 | ./assets/images/signatory-100-proof-linkwood-14-72.webp | [Dailyshot - 시그나토리 100 프루프 링크우드 2011 14년 #72](https://dailyshot.co/m/item/40120) | 2026-11-24 |
+| `izumihime-yuzu` | 이즈미히메 유즈 | ./assets/images/izumihime-yuzu.webp | [Dailyshot - 이즈미히메 유즈](https://dailyshot.co/m/item/11006) | 2026-11-24 |
+| `signatory-linkwood-12-100proof-68` | 시그나토리 2012 링크우드 12년 100프루프 #68 | ./assets/images/signatory-linkwood-12-100proof-68.webp | [Dailyshot - 시그나토리 2012 링크우드 12년 100프루프 #68](https://dailyshot.co/m/item/34352) | 2026-11-24 |
+| `ballantines-single-malt-glentauchers-23` | 발렌타인 싱글몰트 글렌토커스 23년 | ./assets/images/ballantines-single-malt-glentauchers-23.webp | [Dailyshot - 발렌타인 싱글몰트 글렌토커스 23년](https://dailyshot.co/m/item/16773) | 2026-11-24 |
+| `blackadder-raw-cask-glen-moray-13` | 블랙애더 로우 캐스크 글렌 모레이 13년 | ./assets/images/blackadder-raw-cask-glen-moray-13.webp | [Dailyshot - 블랙애더 로우 캐스크 글렌 모레이 13년](https://dailyshot.co/m/item/15264) | 2026-11-24 |
+| `glen-moray-cabernet-sauvignon-cask-finish` | 글렌 모레이 까베르네 소비뇽 캐스크 피니시 | ./assets/images/glen-moray-cabernet-sauvignon-cask-finish.webp | [Dailyshot - 글렌 모레이 까베르네 소비뇽 캐스크 피니시](https://dailyshot.co/m/item/29260) | 2026-11-24 |
+| `glen-moray-rum-agricole-cask-finish` | 글렌 모레이 럼 아그리콜 캐스크 피니시 | ./assets/images/glen-moray-rum-agricole-cask-finish.webp | [Dailyshot - 글렌 모레이 럼 아그리콜 캐스크 피니시](https://dailyshot.co/m/item/32894) | 2026-11-24 |
+| `hantabaru-awamori-shochu` | 한타바루 아와모리 소주 | ./assets/images/hantabaru-awamori-shochu.webp | [Dailyshot - 한타바루 아와모리 소주](https://dailyshot.co/m/item/30962) | 2026-11-24 |
+| `signatory-glen-spey-signatory-cs-3` | 시그나토리 2007 글렌 스페이 17년 CS #3 | ./assets/images/signatory-glen-spey-signatory-cs-3.webp | [Dailyshot - 시그나토리 2007 글렌 스페이 17년 CS #3](https://dailyshot.co/m/item/33848) | 2026-11-24 |
+| `kura-12-awamori` | 쿠라 12년 아와모리 | ./assets/images/kura-12-awamori.webp | [Dailyshot - 쿠라 12년 아와모리](https://dailyshot.co/m/item/22944) | 2026-11-24 |
+| `glen-moray-16-yo` | 글렌 모레이 16년 | ./assets/images/glen-moray-16-yo.webp | [Dailyshot - 글렌 모레이 16년](https://dailyshot.co/m/item/6420) | 2026-11-24 |
+| `glen-moray-elgin-classic` | 글렌 모레이 엘긴 클래식 | ./assets/images/glen-moray-elgin-classic.webp | [Dailyshot - 글렌 모레이 엘긴 클래식](https://dailyshot.co/m/item/6541) | 2026-11-24 |
+| `glen-moray-chenin-blanc` | 글렌모레이 슈냉 블랑 | ./assets/images/glen-moray-chenin-blanc.webp | [Dailyshot - 글렌모레이 슈냉 블랑](https://dailyshot.co/m/item/34661) | 2026-11-24 |
+| `whisky-broker-glen-moray-8` | 위스키 브로커 글렌 모레이 8년 | ./assets/images/whisky-broker-glen-moray-8.webp | [Dailyshot - 위스키 브로커 글렌 모레이 8년](https://dailyshot.co/m/item/7148) | 2026-11-24 |
+| `cadenheads-glen-moray-15` | 카덴헤드 2007 글렌 모레이 16년 | ./assets/images/cadenheads-glen-moray-15.webp | [Dailyshot - 카덴헤드 2007 글렌 모레이 16년](https://dailyshot.co/m/item/24642) | 2026-11-24 |
+| `glen-moray-15-yo` | 글렌 모레이 15년 | ./assets/images/glen-moray-15-yo.webp | [Dailyshot - 글렌 모레이 15년](https://dailyshot.co/m/item/4882) | 2026-11-24 |
+| `minankata-imo-shochu` | 미난카타 고구마 소주 900ml | ./assets/images/minankata-imo-shochu.webp | [Dailyshot - 미난카타 고구마 소주 900ml](https://dailyshot.co/m/item/40434) | 2026-11-24 |
+| `529-mugi-shochu` | 529 보리소주 | ./assets/images/529-mugi-shochu.webp | [Dailyshot - 529 보리소주](https://dailyshot.co/m/item/40493) | 2026-11-24 |
+| `the-whisky-tales-tipsy-night-1` | 더 위스키 테일즈 팁시 나이트 #1 2012 글렌카담 13년 | ./assets/images/the-whisky-tales-tipsy-night-1.webp | [Dailyshot - 더 위스키 테일즈 팁시 나이트 #1 2012 글렌카담 13년](https://dailyshot.co/m/item/41694) | 2026-11-24 |
+| `club-qing-glentauchers-14` | 클럽 칭 글렌토커스 14년 | ./assets/images/club-qing-glentauchers-14.webp | [Dailyshot - 클럽 칭 글렌토커스 14년](https://dailyshot.co/m/item/40125) | 2026-11-24 |
+| `izumihime-yuzu-1` | 이즈미히메 유즈 1.8L | ./assets/images/izumihime-yuzu-1.webp | [Dailyshot - 이즈미히메 유즈 1.8L](https://dailyshot.co/m/item/17904) | 2026-11-24 |
+| `cadenheads-glenlossie-12-original-collection` | 카덴헤드 글렌로지 12년 오리지널 컬렉션 | ./assets/images/cadenheads-glenlossie-12-original-collection.webp | [Dailyshot - 카덴헤드 글렌로지 12년 오리지널 컬렉션](https://dailyshot.co/m/item/14260) | 2026-11-24 |
+| `samaroli-glenburgie-28` | 사마롤리 1995 글렌버기 28년 | ./assets/images/samaroli-glenburgie-28.webp | [Dailyshot - 사마롤리 1995 글렌버기 28년](https://dailyshot.co/m/item/32829) | 2026-11-24 |
+| `cadenheads-glenburgie-13` | 카덴헤드 2010 글렌버기 13년 | ./assets/images/cadenheads-glenburgie-13.webp | [Dailyshot - 카덴헤드 2010 글렌버기 13년](https://dailyshot.co/m/item/20050) | 2026-11-24 |
+| `signatory-glen-spey-9-37-100` | 시그나토리 2015 글렌 스페이 9년 #37 100 프루프 | ./assets/images/signatory-glen-spey-9-37-100.webp | [Dailyshot - 시그나토리 2015 글렌 스페이 9년 #37 100 프루프](https://dailyshot.co/m/item/32389) | 2026-11-24 |
+| `zuisho-saruko-mugi-shochu` | 즈이쇼 사루코 보리소주 | ./assets/images/zuisho-saruko-mugi-shochu.webp | [Dailyshot - 즈이쇼 사루코 보리소주](https://dailyshot.co/m/item/40494) | 2026-11-24 |
+| `glencadam-origin-1825` | 글렌카담 오리진 1825 | ./assets/images/glencadam-origin-1825.webp | [Dailyshot - 글렌카담 오리진 1825](https://dailyshot.co/m/item/7151) | 2026-11-24 |
+| `tentaka-kasutori-shochu` | 텐타카 카스토리 소주 | ./assets/images/tentaka-kasutori-shochu.webp | [Dailyshot - 텐타카 카스토리 소주](https://dailyshot.co/m/item/40495) | 2026-11-24 |
+| `hakushika-gouka-junmai-daiginjo-sennenju` | 호화 준마이 다이긴죠 천년수 | ./assets/images/hakushika-gouka-junmai-daiginjo-sennenju.webp | [Dailyshot - 호화 준마이 다이긴죠 천년수](https://dailyshot.co/m/item/14811) | 2026-11-24 |
+| `el-coco-sparkling` | 엘코코 스파클링 | ./assets/images/el-coco-sparkling.webp | [Dailyshot - 엘코코 스파클링](https://dailyshot.co/m/item/39390) | 2026-11-24 |
+| `carmela-sparkling` | 카멜라 스파클링 | ./assets/images/carmela-sparkling.webp | [Dailyshot - 카멜라 스파클링](https://dailyshot.co/m/item/9173) | 2026-11-24 |
+| `samyangchun-sparkling` | 삼양춘 스파클링 | ./assets/images/samyangchun-sparkling.webp | [Dailyshot - 삼양춘 스파클링](https://dailyshot.co/m/item/32790) | 2026-11-24 |
+| `shichiken-sparkling-morinokanade` | 시치켄 스파클링 모리노카나데 | ./assets/images/shichiken-sparkling-morinokanade.webp | [Dailyshot - 시치켄 스파클링 모리노카나데](https://dailyshot.co/m/item/28929) | 2026-11-24 |
+| `giro-ribot-mare-brut-nature-grand` | 지로 리보, 마레 브뤼 나뚜르 그랑 리제르바 | ./assets/images/giro-ribot-mare-brut-nature-grand.webp | [Dailyshot - 지로 리보, 마레 브뤼 나뚜르 그랑 리제르바](https://dailyshot.co/m/item/11751) | 2026-11-24 |
+| `chateau-los-boldos-sanama-reserva-sauvignon` | 샤또 로스 볼도스, 사나마 리저브 소비뇽 블랑 | ./assets/images/chateau-los-boldos-sanama-reserva-sauvignon.webp | [Dailyshot - 샤또 로스 볼도스, 사나마 리저브 소비뇽 블랑](https://dailyshot.co/m/item/16995) | 2026-11-24 |
+| `chorus-fine-english-sparkling-beer` | 코러스 파인 잉글리시 스파클링 비어 | ./assets/images/chorus-fine-english-sparkling-beer.webp | [Dailyshot - 코러스 파인 잉글리시 스파클링 비어](https://dailyshot.co/m/item/40559) | 2026-11-24 |
+| `mio-sparkling` | 미오 스파클링 | ./assets/images/mio-sparkling.webp | [Dailyshot - 미오 스파클링](https://dailyshot.co/m/item/17983) | 2026-11-24 |
+| `chapter7-caol-ila-9` | 챕터7 쿨일라 9년 | ./assets/images/chapter7-caol-ila-9.webp | [Dailyshot - 챕터7 쿨일라 9년](https://dailyshot.co/m/item/9482) | 2026-11-24 |
+| `bodegas-murviedro-0-sparkling` | 보데가스 무르비에드로  0% 스파클링 | ./assets/images/bodegas-murviedro-0-sparkling.webp | [Dailyshot - 보데가스 무르비에드로  0% 스파클링](https://dailyshot.co/m/item/23747) | 2026-11-24 |
+| `green-bay-sauvignon-blanc-sparkling-brut` | 그린베이 소비뇽 블랑 스파클링 브뤼 | ./assets/images/green-bay-sauvignon-blanc-sparkling-brut.webp | [Dailyshot - 그린베이 소비뇽 블랑 스파클링 브뤼](https://dailyshot.co/m/item/37660) | 2026-11-24 |
+| `caol-ila-18` | 쿨일라 18년 | ./assets/images/caol-ila-18.webp | [Dailyshot - 쿨일라 18년](https://dailyshot.co/m/item/5355) | 2026-11-24 |
+| `aberfeldy-25` | 에버펠디 25년 | ./assets/images/aberfeldy-25.webp | [Dailyshot - 에버펠디 25년](https://dailyshot.co/m/item/34697) | 2026-11-24 |
+| `bunnahabhain-15-turas-math-no-1` | 부나하벤 15년 투라스 마 넘버원 | ./assets/images/bunnahabhain-15-turas-math-no-1.webp | [Dailyshot - 부나하벤 15년 투라스 마 넘버원](https://dailyshot.co/m/item/28990) | 2026-11-24 |
+| `citadelle-original` | 시타델 오리지날 | ./assets/images/citadelle-original.webp | [Dailyshot - 시타델 오리지날](https://dailyshot.co/m/item/7532) | 2026-11-24 |
+| `aberfeldy-16-exceptional-cask` | 애버펠디 16년 익셉셔널 캐스크 | ./assets/images/aberfeldy-16-exceptional-cask.webp | [Dailyshot - 애버펠디 16년 익셉셔널 캐스크](https://dailyshot.co/m/item/6121) | 2026-11-24 |
+| `aberfeldy-12-madeira-cask` | 에버펠디 12년 마데이라 캐스크 | ./assets/images/aberfeldy-12-madeira-cask.webp | [Dailyshot - 에버펠디 12년 마데이라 캐스크](https://dailyshot.co/m/item/32843) | 2026-11-24 |
+| `aberfeldy-16-madeira-cask` | 에버펠디 16년 마데이라 캐스크 | ./assets/images/aberfeldy-16-madeira-cask.webp | [Dailyshot - 에버펠디 16년 마데이라 캐스크](https://dailyshot.co/m/item/32847) | 2026-11-24 |
+| `gin-mare` | 진 마레 1L | ./assets/images/gin-mare.webp | [Dailyshot - 진 마레 1L](https://dailyshot.co/m/item/22414) | 2026-11-24 |
+| `gin-mare-capri` | 진 마레 카프리 1L | ./assets/images/gin-mare-capri.webp | [Dailyshot - 진 마레 카프리 1L](https://dailyshot.co/m/item/34700) | 2026-11-24 |
+| `balvenie-single-barrel-traditional-oak-25` | 발베니 싱글배럴 트레디셔널 오크 25년 | ./assets/images/balvenie-single-barrel-traditional-oak-25.webp | [Dailyshot - 발베니 싱글배럴 트레디셔널 오크 25년](https://dailyshot.co/m/item/5849) | 2026-11-24 |
+| `gvine-nouaison` | 지바인 누아종 | ./assets/images/gvine-nouaison.webp | [Dailyshot - 지바인 누아종](https://dailyshot.co/m/item/13333) | 2026-11-24 |
+| `glenfiddich-12-year-old-rum-cask` | 글렌피딕 12년 럼 캐스크 피니시 | ./assets/images/glenfiddich-12-year-old-rum-cask.webp | [Dailyshot - 글렌피딕 12년 럼 캐스크 피니시](https://dailyshot.co/m/item/39401) | 2026-11-24 |
+| `yukinobijin-junmai-daiginjo` | 유키노비진 준마이 다이긴죠 | ./assets/images/yukinobijin-junmai-daiginjo.webp | [Dailyshot - 유키노비진 준마이 다이긴죠](https://dailyshot.co/m/item/37107) | 2026-11-24 |
+| `katsunuma-jyozo-argano-koshu-white-wine` | 카츠누마 양조 아르가노 코슈 2026 화이트 와인 750ml | ./assets/images/katsunuma-jyozo-argano-koshu-white-wine.webp | [Dailyshot - 카츠누마 양조 아르가노 코슈 2026 화이트 와인 750ml](https://dailyshot.co/m/item/40554) | 2026-11-24 |
+| `signatory-caol-ila-11-cs` | 시그나토리 2010 쿨일라 11년 CS | ./assets/images/signatory-caol-ila-11-cs.webp | [Dailyshot - 시그나토리 2010 쿨일라 11년 CS](https://dailyshot.co/m/item/14431) | 2026-11-24 |
+| `town-branch-single-barrel-reserve-bourbon` | 타운 브랜치 싱글배럴 리저브 버번 바다라는 집 | ./assets/images/town-branch-single-barrel-reserve-bourbon.webp | [Dailyshot - 타운 브랜치 싱글배럴 리저브 버번 바다라는 집](https://dailyshot.co/m/item/40716) | 2026-11-24 |
+| `town-branch-kentucky-straight-bourbon-whiskey` | 타운 브랜치 켄터키 스트레이트 버번 위스키 | ./assets/images/town-branch-kentucky-straight-bourbon-whiskey.webp | [Dailyshot - 타운 브랜치 켄터키 스트레이트 버번 위스키](https://dailyshot.co/m/item/7867) | 2026-11-24 |
+| `lochlea-red-wine-cask-1` | 로크리 레드 와인 캐스크 #1 | ./assets/images/lochlea-red-wine-cask-1.webp | [Dailyshot - 로크리 레드 와인 캐스크 #1](https://dailyshot.co/m/item/31503) | 2026-11-24 |
+| `mac-talla-red-wine-barrique` | 막탈라 레드 와인 바리끄 | ./assets/images/mac-talla-red-wine-barrique.webp | [Dailyshot - 막탈라 레드 와인 바리끄](https://dailyshot.co/m/item/19599) | 2026-11-24 |
+| `tomintoul-10-yo-1st-fill-bourbon` | 키어쉬 임포트 50주년 기념 토민타울 2016 10년 퍼스트 필 버번 캐스크 #5825 | ./assets/images/tomintoul-10-yo-1st-fill-bourbon.webp | [Dailyshot - 키어쉬 임포트 50주년 기념 토민타울 2016 10년 퍼스트 필 버번 캐스크 #5825](https://dailyshot.co/m/item/39785) | 2026-11-24 |
+| `kirsch-import-50th-anniversary-old-school` | 키르쉬 임포트 50주년 기념 올드 스쿨 싱글 몰트 50년 시그나토리 빈티지 | ./assets/images/kirsch-import-50th-anniversary-old-school.webp | [Dailyshot - 키르쉬 임포트 50주년 기념 올드 스쿨 싱글 몰트 50년 시그나토리 빈티지](https://dailyshot.co/m/item/40618) | 2026-11-24 |
+| `thompson-bros-highland-single-malt-whisky` | 톰슨 브로스 하이랜드 싱글 몰트 위스키 19년 | ./assets/images/thompson-bros-highland-single-malt-whisky.webp | [Dailyshot - 톰슨 브로스 하이랜드 싱글 몰트 위스키 19년](https://dailyshot.co/m/item/40613) | 2026-11-24 |
+| `auld-goonsys-malt-caol-ila-11` | 올드 군시 쿨일라 11년 PX 피니시 | ./assets/images/auld-goonsys-malt-caol-ila-11.webp | [Dailyshot - 올드 군시 쿨일라 11년 PX 피니시](https://dailyshot.co/m/item/26367) | 2026-11-24 |
+| `signatory-caol-ila-17-cs-3` | 시그나토리 2007 쿨일라 17년 CS #3 | ./assets/images/signatory-caol-ila-17-cs-3.webp | [Dailyshot - 시그나토리 2007 쿨일라 17년 CS #3](https://dailyshot.co/m/item/33665) | 2026-11-24 |
+| `the-coopers-choice-caol-ila-14` | 쿠퍼스 초이스 2008 쿨일라 14년 | ./assets/images/the-coopers-choice-caol-ila-14.webp | [Dailyshot - 쿠퍼스 초이스 2008 쿨일라 14년](https://dailyshot.co/m/item/28872) | 2026-11-24 |
+| `signatory-caol-ila-12-100-proof` | 시그나토리 2013 쿨일라 12년 100 프루프 #65 | ./assets/images/signatory-caol-ila-12-100-proof.webp | [Dailyshot - 시그나토리 2013 쿨일라 12년 100 프루프 #65](https://dailyshot.co/m/item/34351) | 2026-11-24 |
+| `novena-sparkling-white-wine-dry` | 너브내 스파클링 화이트와인 드라이 | ./assets/images/novena-sparkling-white-wine-dry.webp | [Dailyshot - 너브내 스파클링 화이트와인 드라이](https://dailyshot.co/m/item/14856) | 2026-11-24 |
+| `sudosan-krate-white-wine` | 수도산 크라테 화이트 와인 | ./assets/images/sudosan-krate-white-wine.webp | [Dailyshot - 수도산 크라테 화이트 와인](https://dailyshot.co/m/item/10377) | 2026-11-24 |
+| `spiegelau-style-white-wine` | 슈피겔라우 스타일 화이트 와인 | ./assets/images/spiegelau-style-white-wine.webp | [Dailyshot - 슈피겔라우 스타일 화이트 와인](https://dailyshot.co/m/item/39902) | 2026-11-24 |
+| `hepburns-choice-caol-ila-9` | 햅번스 초이스 쿨일라 9년 | ./assets/images/hepburns-choice-caol-ila-9.webp | [Dailyshot - 햅번스 초이스 쿨일라 9년](https://dailyshot.co/m/item/4474) | 2026-11-24 |
+| `signatory-caol-ila-10-ucf` | 시그나토리 2016 쿨일라 10년 UCF | ./assets/images/signatory-caol-ila-10-ucf.webp | [Dailyshot - 시그나토리 2016 쿨일라 10년 UCF](https://dailyshot.co/m/item/39183) | 2026-11-24 |
+| `zaccagnini-tralcetto-de-alcoholised-white-wine` | 자카니니, 트랄체토 디 알콜라이즈드 화이트 와인 | ./assets/images/zaccagnini-tralcetto-de-alcoholised-white-wine.webp | [Dailyshot - 자카니니, 트랄체토 디 알콜라이즈드 화이트 와인](https://dailyshot.co/m/item/25832) | 2026-11-24 |
+| `aberfeldy-15-napa-valley-red-wine` | 애버펠디 15년 나파 밸리 레드 와인 캐스크 피니시 | ./assets/images/aberfeldy-15-napa-valley-red-wine.webp | [Dailyshot - 애버펠디 15년 나파 밸리 레드 와인 캐스크 피니시](https://dailyshot.co/m/item/28824) | 2026-11-24 |
+| `zaccagnini-tralcetto-de-alcoholised-red-wine` | 자카니니, 트랄체토 디 알콜라이즈드 레드 와인 | ./assets/images/zaccagnini-tralcetto-de-alcoholised-red-wine.webp | [Dailyshot - 자카니니, 트랄체토 디 알콜라이즈드 레드 와인](https://dailyshot.co/m/item/25833) | 2026-11-24 |
+| `speyburn-bordeaux-red-wine-cask` | 스페이번 보르도 레드 와인 캐스크 1L | ./assets/images/speyburn-bordeaux-red-wine-cask.webp | [Dailyshot - 스페이번 보르도 레드 와인 캐스크 1L](https://dailyshot.co/m/item/33659) | 2026-11-24 |
+| `spiegelau-festival-white-wine` | 슈피겔라우 페스티벌 화이트 와인 | ./assets/images/spiegelau-festival-white-wine.webp | [Dailyshot - 슈피겔라우 페스티벌 화이트 와인](https://dailyshot.co/m/item/39906) | 2026-11-24 |
+| `katsunuma-jyozo-argano-bailey-a-red` | 카츠누마 양조 아르가노 베일리 A 2026 레드 와인 750ml | ./assets/images/katsunuma-jyozo-argano-bailey-a-red.webp | [Dailyshot - 카츠누마 양조 아르가노 베일리 A 2026 레드 와인 750ml](https://dailyshot.co/m/item/40553) | 2026-11-24 |
+| `finn-thomson-caol-ila-17` | 핀 톰슨 2006 쿨일라 17년 | ./assets/images/finn-thomson-caol-ila-17.webp | [Dailyshot - 핀 톰슨 2006 쿨일라 17년](https://dailyshot.co/m/item/27098) | 2026-11-24 |
+| `shochikubai-nama-300` | 쇼치쿠바이 나마 300 | ./assets/images/shochikubai-nama-300.webp | [Dailyshot - 쇼치쿠바이 나마 300](https://dailyshot.co/m/item/20316) | 2026-11-24 |
+| `kanemasamune-junmai-daiginjo-takarazukushi-black-label` | 카네마스 준마이 다이긴죠 타카라즈쿠시 블랙 라벨 | ./assets/images/kanemasamune-junmai-daiginjo-takarazukushi-black-label.webp | [Dailyshot - 카네마스 준마이 다이긴죠 타카라즈쿠시 블랙 라벨](https://dailyshot.co/m/item/32414) | 2026-11-24 |
+| `kanemasamune-junmai-ginjo-takarazukushi-red-label` | 카네마스 준마이 긴죠 타카라즈쿠시 레드 라벨 | ./assets/images/kanemasamune-junmai-ginjo-takarazukushi-red-label.webp | [Dailyshot - 카네마스 준마이 긴죠 타카라즈쿠시 레드 라벨](https://dailyshot.co/m/item/32413) | 2026-11-24 |
+| `finn-thomson-dailuaine-12` | 핀 톰슨 2012 달유인 12년 | ./assets/images/finn-thomson-dailuaine-12.webp | [Dailyshot - 핀 톰슨 2012 달유인 12년](https://dailyshot.co/m/item/27465) | 2026-11-24 |
+| `signatory-dailuaine-17-cs` | 시그나토리 달유인 2008 17년 CS | ./assets/images/signatory-dailuaine-17-cs.webp | [Dailyshot - 시그나토리 달유인 2008 17년 CS](https://dailyshot.co/m/item/41785) | 2026-11-24 |
+| `whiskynavi-dailuaine-13` | 위스키내비 달유인 2011 13년 | ./assets/images/whiskynavi-dailuaine-13.webp | [Dailyshot - 위스키내비 달유인 2011 13년](https://dailyshot.co/m/item/28318) | 2026-11-24 |
+| `choya-royal-honey` | 초야 로얄 허니 | ./assets/images/choya-royal-honey.webp | [Dailyshot - 초야 로얄 허니](https://dailyshot.co/m/item/22892) | 2026-11-24 |
+| `choya-utage-aged-5-years` | 초야 우타주 5년 | ./assets/images/choya-utage-aged-5-years.webp | [Dailyshot - 초야 우타주 5년](https://dailyshot.co/m/item/22833) | 2026-11-24 |
+| `bloom-london-dry-gin` | 블룸 런던 드라이 진 | ./assets/images/bloom-london-dry-gin.webp | [Dailyshot - 블룸 런던 드라이 진](https://dailyshot.co/m/item/10878) | 2026-11-24 |
+| `bladnoch-single-cask-06-3198-21y` | 블라드녹 싱글 캐스크 06 #3198 21년 만자니아 셰리 혹스헤드 | ./assets/images/bladnoch-single-cask-06-3198-21y.webp | [Dailyshot - 블라드녹 싱글 캐스크 06 #3198 21년 만자니아 셰리 혹스헤드](https://dailyshot.co/m/item/21078) | 2026-11-24 |
+| `whiskynavi-bladnoch-15-boubourn-select-cask` | 위스키내비 블라드녹 15년 버번 셀렉트 캐스크 | ./assets/images/whiskynavi-bladnoch-15-boubourn-select-cask.webp | [Dailyshot - 위스키내비 블라드녹 15년 버번 셀렉트 캐스크](https://dailyshot.co/m/item/5933) | 2026-11-24 |
+| `choya-yuzushu` | 초야 유즈슈 | ./assets/images/choya-yuzushu.webp | [Dailyshot - 초야 유즈슈](https://dailyshot.co/m/item/16344) | 2026-11-24 |
+| `nihon-sakari-junmai` | 니혼사카리 준마이 | ./assets/images/nihon-sakari-junmai.webp | [Dailyshot - 니혼사카리 준마이](https://dailyshot.co/m/item/31036) | 2026-11-24 |
+| `red-cask-dailuaine-9-cs-1st` | 레드 캐스크 2013 달유인 9년 CS 1st Fill 올로로쏘 셰리 캐스크 피니시 | ./assets/images/red-cask-dailuaine-9-cs-1st.webp | [Dailyshot - 레드 캐스크 2013 달유인 9년 CS 1st Fill 올로로쏘 셰리 캐스크 피니시](https://dailyshot.co/m/item/14887) | 2026-11-24 |
+| `coopers-choice-dailuaine-11-port-wood` | 쿠퍼스 초이스 2011 달유인 11년 포트우드 피니시 | ./assets/images/coopers-choice-dailuaine-11-port-wood.webp | [Dailyshot - 쿠퍼스 초이스 2011 달유인 11년 포트우드 피니시](https://dailyshot.co/m/item/28873) | 2026-11-24 |
+| `nihon-sakari-daiginjo` | 니혼사카리 다이긴죠 | ./assets/images/nihon-sakari-daiginjo.webp | [Dailyshot - 니혼사카리 다이긴죠](https://dailyshot.co/m/item/37194) | 2026-11-24 |
+| `twelve-rice-makgeolli` | 열두쌀 막걸리 | ./assets/images/twelve-rice-makgeolli.webp | [Dailyshot - 열두쌀 막걸리](https://dailyshot.co/m/item/24894) | 2026-11-24 |
+| `blackadder-aberdeen-distillers-dufftown-10` | 블랙애더 애버딘 더프타운 10년 | ./assets/images/blackadder-aberdeen-distillers-dufftown-10.webp | [Dailyshot - 블랙애더 애버딘 더프타운 10년](https://dailyshot.co/m/item/15260) | 2026-11-24 |
+| `shochikubai-tokubetsu-junmai` | 송죽매 토쿠베츠 준마이 | ./assets/images/shochikubai-tokubetsu-junmai.webp | [Dailyshot - 송죽매 토쿠베츠 준마이](https://dailyshot.co/m/item/25177) | 2026-11-24 |
+| `shochikubai-takujo` | 송죽매 쇼치쿠바이 타쿠죠 | ./assets/images/shochikubai-takujo.webp | [Dailyshot - 송죽매 쇼치쿠바이 타쿠죠](https://dailyshot.co/m/item/25138) | 2026-11-24 |
+| `dailuaine-16-6-cs-signatory-vintage` | 달유인 2008 16년 #6 CS 시그나토리 빈티지 | ./assets/images/dailuaine-16-6-cs-signatory-vintage.webp | [Dailyshot - 달유인 2008 16년 #6 CS 시그나토리 빈티지](https://dailyshot.co/m/item/40320) | 2026-11-24 |
+| `daldal-planet-series-no-2-venus` | 달달 행성 시리즈 No.2 금성 달유인 9년 | ./assets/images/daldal-planet-series-no-2-venus.webp | [Dailyshot - 달달 행성 시리즈 No.2 금성 달유인 9년](https://dailyshot.co/m/item/36983) | 2026-11-24 |
+| `sho-chiku-bai-daiginjo` | 송죽매 다이긴죠 | ./assets/images/sho-chiku-bai-daiginjo.webp | [Dailyshot - 송죽매 다이긴죠](https://dailyshot.co/m/item/28402) | 2026-11-24 |
+| `douglas-laing-old-particular-dailuaine-12` | 더글라스 랭 올드 파티큘러 2010 달유인 12년 | ./assets/images/douglas-laing-old-particular-dailuaine-12.webp | [Dailyshot - 더글라스 랭 올드 파티큘러 2010 달유인 12년](https://dailyshot.co/m/item/21707) | 2026-11-24 |
+| `issi-dry-gin` | 아이에스에스아이 진 | ./assets/images/issi-dry-gin.webp | [Dailyshot - 아이에스에스아이 진](https://dailyshot.co/m/item/25186) | 2026-11-24 |
+| `mermaid-pink-gin` | 머메이드 핑크 진 | ./assets/images/mermaid-pink-gin.webp | [Dailyshot - 머메이드 핑크 진](https://dailyshot.co/m/item/20860) | 2026-11-24 |
+| `aultmore-25-oloroso-sherry-first-fill` | 올트모어 25년 올로로쏘 셰리 퍼스트 필 500ml | ./assets/images/aultmore-25-oloroso-sherry-first-fill.webp | [Dailyshot - 올트모어 25년 올로로쏘 셰리 퍼스트 필 500ml](https://dailyshot.co/m/item/32856) | 2026-11-24 |
+| `finn-thomson-aultmore-12` | 핀 톰슨 2012 올트모어 12년 | ./assets/images/finn-thomson-aultmore-12.webp | [Dailyshot - 핀 톰슨 2012 올트모어 12년](https://dailyshot.co/m/item/27462) | 2026-11-24 |
+| `balblair-25` | 발블레어 25년 | ./assets/images/balblair-25.webp | [Dailyshot - 발블레어 25년](https://dailyshot.co/m/item/22825) | 2026-11-24 |
+| `watt-whisky-aultmore-10-year-old` | 와트 위스키 올트모어 2014 10년 위스키 | ./assets/images/watt-whisky-aultmore-10-year-old.webp | [Dailyshot - 와트 위스키 올트모어 2014 10년 위스키](https://dailyshot.co/m/item/40442) | 2026-11-24 |
+| `daldal-art-series-aultmore-14-yi` | 달달 아트시리즈 올트모어 14년 이순신 | ./assets/images/daldal-art-series-aultmore-14-yi.webp | [Dailyshot - 달달 아트시리즈 올트모어 14년 이순신](https://dailyshot.co/m/item/24906) | 2026-11-24 |
+| `aultmore-25` | 올트모어 25년 | ./assets/images/aultmore-25.webp | [Dailyshot - 올트모어 25년](https://dailyshot.co/m/item/13771) | 2026-11-24 |
+| `smos-aultmore-15-year-old-butt` | SMOS 올트모어 2008 15년 벗 #900272 | ./assets/images/smos-aultmore-15-year-old-butt.webp | [Dailyshot - SMOS 올트모어 2008 15년 벗 #900272](https://dailyshot.co/m/item/40616) | 2026-11-24 |
+| `aberdeen-distillers-bunnahabhain` | 에버딘 디스틸러리 부나하벤 2008 | ./assets/images/aberdeen-distillers-bunnahabhain.webp | [Dailyshot - 에버딘 디스틸러리 부나하벤 2008](https://dailyshot.co/m/item/5039) | 2026-11-24 |
+| `finn-thomson-aultmore-11` | 핀 톰슨 2013 올트모어 11년 | ./assets/images/finn-thomson-aultmore-11.webp | [Dailyshot - 핀 톰슨 2013 올트모어 11년](https://dailyshot.co/m/item/28823) | 2026-11-24 |
+| `1689-dutch-pink-gin` | 1689 더치 핑크 진 | ./assets/images/1689-dutch-pink-gin.webp | [Dailyshot - 1689 더치 핑크 진](https://dailyshot.co/m/item/17516) | 2026-11-24 |
+| `club-qing-aultmore-14` | 클럽 칭 2012 올트모어 14년 | ./assets/images/club-qing-aultmore-14.webp | [Dailyshot - 클럽 칭 2012 올트모어 14년](https://dailyshot.co/m/item/39931) | 2026-11-24 |
+| `eldvatten-ben-nevis-14` | 엘드바튼 2009 벤 네비스 14년 | ./assets/images/eldvatten-ben-nevis-14.webp | [Dailyshot - 엘드바튼 2009 벤 네비스 14년](https://dailyshot.co/m/item/23567) | 2026-11-24 |
+| `ferdinands-saar-dry-gin` | 퍼디난드 자르 드라이 진 | ./assets/images/ferdinands-saar-dry-gin.webp | [Dailyshot - 퍼디난드 자르 드라이 진](https://dailyshot.co/m/item/13648) | 2026-11-24 |
+| `gibsons-london-dry-gin` | 깁슨스 런던 드라이 진 | ./assets/images/gibsons-london-dry-gin.webp | [Dailyshot - 깁슨스 런던 드라이 진](https://dailyshot.co/m/item/10853) | 2026-11-24 |
+| `kingston-dry-gin` | 킹스턴 드라이 진 | ./assets/images/kingston-dry-gin.webp | [Dailyshot - 킹스턴 드라이 진](https://dailyshot.co/m/item/6435) | 2026-11-24 |
+| `whisky-navi-illustration-series-2-amber` | 위스키내비 일러스트레이션 #2 앰버 2000 벤 네비스 25년 | ./assets/images/whisky-navi-illustration-series-2-amber.webp | [Dailyshot - 위스키내비 일러스트레이션 #2 앰버 2000 벤 네비스 25년](https://dailyshot.co/m/item/35826) | 2026-11-24 |
+| `1689-dutch-dry-gin` | 1689 더치 드라이 진 | ./assets/images/1689-dutch-dry-gin.webp | [Dailyshot - 1689 더치 드라이 진](https://dailyshot.co/m/item/17515) | 2026-11-24 |
+| `signatory-ben-nevis-10-100-proof` | 시그나토리 2014 벤네비스 10년 100 프루프 #63 | ./assets/images/signatory-ben-nevis-10-100-proof.webp | [Dailyshot - 시그나토리 2014 벤네비스 10년 100 프루프 #63](https://dailyshot.co/m/item/34349) | 2026-11-24 |
+| `58gin-london-dry` | 58진, 런던 드라이 | ./assets/images/58gin-london-dry.webp | [Dailyshot - 58진, 런던 드라이](https://dailyshot.co/m/item/12924) | 2026-11-24 |
+| `the-maltman-balblair-13-sc-whiskey` | 더 몰트맨 발블레어 13yo SC 위스키파크 초이스 | ./assets/images/the-maltman-balblair-13-sc-whiskey.webp | [Dailyshot - 더 몰트맨 발블레어 13yo SC 위스키파크 초이스](https://dailyshot.co/m/item/28333) | 2026-11-24 |
+| `commander-london-dry-gin` | 커맨더 런던 드라이 진 | ./assets/images/commander-london-dry-gin.webp | [Dailyshot - 커맨더 런던 드라이 진](https://dailyshot.co/m/item/9954) | 2026-11-24 |
+| `cadenheads-ben-nevis-13` | 카덴헤드 벤네비스 13년 | ./assets/images/cadenheads-ben-nevis-13.webp | [Dailyshot - 카덴헤드 벤네비스 13년](https://dailyshot.co/m/item/39190) | 2026-11-24 |
+| `signatory-ben-nevis-9-100-proof` | 시그나토리 2015 벤 네비스 9년 100 프루프 #41 | ./assets/images/signatory-ben-nevis-9-100-proof.webp | [Dailyshot - 시그나토리 2015 벤 네비스 9년 100 프루프 #41](https://dailyshot.co/m/item/40322) | 2026-11-24 |
+| `domaine-chermette-beaujolais-les-clos-vieilles` | 도멘 쉐르메트 보졸레 레 끌로 비에이유 빈유 | ./assets/images/domaine-chermette-beaujolais-les-clos-vieilles.webp | [Dailyshot - 도멘 쉐르메트 보졸레 레 끌로 비에이유 빈유](https://dailyshot.co/m/item/34730) | 2026-11-24 |
+| `jules-desjourneys-beaujolais-rouge` | 쥘 데주르네 보졸레 루즈 | ./assets/images/jules-desjourneys-beaujolais-rouge.webp | [Dailyshot - 쥘 데주르네 보졸레 루즈](https://dailyshot.co/m/item/30785) | 2026-11-24 |
+| `bertrand-beaujolais-blanc` | 베르트랑 보졸레 블랑 | ./assets/images/bertrand-beaujolais-blanc.webp | [Dailyshot - 베르트랑 보졸레 블랑](https://dailyshot.co/m/item/11498) | 2026-11-24 |
+| `destalo-vinho-verde-white` | 데스탈로 비뉴 베르드 | ./assets/images/destalo-vinho-verde-white.webp | [Dailyshot - 데스탈로 비뉴 베르드](https://dailyshot.co/m/item/13791) | 2026-11-24 |
+| `parreco-vinho-verde-rose` | 파레코 비뉴베르드 로제 | ./assets/images/parreco-vinho-verde-rose.webp | [Dailyshot - 파레코 비뉴베르드 로제](https://dailyshot.co/m/item/7886) | 2026-11-24 |
+| `domaines-chermette-beaujolais-les-clos-vieilles` | 도멘 쉐르메트 보졸레 레 끌로 비에이 비뉴 | ./assets/images/domaines-chermette-beaujolais-les-clos-vieilles.webp | [Dailyshot - 도멘 쉐르메트 보졸레 레 끌로 비에이 비뉴](https://dailyshot.co/m/item/34186) | 2026-11-24 |
+| `georges-duboeuf-beaujolais-nouveau` | 조르쥐 뒤뵈프 보졸레 누보 2023 | ./assets/images/georges-duboeuf-beaujolais-nouveau.webp | [Dailyshot - 조르쥐 뒤뵈프 보졸레 누보 2023](https://dailyshot.co/m/item/18498) | 2026-11-24 |
+| `antonin-guyon-volnay-premier-cru-clos` | 앙또냉 귀용 볼네 프리미에 크뤼 끌로 데 셴느 | ./assets/images/antonin-guyon-volnay-premier-cru-clos.webp | [Dailyshot - 앙또냉 귀용 볼네 프리미에 크뤼 끌로 데 셴느](https://dailyshot.co/m/item/11595) | 2026-11-24 |
+| `domaine-yvon-clerget-volnay-1er-clos` | 도멘 이본 끌레제 볼네이 1er 끌로 드 베르세이 | ./assets/images/domaine-yvon-clerget-volnay-1er-clos.webp | [Dailyshot - 도멘 이본 끌레제 볼네이 1er 끌로 드 베르세이](https://dailyshot.co/m/item/25922) | 2026-11-24 |
+| `domaine-de-montille-volnay-1er-cru` | 도멘 드 몽티유 볼네 프리미에 크뤼 레 미땅 | ./assets/images/domaine-de-montille-volnay-1er-cru.webp | [Dailyshot - 도멘 드 몽티유 볼네 프리미에 크뤼 레 미땅](https://dailyshot.co/m/item/32635) | 2026-11-24 |
+| `domaine-des-comtes-lafon-volnay-1er` | 도멘 데 콩트 라퐁 볼네 프리미에 크뤼 상트노 뒤 밀리외 2022 | ./assets/images/domaine-des-comtes-lafon-volnay-1er.webp | [Dailyshot - 도멘 데 콩트 라퐁 볼네 프리미에 크뤼 상트노 뒤 밀리외 2022](https://dailyshot.co/m/item/40446) | 2026-11-24 |
+| `domaine-henri-boillot-volnay-1er-cru` | 앙리 부아이요 볼네 프리미에 크뤼 레 슈브레 2022 | ./assets/images/domaine-henri-boillot-volnay-1er-cru.webp | [Dailyshot - 앙리 부아이요 볼네 프리미에 크뤼 레 슈브레 2022](https://dailyshot.co/m/item/33703) | 2026-11-24 |
+| `domaine-lucien-boillot-volnay-1er-cru` | 도멘 루시앙 부아이요 볼네 프리미에 크뤼 레 장글 2018 | ./assets/images/domaine-lucien-boillot-volnay-1er-cru.webp | [Dailyshot - 도멘 루시앙 부아이요 볼네 프리미에 크뤼 레 장글 2018](https://dailyshot.co/m/item/39276) | 2026-11-24 |
+| `grand-c-riesling-r-serve-alsace` | 그랑 씨 리슬링 리저브 알자스 | ./assets/images/grand-c-riesling-r-serve-alsace.webp | [Dailyshot - 그랑 씨 리슬링 리저브 알자스](https://dailyshot.co/m/item/7292) | 2026-11-24 |
+| `destalo-vinho-verde-alvarinho` | 데스탈로 비뉴 베르드 알바리뇨 | ./assets/images/destalo-vinho-verde-alvarinho.webp | [Dailyshot - 데스탈로 비뉴 베르드 알바리뇨](https://dailyshot.co/m/item/21188) | 2026-11-24 |
+| `cattin-sauvage-alsace-riesling` | 까땅 소바주 알자스 리슬링 | ./assets/images/cattin-sauvage-alsace-riesling.webp | [Dailyshot - 까땅 소바주 알자스 리슬링](https://dailyshot.co/m/item/6369) | 2026-11-24 |
+| `trimbach-reserve-pinot-noir` | 트림바크 리저브 피노 누아 | ./assets/images/trimbach-reserve-pinot-noir.webp | [Dailyshot - 트림바크 리저브 피노 누아](https://dailyshot.co/m/item/21385) | 2026-11-24 |
+| `allimant-laugner-cr-mant-dalsace-brut` | 알리망-로그네 크레망 달자스 브뤼 | ./assets/images/allimant-laugner-cr-mant-dalsace-brut.webp | [Dailyshot - 알리망-로그네 크레망 달자스 브뤼](https://dailyshot.co/m/item/17257) | 2026-11-24 |
+| `paul-blanck-muscat-dalsace` | 폴 블랑크 뮈스카 달자스 | ./assets/images/paul-blanck-muscat-dalsace.webp | [Dailyshot - 폴 블랑크 뮈스카 달자스](https://dailyshot.co/m/item/23844) | 2026-11-24 |
+| `domaine-mure-alsace` | 도멘 뮈레 알자스 | ./assets/images/domaine-mure-alsace.webp | [Dailyshot - 도멘 뮈레 알자스](https://dailyshot.co/m/item/34723) | 2026-11-24 |
+| `jules-desjourneys-fleurie-les-morieres` | 쥘 데주르네, 플뢰리 레 모리에르 2011 | ./assets/images/jules-desjourneys-fleurie-les-morieres.webp | [Dailyshot - 쥘 데주르네, 플뢰리 레 모리에르 2011](https://dailyshot.co/m/item/14699) | 2026-11-24 |
+| `domaine-jean-foillard-fleurie` | 도멘 장 포이야드 플루리 | ./assets/images/domaine-jean-foillard-fleurie.webp | [Dailyshot - 도멘 장 포이야드 플루리](https://dailyshot.co/m/item/17717) | 2026-11-24 |
+| `domaine-chermette-morgon-les-micouds` | 도멘 쉐르메트 모흐공 레 미꾸 | ./assets/images/domaine-chermette-morgon-les-micouds.webp | [Dailyshot - 도멘 쉐르메트 모흐공 레 미꾸](https://dailyshot.co/m/item/31236) | 2026-11-24 |
+| `jules-desjourneys-fleurie-la-chapelle-des` | 쥘 데주르네 플뢰리 라 샤펠 데 부아 | ./assets/images/jules-desjourneys-fleurie-la-chapelle-des.webp | [Dailyshot - 쥘 데주르네 플뢰리 라 샤펠 데 부아](https://dailyshot.co/m/item/30784) | 2026-11-24 |
+| `destalo-vinho-verde-loureiro` | 데스탈로 비뉴 베르드 루레이로 | ./assets/images/destalo-vinho-verde-loureiro.webp | [Dailyshot - 데스탈로 비뉴 베르드 루레이로](https://dailyshot.co/m/item/21187) | 2026-11-24 |
+| `destalo-vinho-verde-rose` | 데스탈로 비뉴 베르드 로제 | ./assets/images/destalo-vinho-verde-rose.webp | [Dailyshot - 데스탈로 비뉴 베르드 로제](https://dailyshot.co/m/item/21186) | 2026-11-24 |
+| `domaine-joseph-voillot-volnay-1er-cru` | 도멘 조제프브아요 볼네 프리미에크뤼 레샹팡 | ./assets/images/domaine-joseph-voillot-volnay-1er-cru.webp | [Dailyshot - 도멘 조제프브아요 볼네 프리미에크뤼 레샹팡](https://dailyshot.co/m/item/37132) | 2026-11-24 |
+| `moselland-dr-faust-riesling-spatlese` | 모젤란드 닥터 파우스트 리슬링 슈페트레제 | ./assets/images/moselland-dr-faust-riesling-spatlese.webp | [Dailyshot - 모젤란드 닥터 파우스트 리슬링 슈페트레제](https://dailyshot.co/m/item/24266) | 2026-11-24 |
+| `jean-lefort-bourgogne-hautes-c-tes` | 장 르포 부르고뉴 오뜨 꼬뜨 드 뉘 루즈 | ./assets/images/jean-lefort-bourgogne-hautes-c-tes.webp | [Dailyshot - 장 르포 부르고뉴 오뜨 꼬뜨 드 뉘 루즈](https://dailyshot.co/m/item/15006) | 2026-11-24 |
+| `domaine-lecheneaut-bourgogne-hautes-cotes-de` | 도멘 레셔노 부르고뉴 오뜨 꼬뜨 드 뉘 | ./assets/images/domaine-lecheneaut-bourgogne-hautes-cotes-de.webp | [Dailyshot - 도멘 레셔노 부르고뉴 오뜨 꼬뜨 드 뉘](https://dailyshot.co/m/item/24958) | 2026-11-24 |
+| `michel-gros-hautes-cotes-de-nuits` | 미쉘 그로 부르고뉴 오트 코트 드 뉘 루즈 오 발롱 | ./assets/images/michel-gros-hautes-cotes-de-nuits.webp | [Dailyshot - 미쉘 그로 부르고뉴 오트 코트 드 뉘 루즈 오 발롱](https://dailyshot.co/m/item/11988) | 2026-11-24 |
+| `clavelier-bourgogne-hautes-cotes-de-nuits` | 클라베리에 부르고뉴 오뜨 꼬뜨 드 뉘 '레 갈리에르' | ./assets/images/clavelier-bourgogne-hautes-cotes-de-nuits.webp | [Dailyshot - 클라베리에 부르고뉴 오뜨 꼬뜨 드 뉘 '레 갈리에르'](https://dailyshot.co/m/item/12459) | 2026-11-24 |
+| `michel-noellat-hautes-cotes-de-nuits` | 도멘 미쉘 노엘라 오 꼬뜨 드 뉘 블랑 | ./assets/images/michel-noellat-hautes-cotes-de-nuits.webp | [Dailyshot - 도멘 미쉘 노엘라 오 꼬뜨 드 뉘 블랑](https://dailyshot.co/m/item/11785) | 2026-11-24 |
+| `hoffmann-jayer-hautes-cotes-de-nuits` | 호프만 자이에 오뜨 꼬뜨 드 뉘 블랑 | ./assets/images/hoffmann-jayer-hautes-cotes-de-nuits.webp | [Dailyshot - 호프만 자이에 오뜨 꼬뜨 드 뉘 블랑](https://dailyshot.co/m/item/33613) | 2026-11-24 |
+| `moselland-avantgarde` | 모젤란드, 아방가르데 | ./assets/images/moselland-avantgarde.webp | [Dailyshot - 모젤란드, 아방가르데](https://dailyshot.co/m/item/15524) | 2026-11-24 |
+| `georges-noellat-cote-de-nuits-village` | 조르주 노엘라 꼬뜨 드 뉘 빌라쥬 | ./assets/images/georges-noellat-cote-de-nuits-village.webp | [Dailyshot - 조르주 노엘라 꼬뜨 드 뉘 빌라쥬](https://dailyshot.co/m/item/25079) | 2026-11-24 |
+| `schloss-vollrads-kabinett-rheingau` | 슐로스 폴라즈 카비넷 라인가우 | ./assets/images/schloss-vollrads-kabinett-rheingau.webp | [Dailyshot - 슐로스 폴라즈 카비넷 라인가우](https://dailyshot.co/m/item/18421) | 2026-11-24 |
+| `domaine-maurice-gavignet-nuits-saint-georges` | 도멘 모리스 가비네 뉘 생 조르쥬 | ./assets/images/domaine-maurice-gavignet-nuits-saint-georges.webp | [Dailyshot - 도멘 모리스 가비네 뉘 생 조르쥬](https://dailyshot.co/m/item/11777) | 2026-11-24 |
+| `benjamin-leroux-nuits-st-georges` | 벤자민 르루 뉘 생 조르주 2021 | ./assets/images/benjamin-leroux-nuits-st-georges.webp | [Dailyshot - 벤자민 르루 뉘 생 조르주 2021](https://dailyshot.co/m/item/22459) | 2026-11-24 |
+| `domaine-aurelien-verdet-nuits-saint-georges` | 도멘 오헬리엉 베르데 뉘 생 조르쥬 | ./assets/images/domaine-aurelien-verdet-nuits-saint-georges.webp | [Dailyshot - 도멘 오헬리엉 베르데 뉘 생 조르쥬](https://dailyshot.co/m/item/24947) | 2026-11-24 |
+| `domaine-yvon-clerget-volnay-les-petits` | 이본 끌레제 볼네이 레 쁘띠 푸아소 | ./assets/images/domaine-yvon-clerget-volnay-les-petits.webp | [Dailyshot - 이본 끌레제 볼네이 레 쁘띠 푸아소](https://dailyshot.co/m/item/30178) | 2026-11-24 |
+| `pierre-vincent-volnay-ez-blanches` | 피에르 뱅상 볼네이 이즈 블랑쉬 | ./assets/images/pierre-vincent-volnay-ez-blanches.webp | [Dailyshot - 피에르 뱅상 볼네이 이즈 블랑쉬](https://dailyshot.co/m/item/34485) | 2026-11-24 |
+| `tuk-tuk-vinho-verde-rose` | 툭툭 비뉴 베르드 로제 | ./assets/images/tuk-tuk-vinho-verde-rose.webp | [Dailyshot - 툭툭 비뉴 베르드 로제](https://dailyshot.co/m/item/7797) | 2026-11-24 |
+| `domaine-yvon-clerget-volnay-1er-cru` | 이본 끌레제 볼네이 1er 레 쟝글 | ./assets/images/domaine-yvon-clerget-volnay-1er-cru.webp | [Dailyshot - 이본 끌레제 볼네이 1er 레 쟝글](https://dailyshot.co/m/item/39102) | 2026-11-24 |
+| `domaine-nicolas-rossignol-volnay-1er-cru` | 도멘 니콜라 로시뇰 볼네 프리미에 크뤼 프레미에 | ./assets/images/domaine-nicolas-rossignol-volnay-1er-cru.webp | [Dailyshot - 도멘 니콜라 로시뇰 볼네 프리미에 크뤼 프레미에](https://dailyshot.co/m/item/24927) | 2026-11-24 |
+| `domaine-yvon-clerget-volnay-1er-les` | 도멘 이본 끌레제 볼네이 1er 레 까이에레 | ./assets/images/domaine-yvon-clerget-volnay-1er-les.webp | [Dailyshot - 도멘 이본 끌레제 볼네이 1er 레 까이에레](https://dailyshot.co/m/item/25920) | 2026-11-24 |
+| `domaine-hubert-lignier-volnay` | 도멘 위베르 리니에 볼네 2020 | ./assets/images/domaine-hubert-lignier-volnay.webp | [Dailyshot - 도멘 위베르 리니에 볼네 2020](https://dailyshot.co/m/item/39243) | 2026-11-24 |
+| `olivier-leflaive-volnay` | 올리비에 르플레브, 볼네 | ./assets/images/olivier-leflaive-volnay.webp | [Dailyshot - 올리비에 르플레브, 볼네](https://dailyshot.co/m/item/11622) | 2026-11-24 |
+| `mosel-katz-sekt` | 모젤 카츠 젝트 | ./assets/images/mosel-katz-sekt.webp | [Dailyshot - 모젤 카츠 젝트](https://dailyshot.co/m/item/7655) | 2026-11-24 |
+| `mosel-katz-riesling` | 모젤 카츠 리슬링 | ./assets/images/mosel-katz-riesling.webp | [Dailyshot - 모젤 카츠 리슬링](https://dailyshot.co/m/item/6356) | 2026-11-24 |
+| `domaine-yvon-clerget-volnay` | 도멘 이본 끌레제 볼네이 | ./assets/images/domaine-yvon-clerget-volnay.webp | [Dailyshot - 도멘 이본 끌레제 볼네이](https://dailyshot.co/m/item/25930) | 2026-11-24 |
+| `domaine-yvon-clerget-volnay-1er-volnay` | 도멘 이본 끌레제 볼네이 1er 레 상트노 | ./assets/images/domaine-yvon-clerget-volnay-1er-volnay.webp | [Dailyshot - 도멘 이본 끌레제 볼네이 1er 레 상트노](https://dailyshot.co/m/item/25928) | 2026-11-24 |
+| `arnaud-baillot-volnay` | 아르노 바이오 볼네 | ./assets/images/arnaud-baillot-volnay.webp | [Dailyshot - 아르노 바이오 볼네](https://dailyshot.co/m/item/41839) | 2026-11-24 |
+| `domaine-saint-damien-gigondas-classique-vieilles` | 도멘 쌩 다미앙, 지공다스 클라시끄 비에이 비뉴 | ./assets/images/domaine-saint-damien-gigondas-classique-vieilles.webp | [Dailyshot - 도멘 쌩 다미앙, 지공다스 클라시끄 비에이 비뉴](https://dailyshot.co/m/item/14991) | 2026-11-24 |
+| `domaine-saint-damien-gigondas-la-louisiane` | 도멘 생 다미앙 지공다스 라 루이시안느 | ./assets/images/domaine-saint-damien-gigondas-la-louisiane.webp | [Dailyshot - 도멘 생 다미앙 지공다스 라 루이시안느](https://dailyshot.co/m/item/7286) | 2026-11-24 |
+| `domaine-saint-damien-gigondas-vieilles-vignes` | 도멘 쌩 다미앙 지공다스 비에이유 비뉴 | ./assets/images/domaine-saint-damien-gigondas-vieilles-vignes.webp | [Dailyshot - 도멘 쌩 다미앙 지공다스 비에이유 비뉴](https://dailyshot.co/m/item/10084) | 2026-11-24 |
+| `domaine-jean-louis-hermitage-blanc` | 도멘 장 루이 샤브 에르미따쥬 블랑 | ./assets/images/domaine-jean-louis-hermitage-blanc.webp | [Dailyshot - 도멘 장 루이 샤브 에르미따쥬 블랑](https://dailyshot.co/m/item/25915) | 2026-11-24 |
+| `domaine-jean-louis-hermitage` | 도멘 장 루이 샤브 에르미따쥬 | ./assets/images/domaine-jean-louis-hermitage.webp | [Dailyshot - 도멘 장 루이 샤브 에르미따쥬](https://dailyshot.co/m/item/25916) | 2026-11-24 |
+| `gigondas-la-cave-cotes-du-rhone` | 지공다스 라 카브, 코트 뒤 론 리저브 라 담므 드 몽미라이 | ./assets/images/gigondas-la-cave-cotes-du-rhone.webp | [Dailyshot - 지공다스 라 카브, 코트 뒤 론 리저브 라 담므 드 몽미라이](https://dailyshot.co/m/item/9053) | 2026-11-24 |
+| `barbeito-10-reserva-malvasia-madeira` | 바르베이토, 10년 리제르바 말바시아 마데이라 | ./assets/images/barbeito-10-reserva-malvasia-madeira.webp | [Dailyshot - 바르베이토, 10년 리제르바 말바시아 마데이라](https://dailyshot.co/m/item/30834) | 2026-11-24 |
+| `cellier-des-princes-gigondas` | 셀리에 데 프린스 지공다스 | ./assets/images/cellier-des-princes-gigondas.webp | [Dailyshot - 셀리에 데 프린스 지공다스](https://dailyshot.co/m/item/18368) | 2026-11-24 |
+| `doliveiras-sercial-vintage-madeira` | 돌리베이라스, 세르시알 빈티지 마데이라 1999 | ./assets/images/doliveiras-sercial-vintage-madeira.webp | [Dailyshot - 돌리베이라스, 세르시알 빈티지 마데이라 1999](https://dailyshot.co/m/item/30831) | 2026-11-24 |
+| `olivier-ravoire-gigondas` | 올리비에 라보어 지공다스 | ./assets/images/olivier-ravoire-gigondas.webp | [Dailyshot - 올리비에 라보어 지공다스](https://dailyshot.co/m/item/14319) | 2026-11-24 |
+| `pierre-amadieu-gigondas-romane-machotte` | 삐에르 아마디유, 지공다스 로마네 마초테 | ./assets/images/pierre-amadieu-gigondas-romane-machotte.webp | [Dailyshot - 삐에르 아마디유, 지공다스 로마네 마초테](https://dailyshot.co/m/item/12233) | 2026-11-24 |
+| `pierre-amadieu-grand-romane-gigondas` | 삐에르 아마디유, 그랑 로마네 지공다스 | ./assets/images/pierre-amadieu-grand-romane-gigondas.webp | [Dailyshot - 삐에르 아마디유, 그랑 로마네 지공다스](https://dailyshot.co/m/item/12234) | 2026-11-24 |
+| `ch-teau-du-trignon-gigondas` | 샤토 뒤 트리뇽 지공다스 2021 | ./assets/images/ch-teau-du-trignon-gigondas.webp | [Dailyshot - 샤토 뒤 트리뇽 지공다스 2021](https://dailyshot.co/m/item/40318) | 2026-11-24 |
+| `chateau-du-domaine-de-leglise-pomerol` | 샤또 뒤 도멘 드 레글리즈 뽀므롤 | ./assets/images/chateau-du-domaine-de-leglise-pomerol.webp | [Dailyshot - 샤또 뒤 도멘 드 레글리즈 뽀므롤](https://dailyshot.co/m/item/8772) | 2026-11-24 |
+| `chateau-la-croix-saint-georges-pomerol` | 샤또 라 크와 생 조루쥬 뽀므롤 | ./assets/images/chateau-la-croix-saint-georges-pomerol.webp | [Dailyshot - 샤또 라 크와 생 조루쥬 뽀므롤](https://dailyshot.co/m/item/29902) | 2026-11-24 |
+| `justinos-madeira-boal-10` | 주스티노스 마데이라, 보알 10년 | ./assets/images/justinos-madeira-boal-10.webp | [Dailyshot - 주스티노스 마데이라, 보알 10년](https://dailyshot.co/m/item/18001) | 2026-11-24 |
+| `bowmore-22-sauternes-cask-finish` | 보모어 22년 소테른 캐스크 피니시 | ./assets/images/bowmore-22-sauternes-cask-finish.webp | [Dailyshot - 보모어 22년 소테른 캐스크 피니시](https://dailyshot.co/m/item/25814) | 2026-11-24 |
+| `marques-campoalto-madeira` | 마르케스 깜포알토 마데이라 | ./assets/images/marques-campoalto-madeira.webp | [Dailyshot - 마르케스 깜포알토 마데이라](https://dailyshot.co/m/item/17783) | 2026-11-24 |
+| `dourthe-grand-terroirs-sauternes` | 두르뜨 그랑 떼루아 쏘떼른 | ./assets/images/dourthe-grand-terroirs-sauternes.webp | [Dailyshot - 두르뜨 그랑 떼루아 쏘떼른](https://dailyshot.co/m/item/8771) | 2026-11-24 |
+| `chateau-bechereau-lalande-de-pomerol` | 샤또 베크로 라랑드 드 뽀므롤 | ./assets/images/chateau-bechereau-lalande-de-pomerol.webp | [Dailyshot - 샤또 베크로 라랑드 드 뽀므롤](https://dailyshot.co/m/item/11015) | 2026-11-24 |
+| `ch-teau-l-vangile-pomerol` | 샤또 레방질 뽀므롤 | ./assets/images/ch-teau-l-vangile-pomerol.webp | [Dailyshot - 샤또 레방질 뽀므롤](https://dailyshot.co/m/item/30355) | 2026-11-24 |
+| `j-l-chave-selection-hermitage-blanche` | 장 루이 샤브 셀렉시옹 에르미따쥬 블랑쉬 | ./assets/images/j-l-chave-selection-hermitage-blanche.webp | [Dailyshot - 장 루이 샤브 셀렉시옹 에르미따쥬 블랑쉬](https://dailyshot.co/m/item/25912) | 2026-11-24 |
+| `j-l-chave-selection-hermitage-farconnet` | 장 루이 샤브 셀렉시옹 에르미따쥬 파르코네 | ./assets/images/j-l-chave-selection-hermitage-farconnet.webp | [Dailyshot - 장 루이 샤브 셀렉시옹 에르미따쥬 파르코네](https://dailyshot.co/m/item/25913) | 2026-11-24 |
+| `le-pin-pomerol` | 르 팽 뽀므롤 2008 | ./assets/images/le-pin-pomerol.webp | [Dailyshot - 르 팽 뽀므롤 2008](https://dailyshot.co/m/item/19013) | 2026-11-24 |
+| `balvenie-21-madeira-cask` | 발베니 21년 마데이라 캐스크 | ./assets/images/balvenie-21-madeira-cask.webp | [Dailyshot - 발베니 21년 마데이라 캐스크](https://dailyshot.co/m/item/9149) | 2026-11-24 |
+| `chateau-belle-brise-pomerol` | 샤또 벨브리즈 | ./assets/images/chateau-belle-brise-pomerol.webp | [Dailyshot - 샤또 벨브리즈](https://dailyshot.co/m/item/37154) | 2026-11-24 |
+| `heritages-gigondas` | 에리따쥬 지공다스 | ./assets/images/heritages-gigondas.webp | [Dailyshot - 에리따쥬 지공다스](https://dailyshot.co/m/item/12733) | 2026-11-24 |
+| `domaine-du-bouchot-pouilly-sur-loire` | 도멘 드 부쇼 뿌이 쉬르 루아르 몽 빌라쥬 2022 | ./assets/images/domaine-du-bouchot-pouilly-sur-loire.webp | [Dailyshot - 도멘 드 부쇼 뿌이 쉬르 루아르 몽 빌라쥬 2022](https://dailyshot.co/m/item/34045) | 2026-11-24 |
+| `fournier-loire-sauvignon-blanc` | 푸르니에 루아르 소비뇽 블랑 | ./assets/images/fournier-loire-sauvignon-blanc.webp | [Dailyshot - 푸르니에 루아르 소비뇽 블랑](https://dailyshot.co/m/item/27742) | 2026-11-24 |
+| `famille-hugel-pinot-gris-classic` | 파미유 위겔, 피노 그리 클래식 | ./assets/images/famille-hugel-pinot-gris-classic.webp | [Dailyshot - 파미유 위겔, 피노 그리 클래식](https://dailyshot.co/m/item/13086) | 2026-11-24 |
+| `domaine-huet-vouvray-petillant` | 도멘 위에 부브레 뻬띠엉 | ./assets/images/domaine-huet-vouvray-petillant.webp | [Dailyshot - 도멘 위에 부브레 뻬띠엉](https://dailyshot.co/m/item/34183) | 2026-11-24 |
+| `lacheteau-vouvray` | 라셰또, 부브레 | ./assets/images/lacheteau-vouvray.webp | [Dailyshot - 라셰또, 부브레](https://dailyshot.co/m/item/22278) | 2026-11-24 |
+| `domaine-des-baumard-cr-mant-de` | 도멘 데 보마르 크레망 드 루아르 까르뜨 터쿼이즈 브뤼 | ./assets/images/domaine-des-baumard-cr-mant-de.webp | [Dailyshot - 도멘 데 보마르 크레망 드 루아르 까르뜨 터쿼이즈 브뤼](https://dailyshot.co/m/item/15935) | 2026-11-24 |
+| `destalo-vinho-verde-red` | 데스탈로 비뉴 베르드 레드 | ./assets/images/destalo-vinho-verde-red.webp | [Dailyshot - 데스탈로 비뉴 베르드 레드](https://dailyshot.co/m/item/21189) | 2026-11-24 |
+| `famille-hugel-gentil-hugel` | 파미유 위겔, 정띠 '위겔' | ./assets/images/famille-hugel-gentil-hugel.webp | [Dailyshot - 파미유 위겔, 정띠 '위겔'](https://dailyshot.co/m/item/16855) | 2026-11-24 |
+| `trimbach-riesling-selection-de-vieille-vigne` | 트림바크 리슬링 셀렉시옹 드 비에이 비뉴 | ./assets/images/trimbach-riesling-selection-de-vieille-vigne.webp | [Dailyshot - 트림바크 리슬링 셀렉시옹 드 비에이 비뉴](https://dailyshot.co/m/item/31175) | 2026-11-24 |
+| `trimbach-riesling-fr-d-ric-emile` | 트림바크 리슬링 프레데릭 에밀 | ./assets/images/trimbach-riesling-fr-d-ric-emile.webp | [Dailyshot - 트림바크 리슬링 프레데릭 에밀](https://dailyshot.co/m/item/21384) | 2026-11-24 |
+| `famille-hugel-riesling-classic` | 파미유 위겔 리슬링 클래식 | ./assets/images/famille-hugel-riesling-classic.webp | [Dailyshot - 파미유 위겔 리슬링 클래식](https://dailyshot.co/m/item/13087) | 2026-11-24 |
+| `famille-hugel-gewurztraminer-classic` | 파미유 위겔, 게뷔르츠트라미너 클래식 | ./assets/images/famille-hugel-gewurztraminer-classic.webp | [Dailyshot - 파미유 위겔, 게뷔르츠트라미너 클래식](https://dailyshot.co/m/item/13156) | 2026-11-24 |
+| `hugel-classic-gewurztraminer` | 휘겔 게뷔르츠트라미너 클래식 | ./assets/images/hugel-classic-gewurztraminer.webp | [Dailyshot - 휘겔 게뷔르츠트라미너 클래식](https://dailyshot.co/m/item/37232) | 2026-11-24 |
+| `maison-castel-languedoc-rouge` | 메종 카스텔, 랑그독 루즈 | ./assets/images/maison-castel-languedoc-rouge.webp | [Dailyshot - 메종 카스텔, 랑그독 루즈](https://dailyshot.co/m/item/13541) | 2026-11-24 |
+| `fleur-de-miraval-rose` | 플뢰르 드 미라발, 로제 | ./assets/images/fleur-de-miraval-rose.webp | [Dailyshot - 플뢰르 드 미라발, 로제](https://dailyshot.co/m/item/13147) | 2026-11-24 |
+| `miraval-c-tes-de-provence-ros` | 미라발 코트 드 프로방스 로제 2025 | ./assets/images/miraval-c-tes-de-provence-ros.webp | [Dailyshot - 미라발 코트 드 프로방스 로제 2025](https://dailyshot.co/m/item/40421) | 2026-11-24 |

@@ -29,7 +29,7 @@ jobs:
         if: github.event_name == 'schedule' || inputs.refresh_prices == true
         shell: pwsh
         run: |
-          powershell -NoProfile -ExecutionPolicy Bypass -File .\tools\refresh_prices.ps1 -TargetCount 2000 -SkipBuild
+          powershell -NoProfile -ExecutionPolicy Bypass -File .\tools\refresh_prices.ps1 -TargetCount 4000 -SkipBuild
 
       - name: Commit updated liquor_data.json & thumbnails
         if: github.event_name == 'schedule' || inputs.refresh_prices == true
