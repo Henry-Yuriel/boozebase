@@ -23,6 +23,9 @@
 /assets/js/
 /assets/data/
 
+# Blog drafts (local only, excluded from GitHub)
+NAVER_BLOG_*
+
 # OS & editor artifacts
 .DS_Store
 Thumbs.db
