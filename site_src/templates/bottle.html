@@ -65,6 +65,10 @@
     <div class="reviews" data-reviews data-product="{{ID}}" data-product-name="{{NAME}}" data-category="{{CAT_KEY}}"><p class="empty" style="grid-column:1/-1;padding:24px">아직 등록된 페어링 노트가 없어요. 첫 번째 조합을 남겨보세요!</p></div>
     <form class="review-form" data-review-form>
       <b>내 페어링 조합 남기기</b>
+      <div class="sr-only" aria-hidden="true">
+        <label for="rv-website-hp">웹사이트</label>
+        <input id="rv-website-hp" type="text" name="website_hp" tabindex="-1" autocomplete="off">
+      </div>
       <div class="row">
         <label class="field"><span>닉네임</span><input name="nickname" maxlength="20" placeholder="익명 애호가"></label>
         <label class="field"><span>함께 먹은 안주 *</span><input name="pairing_snack" maxlength="40" required placeholder="예: 다크 초콜릿"></label>

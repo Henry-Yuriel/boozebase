@@ -120,7 +120,7 @@ p { margin: 0; }
 
 /* ---------- Product cards ---------- */
 .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
-.card { position: relative; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column; transition: transform .18s, box-shadow .18s, border-color .18s; }
+.card { position: relative; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column; content-visibility: auto; contain-intrinsic-size: auto 320px; transition: transform .18s, box-shadow .18s, border-color .18s; }
 .card:hover { transform: translateY(-3px); box-shadow: var(--shadow); border-color: var(--line-2); }
 .card-img { aspect-ratio: 1 / 1; background: var(--surface-2); display: grid; place-items: center; padding: 18px; }
 .card-img img { width: 100%; height: 100%; object-fit: contain; mix-blend-mode: multiply; }
@@ -196,7 +196,7 @@ p { margin: 0; }
 .review p { font-size: 14.5px; color: var(--ink-2); }
 .review-foot { display: flex; justify-content: space-between; gap: 8px; font-size: 12.5px; color: var(--muted); margin-top: auto; }
 .review-snack { color: var(--accent-ink); font-weight: 700; }
-.review-form { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px; margin-top: 16px; display: grid; gap: 12px; }
+.review-form { position: relative; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 20px; margin-top: 16px; display: grid; gap: 12px; }
 .review-form .row { display: grid; grid-template-columns: 1fr 1fr 120px; gap: 10px; }
 .field { display: grid; gap: 6px; }
 .field span { font-size: 13px; font-weight: 700; color: var(--ink-2); }

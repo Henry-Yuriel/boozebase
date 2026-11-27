@@ -239,25 +239,57 @@ const PRODUCT_CATALOG = {
   "baileys-original-irish-cream": { name: "베일리스 오리지널 아이리시 크림", price: 28900, checked: "2026-10-31", source: "CU 바겟 (예약 픽업)", sourceTitle: "데일리샷 베일리스 오리지널", sourceUrl: "https://dailyshot.co/m/item/3342", note: "신선한 아일랜드 우유 크림과 아이리시 위스키 카카오 바닐라가 만난 달콤한 홈바 필수 리큐르.", pairing: "마카롱 디저트 & 생초콜릿 브라우니", affiliateUrl: "https://link.coupang.com/a/hUFIxrHbpY" },
 };
 
+function safeCell_(val, maxLen) {
+  var s = sanitizeText_(val || "", maxLen).trim();
+  return /^[=+\-@\t\r|]/.test(s) ? "'" + s : s;
+}
+
+function isBurstOrDuplicate_(fingerprint, limitPerMin) {
+  var lock = LockService.getScriptLock();
+  if (!lock.tryLock(3000)) return true;
+  try {
+    var cache = CacheService.getScriptCache();
+    var dupKey = "rv_dup_" + Utilities.base64EncodeWebSafe(
+      Utilities.computeDigest(Utilities.DigestAlgorithm.SHA_256, fingerprint)
+    ).slice(0, 32);
+    if (cache.get(dupKey)) return true;
+
+    var bucket = "rv_rate_" + Math.floor(Date.now() / 60000);
+    var cnt = Number(cache.get(bucket) || 0);
+    if (cnt >= limitPerMin) return true;
+
+    cache.put(dupKey, "1", 600);
+    cache.put(bucket, String(cnt + 1), 90);
+    return false;
+  } finally {
+    lock.releaseLock();
+  }
+}
+
 function doPost(e) {
   let lock;
   try {
     const payload = parsePayload_(e);
+    if (String(payload.website_hp || "").trim()) {
+      return jsonOutput_({ ok: true });
+    }
+
     const spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
     if (!spreadsheet) throw new Error("Bind this script to the destination spreadsheet.");
-
-    lock = LockService.getScriptLock();
-    lock.waitLock(10000);
 
     // Phase 3: 유저 페어링 리뷰(UGC) 등록 분기 처리
     if (String(payload.action || "").trim() === "submit_review") {
       return handleSubmitReview_(spreadsheet, payload);
     }
 
-    const email = String(payload.email || "").trim().toLowerCase();
-    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
+    const rawEmail = String(payload.email || "").trim().toLowerCase();
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(rawEmail)) {
       return jsonOutput_({ ok: false, error: "invalid_email" });
     }
+    const email = safeCell_(rawEmail, 254);
+
+    lock = LockService.getScriptLock();
+    lock.waitLock(10000);
 
     let sheet = spreadsheet.getSheetByName(SHEET_NAME);
     if (!sheet) sheet = spreadsheet.insertSheet(SHEET_NAME);
@@ -270,9 +302,9 @@ function doPost(e) {
     sheet.appendRow([
       receivedAt,
       email,
-      String(payload.product_id || "all").slice(0, 800),
-      String(payload.product_name || "전체 입고 알림").slice(0, 1500),
-      String(payload.source || "booze-base").slice(0, 100),
+      safeCell_(payload.product_id || "all", 800),
+      safeCell_(payload.product_name || "전체 입고 알림", 1500),
+      safeCell_(payload.source || "booze-base", 100),
       marketingConsent,
       marketingConsent ? receivedAt : "",
       "",
@@ -287,34 +319,53 @@ function doPost(e) {
 }
 
 function handleSubmitReview_(spreadsheet, payload) {
-  const productId = sanitizeText_(payload.product_id || "", 120);
-  const productName = sanitizeText_(payload.product_name || "", 160);
-  const category = sanitizeText_(payload.category || "other", 40);
-  const nickname = sanitizeText_(payload.nickname || "익명 애호가", 24);
-  const pairingSnack = sanitizeText_(payload.pairing_snack || "", 80);
-  const comment = sanitizeText_(payload.comment || "", 300);
+  if (String(payload.website_hp || "").trim()) {
+    return jsonOutput_({ ok: true, action: "submit_review" });
+  }
+  const rawProductId = String(payload.product_id || "").trim();
+  if (!/^[a-z0-9][a-z0-9-]*$/.test(rawProductId) || rawProductId.length > 120) {
+    return jsonOutput_({ ok: false, error: "invalid_product_id" });
+  }
+  const productId = safeCell_(rawProductId, 120);
+  const productName = safeCell_(payload.product_name || "", 160);
+  const category = safeCell_(payload.category || "other", 40);
+  const nickname = safeCell_(payload.nickname || "익명 애호가", 24);
+  const pairingSnack = safeCell_(payload.pairing_snack || "", 80);
+  const comment = safeCell_(payload.comment || "", 300);
   const ratingNum = Math.min(5, Math.max(1, Math.round(Number(payload.rating) || 5)));
 
   if (!productId || !pairingSnack || !comment) {
     return jsonOutput_({ ok: false, error: "missing_review_fields" });
   }
 
-  let reviewSheet = spreadsheet.getSheetByName(REVIEWS_SHEET_NAME);
-  if (!reviewSheet) reviewSheet = spreadsheet.insertSheet(REVIEWS_SHEET_NAME);
-  ensureCustomHeaderRow_(reviewSheet, REVIEW_HEADERS);
+  const fingerprint = rawProductId + "|" + nickname + "|" + pairingSnack + "|" + comment;
+  if (isBurstOrDuplicate_(fingerprint, 30)) {
+    return jsonOutput_({ ok: false, error: "rate_limited_or_duplicate" });
+  }
 
-  reviewSheet.appendRow([
-    new Date(),
-    productId,
-    productName,
-    category,
-    nickname,
-    ratingNum,
-    pairingSnack,
-    comment,
-    "approved",
-  ]);
-  return jsonOutput_({ ok: true, action: "submit_review" });
+  let lock;
+  try {
+    lock = LockService.getScriptLock();
+    lock.waitLock(10000);
+    let reviewSheet = spreadsheet.getSheetByName(REVIEWS_SHEET_NAME);
+    if (!reviewSheet) reviewSheet = spreadsheet.insertSheet(REVIEWS_SHEET_NAME);
+    ensureCustomHeaderRow_(reviewSheet, REVIEW_HEADERS);
+
+    reviewSheet.appendRow([
+      new Date(),
+      productId,
+      productName,
+      category,
+      nickname,
+      ratingNum,
+      pairingSnack,
+      comment,
+      "pending",
+    ]);
+    return jsonOutput_({ ok: true, action: "submit_review" });
+  } finally {
+    if (lock && lock.hasLock()) lock.releaseLock();
+  }
 }
 
 function doGet(e) {
@@ -331,6 +382,7 @@ function doGet(e) {
 }
 
 function getApprovedReviews_() {
+  const MAX_REVIEWS = 50;
   const spreadsheet = SpreadsheetApp.getActiveSpreadsheet();
   if (!spreadsheet) return [];
   const sheet = spreadsheet.getSheetByName(REVIEWS_SHEET_NAME);
@@ -340,11 +392,12 @@ function getApprovedReviews_() {
   const headers = sheet.getRange(1, 1, 1, lastColumn).getValues()[0].map(function (v) { return String(v || "").trim(); });
   const col = {};
   headers.forEach(function (h, i) { col[h] = i; });
-  const rows = sheet.getRange(2, 1, lastRow - 1, lastColumn).getValues();
+  const startRow = Math.max(2, lastRow - 499);
+  const rows = sheet.getRange(startRow, 1, lastRow - startRow + 1, lastColumn).getValues();
   const list = [];
-  for (let i = rows.length - 1; i >= 0 && list.length < 100; i -= 1) {
+  for (let i = rows.length - 1; i >= 0 && list.length < MAX_REVIEWS; i -= 1) {
     const r = rows[i];
-    const status = String(r[col.status] || "approved").trim().toLowerCase();
+    const status = String(r[col.status] || "pending").trim().toLowerCase();
     if (status !== "approved") continue;
     const submittedAt = r[col.submitted_at] instanceof Date
       ? Utilities.formatDate(r[col.submitted_at], SEND_TIMEZONE, "yyyy-MM-dd")

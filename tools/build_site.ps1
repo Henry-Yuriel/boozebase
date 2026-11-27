@@ -104,7 +104,7 @@ foreach ($it in $items) {
         foreach ($kw in $pg.keywords) { if ($pairing.Contains([string]$kw)) { $groups += [string]$pg.key; break } }
     }
 
-    # snack affiliate link
+    # snack affiliate link (SSOT: site_src/site_config.json)
     $snackUrl = ""; $snackPartner = $false
     $direct = $cfg.affiliate.direct.$id
     if ($direct) { $snackUrl = [string]$direct; $snackPartner = $true }
@@ -112,9 +112,6 @@ foreach ($it in $items) {
         foreach ($k in $pairKeys) {
             if ($pairing.Contains($k)) { $snackUrl = [string]$cfg.affiliate.pairing_keywords.$k; $snackPartner = $true; break }
         }
-    }
-    if (-not $snackUrl -and ([string]$it.affiliate_link) -match '^https://link\.coupang\.com/') {
-        $snackUrl = [string]$it.affiliate_link; $snackPartner = $true
     }
     if (-not $snackUrl) { $snackUrl = [string]$cfg.affiliate.fallback_search + [Uri]::EscapeDataString($pairing) }
 
@@ -214,7 +211,7 @@ function Page([string]$relPath, [hashtable]$p) {
         OG_TYPE = $(if ($p.ogType) { $p.ogType } else { "website" })
         OG_IMAGE = $(if ($p.ogImage) { $p.ogImage } else { $siteUrl + "/assets/images/og-cover.png" })
         BUILD = $build; ADSENSE_HEAD = $adsenseHead; ADSENSE_CLIENT = $(if ($hasAdClient) { (H $adClient) } else { "" }); ADSENSE_TEST_SLOT = (H $adTestSlot)
-        JSONLD = [string]$p.jsonld; PAGE = $p.page; ENDPOINT = (H $site.reviews_endpoint)
+        JSONLD = [string]$p.jsonld; PAGE = $p.page; ENDPOINT_ATTR = $(if ($p.page -eq "bottle" -and $site.reviews_endpoint) { ' data-endpoint="' + (H $site.reviews_endpoint) + '"' } else { "" })
         BODY = $p.body; TOTAL = $total; FOOTER_CATS = $footerCats; FOOTER_PICKS = $footerPicks; SCRIPTS = [string]$p.scripts
     }
     $map[("NAV_" + [string]$p.nav)] = "is-active"
@@ -535,7 +532,7 @@ foreach ($b in $bottles) {
     if ($o3) { $sim += $cardCache[$o3.id] }
     if ($o4) { $sim += $cardCache[$o4.id] }
 
-    $sourceHtml = $(if ($b.sourceUrl -match "^https?://") { '<a href="' + (H $b.sourceUrl) + '" target="_blank" rel="nofollow noopener">' + (H $S.source_prefix) + ': ' + (H $b.listing) + '</a>' } else { (H $S.source_none) })
+    $sourceHtml = $(if ($b.sourceUrl -match "^https?://") { '<a href="' + (H $b.sourceUrl) + '" target="_blank" rel="nofollow noopener noreferrer">' + (H $S.source_prefix) + ': ' + (H $b.listing) + '</a>' } else { (H $S.source_none) })
     $priceNote = $(if ($b.isPriceNote) { (H $b.note) + ' ' + (H $S.price_note_default) } else { (H $S.price_note_default) })
     $tasting = $(if ($b.note -and -not $b.isPriceNote) { '<div class="note"><b>' + (H $S.tasting_label) + '</b> &middot; ' + (H $b.note) + '</div>' } else { "" })
     $seed = @($seedAll | Where-Object { $_.product_id -eq $b.id } | ForEach-Object { [ordered]@{ submitted_at = $_.submitted_at; product_id = $_.product_id; nickname = $_.nickname; rating = $_.rating; pairing_snack = $_.pairing_snack; comment = $_.comment } })
@@ -623,7 +620,10 @@ $hd = @"
   Cache-Control: public, max-age=2592000
 /*
   X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
   Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Content-Security-Policy: frame-ancestors 'self'; base-uri 'self'; object-src 'none'; upgrade-insecure-requests
 "@
 WriteText (Join-Path $OutDir "_headers") $hd
 

@@ -3,7 +3,7 @@
   "use strict";
   var root = document.getElementById("quiz");
   if (!root || !window.TPI) return;
-  var T = window.TPI, esc = T.esc, won = T.won, CAT = T.CAT;
+  var T = window.TPI, esc = T.esc, safeUrl = T.safeUrl, won = T.won, CAT = T.CAT;
   var $ = function (s) { return root.querySelector(s); };
 
   var FLAVOR = {
@@ -142,21 +142,23 @@
       var list = top.map(function (x, i) {
         var pct = Math.max(62, Math.min(98, Math.round(70 + (x.s / (max || 1)) * 28) - i));
         var it = x.it;
-        return '<div class="result-item"><img src="' + esc(it.i) + '" alt="" width="88" height="88" loading="lazy"><div><b><a href="/bottle/' + esc(it.id) + '/">' + esc(it.n) + "</a></b><small>" + esc(CAT[it.c]) + " · " + won(it.p) + " · 🍴 " + esc(it.a) + '</small></div><span class="match">' + pct + "% 일치</span></div>";
+        return '<div class="result-item"><img src="' + esc(safeUrl(it.i, "")) + '" alt="" width="88" height="88" loading="lazy"><div><b><a href="/bottle/' + esc(encodeURIComponent(String(it.id || ""))) + '/">' + esc(it.n) + "</a></b><small>" + esc(CAT[it.c]) + " · " + won(it.p) + " · 🍴 " + esc(it.a) + '</small></div><span class="match">' + pct + "% 일치</span></div>";
       }).join("");
       var top1Html = "";
       if (top.length) {
         var b1 = top[0].it;
-        var snackHref = b1.u || ("https://www.coupang.com/np/search?q=" + encodeURIComponent(b1.a || ""));
-        var glassHref = b1.bu || "https://link.coupang.com/a/imWxSqsElU";
+        var snackFallback = "https://www.coupang.com/np/search?q=" + encodeURIComponent(b1.a || "");
+        var snackHref = safeUrl(b1.u, snackFallback);
+        var glassHref = safeUrl(b1.bu, "https://link.coupang.com/a/imWxSqsElU");
         var glassLabel = b1.bl || "추천 전용 테이스팅 잔";
+        var b1Url = "/bottle/" + esc(encodeURIComponent(String(b1.id || ""))) + "/";
         top1Html =
           '<div class="result-top-card">' +
-            '<div class="result-top-head"><span class="chip chip-accent">🥇 1위 맞춤 보틀 & 페어링</span><a class="more" href="/bottle/' + esc(b1.id) + '/">상세 정보 보기 →</a></div>' +
+            '<div class="result-top-head"><span class="chip chip-accent">🥇 1위 맞춤 보틀 & 페어링</span><a class="more" href="' + b1Url + '">상세 정보 보기 →</a></div>' +
             '<div class="result-top-body">' +
-              '<img src="' + esc(b1.i) + '" alt="" width="110" height="110">' +
+              '<img src="' + esc(safeUrl(b1.i, "")) + '" alt="" width="110" height="110">' +
               '<div class="result-top-info">' +
-                '<h3><a href="/bottle/' + esc(b1.id) + '/">' + esc(b1.n) + '</a></h3>' +
+                '<h3><a href="' + b1Url + '">' + esc(b1.n) + '</a></h3>' +
                 '<p class="result-top-meta">' + esc(CAT[b1.c]) + ' · ' + esc(b1.v) + 'ml · 확인가 <b>' + won(b1.p) + '</b></p>' +
                 '<p class="result-top-pair">🍴 어울리는 안주: <b>' + esc(b1.a) + '</b> · 🥃 ' + esc(glassLabel) + '</p>' +
                 '<div class="result-top-ctas">' +

@@ -29,6 +29,21 @@
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
     });
   };
+  var safeUrl = function (u, fallback) {
+    var fb = fallback || "#";
+    var s = String(u || "").trim();
+    if (!s) return fb;
+    if (/^https:\/\//i.test(s)) {
+      try {
+        var parsed = new URL(s);
+        return parsed.protocol === "https:" ? parsed.href : fb;
+      } catch (e) {
+        return fb;
+      }
+    }
+    if (/^\/(?!\/)[^\s"'<>`\\]*$/.test(s)) return s;
+    return fb;
+  };
   var won = function (n) { return "₩" + Number(n || 0).toLocaleString("ko-KR"); };
   var CAT = { whisky: "위스키", red_wine: "레드 와인", white_wine: "화이트·스파클링", sake: "사케", other: "스피릿·전통주" };
   var BUILD = (document.currentScript && document.currentScript.src.split("v=")[1]) || "1";
@@ -38,7 +53,7 @@
     t.textContent = msg; t.classList.add("is-on");
     clearTimeout(toast.t); toast.t = setTimeout(function () { t.classList.remove("is-on"); }, 2600);
   }
-  window.TPI = { toast: toast, esc: esc, won: won, CAT: CAT };
+  window.TPI = { toast: toast, esc: esc, safeUrl: safeUrl, won: won, CAT: CAT };
 
   $$("[data-year]").forEach(function (el) { el.textContent = new Date().getFullYear(); });
 
@@ -81,7 +96,7 @@
         var hits = items.filter(function (it) { return it.s.indexOf(term) !== -1; }).slice(0, 30);
         if (!hits.length) { out.innerHTML = '<p class="search-empty">"' + esc(q.value) + '"에 맞는 보틀이 없어요.</p>'; return; }
         out.innerHTML = hits.map(function (it) {
-          return '<a href="/bottle/' + esc(it.id) + '/"><img src="' + esc(it.i) + '" alt="" width="48" height="48" loading="lazy"><span><b>' + esc(it.n) + '</b><small>' + esc(CAT[it.c] || "") + " · " + esc(it.v) + 'ml</small></span><span class="p">' + won(it.p) + "</span></a>";
+          return '<a href="/bottle/' + esc(encodeURIComponent(String(it.id || ""))) + '/"><img src="' + esc(safeUrl(it.i, "")) + '" alt="" width="48" height="48" loading="lazy"><span><b>' + esc(it.n) + '</b><small>' + esc(CAT[it.c] || "") + " · " + esc(it.v) + 'ml</small></span><span class="p">' + won(it.p) + "</span></a>";
         }).join("");
       });
     }, 120);
@@ -92,20 +107,28 @@
   if (list) {
     var PAGE = 24, limit = PAGE;
     var cards = $$(".card", list);
+    var orderedCards = cards.slice();
     var inp = $("[data-list-q]"), sel = $("[data-list-sort]"), more = $("[data-list-more]");
     var cnt = $("[data-list-count]"), empty = $("[data-list-empty]");
     var flavor = "";
+    var lastMode = sel ? sel.value : "";
+    var listTimer;
     function apply() {
       var term = norm(inp && inp.value);
-      var mode = sel ? sel.value : "order";
-      var sorted = cards.slice().sort(function (a, b) {
-        if (mode === "price-asc") return a.dataset.price - b.dataset.price;
-        if (mode === "price-desc") return b.dataset.price - a.dataset.price;
-        return a.dataset.order - b.dataset.order;
-      });
+      var mode = sel ? sel.value : "";
+      if (mode !== lastMode) {
+        orderedCards = cards.slice().sort(function (a, b) {
+          if (mode === "price-asc") return a.dataset.price - b.dataset.price;
+          if (mode === "price-desc") return b.dataset.price - a.dataset.price;
+          return a.dataset.order - b.dataset.order;
+        });
+        var frag = document.createDocumentFragment();
+        orderedCards.forEach(function (c) { frag.appendChild(c); });
+        list.appendChild(frag);
+        lastMode = mode;
+      }
       var shown = 0, matched = 0;
-      sorted.forEach(function (c) {
-        list.appendChild(c);
+      orderedCards.forEach(function (c) {
         var ok = (!term || c.dataset.name.indexOf(term) !== -1) && (!flavor || (" " + c.dataset.tags + " ").indexOf(" " + flavor + " ") !== -1);
         if (ok) matched++;
         var vis = ok && shown < limit;
@@ -116,11 +139,15 @@
       if (empty) empty.hidden = matched !== 0;
       if (more) { more.hidden = matched <= shown; more.textContent = "더 보기 (" + (matched - shown) + "개 남음)"; }
     }
-    if (inp) inp.addEventListener("input", function () { limit = PAGE; apply(); });
-    if (sel) sel.addEventListener("change", function () { limit = PAGE; apply(); });
+    if (inp) inp.addEventListener("input", function () {
+      clearTimeout(listTimer);
+      listTimer = setTimeout(function () { limit = PAGE; apply(); }, 120);
+    });
+    if (sel) sel.addEventListener("change", function () { clearTimeout(listTimer); limit = PAGE; apply(); });
     if (more) more.addEventListener("click", function () { limit += PAGE; apply(); });
     $$(".flavor-filter button").forEach(function (b) {
       b.addEventListener("click", function () {
+        clearTimeout(listTimer);
         flavor = b.dataset.f || "";
         $$(".flavor-filter button").forEach(function (x) { x.setAttribute("aria-pressed", String(x === b)); });
         limit = PAGE; apply();
@@ -183,14 +210,16 @@
     var form = $("[data-review-form]");
     if (form) form.addEventListener("submit", function (e) {
       e.preventDefault();
+      var hp = form.website_hp ? form.website_hp.value : "";
       var snack = form.pairing_snack.value.trim(), comment = form.comment.value.trim();
       if (!snack || !comment) { toast("안주와 한줄평을 입력해 주세요"); return; }
+      if (hp) { form.reset(); toast("페어링 노트가 등록되었어요. 감사합니다!"); return; }
       var rv = { submitted_at: new Date().toISOString().slice(0, 10), product_id: pid, product_name: pname, category: pcat, nickname: form.nickname.value.trim() || "익명 애호가", rating: +form.rating.value || 5, pairing_snack: snack, comment: comment };
       all.unshift(rv);
       try { var arr = JSON.parse(localStorage.getItem(LS) || "[]"); arr.unshift(rv); localStorage.setItem(LS, JSON.stringify(arr.slice(0, 50))); } catch (err) {}
       render(); form.reset(); toast("페어링 노트가 등록되었어요. 감사합니다!");
       if (ENDPOINT) {
-        var payload = { action: "submit_review" };
+        var payload = { action: "submit_review", website_hp: hp };
         for (var k in rv) payload[k] = rv[k];
         fetch(ENDPOINT, { method: "POST", mode: "no-cors", headers: { "Content-Type": "text/plain;charset=UTF-8" }, body: JSON.stringify(payload) }).catch(function () {});
       }

@@ -359,7 +359,7 @@ if ($items.Count -lt $TargetCount) {
                 listing_label  = $pickedLabel
             })
             pairing_item       = $pickedTpl.item
-            affiliate_link     = $pickedTpl.link
+            affiliate_link     = ""
             market_source_url  = $sourcePage
             source_title       = $sourceTitle
             source             = "market_research"
